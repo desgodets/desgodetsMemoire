@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/desgodetsSchemaTEI.rnc"
+                           type="application/relax-ng-compact-syntax"
+                           schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- 
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+     fichier du mémoire de master 2
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+-->
+<!-- TODO : remplacer le faux-texte -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <!-- mentions de titre et de responsabilité -->
+         <titleStmt>
+            <title xml:lang="fre" type="main">L'édition électronique de sources primaires en histoire de l’architecture</title>
+            <title xml:lang="fre" type="sub">La publication des cours d’Antoine Desgodets à l’Académie royale d’architectureUn exemple d'édition de sources primaires en histoire de l’architecture</title>
+            <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
+            <principal>
+               <persName xml:id="EC">
+                  <forename>Emmanuel</forename>
+                  <surname>Chateau</surname>
+                  <affiliation>
+                     <orgName>École nationale des chartes</orgName>
+                  </affiliation>
+               </persName>
+            </principal>
+            <!-- mentions de responsabilité secondaires -->
+            <respStmt>
+               <resp key="prg">modélisation XML-TEI</resp>
+               <persName ref="#EC">
+                  <forename>Emmanuel</forename>
+                  <surname>Château</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp key="mrk">encodage</resp>
+               <persName ref="#EC">
+                  <forename>Emmanuel</forename>
+                  <surname>Château</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <!-- mention d'édition -->
+         <editionStmt>
+            <edition n="1">première édition électronique, <date when="2013">2013</date>
+            </edition>
+         </editionStmt>
+         <extent><!-- taille du fichier en octet --></extent>
+         <!-- information sur la publication électronique -->
+         <publicationStmt>
+            <date when="2013">2013</date>
+            <!-- voir si on attribue un DOI ou un identifiant ARK aux fichiers édités -->
+            <idno>desgodetsMemoire</idno>
+            <!-- responsable de la publication -->
+            <availability status="restricted" xml:id="desgodetsMemoireLicenceTxt">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
+                  <p>Cette œuvre est mise à disposition selon les termes
+                     de la Licence Creative Commons Attribution - Pas
+                     d’Utilisation Commerciale - Partage dans les Mêmes
+                     Conditions 3.0 France.</p>
+                  <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title xml:lang="fre" type="main">Les cours de Desgodets</title>
+            <title xml:lang="fre" type="sub">une édition électronique</title>
+            <idno>http://www.desgodets.net</idno>
+         </seriesStmt>
+         <!-- ajout d'un élément pour DC.description -->
+         <notesStmt>
+            <note xml:lang="fre" type="abstract">Texte de description pour DC.description</note>
+            <note xml:lang="eng" type="abstract">Texte de description en anglais pour DC.description</note>
+         </notesStmt>
+         <!-- description de la source -->
+         <sourceDesc>
+            <p xml:id="desgodetsMemoire">Texte original : le texte a été créé sous forme
+               électronique</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <!-- description du projet éditorial -->
+         <projectDesc>
+            <p>Ce mémoire a été rédigé dans le cadre du master 2 de l'école des chartes
+               « Technologies numériques appliquées à l'histoire ». Il rend compte d'un
+               stage professionnel réalisé dans le cadre de l'édition des cours de
+               Desgodets. L’édition des cours de Desgodets fait partie d’un programme
+               de recherche sur la formalisation du savoir architectural au XVII<hi
+                  rend="superscript">e</hi> siècle.</p>
+         </projectDesc>
+         <!-- déclaration des principes éditoriaux -->
+         <editorialDecl>
+            <stdVals>
+               <p>On utilise...</p>
+            </stdVals>
+            <quotation>
+               <p>Les citations dans le texte sont encodées soit au moyen d’un élément quote,
+                  soit au moyen d’un élément...</p>
+            </quotation>
+         </editorialDecl>
+      </encodingDesc>
+      <!-- présentation du profil de fichier -->
+      <profileDesc>
+         <creation>Le texte été produit avec le logiciel Oxygen</creation>
+         <langUsage>
+            <language ident="fre" usage="100">Français</language>
+            <!-- TODO Noter et évaluer le pourcentage d'autres langues dans le document avec @usage (valeurs numériques) -->
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-01" who="#EC">première version du fichier</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front xml:id="desgodetsMemoireFront">
+         <titlePage xml:id="desgodetsMemoireFront00" xml:lang="fre">
+            <docTitle>
+               <titlePart type="main">L'édition électronique de sources primaires en histoire de l’architecture</titlePart>
+               <titlePart type="sub">La publication des cours d’Antoine Desgodets à l’Académie royale d’architecture</titlePart>
+            </docTitle>
+            <docAuthor>Emmanuel Château</docAuthor>
+            <docDate>année universitaire 2012-2013</docDate>
+            <docEdition>version 0</docEdition>
+         </titlePage>
+         <div xml:id="desgodetsMemoireFrontFr" xml:lang="fre">
+            <!-- générer un sommaire -->
+            <divGen n="desgodetsMemoireFrontFr01" type="sommaire">
+               <head>Sommaire</head>
+            </divGen>
+            <div xml:id="desgodetsMemoireFrontFr02">
+               <head>Remerciements</head>
+               <p>Robert</p>
+               <p>Parents</p>
+               <p>Thomas</p>
+               <p>FC</p>
+            </div>
+            <div xml:id="desgodetsMemoireFrontFr03" type="foreword">
+               <head>Avant-propos</head>
+               <p>Relever le <gi>lien</gi> direct entre ce projet et le fait que j’ai
+                  suivi la formation de l’<att>École</att> nationale des chartes.
+                  Finalement projet qui précède la formation et ce mémoire même qui ont
+                  été nécessités pour mener à bien ce projet.</p>
+               <p>Il convient de relever le double caractère de ce mémoire : témoigne
+                  d’un parcours scientifique et d’un besoin de formation, atteste mise
+                  en œuvre des savoirs acquis. Mais également, dans la mesure du
+                  possible, tentative de réflexion épistémologique sur le fait
+                  éditorial, le recours au modèle de la TEI, ou le travail collaboratif
+                  dans le contexte numérique. Aspects critiques. Notamment car projet
+                  numérique amenés à continuer d’évoluer.</p>
+               <p>Participe de la documentation du projet d’ANR qui a par ailleurs déjà
+                  fait l’objet d’un rapport. Mémoire de stage qui ne peut être
+                  considéré indépendamment de l’objet numérique réalisé que constitue
+                  le site web consultable en ligne.</p>
+            </div>
+            <div xml:id="desgodetsMemoireFrontFr04" type="introduction">
+               <head>Introduction</head>
+               <p>Importance de l’écrit pour mesurer le savoir de l’architecte. Traités
+                  d’architecture, véritable genre littéraire à part entière.</p>
+               <p>Introduire sur l’intérêt renouvelé ces dernières années pour les écrits
+                  d’architecture (citer Guillaume, Garric, Bouvier, Medvedkova, etc.).</p>
+               <p>Contexte des appels à projet corpus. Occasion de mettre à disposition
+                  tout un pan nouveau de la théorie architecturale.</p>
+               <div>
+                  <head>Histoire de l’art et DH</head>
+                  <p>Digital history et digital art history</p>
+                  <p>Rapport Kress et n° special de Visual resources</p>
+                  <div>
+                     <head>Donner des exemples :</head>
+                     <p>Collections familiar to art and architectural historians include
+                        The William Blake Archive (http://www.blakearchive.org/blake/),
+                        The Rossetti Archive (http://www. rossettiarchive.org), The
+                        Correspondence of James McNeill Whistler (http://www.
+                        whistler.arts.gla.ac.uk/), Vincent van Gogh: The Letters
+                        (http://vangoghletters.org/vg/), The History of the Accademia di
+                        San Luca, c. 1590–1635 (http://www.nga.gov/casva/
+                        accademia/intro.shtm), and the Perseus Digital Library
+                        (http://www.perseus.tufts.edu/ hopper/). </p>
+                  </div>
+                  <div>
+                     <head>Le contexte spécifique de la discipline</head>
+                  </div>
+               </div>
+               <div>
+                  <head>La mise à disposition des sources primaires</head>
+                  <p>Le changement de l’environnement de travail et ses conséquences</p>
+                  <p>Passage du support analogie au numérique relativement rapide</p>
+               </div>
+               <div>
+                  <head>Problématique et annonce du plan</head>
+               </div>
+            </div>
+         </div>
+      </front>
+      
+      <body xml:id="desgodetsMemoireBody">
+         <div xml:id="desgodetsMemoireBodyFr" xml:lang="fre">
+            <div xml:id="desgodetsMemoireBodyFr01" type="part">
+               <head>Le cadre du projet</head>
+               <div>
+                  <head>Le projet d’ANR Desgodets, un contexte de travail
+                     collaboratif ?</head>
+                  <div>
+                     <head>Présentation du projet</head>
+                     <p>L’édition des cours d’Antoine Desgodets est à compter <ref type="note" target="#m0001">au nombre
+                        des rares projets de recherche en histoire de l’art qui ont pu
+                        bénéficier ces dernières années d’un financement de l’Agence
+                        Nationale de la Recherche (ANR)</ref>. D’abord proposé dans le cadre d’une recherche plus
+                        vaste sur la littérature architecturale intitulé
+                        « Vitruviana », l’édition des cours de l’architecte avait
+                        retenu l’attention des évaluateurs qui avaient suggéré de le
+                        présenter séparément à un autre appel d’offre. <ref type="note" target="#m0002">Le projet
+                        re-rédigé par Robert Carvais en ce sens a finalement obtenu le
+                        financement de l’ANR à l’appel d’offre corpus suivant sous le
+                        n° ANR-07-CORP-017-01 en 2004</ref>.</p>
+                     <p>Le projet de recherche proposait d’aborder la construction et
+                        la normalisation du savoir architectural à la fin du XVII<hi
+                           rend="superscript">e</hi> siècle à partir de l’édition du
+                        corpus des cours manuscrits dictés à l’Académie royale
+                        d’architecture par Antoine Desgodets entre 1721 et 1728.
+                        Plusieurs raisons justifiaient le choix de cette œuvre : D’une
+                        part l’architecte était devenu professeur à l’Académie
+                        d’architecture en 1719, au cours de la Régence, époque à
+                        laquelle on cherche à réformer les dogmes. D’autre part,
+                        l’enseignement de l’architecte, par le choix de thèmes nouveaux
+                        participait d’une réduction en art de la discipline académique
+                        et constituait une des premières normalisation du savoir
+                        architectural. Enfin, l’œuvre de Desgodets intervenait à un
+                        moment clef de la constitution de la légitimité professionnel
+                        de l’architecte par la prise en compte de la figure de l’expert
+                        comme intermédiaire entre l’architecte et l’amateur.</p>
+                     <p><ref type="note" target="#m0003">Pour toutes ces raisons, les cours d’Antoine Desgodets
+                        méritaient d’être reconstitués et livrés à la communauté
+                        scientifique comme un texte fondateur du statut de l’architecte
+                        moderne. Mais à la différence de celle de Vitruve ou de
+                        Blondel, l’œuvre scolastique de Desgodets ne connaissait pas
+                        d’édition <hi rend="italic">princeps</hi>. Une équipe
+                        pluridisciplinaire a travaillé cinq ans pour rendre compte de
+                        toute la richesse de l’enseignement de d’Antoine Desgodets dans
+                        des directions jugées complémentaires : la théorie
+                        architecturale, la pratique du projet, son analyse économique
+                        et son approche juridique. Au final, un corpus de vingt-six
+                        manuscrits et sept ouvrages imprimés, soit trente-trois
+                        documents a été réuni et transcrit. Cinq manuscrits
+                        représentant quatre cours prononcés à l’Académie font l’objet
+                        d’une édition critique à laquelle sont rapportés les différents
+                        témoins conservés dans le cadre de leur tradition antérieure
+                        (sources) et dans celui de leur devenir (réception,
+                        publication, reprises par les suiveurs).</ref></p>
+                  </div>
+                  <div>
+                     <head>L’équipe de recherche</head>
+                     <p>S’agissant d’un projet collectif, une équipe pluridisciplinaire
+                        de chercheurs a été réunie pour l’étude et l’édition des
+                        manuscrits. L’équipe de recherche réunie autour du projet
+                        rassemblait des historiens du droit, des historiens de
+                        l’architecture et des historiens des sciences.</p>
+                     <p>C’est dans le cadre du recrutement de transcripteurs que j’ai
+                        d’abord été conduit à intervenir dans le cours du projet. J’ai
+                        ensuite été associé à l’équipe scientifique du projet et
+                        participé à l’ensemble de ces réunions. À plusieurs égards,
+                        c’est la participation à cette recherche qui m’a d’abord
+                        conduit à assister à une première formation organisée par le
+                        réseau Mutec sur l’édition numérique et la Text Encoding
+                        Initiative, puis à m’intéresser de plus près à la formation
+                        offerte par l’École des chartes dans le cadre de son master 2
+                        « Technologies numériques appliquées à l’histoire ».</p>
+                     <p>La direction scientifique</p>
+                     <p>Les transcripteurs</p>
+                     <p>Les éditeurs</p>
+                  </div>
+                  <div>
+                     <head>Fonctionnement de l’équipe scientifique</head>
+                     <p>Conseil scientifique</p>
+                     <p>Suivi en petit comité</p>
+                     <p>Comme tout projet faisant l’objet d’un financement par l’ANR,
+                        des bilans intermédiaires étaient prévus. </p>
+                     <p>Ca travail issus de l’AMO</p>
+                  </div>
+               </div>
+               <div>
+                  <head>Les cours de Desgodets</head>
+                  <div>
+                     <head>Les cours de Desgodets à l’Académie</head>
+                     <div>
+                        <head>L’académie d’architecture et l’enseignement</head>
+                     </div>
+                     <div>
+                        <head>L’enseignement de Desgodets</head>
+                     </div>
+                     <div>
+                        <head>La place du dessin</head>
+                     </div>
+                  </div>
+                  <div>
+                     <head>Les témoins manuscrits</head>
+                     <div>
+                        <head>Identification des témoins conservés</head>
+                     </div>
+                     <div>
+                        <head>Spécificités matérielles</head>
+                     </div>
+                     <div>
+                        <head>Spécificités liées au corpus</head>
+                        <p>Ordre : Si méthode du commentaire de figures relativement
+                           classique. Choix des matériaux auquel s’applique pas si
+                           commun pour les Commodités et le toisé.</p>
+                        <p>Expliquer pourquoi pour le toisé : objet d’un savoir
+                           technique et géométrique.</p>
+                        <p>Expliquer pourquoi pour la commodité : nouveaux modèles.</p>
+                        <p>Conclure sur le fait que les figures sont parties prenantes
+                           du discours architectural et ne peuvent être clairement
+                           distinguer du texte. Cette particularité du corpus impose de
+                           lui accorder une attention particulière dans le cadre du
+                           processus d’édition et de numérisation.</p>
+                     </div>
+                  </div>
+               </div>
+               <div>
+                  <head>Le projet éditorial</head>
+                  <p>Introduire le propos sur l’édition et les spécificités d’une
+                     édition numérique.</p>
+                  <p rend="heading 5">L’état de l’art</p>
+                  <p><ref type="note" target="#m0004"><quote>Une édition critique n'est pas une reproduction photographique.
+                     Elle résulte d'un compromis raisonnable entre, d'une part, le respect du texte à publier (dont on
+                        ne doit en aucun cas moderniser la graphie) et, d'autre
+                     part, le souci de le rendre aussi intelligible que possible pour
+                     un lecteur d'aujourd'hui.</quote></ref></p>
+                  <p rend="heading 5">Spécificités de l’édition d’un cours
+                     d’architecture</p>
+                  <div>
+                     <head>L’établissement du texte</head>
+                     <div>
+                        <head>Les partis-pris de l’équipe de recherche</head>
+                        <div>
+                           <head>La normalisation</head>
+                           <p>Un premier parti pris de normalisation en vue de la
+                              comparaison.</p>
+                           <p>Meilleure intelligibilité</p>
+                           <p>Révision de ce choix par le conseil scientifique.</p>
+                        </div>
+                        <div>
+                           <head>La comparaison des états et le choix d’un
+                              témoin</head>
+                           <p>L’absence d’originaux.</p>
+                           <p><ref type="note" target="#m0005"><quote>Si l'on possède <hi rend="bold">plusieurs états</hi> du
+                              texte <hi rend="bold">autres que l'original</hi>, on
+                              choisit celui qui est le plus proche de l'original et on
+                              signale en note les variantes que présentent les autres
+                              états par rapport au texte de base.</quote></ref></p>
+                           <p>Plusieurs possibilités : choix d’un témoin auquel on
+                              rapporte les états ou établissement d’un texte princeps.
+                              Texte qui n’aurait pas existé.</p>
+                           <p>Voir Barbiche : abondance des variantes, « Seules sont à
+                              retenir les <hi rend="bold">variantes</hi> qui ont une
+                              incidence sur le sens du texte, à l'exclusion des
+                              particularités purement graphiques ou
+                              grammaticales. ».</p>
+                        </div>
+                        <div>
+                           <head>Comparaison des témoins</head>
+                        </div>
+                     </div>
+                  </div>
+                  <div>
+                     <head>L’édition d’un cours d’architecture</head>
+                     <p>Importance des figures</p>
+                     <div>
+                        <head>Lire le texte en regard des figures</head>
+                        <p>Les figures parties prenantes du discours</p>
+                        <p>Place du texte en regard des figures. Commentaire de figures
+                           relativement classique. Cf. Composition du premier traité
+                           des ordres.</p>
+                     </div>
+                     <div>
+                        <head>Comparaison des figures</head>
+                     </div>
+                     <div>
+                        <head>Recherche plein texte</head>
+                     </div>
+                  </div>
+                  <div>
+                     <head>Le respect des standards</head>
+                     <div>
+                        <head>La définition des besoins et du cahier des charges</head>
+                     </div>
+                     <div>
+                        <head>L’établissement d’un cahier des charges</head>
+                     </div>
+                     <div>
+                        <head>Appel d’offre et sélection d’un partenaire</head>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div xml:id="desgodetsMemoireBodyFr02" type="part">
+               <head>L’assistance à la maîtrise d’ouvrage</head>
+               <div>
+                  <head>Planification et adaptations apportées au cahier des
+                     charges</head>
+                  <div>
+                     <head>Révisions du cahier des charges</head>
+                     <div>
+                        <head>Planification</head>
+                        <div>
+                           <head>Participation des membres à la planification</head>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div>
+                  <head>L’encodage des textes</head>
+                  <div>
+                     <head>Le choix de la TEI</head>
+                     <div>
+                        <head>Le projet de la Text Encoding Initiative</head>
+                     </div>
+                     <div>
+                        <head>Un standard de fait pour la production de sources
+                           primaires</head>
+                     </div>
+                     <div>
+                        <head>Un certain point de vue sur le texte</head>
+                     </div>
+                  </div>
+                  <div>
+                     <head>La modélisation XML-TEI</head>
+                     <div>
+                        <head>Explicitation des choix de modélisation</head>
+                        <div>
+                           <head>Structuration du texte</head>
+                        </div>
+                        <div>
+                           <head>Inscription du texte sur le support</head>
+                        </div>
+                        <div>
+                           <head>Définition d’une nomenclature (id uniques,
+                              etc.)</head>
+                        </div>
+                        <div>
+                           <head>Ménager la comparaison</head>
+                        </div>
+                        <div>
+                           <head>Traitement de l’arsenal critique</head>
+                           <div>
+                              <head>Indexation</head>
+                           </div>
+                           <div>
+                              <head>Notes d’édition critique et de commentaire
+                                 historique</head>
+                           </div>
+                           <div>
+                              <head>Identification des manuscrits et production des
+                                 métadonnées</head>
+                           </div>
+                        </div>
+                        <div>
+                           <head>Définition d’une arborescence de fichier</head>
+                        </div>
+                        <div>
+                           <head>Production et personnalisation du schéma
+                              RelaxNG</head>
+                           <div>
+                              <head>L’utilisation de Roma</head>
+                           </div>
+                           <div>
+                              <head>Le format ODD</head>
+                              <div>
+                                 <head>Personnalisation manuelle du schéma</head>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div>
+                        <head>Tests d’encodage et ajustements</head>
+                     </div>
+                  </div>
+                  <div>
+                     <head>Produire l’édition avec des documents Microsoft Word</head>
+                  </div>
+                  <div>
+                     <head>La production des textes encodés</head>
+                     <div>
+                        <head>Travail avec les auteurs</head>
+                        <div>
+                           <head>Réunions de travail</head>
+                        </div>
+                        <div>
+                           <head>Les problèmes d’interprétation des règles</head>
+                        </div>
+                        <div>
+                           <head>Compréhension des enjeux</head>
+                        </div>
+                     </div>
+                     <div>
+                        <head>Importation des textes pré-encodés</head>
+                        <div>
+                           <head>Choix d’automatisation</head>
+                        </div>
+                        <div>
+                           <head>Création des feuilles de style d’importation</head>
+                        </div>
+                        <div>
+                           <head>Contrôle qualité et difficultés rencontrées</head>
+                        </div>
+                     </div>
+                     <div>
+                        <head>Évaluation de l’approche</head>
+                        <div>
+                           <head>Problèmes non identifiés</head>
+                        </div>
+                        <div>
+                           <head>Évaluation de la qualité des fichiers produits</head>
+                        </div>
+                        <div>
+                           <head>Les différences d’expressivité</head>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div>
+                  <head>La production de l’application</head>
+                  <div>
+                     <head>Le cadre de travail avec les prestataires</head>
+                  </div>
+                  <div>
+                     <head>Infrastructure technique et hébergement de
+                        l’application</head>
+                     <div>
+                        <head>Options de développement</head>
+                        <div>
+                           <head>PHP et XSLT</head>
+                        </div>
+                        <div>
+                           <head>Question du moteur de recherche</head>
+                        </div>
+                     </div>
+                     <div>
+                        <head>La grille de service Adonis</head>
+                        <div>
+                           <head>Le serveur http</head>
+                        </div>
+                        <div>
+                           <head>Le conteneur de servlets Tomcat</head>
+                        </div>
+                        <div>
+                           <head>La mise en place d’outils annexes</head>
+                           <div>
+                              <head>Le serveur de partage de documents</head>
+                              <div>
+                                 <head>Le protocole Webdav</head>
+                              </div>
+                              <div>
+                                 <head>Sharedocs</head>
+                              </div>
+                           </div>
+                           <div>
+                              <head>Archivage pérenne</head>
+                              <div>
+                                 <head>La norme OAIS et la politique d’archivage
+                                    pérenne</head>
+                              </div>
+                              <div>
+                                 <head>Mise en place de l’archivage</head>
+                              </div>
+                           </div>
+                           <div>
+                              <head>Entrepôt SVN</head>
+                              <div>
+                                 <head>SVN et le clien SVN</head>
+                              </div>
+                              <div>
+                                 <head>Travail collaboratif sur l’édition</head>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div xml:id="desgodetsMemoireBodyFr03" type="part">
+               <head>Distance entre l’attendu et la réalisation</head>
+               <div>
+                  <head>Ajustements nécessaires en cours de projets</head>
+                  <div>
+                     <head>Solutions trouvées lors du travail</head>
+                  </div>
+                  <div>
+                     <head>Renoncements en cours de projet</head>
+                  </div>
+                  <div>
+                     <head>Interopérabilité</head>
+                     <div>
+                        <head>Entrepôt OAI-PMH</head>
+                     </div>
+                     <div>
+                        <head>SiteMap</head>
+                     </div>
+                  </div>
+                  <div>
+                     <head>Interface graphique</head>
+                     <div>
+                        <head>Redimensionnement des colonnes</head>
+                     </div>
+                     <div>
+                        <head>Pas responsive design</head>
+                     </div>
+                  </div>
+                  <div>
+                     <head>Recettage de l’application</head>
+                     <div>
+                        <head>Pbs identifiés avec le modèle</head>
+                     </div>
+                  </div>
+               </div>
+               <div>
+                  <head>Évaluation du résultat</head>
+                  <div>
+                     <head>Conformité aux standards </head>
+                     <p>See Modern Language Association, “Guidelines for Evaluating
+                        Work in Digital Humanities and Digital Media,” n.d.,
+                        http://www.mla.org/guidelines_evaluation_ digital; The American
+                        Association for History and Computing (AAHC), “Guidelines for
+                        Evaluating Digital Media Activities in Tenure, Review and
+                        Promotion,” 2006, http://theaahc.org/tenure_guidelines.htm;
+                        Todd Pressner, “IDHMC: Evaluating Digital Scholarship,”
+                        September 2011, http://idhmc.tamu.edu/commentpress/digital-
+                        scholarship/.</p>
+                     <p>http://www.mla.org/cse_guidelines#d0e323</p>
+                     <p>L'apport des nouvelles technologies à l'étude du corpus</p>
+                     <p>http://ica.princeton.edu/digitalbooks/digitalworldofarthistory2013/7.D.Zorich.pdf</p>
+                  </div>
+                  <div>
+                     <head>L’apport de l’application à l’étude du corpus</head>
+                  </div>
+                  <div>
+                     <head>Usability</head>
+                  </div>
+               </div>
+               <div>
+                  <head>Évolution futures</head>
+                  <div>
+                     <head>Finir un projet DH</head>
+                  </div>
+                  <div>
+                     <head>Web sémantique et données liées</head>
+                  </div>
+                  <div>
+                     <head>Enrichissement des index et des glossaires</head>
+                  </div>
+                  <div>
+                     <head>Publication des sources et du modèle XML-TEI</head>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back xml:id="desgodetsMemoireBack">
+         <div xml:id="desgodetsMemoireBackFr" xml:lang="fre">
+            <div xml:id="desgodetsMemoireBackFr01" type="conclusion">
+               <head>Conclusion</head>
+            </div>
+            <!-- générer une bibliographie -->
+            <divGen n="desgodetsMemoireBackFr02" type="sommaire">
+               <head>Bibliographie</head>
+            </divGen>
+            <!-- générer une table des matières -->
+            <divGen n="desgodetsMemoireBackFr03" type="toc">
+               <head>Sommaire</head>
+            </divGen>
+            <!-- liste des figures -->
+            <div xml:id="desgodetsMemoireBackFr04" xml:lang="fre" type="figures">
+               <head>Liste des figures</head>
+               <!--<figure xml:id="desgodetsMemoireIll0001" type="illustration">
+                  <figDesc>
+                     <title>Frontispice des édifices antiques</title>
+                     <desc>Antoine Desgodets, <hi rend="italic">Les édifices
+                           antiques</hi>, frontispice.</desc>
+                  </figDesc>
+                  <graphic n="thumb"
+                     url="images/thumbs/desgodetsEdifices0001.jpg"
+                     mimeType="image/jpeg" />
+                  <graphic n="medium"
+                     url="images/medium/desgodetsEdifices0001.jpg"
+                     mimeType="image/jpeg" />
+                  <graphic n="full" url="images/full/desgodetsEdifices0001.jpg"
+                     mimeType="image/jpeg" />
+               </figure>-->
+            </div>
+            <div xml:id="desgodetsMemoireBackFr05" type="appendix">
+               <head>Annexes (papier)</head>
+               <div>
+                  <head>Site internet</head>
+               </div>
+               <div>
+                  <head>Cahier des charges</head>
+               </div>
+               <div>
+                  <head>Guide de pré-encodage</head>
+               </div>
+               <div>
+                  <head>Documentation du schéma</head>
+               </div>
+               <div>
+                  <head>Rapport d’ANR ?</head>
+               </div>
+               <div>
+                  <head>Propositions de partenariats</head>
+               </div>
+            </div>
+            <div xml:id="desgodetsMemoireBackFr06" type="appendix">
+               <head>Fichiers informatiques (sur Github)</head>
+               <div>
+                  <head>Arborescence de fichiers</head>
+               </div>
+               <div>
+                  <head>Schéma XML</head>
+               </div>
+               <div>
+                  <head>Transformations XSLT</head>
+               </div>
+            </div>
+            <div>
+               <head>À faire</head>
+               <p>Vérifier que les attributs pas défaut sont corects</p>
+               <p>Mettre un élément output</p>
+            </div>
+            <!-- Inclusion du fichier de notes -->
+            <!--<xi:include href="divs/desgodetsMemoireNotes.tei.xml"
+               parse="xml">
+               <xi:fallback>Fichier de notes de desgodetsMemoire non
+                  trouvé</xi:fallback>
+            </xi:include>-->
+            <div xmlns="http://www.tei-c.org/ns/1.0"
+               xml:lang="fre" type="notes" xml:id="desgodetsMemoireNotes">
+               <head>Notes</head>
+               <note xml:id="m0001">
+                  <p> À notre connaissance peu de projets en histoire de l’art moderne ou
+                     contemporaine ont bénéficié d’un financement de l’ANR. Citons notamment ici
+                     l’édition de la correspondance de Delacroix en 2006,
+                     {CorrespondancesDeugèneDelacroix} ; M-Art sur le marché de l’art en 2007,
+                     {AnrAgenceNationaleb} ; ou encore plus récemment le projet Artlas (ENS), ,
+                     qui ont bénéficié d’un financement par l’ANR.</p>
+               </note>
+               <note xml:id="m0002">
+                  <p>{AnrAgenceNationale}</p>
+               </note>
+               <note xml:id="m0003">
+                  <p> Nous reprenons ici en partie les
+                     termes du résumé du projet contenu dans le rapport du
+                     projet d’ANR à la rédaction duquel nous avons
+                     participé.</p>
+               </note>
+               <note xml:id="m0004">
+                  <p>{Barbiche}</p>
+               </note>
+               <note xml:id="m0005">
+                  <p>{Barbiche}</p>
+               </note>
+               
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
+
