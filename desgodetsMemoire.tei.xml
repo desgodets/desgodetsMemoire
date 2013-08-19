@@ -185,6 +185,15 @@
                   <head>La mise à disposition des sources primaires</head>
                   <p>Le changement de l’environnement de travail et ses conséquences</p>
                   <p>Passage du support analogie au numérique relativement rapide</p>
+                  <p>Si offre de nombeuses possibilités et que sa supériorité sur le
+                     papier est clairement avérée, c'est presque un lieu commun
+                     aujourd'hui de relever qu'une édition numérique est également plus
+                     complexe et plus coûteuse à mettre en œuvre. Elle implique de
+                     faire collaborer un ensemble d'acteurs qui ne travaillaient pas
+                     ensemble auparavant : chercheurs, éditeurs, informaticiens,
+                     designers, etc. Elle suppose également de considérer l'évolution
+                     du contenu dans le temps et sur différents supports. Penser dès le
+                     départ sa propre conservation.</p>
                </div>
                <div>
                   <head>Problématique et annonce du plan</head>
@@ -258,10 +267,10 @@
                      <p>C’est dans le cadre du recrutement de transcripteurs que j’ai
                         d’abord été conduit à intervenir dans le cours du projet. J’ai
                         ensuite été associé à l’équipe scientifique du projet et
-                        participé à l’ensemble de ces réunions. À plusieurs égards,
-                        c’est la participation à cette recherche qui m’a d’abord
-                        conduit à assister à une première formation organisée par le
-                        réseau Mutec sur l’édition numérique et la Text Encoding
+                        participé à l’ensemble de ses réunions. À plusieurs égards,
+                        c’est en partie ma participation à cette recherche qui m’a
+                        d’abord conduit à assister à une première formation organisée
+                        par le réseau Mutec sur l’édition numérique et la Text Encoding
                         Initiative, puis à m’intéresser de plus près à la formation
                         offerte par l’École des chartes dans le cadre de son master 2
                         « Technologies numériques appliquées à l’histoire ».</p>
@@ -280,6 +289,28 @@
                </div>
                <div>
                   <head>Les cours de Desgodets</head>
+                  <div>
+                     <head>Introduction</head>
+                     <p>Mis à part ses lois des bâtiments qui dispose d'une riche
+                        tradition, les trois autres cours de Desgodets, à la différence
+                        de nombre autres cours d'architecture, n'a jusqu'à présent fait
+                        l'objet d'aucune édition. L'acte d'édition ne peut ainsi
+                        bénéficier d'un siècle d'érudition issu de la tradition. Pas
+                        moins important et fondamental.</p>
+                     <p>Plusieurs contextes de numérisation. Programme de numérisation
+                        des établissements patrimoniaux et culturels à fin de mise à
+                        disposition des fonds ou de conservation. Numérisation à visées
+                        philologiques ou littéraires. Ici cas particulier d'un cours
+                        d'architecture et d'un projet interdisciplinaire histoire du
+                        droit et histoire de l'art. Pas travail sur la langue seulement
+                        mais mise à disposition d'un corpus de texte en partie inédits,
+                        jalon indispensable pour la compréhension de la constitution et
+                        la normalisation du savoir architecturale au siècle des
+                        lumières.</p>
+                     <p>Prendre en compte le caractère particulier des textes à éditer.
+                        Contexte de production, spécificité des témoins conservés qui
+                        impliqueront des choix éditoriaux spécifiques et adaptés.</p>
+                  </div>
                   <div>
                      <head>Les cours de Desgodets à l’Académie</head>
                      <div>
@@ -318,24 +349,62 @@
                </div>
                <div>
                   <head>Le projet éditorial</head>
-                  <p>Introduire le propos sur l’édition et les spécificités d’une
-                     édition numérique.</p>
-                  <p rend="heading 5">L’état de l’art</p>
-                  <p><ref type="note" target="#m0004"><quote>Une édition critique n'est pas une reproduction photographique.
-                     Elle résulte d'un compromis raisonnable entre, d'une part, le respect du texte à publier (dont on
-                        ne doit en aucun cas moderniser la graphie) et, d'autre
-                     part, le souci de le rendre aussi intelligible que possible pour
-                     un lecteur d'aujourd'hui.</quote></ref></p>
-                  <p rend="heading 5">Spécificités de l’édition d’un cours
-                     d’architecture</p>
+                  <div>
+                     <head>Introduction</head>
+                     <p>Introduire le propos par un état de l'art sur l’édition numérique et par les spécificités d’une
+                        édition numérique.</p>
+                     <p><ref type="note" target="#m0004"><quote>Une édition critique
+                              n'est pas une reproduction photographique. Elle résulte
+                              d'un compromis raisonnable entre, d'une part, le respect
+                              du texte à publier (dont on ne doit en aucun cas
+                              moderniser la graphie) et, d'autre part, le souci de le
+                              rendre aussi intelligible que possible pour un lecteur
+                              d'aujourd'hui.</quote></ref></p>
+                     <p rend="heading 5">Spécificités de l’édition d’un cours
+                        d’architecture</p>
+                  </div>
                   <div>
                      <head>L’établissement du texte</head>
                      <div>
                         <head>Les partis-pris de l’équipe de recherche</head>
                         <div>
                            <head>La normalisation</head>
-                           <p>Un premier parti pris de normalisation en vue de la
-                              comparaison.</p>
+                           <p>Dès le début du travail un protocole de transcription a
+                              été mis sur pied. En l'absence de recommandations
+                              récentes pour l'édition des textes de l'époque moderne,
+                              c'est <ref type="note" target="#m0006">le travail publié
+                                 par Bernard Barbiche et ses collègues dans la
+                                 collection de l'Inventaire qui référence</ref>. C'est
+                              donc à partir de ces indications que l'équipe a formulé
+                              les premières propositions concernant la transcription
+                              des manuscrits. Dans ces indications toutefois, eût égard
+                              aux besoins particuliers du projet ayant trait à la
+                              comparaison des divers témoins, il a été proposé une
+                              modernisation de l'orthographe des textes sauf à
+                              conserver la graphie originale des termes architecturaux
+                              ou jurifiques significatifs. Une telle normalisation des
+                              transcriptions paraissait en effet fournir une solution
+                              pour l'étude des variantes à l'aide du logiciel MEDITE
+                              telle qu'elle était prévue au début du projet. Elle
+                              permettait de se focaliser uniquement sur les variantes
+                              significatives entre les temoins et par ailleurs
+                              permettait de présenter un texte modenisé plus facilement
+                              accessible pour le lecteur contemporain.</p>
+                           <p>Une telle solution n'a pas reçu l'approbation du Conseil
+                              scientifique du projet. Au contraire, les membres de ce
+                              conseil ont demandé aux transcripteurs d'adopter la plus
+                              grande rigueur dans la transcription en allant au-delà
+                              même des pratiques recommandées par l'École nationale des
+                              chartes pour les textes médiévaux, en transcrivant même
+                              les majuscules dans les textes afin de réserver à
+                              l'éditeur le choix final sur la graphie à présenter. Ces
+                              changements d'orientations dans les directives de
+                              transcription n'ont pas nécessairement facilité le
+                              travail des transcripteurs. Elles ont par ailleurs généré
+                              un surcroît de travail en matière de relecture des
+                              transcriptions des différents témoins que le Conseil
+                              scientifique avait également souhaité mettre à
+                              disposition des chercheurs sur un site internet.</p>
                            <p>Meilleure intelligibilité</p>
                            <p>Révision de ce choix par le conseil scientifique.</p>
                         </div>
@@ -579,7 +648,17 @@
                </div>
             </div>
             <div xml:id="desgodetsMemoireBodyFr03" type="part">
-               <head>Distance entre l’attendu et la réalisation</head>
+               <head>Distance entre l’attendu et la réalisation et bilan</head>
+               <div>
+                  <head>Introduction</head>
+                  <p>Expérience particulière dans le champs disciplinaire. À la fois
+                     premier projet en ce qui me concerne. Rapports avec informaticiens
+                     sur un type de mission particulier de médiateur entre expression
+                     des besoins de nature scientifique, élaboration d'une réponse
+                     technique avec la TEI, et interlocuteur extérieurs comme
+                     prestataires externes.</p>
+                  <p>Travailler de concert. Changement des pratiques. Ajustements éventuels. Bilan et évolutions futures.</p>
+               </div>
                <div>
                   <head>Ajustements nécessaires en cours de projets</head>
                   <div>
@@ -607,14 +686,14 @@
                      </div>
                   </div>
                   <div>
-                     <head>Recettage de l’application</head>
-                     <div>
-                        <head>Pbs identifiés avec le modèle</head>
-                     </div>
+                     <head>Pbs identifiés avec le modèle</head>
                   </div>
                </div>
                <div>
                   <head>Évaluation du résultat</head>
+                  <div>
+                     <head>Recettage du produit livré</head>
+                  </div>
                   <div>
                      <head>Conformité aux standards </head>
                      <p>See Modern Language Association, “Guidelines for Evaluating
@@ -631,25 +710,46 @@
                      <p>http://ica.princeton.edu/digitalbooks/digitalworldofarthistory2013/7.D.Zorich.pdf</p>
                   </div>
                   <div>
-                     <head>L’apport de l’application à l’étude du corpus</head>
-                  </div>
-                  <div>
                      <head>Usability</head>
                   </div>
                </div>
                <div>
-                  <head>Évolution futures</head>
+                  <head>Les Évolution futures de l'application</head>
+                  <div>
+                     <head>L’apport de l’application à l’étude du corpus</head>
+                  </div>
                   <div>
                      <head>Finir un projet DH</head>
+                     <div>
+                        <head>La labilité du support numérique</head>
+                     </div>
+                     <div>
+                        <head>Enrichissement des index et des glossaires</head>
+                     </div>
+                     <div>
+                        <head>La question du versionning</head>
+                        <p>Comment traiter les versions</p>
+                     </div>
                   </div>
                   <div>
-                     <head>Web sémantique et données liées</head>
-                  </div>
-                  <div>
-                     <head>Enrichissement des index et des glossaires</head>
-                  </div>
-                  <div>
-                     <head>Publication des sources et du modèle XML-TEI</head>
+                     <head>Les évolutions futures</head>
+                     <div>
+                        <head>Publication dans une base de données</head>
+                        <p>Exploitation plus fine du contenu. Formuler des XPath.</p>
+                        <p>Exploitation en projetant des index. TAL à partir de
+                           vocabulaires, constitution de bases de données pour
+                           permettre interrogation plus riche et plus systématique.
+                           Travail d'enrichissement manuel que peut assister par la
+                           machine pour produire une analyse plus riche du texte.</p>
+                     </div>
+                     <div>
+                        <head>Web sémantique et données liées</head>
+                     </div>
+                     <div>
+                        <head>La réutilisation du modèle</head>
+                        <p>Publication des sources et du modèle XML-TEI sur github</p>
+                        <p>Archives de l'histoire de l'art et Nouvelles archives de l'histoire de l'art.</p>
+                     </div>
                   </div>
                </div>
             </div>
@@ -763,4 +863,3 @@
       </back>
    </text>
 </TEI>
-

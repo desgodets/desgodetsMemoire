@@ -5,31 +5,32 @@
 <!-- RMQ : fichier inclus pour faciliter le travail d'édition -->
 <!-- RMQ : identifiants composés de l'identifiant dans le corpus, suivi d'un numéro d'ordre à quatre unités -->
 
-<div xmlns="http://www.tei-c.org/ns/1.0"
-    xml:lang="fre" type="notes" xml:id="desgodetsMemoireNotes">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" type="notes"
+    xml:id="desgodetsMemoireNotes">
     <head>Notes</head>
     <note xml:id="m0001">
-            <p> À notre connaissance peu de projets en histoire de l’art moderne ou
+        <p> À notre connaissance peu de projets en histoire de l’art moderne ou
             contemporaine ont bénéficié d’un financement de l’ANR. Citons notamment ici
             l’édition de la correspondance de Delacroix en 2006,
             {CorrespondancesDeugèneDelacroix} ; M-Art sur le marché de l’art en 2007,
             {AnrAgenceNationaleb} ; ou encore plus récemment le projet Artlas (ENS), ,
             qui ont bénéficié d’un financement par l’ANR.</p>
-        </note>
-        <note xml:id="m0002">
-            <p>{AnrAgenceNationale}</p>
-        </note>
-        <note xml:id="m0003">
-            <p> Nous reprenons ici en partie les
-                termes du résumé du projet contenu dans le rapport du
-                projet d’ANR à la rédaction duquel nous avons
-                participé.</p>
-        </note>
-        <note xml:id="m0004">
-            <p>{Barbiche}</p>
-        </note>
-        <note xml:id="m0005">
-            <p>{Barbiche}</p>
-        </note>
-        
+    </note>
+    <note xml:id="m0002">
+        <p>{AnrAgenceNationale}</p>
+    </note>
+    <note xml:id="m0003">
+        <p> Nous reprenons ici en partie les termes du résumé du projet contenu dans le
+            rapport du projet d’ANR à la rédaction duquel nous avons participé.</p>
+    </note>
+    <note xml:id="m0004">
+        <p>{Barbiche}</p>
+    </note>
+    <note xml:id="m0005">
+        <p>{Barbiche}</p>
+    </note>
+    <note xml:id="m0006">
+        <p>{Barbiche}</p>
+    </note>
+
 </div>
