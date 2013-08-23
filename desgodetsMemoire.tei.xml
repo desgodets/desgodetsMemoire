@@ -137,7 +137,7 @@
             </div>
             <div xml:id="desgodetsMemoireFrontFr03" type="foreword">
                <head>Avant-propos</head>
-               <p>Relever le <gi>lien</gi> direct entre ce projet et le fait que j’ai
+               <p>Relever le <gi>lien</gi> direct entre ce projet et lej fait que j’ai
                   suivi la formation de l’<att>École</att> nationale des chartes.
                   Finalement projet qui précède la formation et ce mémoire même qui ont
                   été nécessités pour mener à bien ce projet.</p>
@@ -281,10 +281,42 @@
                   <div>
                      <head>Fonctionnement de l’équipe scientifique</head>
                      <p>Conseil scientifique</p>
-                     <p>Suivi en petit comité</p>
+                     <p>Outre la direction scientifique assurée par Robert Carvais, le
+                        projet disposait d'un Conseil scientifique. Ce conseil était
+                        principalement en charge de la validation des grandes
+                        orientations scientifiques choisies dans le cours du projet. Le
+                        Conseil scientifique a été réuni...</p>
                      <p>Comme tout projet faisant l’objet d’un financement par l’ANR,
                         des bilans intermédiaires étaient prévus. </p>
-                     <p>Ca travail issus de l’AMO</p>
+                     <p>Compte-tenu des difficultés concernant la réunion de l'ensemble
+                        des membres du Conseil scientifique, pour faciliter le travail,
+                        des réunions régulières, en plus petit comité, ont été
+                        organisées au gré des besoins. Nous avons participé à
+                        l'ensemble de ces réunions. C'est dans ce cadre qu'ont été
+                        préparées la plupart des orientations concernant la production
+                        de l'application web ainsi que certains choix éditoriaux. Tout
+                        au long du stage, j'ai par ailleurs été en contact direct et
+                        régulier avec Robert Carvais pour travailler.</p>
+                     <p>Ca travail issus de l’AMO, La méthode de travail avec le
+                        prestataire.</p>
+                     <p>Le suivi de la réalisation de l'application web nécessitait des
+                        contacts réguliers avec les prestataires de services. Plusieurs
+                        réunions physiques sont intervenues dans le cours du projet à
+                        intervales réguliers. De telles réunions physiques surtout
+                        nécessaires pour discuter des points problématiques </p>
+                     <p>Communication par mail : Validation des choix ergonomiques /
+                        problèmes rencontrés sur l'encodages.</p>
+                     <p>Réunion à distance régulières avec la développeuse web à l'aide
+                        du service de communication synchrone de Microsoft Skype. Ce
+                        service c'est notamment révêlé très utile compte-tenu de la
+                        diversité des modalités de communications permises : chat,
+                        discussions de vive voix, visualisation de la présence de
+                        l'interlocuteur derrière son écran, conservation de la trace
+                        des échanges équivalente à des relevés de décisions. Il
+                        permettait par exemple de constater la présence de son
+                        interloculteur derrière son écran et de le solliciter
+                        ponctuellement de manière rapide pour applanir une difficulté
+                        ou résoudre un problème. </p>
                   </div>
                </div>
                <div>
@@ -318,6 +350,30 @@
                      </div>
                      <div>
                         <head>L’enseignement de Desgodets</head>
+                        <div>
+                           <head>Généralités sur l'enseignement de Desgodets</head>
+                        </div>
+                        <div>
+                           <head>Le cours des Ordres</head>
+                           <p />
+                        </div>
+                        <div>
+                           <head>Le cours des Commodités</head>
+                           <p><ref type="note" target="#m0005">« Desgodets avait donné
+                                 une grande place aux ordres, mais dans la seconde
+                                 partie, la plus originale de tous les traités
+                                 d'architecture que nous connaissions et qu'on pourrait
+                                 utilement publier, il donna des modèles de plans de
+                                 palais, de châteaux, d'églises paroissiales,
+                                 conventuelles, d'hôtel de ville, de marchés,
+                                 etc. »</ref></p>
+                        </div>
+                        <div>
+                           <head>Le cours du Toisé</head>
+                        </div>
+                        <div>
+                           <head>Le cours des servitudes</head>
+                        </div>
                      </div>
                      <div>
                         <head>La place du dessin</head>
@@ -351,15 +407,29 @@
                   <head>Le projet éditorial</head>
                   <div>
                      <head>Introduction</head>
+                     <p>Au début du siècle, Henri Lemonnier parlait déjà d'éditer le
+                        cours de la Commodité de Desgodets. Alors qu'il en est de
+                        nouveau question dans les années 80, …</p>
                      <p>Introduire le propos par un état de l'art sur l’édition numérique et par les spécificités d’une
                         édition numérique.</p>
+                     <p>L'édition académique à l'ère numérique mobilise des savoirs
+                        relativement étendus. Elle implique que l'éditeur dispose non
+                        seulement des savoirs traditionnellement associés à l'édition
+                        des sources primaires. Il doit en effet être en mesure
+                        d'identifier comment le texte a été construit, à la fois comme
+                        document et comme instance de l'œuvre. Il doit savoir comment
+                        celui-ci a été transmis, altéré ou transformé au cours du
+                        temps, etc. Mais l'éditeur doit encore être en mesure de
+                        connaître son lectorat, et d'identifier la meilleure manière de
+                        communiquer les textes, et ce qu'il en sait, au moyen du medium
+                        numérique.</p>
                      <p><ref type="note" target="#m0004"><quote>Une édition critique
-                              n'est pas une reproduction photographique. Elle résulte
-                              d'un compromis raisonnable entre, d'une part, le respect
-                              du texte à publier (dont on ne doit en aucun cas
-                              moderniser la graphie) et, d'autre part, le souci de le
-                              rendre aussi intelligible que possible pour un lecteur
-                              d'aujourd'hui.</quote></ref></p>
+                        n'est pas une reproduction photographique. Elle résulte
+                        d'un compromis raisonnable entre, d'une part, le respect
+                        du texte à publier (dont on ne doit en aucun cas
+                        moderniser la graphie) et, d'autre part, le souci de le
+                        rendre aussi intelligible que possible pour un lecteur
+                        d'aujourd'hui.</quote></ref></p>
                      <p rend="heading 5">Spécificités de l’édition d’un cours
                         d’architecture</p>
                   </div>
@@ -370,7 +440,7 @@
                         <div>
                            <head>La normalisation</head>
                            <p>Dès le début du travail un protocole de transcription a
-                              été mis sur pied. En l'absence de recommandations
+                              dû être mis sur pied. En l'absence de recommandations
                               récentes pour l'édition des textes de l'époque moderne,
                               c'est <ref type="note" target="#m0006">le travail publié
                                  par Bernard Barbiche et ses collègues dans la
@@ -479,6 +549,109 @@
                </div>
                <div>
                   <head>L’encodage des textes</head>
+                  <div>
+                     <head>Introduction</head>
+                     <p>Les trois opérations qui interviennent au cours du balisage
+                        sont les suivantes :<list>
+                           <item><hi rend="bold">reconnaissance des éléments</hi>,
+                              reconnaître que l'élément courant est un élément d'un
+                              certain type (paragraphe, citation en prose, note de bas
+                              de page, etc.)</item>
+                           <item><hi rend="bold">sélection des balises</hi>, déterminer
+                              le balisage qui s'applique au type d'élément
+                              reconnu</item>
+                           <item><hi rend="bold">réalisation du balisage</hi>, marquage
+                              de l'élément.</item>
+                        </list>Par rapport au marquage présentationnel ou procédural,
+                        cela suppose une réduction drastique des opérations à la simple
+                        reconnaissance des éléments. Par certains côtés, un tel
+                        traitement est plus proche du traitement en langue naturelle,
+                        même si le nom des éléments peut être arbitraire. {citation}
+                        Comme le relevaient dès 1987 dans leur publication {quid}, les
+                        logiciels de traitement de texte qui formattent les documents
+                        ne simplifient pas le développement de documents en éliminant
+                        le besoin du balisage ; le fait est devenu plus clair
+                        aujourd'hui avec l'adoption des formats XML par Microsoft Word
+                        et Open Office. De surcroît, le balisage requis pour ces
+                        principaux formats est plus consomateur de ressource sans
+                        atteindre la même expressivité. Ainsi, les dispositifs
+                        d'édition fondés sur un balisage descriptifs présentent pour
+                        résumer plusieurs avantages sur le balisage présentationnel :<list>
+                           <item><label n="1">1°</label> Le processus d'établissement
+                              du texte se trouve simplifié par la focalisation sur le
+                              contenu plutôt que sur le contrôle du programme ou d ela
+                              présentation typographique de la copie (comme avec
+                              LaTex)</item>
+                           <item><label n="2">2°</label> Les problèmes de maintennance
+                              sont réduits à un nombre limité de problèmes indépendants
+                              du fichier proprement dit. L'actualisation des styles et
+                              la mise à jour s'en trouvent facilitées sans risque de
+                              corruption des documents.</item>
+                           <item><label n="3">3°</label> Enfin, elle fournit le
+                              meilleur standard pour l'industrie, ou dans le domaine
+                              culturel en termes de portabilité. Elle permet en effet
+                              le partage aisé des fichiers avec les collègues et
+                              réduit, à terme, les coûts de publication.</item>
+                        </list> Finalement, en balisant, l'auteur, ou l'éditeur,
+                        fournit l'information sémantiqeu et pragmatique nécessaire pour
+                        produire des vues alternatives sur le document et une édition
+                        basée sur la structure.</p>
+                     <p>La question du balisage est fondamentale dans l'histoire de la
+                        numérisation des textes puisqu'elle détermine en grande partie
+                        les possibilités de traitement informatique du texte. Cf.
+                        l'Article séminal de Coombs, etc. On a l'habitude de distinguer
+                        plusieurs types principaux de balisages du texte : un balisage
+                        procédural, un balisage présentationnel, ou un balisage
+                        descriptif. Par ailleurs différents types possibles pour le
+                        balisage descriptif : balisage de la ponctuation, balisage de
+                        la présentation, balisage référentiel ou encore descriptif.
+                        Depuis quelques années, on a clairement établi l'intérêt d'un
+                        balisage descriptif sur un balisage présentationnel. Un tel
+                        balisage présente l'avantage notable de permettre de distinguer
+                        le contenu de la forme (c'est à dire du traitement). Cela
+                        autorise à la fois une meilleure maintenance, et une plus
+                        grande portabilité des artefacts numériques produits. On peut
+                        également relever un certain nombre d'autres avantages pour l'éditeur :<list>
+                           <item>la possibilité de partager des documents pour
+                              collaborer sans se préoccuper d'éventuelle
+                              incompatibilité</item>
+                           <item>le fait que la resaisie du texte n'est pas
+                              nécessaire</item>
+                           <item>le gain de temps de production, et de coût de
+                              gestion</item>
+                           <item>la possibilité de réaliser plusieurs éditions
+                              successives, corrections, collection à partir d'un même
+                              fichier source, ou encore de produire plusieurs
+                              manifestations (présentations) du même texte</item>
+                           <item>la génération automatique de l'information
+                              bibliographique directement à partir du fichier source
+                              (qui réduit les erreurs et permet une citation aisée dans
+                              les bases bibliographiques)</item>
+                           <item>la possibilité d'inclure directement les documents
+                              dans une base de données en ligne poru la publication
+                              électronique et la recherche plein-texte</item>
+                        </list></p>
+                     <p>Le balisage du texte, s'il implique le déployement d'une
+                        infrastructure technique peut-être moins confortable pour
+                        travailler, permet donc de se concentrer sur le contenu du
+                        texte plutôt que sur la présentation physique finale du
+                        document. Bien entendu, concernant l'édition de manuscrits
+                        historiques, ou de sources primaires, il pourra être nécessaire
+                        de traiter la matérialité physique du document. Néanmoins c'est
+                        avant tout l'édition du texte qui est ici privilégiée.</p>
+                     <p>L'idée d'un balisage descriptif qui repose sur le contenu et
+                        les éléments suggère une représentation du texte comme un
+                        modèle d'éléments contenus hiérarchiquement imbriqués (OHCO,
+                        Ordered Hierarchical Content Objects). Dans un tel modèle, les
+                        éléments contenus (paragraphes, citations, phrases, notes,
+                        etc.) sont présentés dans une structure hiérarchique. La
+                        structure du texte est hiérarchiques parce qu'ils résident l'un
+                        à l'intérieur des autres. Les objets reçoivent donc des
+                        relations linéaires. Dans une telle démarche, il convient en
+                        premier lieu de rendre la structure du texte explicite,
+                        c'est-à-dire de clarifier à la fois les relations hiérarchiques
+                        et séquentielles.</p>
+                  </div>
                   <div>
                      <head>Le choix de la TEI</head>
                      <div>
