@@ -656,13 +656,63 @@
                      <head>Le choix de la TEI</head>
                      <div>
                         <head>Le projet de la Text Encoding Initiative</head>
+                        <p>La TEI fournit un vocabulaire qui permet de produire des
+                           modèles de textes que l'on peut utiliser à différentes
+                           fins.</p>
                      </div>
                      <div>
                         <head>Un standard de fait pour la production de sources
                            primaires</head>
+                        <p>La TEI fournit ainsi, à l'aide d'un vocabulaire et d'une
+                           infrastructure technique, un cadre de travail pour la
+                           modélisation des textes. Dans la limite de leur
+                           expressivité, de tels modèles peuvent être employés à telle
+                           ou telle fins. </p>
                      </div>
                      <div>
                         <head>Un certain point de vue sur le texte</head>
+                        <p>Il convient de garder à l'esprit que n'importe quelle
+                           représentation numérique d'un texte constitue <foreign
+                              xml:lang="lat">ipso facto</foreign> une modélisation, au
+                           sens où un modèle est une réduction de la réalité. Même
+                           lorsqu'on se contente de transcrire une page manuscrite à
+                           l'aide d'un simple traitement de texte, on formule sans en
+                           avoir nécessairement conscience des décisions éditoriales
+                           telles que le choix de l'encodage des caractères, la manière
+                           de représenter tel ou tel aspect typographique, comment
+                           traiter les espaces blancs, ou encore ce qu'il faut faire
+                           des choses que l'on n'est pas en mesure d'entrer au clavier
+                           comme les figures dans le texte ou les symboles dépourvus de
+                           représentation Unicode. Dès lors, le choix des concepteurs
+                           de la TEI d'avoir calé sa sémantique sur la structure de XML
+                           est particulièrement significatif. Le modèle de contenu de
+                           XML est fondé sur l'arborescence, il détermine ainsi une
+                           grande partie de la sémantique de la TEI.</p>
+                        <p>Avec la TEI, le paragraphe d'un texte apparaît par exemple
+                           entre deux balises p. Plusieurs paragraphes peuvent être
+                           réunis dans une division div. À l'intérieur d'un paragraphe,
+                           on peut marquer un nom de personne ou de lieu à l'aide
+                           d'éléments persName ou placeName. Une telle configuration
+                           est très commode pour le traitement (processing), puisqu'il
+                           est relativement trivial de transformer un élément TEI div
+                           ou p en l'élément HTML correspondant, ou persName en un
+                           hyperlien qui pointe vers les informations concernant la
+                           personne désignée. Cependant, cela signifie également que
+                           les capacités de modélisation de la TEI sont celles
+                           déterminées par XML.</p>
+                        <p>Dès 2002, Buzetti a avancé que la structure arborescante
+                           n'était pas suffisamment expressive pour rendre compte de
+                           toute la complexité d'un texte, et en 2010 Schmidt a
+                           considéré que la TEI constituait un mauvais modèle du texte
+                           car elle imposait des interprétations éditoriales sur le
+                           texte lui-même. La TEI peut parfois se révêler en partie
+                           inadéquate pour traiter par exemple la structure du discours
+                           ou la sémantique du texte. Son modèle impose souvent de
+                           traiter séparément l'encodage du texte et son inscription
+                           sur le support pour les sources primaires. Mais son
+                           utilisation a largement prouvé qu'elle était suffisante dans
+                           la plupart des cas pour le travail académique ou
+                           universitaire.</p>
                      </div>
                   </div>
                   <div>
