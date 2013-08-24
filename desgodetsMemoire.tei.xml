@@ -86,8 +86,7 @@
                « Technologies numériques appliquées à l'histoire ». Il rend compte d'un
                stage professionnel réalisé dans le cadre de l'édition des cours de
                Desgodets. L’édition des cours de Desgodets fait partie d’un programme
-               de recherche sur la formalisation du savoir architectural au XVII<hi
-                  rend="superscript">e</hi> siècle.</p>
+               de recherche sur la formalisation du savoir architectural au XVII<hi rend="superscript">e</hi> siècle.</p>
          </projectDesc>
          <!-- déclaration des principes éditoriaux -->
          <editorialDecl>
@@ -114,16 +113,18 @@
    </teiHeader>
    <text>
       <front xml:id="desgodetsMemoireFront">
-         <titlePage xml:id="desgodetsMemoireFront00" xml:lang="fre">
+         <titlePage xml:id="desgodetsMemoireFront00" xml:lang="fr">
             <docTitle>
                <titlePart type="main">L'édition électronique de sources primaires en histoire de l’architecture</titlePart>
-               <titlePart type="sub">La publication des cours d’Antoine Desgodets à l’Académie royale d’architecture</titlePart>
+               <titlePart type="sub">La publication des cours d’<persName>Antoine
+                     Desgodets</persName> à l’Académie royale
+                  d’architecture</titlePart>
             </docTitle>
             <docAuthor>Emmanuel Château</docAuthor>
             <docDate>année universitaire 2012-2013</docDate>
             <docEdition>version 0</docEdition>
          </titlePage>
-         <div xml:id="desgodetsMemoireFrontFr" xml:lang="fre">
+         <div xml:id="desgodetsMemoireFrontFr" xml:lang="fr">
             <!-- générer un sommaire -->
             <divGen n="desgodetsMemoireFrontFr01" type="sommaire">
                <head>Sommaire</head>
@@ -203,7 +204,7 @@
       </front>
       
       <body xml:id="desgodetsMemoireBody">
-         <div xml:id="desgodetsMemoireBodyFr" xml:lang="fre">
+         <div xml:id="desgodetsMemoireBodyFr" xml:lang="fr">
             <div xml:id="desgodetsMemoireBodyFr01" type="part">
                <head>Le cadre du projet</head>
                <div>
@@ -223,8 +224,7 @@
                         financement de l’ANR à l’appel d’offre corpus suivant sous le
                         n° ANR-07-CORP-017-01 en 2004</ref>.</p>
                      <p>Le projet de recherche proposait d’aborder la construction et
-                        la normalisation du savoir architectural à la fin du XVII<hi
-                           rend="superscript">e</hi> siècle à partir de l’édition du
+                        la normalisation du savoir architectural à la fin du XVII<hi rend="superscript">e</hi> siècle à partir de l’édition du
                         corpus des cours manuscrits dictés à l’Académie royale
                         d’architecture par Antoine Desgodets entre 1721 et 1728.
                         Plusieurs raisons justifiaient le choix de cette œuvre : D’une
@@ -347,6 +347,52 @@
                      <head>Les cours de Desgodets à l’Académie</head>
                      <div>
                         <head>L’académie d’architecture et l’enseignement</head>
+                        <p>L'enseignement est une part constitutive de tout projet
+                           académique. En fondant l'Académie d'architecture en 1671 sur
+                           les conseils de Colbert, Louis XIV prévoyait plusieurs
+                           missions pour l'institution. Tout comme l'Académie de
+                           peinture son aînée, l'Académie royale d'architecture devait
+                           être à la fois une assemblée savante délibérants sur des
+                           questions d'art et une institution d'enseignement. <quote>Sa
+                              Majesté a voulu que ces architectes, s'appliquant
+                              sérieusement à l'étude, s'assemblassent un jour de chaque
+                              semaine pour conférer et se communiquer leurs
+                              connaissances.</quote><quote>Elle a voulu aussi qu'il s'y
+                              pût former un séminaire, pour ainsi dire, de jeunes
+                              architectes.
+                           </quote></p>
+                        <p>À de nombreux égards, ce projet académique servait une
+                           réforme plus large de la profession d'architecte. Outre les
+                           conférences dirigées par <persName>François
+                              Blondel</persName> jusqu'à sa mort en 1686, qui
+                           revisitaient les grands traités d'architecture à travers un
+                           programme d'étude à long terme de ce qui constituait le
+                           curriculum académique : <persName>Palladio</persName>,
+                              <persName>Scamozzi</persName>,
+                              <persName>Vignole</persName>, <persName>Serlio</persName>
+                           et <persName>Alberti</persName>, <persName>Philibert De
+                              l'Orme</persName>, <persName>Jean Bullant</persName> et
+                              <persName>Jacques Androuet du Cerceau</persName>,
+                           l'enseignement de Blondel à l'Académie se composait
+                           conformément au brevet royal de cours publics  sur
+                           l'architecture et les mathématiques deux fois par semaine
+                           afin d'<quote>enseigner les véritables règles aux jeunes
+                              gens qui se proposent d'embrasser la profession
+                              d'architecture.</quote></p>
+                        <p>Ce furent vraisemblablement ces conférences qui formèrent le
+                           contenu du <title>Cours d'architecture</title> dont la
+                           publication débute en 1675{présentation du cours
+                           Architectura}. N'ayant jamais eu jusqu'à cette époque de
+                           formation officielle en architecture même si les cours de
+                           Blondel pouvaient avoir un précédent récent au travers de
+                           son enseignement comme professeur de mathématiques au
+                           Collège royal. Les auteurs reconnaissent habituellement dans
+                           la structure même du cours le <title>cursus
+                              mathematicus</title> en vogue parmi les professeurs de
+                           mathématiques pendant tout le siècle, mais il le mettent
+                           également en rapport avec le programme des conférences
+                           menées parallèlement{présentation du cours
+                           Architectura}.</p>
                      </div>
                      <div>
                         <head>L’enseignement de Desgodets</head>
@@ -355,7 +401,7 @@
                         </div>
                         <div>
                            <head>Le cours des Ordres</head>
-                           <p />
+                           <p/>
                         </div>
                         <div>
                            <head>Le cours des Commodités</head>
@@ -498,24 +544,51 @@
                         </div>
                         <div>
                            <head>Comparaison des témoins</head>
+                           <p>Si pas une édition hyper-diplomatique au sens où ne donne
+                              pas directement accès aux fac-simili des différents
+                              témoins faute d'être assurés d'obtenir les droits de
+                              reproduction pour chaque manuscrit. L'édition devait,
+                              conformément aux vœux exprimés par le Conseil
+                              scientifique offrir au chercheur qui consulterait le site
+                              l'accès aux différents témoins conservés. Une telle
+                              présentation des versions permet à la fois de proposer à
+                              un public scientifique une lecture rapprochée (<foreign
+                                 xml:lang="eng">close reading</foreign>) de l'édition
+                              tout en justifiant les choix éditoriaux opérés dans le
+                              cours de l'édition afin de pallier l'absence de
+                              reproduction des originaux.</p>
+                           <p>Public scientifique, notion de close reading, lecture
+                              rapprochée.</p>
                         </div>
                      </div>
                   </div>
                   <div>
                      <head>L’édition d’un cours d’architecture</head>
-                     <p>Importance des figures</p>
+                     <p />
                      <div>
                         <head>Lire le texte en regard des figures</head>
                         <p>Les figures parties prenantes du discours</p>
+                        <p>S'agissant d'un cours d'architecture, nous avons vu à quel
+                           point les planches et figures tiennent une place importante
+                           dans l'intelligibilité du propos et sont à cet égard pour
+                           ainsi dire parties prenantes du texte. De surcroit,
+                           l'édition s'adressant principalement à des historiens de
+                           l'art, il s'agissait d'accorder une attention particulière à
+                           la consultation des images.</p>
                         <p>Place du texte en regard des figures. Commentaire de figures
                            relativement classique. Cf. Composition du premier traité
                            des ordres.</p>
                      </div>
                      <div>
                         <head>Comparaison des figures</head>
+                        <p>Le lecteur devait ainsi pouvoir disposer non seulement des
+                           figures en regard du texte, mais aussi, à l'instar même du
+                           texte, il devait pouvoir être en mesure de comparer les
+                           représentations des différents témoins.</p>
                      </div>
                      <div>
                         <head>Recherche plein texte</head>
+                        <p></p>
                      </div>
                   </div>
                   <div>
@@ -549,8 +622,7 @@
                </div>
                <div>
                   <head>L’encodage des textes</head>
-                  <div>
-                     <head>Introduction</head>
+                  <div type="introduction">
                      <p>Les trois opérations qui interviennent au cours du balisage
                         sont les suivantes :<list>
                            <item><hi rend="bold">reconnaissance des éléments</hi>,
@@ -568,21 +640,21 @@
                         traitement est plus proche du traitement en langue naturelle,
                         même si le nom des éléments peut être arbitraire. {citation}
                         Comme le relevaient dès 1987 dans leur publication {quid}, les
-                        logiciels de traitement de texte qui formattent les documents
-                        ne simplifient pas le développement de documents en éliminant
-                        le besoin du balisage ; le fait est devenu plus clair
-                        aujourd'hui avec l'adoption des formats XML par Microsoft Word
-                        et Open Office. De surcroît, le balisage requis pour ces
-                        principaux formats est plus consomateur de ressource sans
-                        atteindre la même expressivité. Ainsi, les dispositifs
-                        d'édition fondés sur un balisage descriptifs présentent pour
-                        résumer plusieurs avantages sur le balisage présentationnel :<list>
+                        logiciels de traitement de texte qui formatent les documents ne
+                        simplifient pas le développement de documents en éliminant le
+                        besoin du balisage ; le fait est devenu plus clair aujourd'hui
+                        avec l'adoption des formats XML par Microsoft Word et Open
+                        Office. De surcroît, le balisage requis pour ces principaux
+                        formats est plus consommateur de ressource sans atteindre la
+                        même expressivité. Ainsi, les dispositifs d'édition fondés sur
+                        un balisage descriptifs présentent pour résumer plusieurs
+                        avantages sur le balisage présentationnel :<list>
                            <item><label n="1">1°</label> Le processus d'établissement
                               du texte se trouve simplifié par la focalisation sur le
-                              contenu plutôt que sur le contrôle du programme ou d ela
+                              contenu plutôt que sur le contrôle du programme ou de la
                               présentation typographique de la copie (comme avec
                               LaTex)</item>
-                           <item><label n="2">2°</label> Les problèmes de maintennance
+                           <item><label n="2">2°</label> Les problèmes de maintenance
                               sont réduits à un nombre limité de problèmes indépendants
                               du fichier proprement dit. L'actualisation des styles et
                               la mise à jour s'en trouvent facilitées sans risque de
@@ -593,7 +665,7 @@
                               le partage aisé des fichiers avec les collègues et
                               réduit, à terme, les coûts de publication.</item>
                         </list> Finalement, en balisant, l'auteur, ou l'éditeur,
-                        fournit l'information sémantiqeu et pragmatique nécessaire pour
+                        fournit l'information sémantique et pragmatique nécessaire pour
                         produire des vues alternatives sur le document et une édition
                         basée sur la structure.</p>
                      <p>La question du balisage est fondamentale dans l'histoire de la
@@ -615,7 +687,7 @@
                            <item>la possibilité de partager des documents pour
                               collaborer sans se préoccuper d'éventuelle
                               incompatibilité</item>
-                           <item>le fait que la resaisie du texte n'est pas
+                           <item>le fait que la ressaisie du texte n'est pas
                               nécessaire</item>
                            <item>le gain de temps de production, et de coût de
                               gestion</item>
@@ -631,7 +703,7 @@
                               dans une base de données en ligne poru la publication
                               électronique et la recherche plein-texte</item>
                         </list></p>
-                     <p>Le balisage du texte, s'il implique le déployement d'une
+                     <p>Le balisage du texte, s'il implique le déploiement d'une
                         infrastructure technique peut-être moins confortable pour
                         travailler, permet donc de se concentrer sur le contenu du
                         texte plutôt que sur la présentation physique finale du
@@ -663,11 +735,51 @@
                      <div>
                         <head>Un standard de fait pour la production de sources
                            primaires</head>
+                        <p>XML et standardisation. Édition structurée adoptant un tel
+                           format a l'avantage de permettre de tirer parti des
+                           puissants outils disponibles pour traiter des documents
+                           XML.</p>
+                        <p>Noter également que n'est pas une norme au sens strict.
+                           Choix délibéré, car un projet de recherche. Norme ISO un
+                           moment adoptée se révélait trop contraignante.</p>
+                        <p>Volonté de couvrir l'ensemble des besoins. Généricité qui a
+                           pour pendant négatif la nécessité de customiser son
+                           schéma.</p>
                         <p>La TEI fournit ainsi, à l'aide d'un vocabulaire et d'une
                            infrastructure technique, un cadre de travail pour la
                            modélisation des textes. Dans la limite de leur
                            expressivité, de tels modèles peuvent être employés à telle
                            ou telle fins. </p>
+                        <p>Néanmoins, l'utilisation de la TEI suppose l'apprentissage
+                           de son vocabulaire. Cette difficulté d'accès ainsi que la
+                           nécessité de manier des outils nouveaux reste un problème
+                           qui n'est toujours pas complètement réglé. Cependant, la TEI
+                           a largement été adoptée aujourd'hui dans le secteur
+                           académique pour la publication de sources primaires ou
+                           l'édition numérique. On peut affirmer qu'elle constitue de
+                           ce point de vue un standard de fait qui justifie en grande
+                           partie son adoption dans un projet scientifique comme
+                           l'édition des cours de <persName>Desgodets</persName>.</p>
+                        <p>Large adoption de la TEI qui est censée remplir la promesse
+                           d'interopérabilité et de pérennisation. Considère que SGML
+                           puis XML adéquat pour exprimer les besoins les plus
+                           généraux. Plusieurs avantages en termes de production et de
+                           mise en forme ou encore pour tourner le texte en base de
+                           données. La promesse des standards est de nous rendre la vie
+                           plus aisée : TEI, XML, Unicode ont le potentiel de faciliter
+                           l'échange et la réutilisation des documents, c'est la raison
+                           pour laquelle on y a recours. Cependant, par sa généricité
+                           même avec la possibilité de faire des choix, ou même de
+                           l'étendre en fonction des besoins, la nature profonde de la
+                           TEI explique en grande partie les difficultés que l'on peut
+                           rencontrer lorsqu'il s'agit de rassembler des collections de
+                           documents en termes de compatibilité. Il ne suffit pas que
+                           les textes soient tous encodés en TEI pour qu'ils soient
+                           véritablement interopérables. Cela est lié au fait que
+                           chaque document est représentatif du modèle que se fait
+                           l'éditeur du texte. La compatibilité ne peut être atteinte
+                           que si plusieurs documents suivent le même ensemble de
+                           conventions.</p>
                      </div>
                      <div>
                         <head>Un certain point de vue sur le texte</head>
@@ -689,34 +801,75 @@
                            XML est fondé sur l'arborescence, il détermine ainsi une
                            grande partie de la sémantique de la TEI.</p>
                         <p>Avec la TEI, le paragraphe d'un texte apparaît par exemple
-                           entre deux balises p. Plusieurs paragraphes peuvent être
-                           réunis dans une division div. À l'intérieur d'un paragraphe,
-                           on peut marquer un nom de personne ou de lieu à l'aide
-                           d'éléments persName ou placeName. Une telle configuration
-                           est très commode pour le traitement (processing), puisqu'il
-                           est relativement trivial de transformer un élément TEI div
-                           ou p en l'élément HTML correspondant, ou persName en un
-                           hyperlien qui pointe vers les informations concernant la
-                           personne désignée. Cependant, cela signifie également que
-                           les capacités de modélisation de la TEI sont celles
-                           déterminées par XML.</p>
-                        <p>Dès 2002, Buzetti a avancé que la structure arborescante
-                           n'était pas suffisamment expressive pour rendre compte de
-                           toute la complexité d'un texte, et en 2010 Schmidt a
-                           considéré que la TEI constituait un mauvais modèle du texte
-                           car elle imposait des interprétations éditoriales sur le
-                           texte lui-même. La TEI peut parfois se révêler en partie
-                           inadéquate pour traiter par exemple la structure du discours
-                           ou la sémantique du texte. Son modèle impose souvent de
-                           traiter séparément l'encodage du texte et son inscription
-                           sur le support pour les sources primaires. Mais son
-                           utilisation a largement prouvé qu'elle était suffisante dans
-                           la plupart des cas pour le travail académique ou
-                           universitaire.</p>
+                           entre deux balises <gi>p</gi>. Plusieurs paragraphes peuvent
+                           être réunis dans une division <gi>div</gi>. À l'intérieur
+                           d'un paragraphe, on peut marquer un nom de personne ou de
+                           lieu à l'aide d'éléments persName ou placeName. Une telle
+                           configuration est très commode pour le traitement (<foreign
+                              xml:lang="eng">processing</foreign>), puisqu'il est
+                           relativement trivial de transformer un élément TEI
+                              <gi>div</gi> ou <gi>p</gi> en l'élément HTML
+                           correspondant, ou persName en un hyperlien qui pointe vers
+                           les informations concernant la personne désignée. Cependant,
+                           cela signifie également que les capacités de modélisation de
+                           la TEI sont celles déterminées par XML.</p>
+                        <p>Dès 2002, <persName>Buzetti</persName> a avancé que la
+                           structure arborescente n'était pas suffisamment expressive
+                           pour rendre compte de toute la complexité d'un texte, et en
+                           2010 <persName>Schmidt</persName> a considéré que la TEI
+                           constituait un mauvais modèle du texte car elle imposait des
+                           interprétations éditoriales sur le texte lui-même. La TEI
+                           peut parfois se révéler en partie inadéquate pour traiter
+                           par exemple la structure du discours ou la sémantique du
+                           texte. Son modèle impose souvent de traiter séparément
+                           l'encodage du texte et son inscription sur le support pour
+                           les sources primaires. Mais son utilisation a largement
+                           prouvé qu'elle constituait un choix, bien qu'imparfait, tout
+                           à fait acceptable et suffisant dans la plupart des cas pour
+                           le travail académique ou universitaire. Elle constitue
+                           d'autant plus une solution qu'elle permet l'utilisation des
+                           puissants outils XML disponibles.</p>
+                        <p>C'est ici la question du texte et des différentes lectures
+                           que l'on peut en avoir qui est ici soulevée. Cf.
+                              <persName>Clayes</persName>. Est-ce que le texte peut
+                           exister indépendamment de son apparat critique. Dans de
+                           nombreux cas, il n'y a pas de texte proprement dit mais
+                           seulement une multiplicité de lectures. Or, la lecture
+                           constitue de fait un exercice interprétatif, la TEI présente
+                           ici au moins l'avantage de son honnête dans le fait qu'elle
+                           met en avant, et au centre, les interventions éditoriales là
+                           où elles sont le plus manifestes.</p>
+                        <p>cf. <title>From Google to Guttemberg</title>.</p>
+                        <p>Il s'agit donc d'être conscient qu'en adoptant ce qui
+                           constitue aujourd'hui un standard de fait dans le domaine
+                           académique avec tous ses avantages, il convient en même
+                           temps de faire le deuil d'un modèle véritablement générique
+                           qui répondrait à toutes les situations. Chaque modélisation
+                           du texte mise en œuvre à l'échelle d'un projet traduit
+                           d'abord un point de vue sur les texte. C'est une certaine
+                           lecture du texte qui est proposée au lecteur par l'éditeur,
+                           et une telle lecture traduit avant tout les préoccupations
+                           et les questionnements à l'œuvre au moment de l'acte
+                           d'édition.</p>
                      </div>
                   </div>
                   <div>
                      <head>La modélisation XML-TEI</head>
+                     <div type="introduction">
+                        <p>Comme nous l'avons vu, la Text Encoding Initiative fournit
+                           un grand nombre de balises dans lesquelles il est possible
+                           de puiser pour modéliser son texte. Personne ne les utilise
+                           toutes dans le cadre d'un projet. En d'autres termes, on
+                           doit construire des représentation du texte source qui
+                           reflètent les phénomènes que l'on observe d'un point de vue
+                           structurel, sémantique ou linguistique, et que l'on va
+                           modéliser d'après la manière dont on espère les exploiter
+                           par la suite. À cet égard, la modélisation XML-TEI est une
+                           opération intrinsèque au processus éditorial et qui a
+                           directement trait au caractère scientifique de l'édition
+                           numérique. Il s'agit bel et bien de produire un artefact
+                           orienté.</p>
+                     </div>
                      <div>
                         <head>Explicitation des choix de modélisation</head>
                         <div>
@@ -769,6 +922,31 @@
                   </div>
                   <div>
                      <head>Produire l’édition avec des documents Microsoft Word</head>
+                  </div>
+                  <div type="introduction">
+                     <p>De part leur utilisation généralisée, on oublie souvent que les
+                        logiciels de traitement de texte WYSIWIG (What You See Is What
+                        You Get) présentent également un certain regard sur le texte.
+                        S'ils donnent l'impression d'éditer le document imprimé final,
+                        loin d'être des instruments neutres ils présentent en réalité
+                        un modèle de consultation du texte.</p>
+                     <p>Peut s'avérer utile de produire une interface de travail
+                        dépourvue de balises pour les éditeurs. Possibilité d'utiliser
+                        le mode auteur d'Oxygen. Mais avantage de travailler à partir
+                        du cadre de travail des auteurs mêmes.</p>
+                     <p>Question de l'interface et de la production du texte.
+                        Difficulté à produire une interface générique pour la TEI
+                        compte-tenu de la diversité des modèles que l'on vient de voir.
+                        Impliquerait un <foreign xml:lang="eng">mapping</foreign> de
+                        chaque élément vers un dispositif visuel correspondant dans
+                        l'éditeur.</p>
+                     <p>Mise en place d'un modèle de document de traitement de texte
+                        (en l'espère Microsoft Word parce qu'il était le plus utilisé
+                        au sein de l'équipe éditoriale) en vue d'une importation
+                        automatisée. Distance entre le modèle d'édition que suggère une
+                        telle interface d'édition et l'expressivité réelle du modèle
+                        XML-TEI utilisée qui a nécessité certains ajustement dont nous
+                        allons ici également rendre compte.</p>
                   </div>
                   <div>
                      <head>La production des textes encodés</head>
@@ -979,7 +1157,7 @@
          </div>
       </body>
       <back xml:id="desgodetsMemoireBack">
-         <div xml:id="desgodetsMemoireBackFr" xml:lang="fre">
+         <div xml:id="desgodetsMemoireBackFr" xml:lang="fr">
             <div xml:id="desgodetsMemoireBackFr01" type="conclusion">
                <head>Conclusion</head>
             </div>
@@ -1054,8 +1232,7 @@
                <xi:fallback>Fichier de notes de desgodetsMemoire non
                   trouvé</xi:fallback>
             </xi:include>-->
-            <div xmlns="http://www.tei-c.org/ns/1.0"
-               xml:lang="fre" type="notes" xml:id="desgodetsMemoireNotes">
+            <div xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" type="notes" xml:id="desgodetsMemoireNotes">
                <head>Notes</head>
                <note xml:id="m0001">
                   <p> À notre connaissance peu de projets en histoire de l’art moderne ou
