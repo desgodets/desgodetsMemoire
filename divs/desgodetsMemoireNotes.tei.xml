@@ -5,7 +5,7 @@
 <!-- RMQ : fichier inclus pour faciliter le travail d'édition -->
 <!-- RMQ : identifiants composés de l'identifiant dans le corpus, suivi d'un numéro d'ordre à quatre unités -->
 
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" type="notes"
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="notes"
     xml:id="desgodetsMemoireNotes">
     <head>Notes</head>
     <note xml:id="m0001">

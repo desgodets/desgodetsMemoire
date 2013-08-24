@@ -348,26 +348,35 @@
                      <div>
                         <head>L’académie d’architecture et l’enseignement</head>
                         <p>L'enseignement est une part constitutive de tout projet
-                           académique. En fondant l'Académie d'architecture en 1671 sur
-                           les conseils de Colbert, Louis XIV prévoyait plusieurs
-                           missions pour l'institution. Tout comme l'Académie de
-                           peinture son aînée, l'Académie royale d'architecture devait
-                           être à la fois une assemblée savante délibérants sur des
-                           questions d'art et une institution d'enseignement. <quote>Sa
-                              Majesté a voulu que ces architectes, s'appliquant
+                           académique. En fondant l'<orgName>Académie
+                              d'architecture</orgName>
+                           <date when="1671">en 1671</date> sur les conseils de
+                              <persName>Colbert</persName>, <persName>Louis
+                              XIV</persName> prévoyait plusieurs missions pour
+                           l'institution. Tout comme l'<orgName>Académie de peinture et
+                              de sculpture</orgName> son aînée, l'<orgName>Académie
+                              royale d'architecture</orgName> devait être à la fois une
+                           assemblée savante travaillant au perfectionnement de l'art
+                           et délibérant sur ses questions mais également une
+                           institution scolastique. <cit><quote>[Sa Majesté] a donc voulu
+                              premièrement que ces Architectes s'appliquant
                               sérieusement à l'étude, s'assemblassent un jour de chaque
-                              semaine pour conférer et se communiquer leurs
-                              connaissances.</quote><quote>Elle a voulu aussi qu'il s'y
-                              pût former un séminaire, pour ainsi dire, de jeunes
-                              architectes.
-                           </quote></p>
+                              semaine pour conférer &amp; se communiquer leurs
+                              connoissances […]</quote><quote>C'est aussi dans cette
+                              Académie où sa Majesté a voulu que les règles les plus
+                              justes &amp; les plus correctes de l'Architecture fussent
+                              publiquement enseignées deux jours de chaque semaine,
+                              afin qu'il s'y pust former un séminaire, pour ainsi dire,
+                              de jeunes Architectes. </quote><bibl>{Blondel, Preface}</bibl></cit></p>
                         <p>À de nombreux égards, ce projet académique servait une
-                           réforme plus large de la profession d'architecte. Outre les
-                           conférences dirigées par <persName>François
-                              Blondel</persName> jusqu'à sa mort en 1686, qui
-                           revisitaient les grands traités d'architecture à travers un
-                           programme d'étude à long terme de ce qui constituait le
-                           curriculum académique : <persName>Palladio</persName>,
+                           réforme plus large de l'architecture en améliorant les
+                           compétences techniques de la profession mais aussi le goût
+                           des commanditaires publics et privés. Outre les conférences
+                           dirigées par <persName>François Blondel</persName> jusqu'à
+                           sa mort en 1686, qui revisitaient les grands traités
+                           d'architecture à travers un programme d'étude à long terme
+                           de ce qui constituait le curriculum académique :
+                              <persName>Palladio</persName>,
                               <persName>Scamozzi</persName>,
                               <persName>Vignole</persName>, <persName>Serlio</persName>
                            et <persName>Alberti</persName>, <persName>Philibert De
@@ -381,18 +390,29 @@
                               d'architecture.</quote></p>
                         <p>Ce furent vraisemblablement ces conférences qui formèrent le
                            contenu du <title>Cours d'architecture</title> dont la
-                           publication débute en 1675{présentation du cours
-                           Architectura}. N'ayant jamais eu jusqu'à cette époque de
-                           formation officielle en architecture même si les cours de
-                           Blondel pouvaient avoir un précédent récent au travers de
-                           son enseignement comme professeur de mathématiques au
-                           Collège royal. Les auteurs reconnaissent habituellement dans
-                           la structure même du cours le <title>cursus
-                              mathematicus</title> en vogue parmi les professeurs de
-                           mathématiques pendant tout le siècle, mais il le mettent
-                           également en rapport avec le programme des conférences
-                           menées parallèlement{présentation du cours
-                           Architectura}.</p>
+                           publication débute en <date when="1675"
+                           >1675</date>{présentation du cours Architectura}. N'ayant
+                           jamais eu jusqu'à cette époque de formation officielle en
+                           architecture même si les cours de
+                              <persName>Blondel</persName> pouvaient avoir un précédent
+                           récent au travers de son enseignement comme professeur de
+                           mathématiques au <orgName>Collège royal</orgName>. Les
+                           auteurs reconnaissent habituellement dans la structure même
+                           du cours le <title>cursus mathematicus</title> en vogue
+                           parmi les professeurs de mathématiques pendant tout le
+                           siècle, mais il le mettent également en rapport avec le
+                           programme des conférences menées parallèlement{présentation
+                           du cours Architectura}.</p>
+                        <p>Constitue prototype d'un enseignement constitué. Devait
+                           exercer une influence durable sur l'enseignement de
+                           l'Académie et les publications architecturales postérieures.
+                              <persName>Philippe de La Hire</persName> allait par
+                           exemple l'utiliser comme support de ses conférences à
+                           l'Académie pendant plus de deux ans <date from="1696-07"
+                              to="1698-10">de juillet 1696 à octobre 1698</date>, tout
+                           comme ses successeurs pendant <date from="1700" to="1799"
+                              >tout le XVIII<hi rend="superscript">e</hi>
+                           siècle</date>.</p>
                      </div>
                      <div>
                         <head>L’enseignement de Desgodets</head>
@@ -416,6 +436,21 @@
                         </div>
                         <div>
                            <head>Le cours du Toisé</head>
+                           <p><cit><quote>Néanmoins comme il est vray que la connoissance des
+                              préceptes de l'Architectrue ne suffit pas toute seule
+                              pour faire un Architecte, cette qualité supposant
+                              beaucoup d'autres lumières ; Sa Majesté a voulu que
+                              pendant la secodne heure des leçons de l'Académie, l'on
+                              enseignât publiquement les autres Sciences qui sont
+                              absolument nécessaires aux Architectes comme sont
+                              celles-cy, la Géométrie, l'Arithmétique, la Mécanique
+                              c'est à dire les forces mouvantes, les Hydrauliques qui
+                              traittent du mouvement des eaux, la Gnomonique ou l'art
+                              de faire les Quadrans au Soleil, l'Architecture militaire
+                              des fortifications, la Perspective, la Coupe des pierres
+                              &amp; diverses autres parties de Mathématique, dont les
+                              principales y ont déjà été expliquées par des traittez
+                              composez pour ce sujet.</quote><bibl>{Blondel, Preface}</bibl></cit></p>
                         </div>
                         <div>
                            <head>Le cours des servitudes</head>
