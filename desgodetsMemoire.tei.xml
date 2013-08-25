@@ -402,7 +402,7 @@
                            parmi les professeurs de mathématiques pendant tout le
                            siècle, mais il le mettent également en rapport avec le
                            programme des conférences menées parallèlement{présentation
-                           du cours Architectura}.</p>
+                           du cours de Blondel Architectura}.</p>
                         <p>Constitue prototype d'un enseignement constitué. Devait
                            exercer une influence durable sur l'enseignement de
                            l'Académie et les publications architecturales postérieures.
@@ -412,12 +412,29 @@
                               to="1698-10">de juillet 1696 à octobre 1698</date>, tout
                            comme ses successeurs pendant <date from="1700" to="1799"
                               >tout le XVIII<hi rend="superscript">e</hi>
-                           siècle</date>.</p>
+                           siècle</date>. <ref target="#m0008">Dans son mémoire
+                              d'habilitation à diriger des recherches, Hélène
+                              Rousteau-Chambon relève combien l'enseignement de
+                              l'architecture à l'Académie à cette époque, malgré des
+                              sources nombreuses, avait jusqu'à présent peu suscité
+                              l'intérêt de l'historiographie</ref>.</p>
+                        <p>Cadre de l'enseignement. Bibliothèques, locaux. </p>
+                        <p>Lettres patentes de 1717</p>
                      </div>
                      <div>
                         <head>L’enseignement de Desgodets</head>
                         <div>
                            <head>Généralités sur l'enseignement de Desgodets</head>
+                           <p><date to="1730">1719 à 1730</date>, l'enseignement relève
+                              désormais des architectes après l'épisode <persName>de La
+                                 Hire</persName>.</p>
+                           <p>Assuré successivement par <persName>Antoine Desgodets</persName>
+                              (<date from="1719" to="1728">1719-1728</date>) et <persName>François Bruand</persName>
+                                 (<date from="1728" to="1730">1728-1730</date>) qui enseignent à la fois la
+                                 <q>géométrie appliquée à l'architecture</q> et
+                              l'architecture proprement dite. Avant division de la
+                              chaire <date when="1730">en 1730</date>. cf. HRC</p>
+                           <p />
                         </div>
                         <div>
                            <head>Le cours des Ordres</head>
@@ -425,14 +442,14 @@
                         </div>
                         <div>
                            <head>Le cours des Commodités</head>
-                           <p><ref type="note" target="#m0005">« Desgodets avait donné
+                           <p><ref type="note" target="#m0005"><quote>Desgodets avait donné
                                  une grande place aux ordres, mais dans la seconde
                                  partie, la plus originale de tous les traités
                                  d'architecture que nous connaissions et qu'on pourrait
                                  utilement publier, il donna des modèles de plans de
                                  palais, de châteaux, d'églises paroissiales,
                                  conventuelles, d'hôtel de ville, de marchés,
-                                 etc. »</ref></p>
+                                 etc.</quote></ref></p>
                         </div>
                         <div>
                            <head>Le cours du Toisé</head>
@@ -462,6 +479,19 @@
                   </div>
                   <div>
                      <head>Les témoins manuscrits</head>
+                     <div type="introduction">
+                        <p>Forme du cours et dictée</p>
+                        <p>Pour Lemonnier, il ne fait aucun doute que les leçons
+                           prenaient la forme d'une dictée. À l'appui, il cite le
+                           manuscrit de <sic>Pinart</sic> conservé au département des
+                           estampes de la Bibliothèque nationale de France.</p>
+                        <p>Copies manuscrites d'un prononcé oral. Copies ou prises de
+                           notes (sans doute copie comme peut le déduire de la mise au
+                           propre).</p>
+                        <p>Place de l'image </p>
+                        <p>Sources complémentaires : commentaire à l'académie et
+                           dessins exécutés par les élèves.</p>
+                     </div>
                      <div>
                         <head>Identification des témoins conservés</head>
                      </div>
@@ -960,11 +990,11 @@
                   </div>
                   <div type="introduction">
                      <p>De part leur utilisation généralisée, on oublie souvent que les
-                        logiciels de traitement de texte WYSIWIG (What You See Is What
-                        You Get) présentent également un certain regard sur le texte.
-                        S'ils donnent l'impression d'éditer le document imprimé final,
-                        loin d'être des instruments neutres ils présentent en réalité
-                        un modèle de consultation du texte.</p>
+                        logiciels de traitement de texte dits <soCalled>WYSIWIG</soCalled> (What You See Is
+                        What You Get) présentent également un certain regard sur le
+                        texte. S'ils donnent l'impression d'éditer le document imprimé
+                        final, loin d'être des instruments neutres ils présentent en
+                        réalité un modèle de consultation du texte.</p>
                      <p>Peut s'avérer utile de produire une interface de travail
                         dépourvue de balises pour les éditeurs. Possibilité d'utiliser
                         le mode auteur d'Oxygen. Mais avantage de travailler à partir
@@ -985,6 +1015,31 @@
                   </div>
                   <div>
                      <head>La production des textes encodés</head>
+                     <p>Alors qu'aucun des membres des équipes éditoriales ne
+                        disposaient de compétences en matière d'encodage XML-TEI, il a
+                        fallu développer des méthodes de travail qui permette de
+                        produire les textes encodés de manière efficace tout en
+                        associant au maximum ces éditeurs au travail. Dans l'absolu, et
+                        parce que l'encodage relève à proprement parler du caractère
+                        scientifique de l'intervention éditoriale, il aurait sans doute
+                        été préférable que l'ensemble des équipes éditoriales soient
+                        formées à la TEI. Pour diverses raisons, notamment liées au
+                        fait que les éditeurs travaillaient en grande partie sur une
+                        base volontaire, il n'a pas été possible comme nous l'avions un
+                        moment envisagé de former des volontaires à l'encodage. Seule
+                        un des éditeurs a en partie été formée, mais son intervention
+                        est restée relativement limitée.</p>
+                     <p>Rapidement, nous nous sommes orientés vers une approche
+                        intermédiaire relativement classique consistant à pré-encoder
+                        en utilisant un modèle de document de traitement de texte en
+                        vue d'une importation automatisée en XML-TEI. Une telle
+                        solution présentait l'avantage de maintenir les éditeurs dans
+                        leur cadre de travail habituel afin de faciliter l'avancement
+                        de l'édition. Cependant l'expressivité d'un modèle de document
+                        de traitement de texte et de la TEI n'étant pas la même, une
+                        telle approche ne va pas sans poser quelques difficultés ou
+                        inconvénients dont nous voudrions maintenant rendre compte en
+                        évaluant l'approche retenue.</p>
                      <div>
                         <head>Travail avec les auteurs</head>
                         <div>
