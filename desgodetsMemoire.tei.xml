@@ -390,8 +390,7 @@
                               d'architecture.</quote></p>
                         <p>Ce furent vraisemblablement ces conférences qui formèrent le
                            contenu du <title>Cours d'architecture</title> dont la
-                           publication débute en <date when="1675"
-                           >1675</date>{présentation du cours Architectura}. N'ayant
+                           publication débute en <date when="1675">1675</date>{présentation du cours Architectura}. N'ayant
                            jamais eu jusqu'à cette époque de formation officielle en
                            architecture même si les cours de
                               <persName>Blondel</persName> pouvaient avoir un précédent
@@ -408,10 +407,8 @@
                            l'Académie et les publications architecturales postérieures.
                               <persName>Philippe de La Hire</persName> allait par
                            exemple l'utiliser comme support de ses conférences à
-                           l'Académie pendant plus de deux ans <date from="1696-07"
-                              to="1698-10">de juillet 1696 à octobre 1698</date>, tout
-                           comme ses successeurs pendant <date from="1700" to="1799"
-                              >tout le XVIII<hi rend="superscript">e</hi>
+                           l'Académie pendant plus de deux ans <date from="1696-07" to="1698-10">de juillet 1696 à octobre 1698</date>, tout
+                           comme ses successeurs pendant <date from="1700" to="1799">tout le XVIII<hi rend="superscript">e</hi>
                            siècle</date>. <ref target="#m0008">Dans son mémoire
                               d'habilitation à diriger des recherches, Hélène
                               Rousteau-Chambon relève combien l'enseignement de
@@ -434,7 +431,7 @@
                                  <q>géométrie appliquée à l'architecture</q> et
                               l'architecture proprement dite. Avant division de la
                               chaire <date when="1730">en 1730</date>. cf. HRC</p>
-                           <p />
+                           <p/>
                         </div>
                         <div>
                            <head>Le cours des Ordres</head>
@@ -617,8 +614,7 @@
                               scientifique offrir au chercheur qui consulterait le site
                               l'accès aux différents témoins conservés. Une telle
                               présentation des versions permet à la fois de proposer à
-                              un public scientifique une lecture rapprochée (<foreign
-                                 xml:lang="eng">close reading</foreign>) de l'édition
+                              un public scientifique une lecture rapprochée (<foreign xml:lang="eng">close reading</foreign>) de l'édition
                               tout en justifiant les choix éditoriaux opérés dans le
                               cours de l'édition afin de pallier l'absence de
                               reproduction des originaux.</p>
@@ -629,7 +625,7 @@
                   </div>
                   <div>
                      <head>L’édition d’un cours d’architecture</head>
-                     <p />
+                     <p/>
                      <div>
                         <head>Lire le texte en regard des figures</head>
                         <p>Les figures parties prenantes du discours</p>
@@ -653,7 +649,7 @@
                      </div>
                      <div>
                         <head>Recherche plein texte</head>
-                        <p></p>
+                        <p/>
                      </div>
                   </div>
                   <div>
@@ -849,8 +845,7 @@
                      <div>
                         <head>Un certain point de vue sur le texte</head>
                         <p>Il convient de garder à l'esprit que n'importe quelle
-                           représentation numérique d'un texte constitue <foreign
-                              xml:lang="lat">ipso facto</foreign> une modélisation, au
+                           représentation numérique d'un texte constitue <foreign xml:lang="lat">ipso facto</foreign> une modélisation, au
                            sens où un modèle est une réduction de la réalité. Même
                            lorsqu'on se contente de transcrire une page manuscrite à
                            l'aide d'un simple traitement de texte, on formule sans en
@@ -870,8 +865,7 @@
                            être réunis dans une division <gi>div</gi>. À l'intérieur
                            d'un paragraphe, on peut marquer un nom de personne ou de
                            lieu à l'aide d'éléments persName ou placeName. Une telle
-                           configuration est très commode pour le traitement (<foreign
-                              xml:lang="eng">processing</foreign>), puisqu'il est
+                           configuration est très commode pour le traitement (<foreign xml:lang="eng">processing</foreign>), puisqu'il est
                            relativement trivial de transformer un élément TEI
                               <gi>div</gi> ou <gi>p</gi> en l'élément HTML
                            correspondant, ou persName en un hyperlien qui pointe vers
@@ -975,6 +969,167 @@
                            </div>
                            <div>
                               <head>Le format ODD</head>
+                              <p>Choix des modules</p>
+                              <p>Dès l'origine la TEI a été conçue pour être employée
+                                 comme un ensemble de briques qui permettent de
+                                 construire des schémas spécifiques pour un projet
+                                 donné. Dans cet esprit, la TEI propose un vocabulaire
+                                 pour décrire les textes sans préjuger de ce que les
+                                 textes pourraient contenir. Aussi est-il important de
+                                 comprendre que la TEI ne propose pas un schéma global,
+                                 mais un ensemble de modules parmi lesquels choisir les
+                                 éléments qui répondent à ses propres besoins. Les
+                                 trois modules <ident type="module">core</ident>,
+                                    <ident type="module">header</ident> et <ident
+                                    type="module">textstructure</ident>, ainsi que de
+                                    <ident type="module">tei</ident> lorsqu'on utilise
+                                 Relax NG, doivent être utilisés dans les cas généraux.
+                                 Certains éléments définis à l'intérieur de ces modules
+                                 sont employés par d'autres modules ce qui crée des
+                                 dépendances.</p>
+                              <p>Les <title>Guidelines</title> décrivent trois manières
+                                 de personnaliser (<foreign xml:lang="eng"
+                                    >customizing</foreign>) la TEI :<list>
+                                    <item><label>1°</label> Rédiger une spécification
+                                       de haut niveau pour une représentation en TEI et
+                                       générer un schéma <foreign xml:lang="lat">ad
+                                          hoc</foreign> ;</item>
+                                    <item><label n="2">2°</label> Utiliser les modules
+                                       de la TEI et spécifier dans ces sous-ensembles
+                                       quels fonctionnalités l'on souhaite
+                                       activer ;</item>
+                                    <item><label>3°</label> Utiliser les modules
+                                       Relax NG, et rédiger un schéma
+                                       d'enveloppe.???</item>
+                                 </list> L'approche que nous avons retenu correspond à
+                                 la première solution, mais utilisait dans la pratique
+                                 la troisième manière de personnaliser un schéma.</p>
+                              <p></p>
+                              <table>
+                                 <head>Les modules de la TEI</head>
+                                 <row role="label">
+                                    <cell>Nom</cell>
+                                    <cell>Désignation (en)</cell>
+                                    <cell>Désignation (fr)</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">analysis</ident></cell>
+                                    <cell>Simple analytic mechanisms</cell>
+                                    <cell>Mécanismes d'analyse simples</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">certainty</ident></cell>
+                                    <cell>Certainty and uncertainty</cell>
+                                    <cell>Certitude et incertitude</cell>
+                                 </row>
+                                 <row>
+                                    <cell><hi rend="bold"><ident type="module">core</ident></hi></cell>
+                                    <cell>Elements commons to all TEI documents</cell>
+                                    <cell>Éléments communs à tous les documents TEI</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">corpus</ident></cell>
+                                    <cell>Header extensions for corpus texts</cell>
+                                    <cell>Extension de l'en-tête pour les corpus</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">declarefs</ident></cell>
+                                    <cell>Feature system declarations</cell>
+                                    <cell>Articles pour les systèmes de
+                                       déclaration</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">dictionaries</ident></cell>
+                                    <cell>Dictionaries and other lexical
+                                       resources</cell>
+                                    <cell>Dictionnaires et autres ressources lexicales </cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">drama</ident></cell>
+                                    <cell>Performance texts</cell>
+                                    <cell>Textes dramatiques</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">figures</ident></cell>
+                                    <cell>Tables, formulae, and figures</cell>
+                                    <cell>Tables, formules et figures</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">gaiji</ident></cell>
+                                    <cell>Character and glyph documentation</cell>
+                                    <cell>Documentation des caractères et des
+                                       glyphes</cell>
+                                 </row>
+                                 <row>
+                                    <cell><hi rend="bold"><ident type="module">header</ident></hi></cell>
+                                    <cell>The TEI Header</cell>
+                                    <cell>L'en-tête TEI</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">iso-fs</ident></cell>
+                                    <cell>Feature structures</cell>
+                                    <cell>Articles pour les structures</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">linking</ident></cell>
+                                    <cell>Linking, segmentation and alignment</cell>
+                                    <cell>Lien, segmentation et alignement</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">msdescription</ident></cell>
+                                    <cell>Manuscript Description</cell>
+                                    <cell>Description des manuscrits</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">namesdates</ident></cell>
+                                    <cell>Names and dates</cell>
+                                    <cell>Noms et dates</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">nets</ident></cell>
+                                    <cell>Graphs, networks and trees</cell>
+                                    <cell>Graphiques, réseaux et arborescences</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">spoken</ident></cell>
+                                    <cell>Transcribed Speech</cell>
+                                    <cell>Transcription du discours</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">tagdocs</ident></cell>
+                                    <cell>Documentation of TEI modules</cell>
+                                    <cell>Documentation des modules TEI</cell>
+                                 </row>
+                                 <row>
+                                    <cell><hi rend="bold"><ident type="module">tei</ident></hi></cell>
+                                    <cell>Declarations for datatypes, classes, and
+                                       macros available to all TEI modules</cell>
+                                    <cell>Déclaration pour les types de données, les
+                                       classes, et les macros disponibles dans tous les
+                                       modules TEI</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">textcrit</ident></cell>
+                                    <cell>Text criticism</cell>
+                                    <cell>Critique textuelle</cell>
+                                 </row>
+                                 <row>
+                                    <cell><hi rend="bold"><ident type="module">textstructure</ident></hi></cell>
+                                    <cell>Default text structure</cell>
+                                    <cell>Structure textuelles par défaut</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">transcr</ident></cell>
+                                    <cell>Transcription of primary sources</cell>
+                                    <cell>Transcription des sources primaires</cell>
+                                 </row>
+                                 <row>
+                                    <cell><ident type="module">verse</ident></cell>
+                                    <cell>Verse structures</cell>
+                                    <cell>Structures versifiées</cell>
+                                 </row>
+                              </table>
+                              <p/>
                               <div>
                                  <head>Personnalisation manuelle du schéma</head>
                               </div>
@@ -1044,6 +1199,27 @@
                         <head>Travail avec les auteurs</head>
                         <div>
                            <head>Réunions de travail</head>
+                           <p>Validation du principe d'un <soCalled>stylage</soCalled>
+                              des documents à l'aide d'un logiciel de traitement de
+                              texte en vue d'automatiser la récupération au moins de la
+                              structure des textes édités, mais également de tester
+                              l'utilisation d'une syntaxe régulière dans le corps de
+                              l'édition pour faciliter les rechercher remplacer et
+                              préparer l'encodage.</p>
+                           <p>Citer exemples d'utilisation. Montrer qu'il s'agit d'une
+                              pratique assez habituelle.</p>
+                           <p>L'objectif restait relativement modeste puisqu'on ne
+                              prévoyait pas de chaîne de conversion totalement
+                              automatisées. Néanmoins une telle démarche nécessitait en
+                              premier lieu l'adhésion de l'équipe éditoriale et la
+                              rédaction d'un guide de pré-encodage à leur attention. La
+                              formalisation d'un tel guide ne pouvait intervenir sans
+                              avoir mené au préalable une réflexion sur le modèle
+                              d'encodage XML-TEI puisqu'il s'agissait en réalité de
+                              proposer un certain nombre de pseudos balises destinées à
+                              être converties en XML-TEI.</p>
+                           <p>Réunion de présentation d'une première version du guide
+                              juin 2012.</p>
                         </div>
                         <div>
                            <head>Les problèmes d’interprétation des règles</head>
