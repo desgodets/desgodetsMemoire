@@ -956,6 +956,7 @@
                            <div>
                               <head>Identification des manuscrits et production des
                                  métadonnées</head>
+                              <p>http://codicologia.irht.cnrs.fr</p>
                            </div>
                         </div>
                         <div>
@@ -964,32 +965,26 @@
                         <div>
                            <head>Production et personnalisation du schéma
                               RelaxNG</head>
-                           <div>
-                              <head>L’utilisation de Roma</head>
-                           </div>
-                           <div>
-                              <head>Le format ODD</head>
-                              <p>Choix des modules</p>
-                              <p>Dès l'origine la TEI a été conçue pour être employée
-                                 comme un ensemble de briques qui permettent de
-                                 construire des schémas spécifiques pour un projet
-                                 donné. Dans cet esprit, la TEI propose un vocabulaire
-                                 pour décrire les textes sans préjuger de ce que les
-                                 textes pourraient contenir. Aussi est-il important de
-                                 comprendre que la TEI ne propose pas un schéma global,
-                                 mais un ensemble de modules parmi lesquels choisir les
-                                 éléments qui répondent à ses propres besoins. Les
-                                 trois modules <ident type="module">core</ident>,
-                                    <ident type="module">header</ident> et <ident
-                                    type="module">textstructure</ident>, ainsi que de
-                                    <ident type="module">tei</ident> lorsqu'on utilise
-                                 Relax NG, doivent être utilisés dans les cas généraux.
-                                 Certains éléments définis à l'intérieur de ces modules
-                                 sont employés par d'autres modules ce qui crée des
-                                 dépendances.</p>
-                              <p>Les <title>Guidelines</title> décrivent trois manières
-                                 de personnaliser (<foreign xml:lang="eng"
-                                    >customizing</foreign>) la TEI :<list>
+                           <p>Dès l'origine la TEI a été conçue pour être employée
+                              comme un ensemble de briques qui permettent de
+                              construire des schémas spécifiques pour un projet
+                              donné. Dans cet esprit, la TEI propose un vocabulaire
+                              pour décrire les textes sans préjuger de ce que les
+                              textes pourraient contenir. Aussi est-il important de
+                              comprendre que la TEI ne propose pas un schéma global,
+                              mais un ensemble de modules parmi lesquels choisir les
+                              éléments qui répondent à ses propres besoins. Les
+                              trois modules <ident type="module">core</ident>,
+                              <ident type="module">header</ident> et <ident
+                                 type="module">textstructure</ident>, ainsi que de
+                              <ident type="module">tei</ident> lorsqu'on utilise
+                              Relax NG, doivent être utilisés dans les cas généraux.
+                              Certains éléments définis à l'intérieur de ces modules
+                              sont employés par d'autres modules ce qui crée des
+                              dépendances.</p>
+                           <p>Les <title>Guidelines</title> décrivent trois manières
+                              de personnaliser (<foreign xml:lang="eng"
+                                 >customizing</foreign>) la TEI :<list>
                                     <item><label>1°</label> Rédiger une spécification
                                        de haut niveau pour une représentation en TEI et
                                        générer un schéma <foreign xml:lang="lat">ad
@@ -1001,10 +996,71 @@
                                     <item><label>3°</label> Utiliser les modules
                                        Relax NG, et rédiger un schéma
                                        d'enveloppe.???</item>
-                                 </list> L'approche que nous avons retenu correspond à
-                                 la première solution, mais utilisait dans la pratique
-                                 la troisième manière de personnaliser un schéma.</p>
-                              <p></p>
+                                 </list> L'approche que nous avons relève de la
+                              première solution, mais utilisait dans la pratique la
+                              troisième manière de personnaliser un schéma.</p>
+                           <p>En supprimant des modules un certain nombre d'éléments
+                              qui ne seraient pas nécessaire pour le traitement de
+                              nos sources. En restreignant la manière de traiter
+                              certains phénomènes. Ou encore en limitant les
+                              attributs disponibles sur un élément et en définissant
+                              des listes ouvertes ou fermées de valeurs possibles.
+                              Il n'a pas été choisi de modifier le nom des éléments,
+                              ni d'ajouter des éléments à la TEI.</p>
+                           <p>La définition du schéma s'opère au moyen
+                              d'aller-retour continus avec les sources textuelles
+                              que l'on souhaite traiter. Elle a d'abord été
+                              effectuée à partir d'un échantillon jugé suffisamment
+                              représentatif du corpus. Enfin, lors du passage à
+                              l'échelle, pour corriger quelques choix s'avérant
+                              inappropriés ou bien encore pour encore renforcer le
+                              contrôle par l'intermédiaire du schéma. Le processus
+                              d'élaboration du modèle est donc un processus
+                              incrémentiel, et le schéma n'est pas d'emblée figé
+                              dans le marbre.
+                              <!--TODO améliorer la rédaction.--></p>
+                           <div>
+                              <head>L’utilisation de Roma</head>
+                              <p>L'outil Roma est un service web mis à disposition dans
+                                 le cadre de la TEI afin de faciliter la
+                                 personnalisation des schémas. Le service permet de
+                                 récupérer un schéma dans le format de son choix
+                                 (Relax NG compact ou étendu, W3C schema, schematron,
+                                 etc.), mais aussi une documentation complète et une
+                                 spécification formelle exprimant la personnalisation
+                                 choisie sous la forme d'un fichier XML au format ODD
+                                 qui permet de relancer la personnalisation du schéma
+                                 dans l'application.</p>
+                              <p>Même s'il est possible de créer les documents ODD
+                                 manuellement, son interface graphique sous forme de
+                                 formulaires facilite grandement les opérations pour la
+                                 plupart des opérations courantes. Comme toute
+                                 application informatique, Roma n'est potentiellement
+                                 pas exempt d'erreurs ou de bugs. Néanmoins, nous
+                                 n'avons pas rencontrés de difficultés particulières au
+                                 cours de nos opérations malgré une réitération
+                                 régulière de l'édition du schéma avec le logiciel.</p>
+                           </div>
+                           <div>
+                              <head>Le format ODD</head>
+                              <p>L'ensemble de la TEI est rédigée dans un format source
+                                 intitulé <soCalled>ODD</soCalled> (<soCalled>One
+                                    Document Does it All</soCalled>) qui inclue les
+                                 fagments de schéma, la documentation en prose et la
+                                 documentation de référence des
+                                    <title>Guidelines</title> dans un seul document.
+                                 Une spécification ODD est un document XML-TEI habituel
+                                 qui emploie le module <ident type="module"
+                                    >tagdocs</ident>. Lequel module fournit une série
+                                 d'éléments employés pour spécifier un nouveau schéma,
+                                 ou des modifications à la structure des éléments TEI.
+                                 Cf. chapitre Documentation Elements.</p>
+                              <p>L'utilisation de cette approche de haut niveau telle
+                                 qu'ODD présente plusieurs avantages. Notamment le fait
+                                 d'être indépendant des types de schémas, le fait que
+                                 permet de travailler avec les balises habituelles de
+                                 la TEI. </p>
+                              <p>Choix des modules</p>
                               <table>
                                  <head>Les modules de la TEI</head>
                                  <row role="label">
