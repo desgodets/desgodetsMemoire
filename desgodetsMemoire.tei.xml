@@ -804,7 +804,7 @@
                            Choix délibéré, car un projet de recherche. Norme ISO un
                            moment adoptée se révélait trop contraignante.</p>
                         <p>Volonté de couvrir l'ensemble des besoins. Généricité qui a
-                           pour pendant négatif la nécessité de customiser son
+                           pour pendant négatif la nécessité de personnaliser son
                            schéma.</p>
                         <p>La TEI fournit ainsi, à l'aide d'un vocabulaire et d'une
                            infrastructure technique, un cadre de travail pour la
@@ -915,6 +915,16 @@
                   <div>
                      <head>La modélisation XML-TEI</head>
                      <div type="introduction">
+                        <p>Besoin de personnalisation d'une part parce que le texte est
+                           souvent un objet hétérogène et d'autre part car l'encodeur
+                           ou l'éditeur peut avoir des objectifs différents.</p>
+                        <p>Exemples d'hétérogénéité (choisir dans nos situations).
+                           Ensembles composites ou cas des corpus. Besoin de marquer
+                           des annotations analytiques. Traitement diplomatique.
+                           Besoins de métadonnées spécialisées pour décrire les
+                           contenus. Cas des figures. La TEI propose un ensemble de
+                           mécanismes qui permettent de traiter tous ces cas de figures
+                           (et bien d'autres).</p>
                         <p>Comme nous l'avons vu, la Text Encoding Initiative fournit
                            un grand nombre de balises dans lesquelles il est possible
                            de puiser pour modéliser son texte. Personne ne les utilise
@@ -982,19 +992,25 @@
                            <head>Production et personnalisation du schéma
                               RelaxNG</head>
                            <p>Dès l'origine la TEI a été conçue pour être employée
-                              comme un ensemble de briques qui permettent de
-                              construire des schémas spécifiques pour un projet
-                              donné. Dans cet esprit, la TEI propose un vocabulaire
-                              pour décrire les textes sans préjuger de ce que les
-                              textes pourraient contenir. Aussi est-il important de
-                              comprendre que la TEI ne propose pas un schéma global,
-                              mais un ensemble de modules parmi lesquels choisir les
-                              éléments qui répondent à ses propres besoins.</p>
-                           <p>Mettre en avant notion d'infrastructure</p>
-                           <p>Exploite de ce point de vue les possibilités offertes par
-                              XML pour contrôler le contenu d'un document XML.
-                              Expliquer la question de la validation versus
-                              bien-formés. </p>
+                              comme un ensemble de briques qui permettent de construire
+                              des schémas spécifiques pour un projet donné. Dans cet
+                              esprit, la TEI propose un vocabulaire pour décrire les
+                              textes sans préjuger de ce que les textes pourraient
+                              contenir. Aussi est-il important de comprendre que la TEI
+                              ne propose pas un schéma global, mais un ensemble de
+                              modules parmi lesquels choisir les éléments qui répondent
+                              à ses propres besoins en termes de modélisation.</p>
+                           <p>Cette modélisation s'exprime à l'aide d'un schéma qui est
+                              une personnalisation de la TEI. Il s'agit en fait de
+                              produire un sous-ensemble de la TEI approprié à son
+                              projet. Comme la TEI utilise les technologies XML, il est
+                              possible de contrôler la production d'un document dans un
+                              éditeur XML ou encore de valider son contenu en
+                              l'associant à un schéma qui peut être rédigé dans divers
+                              format. Un schéma constitue donc à la fois une manière de
+                              représenter le modèle de contenu des documents traités et
+                              de contrôler leur structure ou leur contenu d'un point de
+                              vue technique.</p>
                            <p>La définition du schéma s'opère au moyen
                               d'aller-retour continus avec les sources textuelles
                               que l'on souhaite traiter. Elle a d'abord été
@@ -1294,19 +1310,32 @@
                            <div>
                               <head>Les classes</head>
                               <p>Définition des éléments et classes de modèles</p>
-                              <p>Outre ces modules, les éléments et leurs attributs
-                                 sont également organisés en modèles de classes (??
-                                 modèle de classe??). Ces classes rassemblent un
-                                 certain nombre d'éléments afin de pouvoir y faire
-                                 référence de manière groupée. Par exemple, la
-                                 classe???... groupe les éléments.???... de sorte que
-                                 d'autres éléments puissent employer ce modèle dans
-                                 leur définition de contenu. On définit les classes de
-                                 modèle au moyen d'un élément <gi>classSpec</gi> avec
-                                 l'attribut <code>type="model"</code>. Cet élément
-                                 contient les propriétés de la classe, ce sont les
-                                 éléments qui déclarent leur appartenance à partir de
-                                 l'élément <gi>memberOf</gi> dans leur spécification à
+                              <p>Outre ces modules, les 500 éléments de la TEI et leurs
+                                 attributs sont également organisés en classes de
+                                 modèle (<foreign xml:lang="eng">model
+                                 class</foreign>))et classes d'attributs (<foreign
+                                    xml:lang="eng">attribute class</foreign>). Les
+                                 éléments d'une même classe peuvent apparaître au même
+                                 endroit dans un modèle de contenu, il s'agit alors
+                                 d'une classe de modèle, ou partager un ensemble
+                                 d'attributs, il s'agit alors d'une classe d'attributs.
+                                 Dans les deux cas, on dit qu'un élément hérite des
+                                 propriétés des classes auxquelles il appartient. Les
+                                 classes (et donc les  éléments qui sont membres de ces
+                                 classes) peuvent également hériter des propriétés
+                                 d'autres classes.</p>
+                              <p>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html#STIN</p>
+                              <p>Les classes permettent donc de rassembler un certain
+                                 nombre d'éléments afin de pouvoir y faire référence de
+                                 manière groupée. Par exemple, la classe???... groupe
+                                 les éléments.???... de sorte que d'autres éléments
+                                 puissent employer ce modèle dans leur définition de
+                                 contenu. On définit les classes de modèle au moyen
+                                 d'un élément <gi>classSpec</gi> avec l'attribut
+                                    <code>type="model"</code>. Cet élément contient les
+                                 propriétés de la classe, ce sont les éléments qui
+                                 déclarent leur appartenance à partir de l'élément
+                                    <gi>memberOf</gi> dans leur spécification à
                                  l'intérieur de <gi>elementSpec</gi>.</p>
                               <p>Définition des attributs et des classes d'attributs</p>
                               <p>Les attributs sont définis avec <gi>attDef</gi>.
@@ -1373,10 +1402,54 @@
                            </div>
                            <div>
                               <head>Personnalisation manuelle du schéma</head>
-                              <p>pour les attributs type de div</p>
+                              <p>La spécification des références aux modules. Projet
+                                 éditorial qui consiste à publier une collection de
+                                 matériaux manuscrits sous la forme d'un corpus. Chaque
+                                 source manuscrite devant faire l'objet d'une
+                                 description appropriée, et pouvant comprendre des
+                                 images, besoin d'ajouter plusieurs modules aux quatres
+                                 modules habituels tei, header, cors, et
+                                 textstructure.</p>
+                              <p>Le module msdescription va permettre de prendre en
+                                 charge une grande partie de la description des
+                                 manuscrits. transcr est un module spécialisé dans la
+                                 transcription des sources primaires manuscrites. Le
+                                 module figures apportera quant à lui... S'agissant
+                                 d'une édition à caractère historique, nous avons jugé
+                                 que le module namesdates nous serait utile.</p>
+                              <p>En ODD utilise à l'intérieur de schemaSpec, série
+                                 d'élément moduleRef avec l'attribut key pour faire
+                                 appel à ces modules :
+                                 <egXML>
+                                    <!-- corriger pour adapter à notre situation -->
+                                    <schemaSpec ident="TEI-PROJECT" start="TEI">
+                                       <moduleRef key="tei" />
+                                       <moduleRef key="header" />
+                                       <moduleRef key="core" />
+                                       <moduleRef key="textstructure" />
+                                       <moduleRef key="msdescription" />
+                                       <!-- description des manuscrits -->
+                                       <moduleRef key="transcr" />
+                                       <!-- transcription des sources primaires -->
+                                       <moduleRef key="figures" />
+                                       <!-- tableaux et figures -->
+                                       <moduleRef key="namesdates" />
+                                       <!-- noms, dates, personnes et lieux -->
+                                    </schemaSpec>
+                                 </egXML></p>
+                              <p>Personnalisation plus avancée</p>
+                              <p>Au sein de chaque module, l'architecture de la TEI
+                                 permet une personnalisation plus détaillée. La
+                                 spécification que nous avons élaborée à l'aide de Roma
+                                 a par exemple supprimer un certain nombre d'éléments
+                                 jugés inutiles à l’intérieur de ces différents
+                                 modules.</p>
+                              <p>exemples de code</p>
+                              <p>Pour les attributs type de div</p>
+                              <p>exemple de code</p>
                               <p>Liste de valeurs explicitement énumérées avec
                                  vlaList</p>
-                              <p />
+                              <p>exemple de code</p>
                            </div>
                         </div>
                      </div>
