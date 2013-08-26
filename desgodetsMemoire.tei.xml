@@ -957,6 +957,22 @@
                               <head>Identification des manuscrits et production des
                                  métadonnées</head>
                               <p>http://codicologia.irht.cnrs.fr</p>
+                              <p>Production des métadonnées sur les images</p>
+                              <p>La TEI a été conçue pour traiter la plupart des textes
+                                 littéraires. Elle ne présent pas décrire d'autres
+                                 langages descriptifs spécialisés comme ceux conçus
+                                 pour la chimie, le vocabulaire technique, etc.</p>
+                              <p>Il est cependant possible de concevoir des documents
+                                 composites en mixant des matériaux tirés de champs
+                                 différents. En l'espère vocabulaire de métadonnées.
+                                 Dès lors que l'ensemble des éléments TEI sont placés
+                                 dans leur espace de nom, il est possible d'écrire un
+                                 document qui intercale des balises TEI et des balises
+                                 d'un autre espace de nom. Pour valider un tel document
+                                 contre un schéma, il est possible de valider
+                                 séparément les deux langages, ou personnaliser la TEI
+                                 pour déterminer les endroits où l'insertion du langage
+                                 "étranger" est permise. </p>
                            </div>
                         </div>
                         <div>
@@ -975,31 +991,10 @@
                               mais un ensemble de modules parmi lesquels choisir les
                               éléments qui répondent à ses propres besoins.</p>
                            <p>Mettre en avant notion d'infrastructure</p>
-                           <p>Les <title>Guidelines</title> décrivent trois manières
-                              de personnaliser (<foreign xml:lang="eng"
-                                 >customizing</foreign>) la TEI :<list>
-                                    <item><label>1°</label> Rédiger une spécification
-                                       de haut niveau pour une représentation en TEI et
-                                       générer un schéma <foreign xml:lang="lat">ad
-                                          hoc</foreign> ;</item>
-                                    <item><label n="2">2°</label> Utiliser les modules
-                                       de la TEI et spécifier dans ces sous-ensembles
-                                       quels fonctionnalités l'on souhaite
-                                       activer ;</item>
-                                    <item><label>3°</label> Utiliser les modules
-                                       Relax NG, et rédiger un schéma
-                                       d'enveloppe.???</item>
-                                 </list> L'approche que nous avons relève de la
-                              première solution, mais utilisait dans la pratique la
-                              troisième manière de personnaliser un schéma.</p>
-                           <p>En supprimant des modules un certain nombre d'éléments
-                              qui ne seraient pas nécessaire pour le traitement de
-                              nos sources. En restreignant la manière de traiter
-                              certains phénomènes. Ou encore en limitant les
-                              attributs disponibles sur un élément et en définissant
-                              des listes ouvertes ou fermées de valeurs possibles.
-                              Il n'a pas été choisi de modifier le nom des éléments,
-                              ni d'ajouter des éléments à la TEI.</p>
+                           <p>Exploite de ce point de vue les possibilités offertes par
+                              XML pour contrôler le contenu d'un document XML.
+                              Expliquer la question de la validation versus
+                              bien-formés. </p>
                            <p>La définition du schéma s'opère au moyen
                               d'aller-retour continus avec les sources textuelles
                               que l'on souhaite traiter. Elle a d'abord été
@@ -1013,41 +1008,56 @@
                               dans le marbre.
                               <!--TODO améliorer la rédaction.--></p>
                            <div>
-                              <head>L’utilisation de Roma</head>
-                              <p>L'outil Roma est un service web mis à disposition dans
-                                 le cadre de la TEI afin de faciliter la
-                                 personnalisation des schémas. Le service permet de
-                                 récupérer un schéma dans le format de son choix
-                                 (Relax NG compact ou étendu, W3C schema, schematron,
-                                 etc.), mais aussi une documentation complète et une
-                                 spécification formelle exprimant la personnalisation
-                                 choisie sous la forme d'un fichier XML au format ODD
-                                 qui permet de relancer la personnalisation du schéma
-                                 dans l'application.</p>
-                              <p>Même s'il est possible de créer les documents ODD
-                                 manuellement, son interface graphique sous forme de
-                                 formulaires facilite grandement les opérations pour la
-                                 plupart des opérations courantes. Comme toute
-                                 application informatique, Roma n'est potentiellement
-                                 pas exempt d'erreurs ou de bugs. Néanmoins, nous
-                                 n'avons pas rencontrés de difficultés particulières au
-                                 cours de nos opérations malgré une réitération
-                                 régulière de l'édition du schéma avec le logiciel.</p>
-                           </div>
-                           <div>
-                              <head>Le format ODD</head>
-                              <p>L'ensemble de la TEI est rédigée dans un format source
-                                 intitulé <soCalled>ODD</soCalled> (<soCalled>One
-                                    Document Does it All</soCalled>) qui inclue les
-                                 fragments de schéma, la documentation en prose et la
-                                 documentation de référence des
-                                    <title>Guidelines</title> dans un seul document.
-                                 Une spécification ODD est un document XML-TEI habituel
-                                 qui emploie le module <ident type="module"
-                                    >tagdocs</ident>. Lequel module fournit une série
-                                 d'éléments employés pour spécifier un nouveau schéma,
-                                 ou des modifications à la structure des éléments TEI.
-                                 Cf. chapitre Documentation Elements.</p>
+                              <head>L'infrastructure de la TEI et la personnalisation</head>
+                              <p>L'architecture de la TEI permet de construire un
+                                 schéma en combinant comme de besoin des déclarations
+                                 d'éléments et d'attributs. Chaque élément est
+                                 documenté par un élément de spécification adéquat et
+                                 dispose d'un identifiant unique dans le système. Pour
+                                 pour de facilité, ces spécifications sont groupées
+                                 dans des modules distincts qui peuvent être combinés
+                                 entre eux. Chaque module détermine un certain nombre
+                                 d'éléments spécifiques qui peuvent également
+                                 renseigner des classes particulières. Toutes les
+                                 classes sont disponibles globalement, indépendamment
+                                 des modules dans lesquelles elles sont déclarées.
+                                 Lorsque c'est possible, les modèles de contenus sont
+                                 définis en termes de classes (<foreign xml:lang="eng"
+                                    >classes</foreign>), les modules peuvent également
+                                 déclarer certains motifs particuliers (<foreign
+                                    xml:lang="eng">patterns</foreign>). [[revoir
+                                 fin]]</p>
+                              <p>Il est possible de personnaliser la TEI en supprimant
+                                 des modules un certain nombre d'éléments qui ne
+                                 seraient pas nécessaires pour le traitement de ses
+                                 documents ou en modifiant ces classes. Ce faisant, on
+                                 peut restreindre la manière de traiter certains
+                                 phénomènes, ou encore, limiter les attributs
+                                 disponibles sur un élément et définir des listes
+                                 ouvertes ou fermées de valeurs possibles pour ces
+                                 attributs. Au besoin, on peut également modifier le
+                                 nom des éléments par exemple pour
+                                 l'internationalisation ou ajouter des éléments, ce qui
+                                 n'a pas été retenu dans le cadre de notre projet.</p>
+                              <p>Les <title>Guidelines</title> décrivent trois manières
+                                 de personnaliser (<foreign xml:lang="eng"
+                                    >customizing</foreign>) la TEI :<list>
+                                    <item><label>1°</label> Rédiger une spécification
+                                       de haut niveau pour une représentation en TEI et
+                                       générer un schéma <foreign xml:lang="lat">ad
+                                          hoc</foreign> ;</item>
+                                    <item><label n="2">2°</label> Utiliser les modules
+                                       de la TEI et spécifier dans ces sous-ensembles
+                                       quels fonctionnalités l'on souhaite
+                                       activer ;</item>
+                                    <item><label>3°</label> Utiliser les modules
+                                       Relax NG, et rédiger un schéma
+                                       d'enveloppe.???</item>
+                                 </list> L'approche que nous avons relève de la
+                                 première solution.</p>
+                              <p>Lister et présenter ici les éléments de
+                                 l'infrastructure TEI (modules, classes de modèle,
+                                 classes d'attribut, macro). Le format ODD.</p>
                            </div>
                            <div>
                               <head>La rédaction d'une spécification formelle</head>
@@ -1061,6 +1071,75 @@
                                  par la TEI. Enfin, l'utilitaire Roma génère un simple
                                  fichier portable que l'on peut utiliser pour partager
                                  son schéma.</p>
+                           </div>
+                           <div>
+                              <head>Le format ODD</head>
+                              <p>L'ensemble de la TEI est rédigée dans un format source
+                                 intitulé <soCalled>ODD</soCalled> (<soCalled>One
+                                    Document Does it All</soCalled>) qui inclue les
+                                 fragments de schéma, la documentation en prose et la
+                                 documentation de référence des
+                                    <title>Guidelines</title> dans un seul document.
+                                 Une spécification ODD est un document XML-TEI habituel
+                                 qui emploie le module <ident type="module"
+                                    >tagdocs</ident>. Lequel module fournit une série
+                                 d'éléments employés pour spécifier un nouveau schéma,
+                                 ou des modifications apportées à la structure des
+                                 éléments TEI pour générer automatiquement un schéma
+                                 dans le format choisi et sa documentation
+                                 correspondante au moyen d'un processeur destiné à cet
+                                 effet. Cf. chapitre 22 Documentation Elements,
+                                 http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TD.html</p>
+                              <p>Le concept de ODD fut envisagé et implémenté par Lou
+                                 Burnard et Michael Sperberg-McQueen relativement tôt
+                                 dans le développement de la TEI, une de ses formes fut
+                                 documentée dans les versions 3 et 4 des
+                                    <title>Guidelines</title>. Les balises décrites
+                                 divergeaient malheureusement de celles employés pour
+                                 la rédaction des <title>Guidelines</title>. L'ensemble
+                                 a complètement été révisé et simplifié pour la version
+                                 5 de la TEI, et les <title>Guidelines</title> mises en
+                                 conformités avec elle, par un groupe de travail dirigé
+                                 par Sebastian Rahtz.</p>
+                              <p>Document ODD comme un document XML-TEI habituel. Voir
+                                 plus bas. </p>
+                           </div>
+                           <div>
+                              <head>L’utilisation de Roma</head>
+                              <p>L'outil Roma est un service web mis à disposition dans
+                                 le cadre de la TEI afin de faciliter la
+                                 personnalisation des schémas. [[distinguer le
+                                 processing d'un document ODD de la personnalisation
+                                 d'un schéma à l'aide de l'interface graphique]] Le
+                                 service permet de récupérer un schéma dans le format
+                                 de son choix, mais aussi une documentation complète et
+                                 une spécification formelle exprimant la
+                                 personnalisation choisie sous la forme d'un fichier
+                                 XML au format ODD qui permet de relancer la
+                                 personnalisation du schéma dans l'application.</p>
+                              <p>Roma est un programme qui utilise un ensemble de
+                                 transformations XSLT mises à disposition par la TEI
+                                 capables de traiter des document ODD. Roma prend un
+                                 fichier au format ODD en entrée et est capable de
+                                 produire en sortie différents types de documents : des
+                                 schémas au formats requis pour l'édition des documents
+                                 dans un éditeur XML ou pour la validation de documents
+                                 XML (Relax NG dans les syntaxes compactes ou étendues,
+                                 W3C shema, Schematron, etc.), et la documentation
+                                 correspondante. Le logiciel permet également de
+                                 produire une documentation correspondante pour
+                                 l'ensemble des éléments choisis dans la TEI à partir
+                                 des <title>Guidelines</title>.</p>
+                              <p>Même s'il est possible de créer les documents ODD
+                                 manuellement, l'interface graphique sous forme de
+                                 formulaires proposée par Roma facilite grandement les
+                                 opérations pour la plupart des opérations courantes.
+                                 Comme toute application informatique, Roma n'est
+                                 potentiellement pas exempt d'erreurs ou de bugs.
+                                 Néanmoins, nous n'avons pas rencontrés de difficultés
+                                 particulières au cours de nos opérations malgré une
+                                 réitération régulière de l'édition du schéma avec le
+                                 logiciel.</p>
                            </div>
                            <div>
                               <head>Les modules de la TEI</head>
@@ -1231,7 +1310,7 @@
                                  l'intérieur de <gi>elementSpec</gi>.</p>
                               <p>Définition des attributs et des classes d'attributs</p>
                               <p>Les attributs sont définis avec <gi>attDef</gi>.
-                                 Ceux-ci peuvent être définis dans deux conetxtes :
+                                 Ceux-ci peuvent être définis dans deux contextes :
                                  certains attributs sont directement définis avec
                                  l'élément (exemple ??). D'autres, employés par un
                                  ensemble d'éléments sont définis pour plus de
@@ -1239,11 +1318,12 @@
                                     xml:lang="eng">attribute classes</foreign>). Pour
                                  permettre le regroupement des classes similaires,
                                  celles-ci peuvent être imbriquées, autrement dit une
-                                 classe peut être membre d'une autre classe. On définit les classes de
-                                 modèle au moyen d'un élément <gi>classSpec</gi> avec
-                                 l'attribut <code>type="atts"</code>.</p>
+                                 classe peut être membre d'une autre classe. On définit
+                                 les classes de modèle au moyen d'un élément
+                                    <gi>classSpec</gi> avec l'attribut
+                                    <code>type="atts"</code>.</p>
                               <p>Les macros</p>
-                              <p>Il est enfin possible d'utiliser à plusierus endroits
+                              <p>Il est enfin possible d'utiliser à plusieurs endroits
                                  le même bloc de contenu par exemple pour définitir le
                                  type de données des attributs TEI. Les macros sont
                                  définies avec l'élément <gi>macroSpec</gi>.</p>
@@ -1252,8 +1332,7 @@
                                  schemaSpec contenant un ensemble de déclarations
                                  explicites de spécifications d'éléments, de casses, ou
                                  de macro dont la définition est contenue dans les
-                                 éléments elementSpec, macroSpec et classSpec. [[en
-                                 fait, comme des surcharges]]</p>
+                                 éléments elementSpec, macroSpec et classSpec.</p>
                               <p>Dire qu'il s'agit d'un fichier TEI habituel,
                                  comprenant une en-tête TEI et text et body l'élément
                                  schemaSpec contenant les déclarations. À partir d'un
@@ -1262,7 +1341,7 @@
                                  produire un schéma du type requis et éventuellement
                                  une documentation de tous les éléments choisis. À
                                  l'intérieur de moduleRef qui désigne un module par son
-                                 attribut key, il est possible de désigner des éléments
+                                 attribut key, il est possible de désigner des élements
                                  ou des classes du modules individuellement avec les
                                  éléments elementSpec, classSpec, ou macroSpec. Chacun
                                  de ces éléments portant l'attribut mode qui peut
@@ -1276,9 +1355,28 @@
                                  l'élément div pour rendre son attribut type
                                  obligatoire en choisissant parmi une liste de valeurs
                                  définie.</p>
+                              <p>exemple de code</p>
+                              <p>La valeur change de l'attribut mode doit être fournie
+                                 sur chaque partie identifiable de l'objet qui doit
+                                 être modifiée. Ainsi, l'élément elementSpec est en
+                                 mode "change", de même attDef tandis que l'élément
+                                 valLIst est en mode de remplacement. Tous les éléments
+                                 qui ne sont pas spécifiés pour être modifiés sont
+                                 copiés depuis l'original (les exemples, référence,
+                                 etc.).</p>
+                              <p>Le mode modification peut également s'appliquer à des
+                                 classes. Dans cet exemple, nous avons retiré à l'aide
+                                 de Roma un ensemble d'attributs pour tout élément
+                                 membre de la classe...</p>
+                              <p>exemple de code</p>
+                              <p />
                            </div>
                            <div>
                               <head>Personnalisation manuelle du schéma</head>
+                              <p>pour les attributs type de div</p>
+                              <p>Liste de valeurs explicitement énumérées avec
+                                 vlaList</p>
+                              <p />
                            </div>
                         </div>
                      </div>
