@@ -973,15 +973,8 @@
                               textes pourraient contenir. Aussi est-il important de
                               comprendre que la TEI ne propose pas un schéma global,
                               mais un ensemble de modules parmi lesquels choisir les
-                              éléments qui répondent à ses propres besoins. Les
-                              trois modules <ident type="module">core</ident>,
-                              <ident type="module">header</ident> et <ident
-                                 type="module">textstructure</ident>, ainsi que de
-                              <ident type="module">tei</ident> lorsqu'on utilise
-                              Relax NG, doivent être utilisés dans les cas généraux.
-                              Certains éléments définis à l'intérieur de ces modules
-                              sont employés par d'autres modules ce qui crée des
-                              dépendances.</p>
+                              éléments qui répondent à ses propres besoins.</p>
+                           <p>Mettre en avant notion d'infrastructure</p>
                            <p>Les <title>Guidelines</title> décrivent trois manières
                               de personnaliser (<foreign xml:lang="eng"
                                  >customizing</foreign>) la TEI :<list>
@@ -1046,7 +1039,7 @@
                               <p>L'ensemble de la TEI est rédigée dans un format source
                                  intitulé <soCalled>ODD</soCalled> (<soCalled>One
                                     Document Does it All</soCalled>) qui inclue les
-                                 fagments de schéma, la documentation en prose et la
+                                 fragments de schéma, la documentation en prose et la
                                  documentation de référence des
                                     <title>Guidelines</title> dans un seul document.
                                  Une spécification ODD est un document XML-TEI habituel
@@ -1055,12 +1048,35 @@
                                  d'éléments employés pour spécifier un nouveau schéma,
                                  ou des modifications à la structure des éléments TEI.
                                  Cf. chapitre Documentation Elements.</p>
-                              <p>L'utilisation de cette approche de haut niveau telle
-                                 qu'ODD présente plusieurs avantages. Notamment le fait
-                                 d'être indépendant des types de schémas, le fait que
-                                 permet de travailler avec les balises habituelles de
-                                 la TEI. </p>
-                              <p>Choix des modules</p>
+                           </div>
+                           <div>
+                              <head>La rédaction d'une spécification formelle</head>
+                              <p>Il est recommandé de personnaliser la TEI au moyen
+                                 d'une spécification formelle. L'utilisation de cette
+                                 approche de haut niveau telle qu'ODD présente
+                                 plusieurs avantages : Elle est d'abord indépendante
+                                 des types de schémas utilisés. Elle permet de
+                                 travailler avec les balises habituelles de la TEI.
+                                 Elle autorise l'utilisation des classes mis en place
+                                 par la TEI. Enfin, l'utilitaire Roma génère un simple
+                                 fichier portable que l'on peut utiliser pour partager
+                                 son schéma.</p>
+                           </div>
+                           <div>
+                              <head>Les modules de la TEI</head>
+                              <p>Dans l'infrastructure de la TEI, les éléments de la
+                                 TEI sont organisés dans différents modules qui les
+                                 regroupent par type d'utilisation. Il y a au total
+                                 vingt-deux modules d'actuellement définis, dont on
+                                 trouvera la liste dans le tableau ci-contre. Les trois
+                                 modules <ident type="module">core</ident>, <ident
+                                    type="module">header</ident> et <ident
+                                    type="module">textstructure</ident>, ainsi que de
+                                    <ident type="module">tei</ident> lorsqu'on utilise
+                                 Relax NG, doivent être utilisés dans les cas généraux.
+                                 Certains éléments définis à l'intérieur de ces modules
+                                 sont employés par d'autres modules ce qui crée des
+                                 dépendances.</p>
                               <table>
                                  <head>Les modules de la TEI</head>
                                  <row role="label">
@@ -1079,9 +1095,11 @@
                                     <cell>Certitude et incertitude</cell>
                                  </row>
                                  <row>
-                                    <cell><hi rend="bold"><ident type="module">core</ident></hi></cell>
+                                    <cell><hi rend="bold"><ident type="module"
+                                           >core</ident></hi></cell>
                                     <cell>Elements commons to all TEI documents</cell>
-                                    <cell>Éléments communs à tous les documents TEI</cell>
+                                    <cell>Éléments communs à tous les documents
+                                       TEI</cell>
                                  </row>
                                  <row>
                                     <cell><ident type="module">corpus</ident></cell>
@@ -1095,10 +1113,12 @@
                                        déclaration</cell>
                                  </row>
                                  <row>
-                                    <cell><ident type="module">dictionaries</ident></cell>
+                                    <cell><ident type="module"
+                                       >dictionaries</ident></cell>
                                     <cell>Dictionaries and other lexical
                                        resources</cell>
-                                    <cell>Dictionnaires et autres ressources lexicales </cell>
+                                    <cell>Dictionnaires et autres ressources lexicales
+                                    </cell>
                                  </row>
                                  <row>
                                     <cell><ident type="module">drama</ident></cell>
@@ -1117,7 +1137,8 @@
                                        glyphes</cell>
                                  </row>
                                  <row>
-                                    <cell><hi rend="bold"><ident type="module">header</ident></hi></cell>
+                                    <cell><hi rend="bold"><ident type="module"
+                                           >header</ident></hi></cell>
                                     <cell>The TEI Header</cell>
                                     <cell>L'en-tête TEI</cell>
                                  </row>
@@ -1132,12 +1153,14 @@
                                     <cell>Lien, segmentation et alignement</cell>
                                  </row>
                                  <row>
-                                    <cell><ident type="module">msdescription</ident></cell>
+                                    <cell><ident type="module"
+                                       >msdescription</ident></cell>
                                     <cell>Manuscript Description</cell>
                                     <cell>Description des manuscrits</cell>
                                  </row>
                                  <row>
-                                    <cell><ident type="module">namesdates</ident></cell>
+                                    <cell><ident type="module"
+                                       >namesdates</ident></cell>
                                     <cell>Names and dates</cell>
                                     <cell>Noms et dates</cell>
                                  </row>
@@ -1157,7 +1180,8 @@
                                     <cell>Documentation des modules TEI</cell>
                                  </row>
                                  <row>
-                                    <cell><hi rend="bold"><ident type="module">tei</ident></hi></cell>
+                                    <cell><hi rend="bold"><ident type="module"
+                                           >tei</ident></hi></cell>
                                     <cell>Declarations for datatypes, classes, and
                                        macros available to all TEI modules</cell>
                                     <cell>Déclaration pour les types de données, les
@@ -1170,7 +1194,8 @@
                                     <cell>Critique textuelle</cell>
                                  </row>
                                  <row>
-                                    <cell><hi rend="bold"><ident type="module">textstructure</ident></hi></cell>
+                                    <cell><hi rend="bold"><ident type="module"
+                                           >textstructure</ident></hi></cell>
                                     <cell>Default text structure</cell>
                                     <cell>Structure textuelles par défaut</cell>
                                  </row>
@@ -1185,10 +1210,75 @@
                                     <cell>Structures versifiées</cell>
                                  </row>
                               </table>
-                              <p/>
-                              <div>
-                                 <head>Personnalisation manuelle du schéma</head>
-                              </div>
+                              <p>Définition d'un élément au moyen d'un <gi>elementSpec</gi></p>
+                           </div>
+                           <div>
+                              <head>Les classes</head>
+                              <p>Définition des éléments et classes de modèles</p>
+                              <p>Outre ces modules, les éléments et leurs attributs
+                                 sont également organisés en modèles de classes (??
+                                 modèle de classe??). Ces classes rassemblent un
+                                 certain nombre d'éléments afin de pouvoir y faire
+                                 référence de manière groupée. Par exemple, la
+                                 classe???... groupe les éléments.???... de sorte que
+                                 d'autres éléments puissent employer ce modèle dans
+                                 leur définition de contenu. On définit les classes de
+                                 modèle au moyen d'un élément <gi>classSpec</gi> avec
+                                 l'attribut <code>type="model"</code>. Cet élément
+                                 contient les propriétés de la classe, ce sont les
+                                 éléments qui déclarent leur appartenance à partir de
+                                 l'élément <gi>memberOf</gi> dans leur spécification à
+                                 l'intérieur de <gi>elementSpec</gi>.</p>
+                              <p>Définition des attributs et des classes d'attributs</p>
+                              <p>Les attributs sont définis avec <gi>attDef</gi>.
+                                 Ceux-ci peuvent être définis dans deux conetxtes :
+                                 certains attributs sont directement définis avec
+                                 l'élément (exemple ??). D'autres, employés par un
+                                 ensemble d'éléments sont définis pour plus de
+                                 commodités dans des classes d'attributs (<foreign
+                                    xml:lang="eng">attribute classes</foreign>). Pour
+                                 permettre le regroupement des classes similaires,
+                                 celles-ci peuvent être imbriquées, autrement dit une
+                                 classe peut être membre d'une autre classe. On définit les classes de
+                                 modèle au moyen d'un élément <gi>classSpec</gi> avec
+                                 l'attribut <code>type="atts"</code>.</p>
+                              <p>Les macros</p>
+                              <p>Il est enfin possible d'utiliser à plusierus endroits
+                                 le même bloc de contenu par exemple pour définitir le
+                                 type de données des attributs TEI. Les macros sont
+                                 définies avec l'élément <gi>macroSpec</gi>.</p>
+                              <p>La structure de la spécification d'un schéma</p>
+                              <p>Un schéma TEI est défini au moyen d'un élément
+                                 schemaSpec contenant un ensemble de déclarations
+                                 explicites de spécifications d'éléments, de casses, ou
+                                 de macro dont la définition est contenue dans les
+                                 éléments elementSpec, macroSpec et classSpec. [[en
+                                 fait, comme des surcharges]]</p>
+                              <p>Dire qu'il s'agit d'un fichier TEI habituel,
+                                 comprenant une en-tête TEI et text et body l'élément
+                                 schemaSpec contenant les déclarations. À partir d'un
+                                 tel document, un processeur ODD sera en mesure de
+                                 combiner les déclarations des modules désignés et
+                                 produire un schéma du type requis et éventuellement
+                                 une documentation de tous les éléments choisis. À
+                                 l'intérieur de moduleRef qui désigne un module par son
+                                 attribut key, il est possible de désigner des éléments
+                                 ou des classes du modules individuellement avec les
+                                 éléments elementSpec, classSpec, ou macroSpec. Chacun
+                                 de ces éléments portant l'attribut mode qui peut
+                                 prendre plusieurs valeurs add, replace, delete, et
+                                 change.</p>
+                              <p>Déclarer que l'on ne souhaite pas voir apparaître
+                                    certains éléments dans notre schéma est aisé. ???
+                                    exemple</p>
+                              <p>Modifier des éléments existants.</p>
+                              <p>Nous avons par exemple modifié le comportement de
+                                 l'élément div pour rendre son attribut type
+                                 obligatoire en choisissant parmi une liste de valeurs
+                                 définie.</p>
+                           </div>
+                           <div>
+                              <head>Personnalisation manuelle du schéma</head>
                            </div>
                         </div>
                      </div>
