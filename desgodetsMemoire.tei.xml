@@ -205,9 +205,9 @@
       
       <body xml:id="desgodetsMemoireBody">
          <div xml:id="desgodetsMemoireBodyFr" xml:lang="fr">
-            <div xml:id="desgodetsMemoireBodyFr01" type="part">
+            <div xml:id="desgodetsMemoireBodyFr01" type="part" n="1">
                <head>Le cadre du projet</head>
-               <div>
+               <div type="chapter" n="1">
                   <head>Le projet d’ANR Desgodets, un contexte de travail
                      collaboratif ?</head>
                   <div>
@@ -319,7 +319,7 @@
                         ou résoudre un problème. </p>
                   </div>
                </div>
-               <div>
+               <div type="chapter" n="2">
                   <head>Les cours de Desgodets</head>
                   <div>
                      <head>Introduction</head>
@@ -511,7 +511,7 @@
                      </div>
                   </div>
                </div>
-               <div>
+               <div type="chapter" n="3">
                   <head>Le projet éditorial</head>
                   <div>
                      <head>Introduction</head>
@@ -666,9 +666,13 @@
                   </div>
                </div>
             </div>
-            <div xml:id="desgodetsMemoireBodyFr02" type="part">
+            <div xml:id="desgodetsMemoireBodyFr02" type="part" n="2">
                <head>L’assistance à la maîtrise d’ouvrage</head>
-               <div>
+               <div type="introduction">
+                  <head>Introduction</head>
+                  <p></p>
+               </div>
+               <div type="chapter" n="1">
                   <head>Planification et adaptations apportées au cahier des
                      charges</head>
                   <div>
@@ -681,7 +685,7 @@
                      </div>
                   </div>
                </div>
-               <div>
+               <div type="chapter" n="2">
                   <head>L’encodage des textes</head>
                   <div type="introduction">
                      <p>Les trois opérations qui interviennent au cours du balisage
@@ -925,6 +929,24 @@
                            contenus. Cas des figures. La TEI propose un ensemble de
                            mécanismes qui permettent de traiter tous ces cas de figures
                            (et bien d'autres).</p>
+                        <p>
+                           <quote>Formellement parlant, les <title>Guidelines</title>
+                              fournissent à la fois des règles syntactiques sur la
+                              manière dont des éléments et des attributs doivent être
+                              utilisés dans des documents valides, mais aussi des
+                              recommandations sémantiques sur l'interprétation que l'on
+                              doit attacher à certaines constructions syntactiques. En
+                              ce sens, elle fournissent à la fois une définition de
+                              type de document, et une déclaration de type de document.
+                              Plus exactement, on peut distinguer <hi rend="italic"
+                                 >modèle abstrait de la TEI</hi> (<foreign
+                                 xml:lang="eng">TEI Abstract Model</foreign>) qui
+                              définit un ensemble de concepts en rapport, et le <hi
+                                 rend="italic">schéma TEI</hi> (<foreign xml:lang="eng"
+                                 >TEI schema</foreign>) qui définit un ensemble de
+                              règles et de contraintes syntactiques. {Guidelines
+                              23.3}</quote>
+                        </p>
                         <p>Comme nous l'avons vu, la Text Encoding Initiative fournit
                            un grand nombre de balises dans lesquelles il est possible
                            de puiser pour modéliser son texte. Personne ne les utilise
@@ -1007,10 +1029,10 @@
                               possible de contrôler la production d'un document dans un
                               éditeur XML ou encore de valider son contenu en
                               l'associant à un schéma qui peut être rédigé dans divers
-                              format. Un schéma constitue donc à la fois une manière de
-                              représenter le modèle de contenu des documents traités et
-                              de contrôler leur structure ou leur contenu d'un point de
-                              vue technique.</p>
+                              formats. Un schéma constitue donc à la fois une manière
+                              de représenter le modèle de contenu des documents traités
+                              et de contrôler leur structure ou leur contenu d'un point
+                              de vue technique.</p>
                            <p>La définition du schéma s'opère au moyen
                               d'aller-retour continus avec les sources textuelles
                               que l'on souhaite traiter. Elle a d'abord été
@@ -1049,12 +1071,12 @@
                                  documents ou en modifiant ces classes. Ce faisant, on
                                  peut restreindre la manière de traiter certains
                                  phénomènes, ou encore, limiter les attributs
-                                 disponibles sur un élément et définir des listes
-                                 ouvertes ou fermées de valeurs possibles pour ces
-                                 attributs. Au besoin, on peut également modifier le
-                                 nom des éléments par exemple pour
-                                 l'internationalisation ou ajouter des éléments, ce qui
-                                 n'a pas été retenu dans le cadre de notre projet.</p>
+                                 disponibles sur un élément, et définir pour ces
+                                 attributs des listes de valeurs ouvertes ou fermées.
+                                 Au besoin, on peut également modifier le nom des
+                                 éléments par exemple pour l'internationalisation ou
+                                 ajouter des éléments, ce qui n'a pas été retenu dans
+                                 le cadre de notre projet.</p>
                               <p>Les <title>Guidelines</title> décrivent trois manières
                                  de personnaliser (<foreign xml:lang="eng"
                                     >customizing</foreign>) la TEI :<list>
@@ -1071,6 +1093,11 @@
                                        d'enveloppe.???</item>
                                  </list> L'approche que nous avons relève de la
                                  première solution.</p>
+                              <p>On distingue habituellement les modifications dites
+                                 propres, des non propres en fonction de leur
+                                 conformité (<foreign xml:lang="eng"
+                                    >conformance</foreign>) à la TEI, sachant que
+                                 celle-ci peut faire l'objet d'extension.</p>
                               <p>Lister et présenter ici les éléments de
                                  l'infrastructure TEI (modules, classes de modèle,
                                  classes d'attribut, macro). Le format ODD.</p>
@@ -1172,6 +1199,8 @@
                                  Certains éléments définis à l'intérieur de ces modules
                                  sont employés par d'autres modules ce qui crée des
                                  dépendances.</p>
+                              <p>relever qu'un chapitre des Guidelines couvre chaque
+                                 module.</p>
                               <table>
                                  <head>Les modules de la TEI</head>
                                  <row role="label">
@@ -1310,21 +1339,28 @@
                            <div>
                               <head>Les classes</head>
                               <p>Définition des éléments et classes de modèles</p>
-                              <p>Outre ces modules, les 500 éléments de la TEI et leurs
+                              <p>Outre ces modules, les 543 éléments de la TEI et leurs
                                  attributs sont également organisés en classes de
                                  modèle (<foreign xml:lang="eng">model
-                                 class</foreign>))et classes d'attributs (<foreign
-                                    xml:lang="eng">attribute class</foreign>). Les
-                                 éléments d'une même classe peuvent apparaître au même
-                                 endroit dans un modèle de contenu, il s'agit alors
-                                 d'une classe de modèle, ou partager un ensemble
-                                 d'attributs, il s'agit alors d'une classe d'attributs.
-                                 Dans les deux cas, on dit qu'un élément hérite des
-                                 propriétés des classes auxquelles il appartient. Les
-                                 classes (et donc les  éléments qui sont membres de ces
-                                 classes) peuvent également hériter des propriétés
-                                 d'autres classes.</p>
+                                 class</foreign>))et classes d'attribut (<foreign
+                                    xml:lang="eng">attribute class</foreign>) afin de
+                                 faciliter leur modification. Les éléments d'une même
+                                 classe peuvent apparaître au même endroit dans un
+                                 modèle de contenu, il s'agit alors d'une classe de
+                                 modèle, ou partager un ensemble d'attributs, il s'agit
+                                 alors d'une classe d'attributs. Dans les deux cas, on
+                                 dit qu'un élément hérite des propriétés des classes
+                                 auxquelles il appartient. Les classes (et donc les
+                                 éléments qui sont membres de ces classes) peuvent
+                                 également hériter des propriétés d'autres classes.</p>
                               <p>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html#STIN</p>
+                              <p>Appendice des <title>Guidelines</title> qui liste les
+                                 classes de modèles :
+                                 http://www.tei-c.org/release/doc/tei-p5-doc/en/html/REF-CLASSES-MODEL.html</p>
+                              <p>Appendice des <title>Guidelines</title> qui liste les
+                                 classes d'attribut :
+                                 http://www.tei-c.org/release/doc/tei-p5-doc/en/html/REF-CLASSES-ATTS.html</p>
+                              <p>intérêt de factoriser les déclarations</p>
                               <p>Les classes permettent donc de rassembler un certain
                                  nombre d'éléments afin de pouvoir y faire référence de
                                  manière groupée. Par exemple, la classe???... groupe
@@ -1337,13 +1373,13 @@
                                  déclarent leur appartenance à partir de l'élément
                                     <gi>memberOf</gi> dans leur spécification à
                                  l'intérieur de <gi>elementSpec</gi>.</p>
-                              <p>Définition des attributs et des classes d'attributs</p>
+                              <p>Définition des attributs et des classes d'attribut</p>
                               <p>Les attributs sont définis avec <gi>attDef</gi>.
                                  Ceux-ci peuvent être définis dans deux contextes :
                                  certains attributs sont directement définis avec
                                  l'élément (exemple ??). D'autres, employés par un
                                  ensemble d'éléments sont définis pour plus de
-                                 commodités dans des classes d'attributs (<foreign
+                                 commodités dans des classes d'attribut (<foreign
                                     xml:lang="eng">attribute classes</foreign>). Pour
                                  permettre le regroupement des classes similaires,
                                  celles-ci peuvent être imbriquées, autrement dit une
@@ -1352,10 +1388,12 @@
                                     <gi>classSpec</gi> avec l'attribut
                                     <code>type="atts"</code>.</p>
                               <p>Les macros</p>
-                              <p>Il est enfin possible d'utiliser à plusieurs endroits
-                                 le même bloc de contenu par exemple pour définitir le
-                                 type de données des attributs TEI. Les macros sont
-                                 définies avec l'élément <gi>macroSpec</gi>.</p>
+                              <p>Il est enfin possible de déclarer sous forme de
+                                 macros, les déclarations fréquentes pour réemployer à
+                                 plusieurs endroits le même bloc de contenu par exemple
+                                 pour définir le type de données des attributs ou des
+                                 éléments TEI. Les macros sont définies avec l'élément
+                                    <gi>macroSpec</gi>.</p>
                               <p>La structure de la spécification d'un schéma</p>
                               <p>Un schéma TEI est défini au moyen d'un élément
                                  schemaSpec contenant un ensemble de déclarations
@@ -1439,17 +1477,60 @@
                                  </egXML></p>
                               <p>Personnalisation plus avancée</p>
                               <p>Au sein de chaque module, l'architecture de la TEI
-                                 permet une personnalisation plus détaillée. La
-                                 spécification que nous avons élaborée à l'aide de Roma
-                                 a par exemple supprimer un certain nombre d'éléments
-                                 jugés inutiles à l’intérieur de ces différents
-                                 modules.</p>
-                              <p>exemples de code</p>
-                              <p>Pour les attributs type de div</p>
-                              <p>exemple de code</p>
+                                 permet une personnalisation plus détaillée. Il est
+                                 possible de supprimer des éléments, de restreindre la
+                                 liste des attributs, et même d'ajouter des éléments.
+                                 La spécification que nous avons élaborée à l'aide de
+                                 Roma a par exemple supprimer un certain nombre
+                                 d'éléments jugés inutiles à l’intérieur de ces
+                                 différents modules.</p>
+                              <egXML><elementSpec ident="note" module="core" mode="delete"/></egXML>
+                              <p>Dans la plupart des cas la suppression est une
+                                 modification "propre" de la TEI, toutefois certains
+                                 éléments disposent d'enfants obligatoires. Par exemple
+                                 fileDesc doit contenir à la fois titleStmt et
+                                 sourceDesc. La suppression d'un élément enfant
+                                 obligatoire dans le modèle de contenu rompt le modèle
+                                 abstrait de la TEI.</p>
+                              <p>Pas de renommage d'éléments. Pas de modification de
+                                 modèle de contenu ?? sera peut-être le cas si veut
+                                 contrôler la valeur de certains attributs.</p>
+                              <p>Modification des attributs et des listes de valeurs
+                                 d'attribut</p>
+                              <p>Les attributs peuvent être donnés explicitement au
+                                 moyen d'un élément attList dans la spécification de
+                                 l'élément correspondant ou bien être hérité d'une
+                                 classe d'attribut. Lorsque l'on ajoute un attribut, on
+                                 doit d'abord vérifier si celui-ci n'est pas déjà
+                                 définit dans une classe d'attribut. Si tel est le cas,
+                                 il suffit de rendre l'élément concerné membre de cette
+                                 classe. Sinon ont doit définir u attribut au moyen de
+                                 attDef pour l'ajouter à la liste attList de l'élément
+                                 concerné. </p>
+                              <p>Il est souvent utile de contraindre les valeurs
+                                 possibles d'un attribut au moyen d'un type de données.
+                                 Cela peut être réalisé facilement au moyen de
+                                 l'élément valList qui est un élément enfant de attDef.
+                                 De la même manière on peut étendre ou remplacer la
+                                 liste existante d'attributs proposées par la TEI.
+                                 Selon les modifications réalisées de cette manière,
+                                 plus ou moins propres.</p>
+                              <p>exemple de code. Pour les attributs de div</p>
                               <p>Liste de valeurs explicitement énumérées avec
-                                 vlaList</p>
+                                 valList</p>
                               <p>exemple de code</p>
+                              <p>Exemple pour retirer attributs hérités d'une classe en
+                                 le retirant l'élément d'une classe</p>
+                              <p>Même lorsque la personnalisation consiste simplement
+                                 en une sélection de modules, peut-être avec la
+                                 suppression de quelques éléments et attributs, il peut
+                                 être intéressant de préciser l'information sémantique
+                                 de certains éléments qui peut être décrite en termes
+                                 trop généraux que son usage réel dans le projet (desc
+                                 dans elementSpec). Les exemples dans exemplum
+                                 pourraient également être enrichis par ceux du projet.
+                                 De même les remarques peuvent être non
+                                 pertinentes.</p>
                            </div>
                         </div>
                      </div>
@@ -1571,10 +1652,27 @@
                      </div>
                   </div>
                </div>
-               <div>
+               <div type="chapter" n="3">
                   <head>La production de l’application</head>
                   <div>
                      <head>Le cadre de travail avec les prestataires</head>
+                     <p>Réunions de lancement</p>
+                     <p>Travail à distance</p>
+                     <p>Recettage</p>
+                  </div>
+                  <div>
+                     <head>La mission d'AMO</head>
+                     <div>
+                        <head>De la bonne maîtrise du modèle</head>
+                        <p>Répondre rapidement aux questions</p>
+                        <p>Modèle qui détermine en grande partie l'utilisation</p>
+                     </div>
+                     <div>
+                        <head>De l'utilité d'une double compétence</head>
+                        <p>Expression des choix scientifiques / traduction technique</p>
+                        <p>Anticipation des problèmes</p>
+                        <p>Respect des standards</p>
+                     </div>
                   </div>
                   <div>
                      <head>Infrastructure technique et hébergement de
@@ -1620,7 +1718,7 @@
                            <div>
                               <head>Entrepôt SVN</head>
                               <div>
-                                 <head>SVN et le clien SVN</head>
+                                 <head>SVN et le client SVN</head>
                               </div>
                               <div>
                                  <head>Travail collaboratif sur l’édition</head>
@@ -1631,9 +1729,9 @@
                   </div>
                </div>
             </div>
-            <div xml:id="desgodetsMemoireBodyFr03" type="part">
+            <div xml:id="desgodetsMemoireBodyFr03" type="part" n="3">
                <head>Distance entre l’attendu et la réalisation et bilan</head>
-               <div>
+               <div type="introduction">
                   <head>Introduction</head>
                   <p>Expérience particulière dans le champs disciplinaire. À la fois
                      premier projet en ce qui me concerne. Rapports avec informaticiens
@@ -1643,7 +1741,7 @@
                      prestataires externes.</p>
                   <p>Travailler de concert. Changement des pratiques. Ajustements éventuels. Bilan et évolutions futures.</p>
                </div>
-               <div>
+               <div type="chapter" n="1">
                   <head>Ajustements nécessaires en cours de projets</head>
                   <div>
                      <head>Solutions trouvées lors du travail</head>
@@ -1673,13 +1771,38 @@
                      <head>Pbs identifiés avec le modèle</head>
                   </div>
                </div>
-               <div>
+               <div type="chapter" n="2">
                   <head>Évaluation du résultat</head>
                   <div>
                      <head>Recettage du produit livré</head>
                   </div>
                   <div>
                      <head>Conformité aux standards </head>
+                     <p>Conformance à la TEI (23.4 Conformance
+                        http://www.tei-c.org/release/doc/tei-p5-doc/en/html/USE.html#CF)</p>
+                     <p>
+                        <quote>Un document est conforme à la TEI s'il :<list>
+                              <item>est un document XML bien formé</item>
+                              <item>peut être validé contre un <hi rend="italic">schéma
+                                    TEI</hi> qui est dérivé des
+                                    <title>Guidelines</title></item>
+                              <item>conforme au <hi rend="italic">modèle abstrait de la
+                                    TEI</hi></item>
+                              <item>utilise l'espace de nom TEI (ou d'autres espaces de
+                                 noms) correctement</item>
+                              <item>est documenté au moyen d'un fichier ODD conforme à
+                                 la TEI qui fait référence aux <hi rend="italic"
+                                    >Guidelines</hi></item>
+                           </list></quote> Les documents livrés dans le cadre du projet remplissent l'ensemble de ces conditions. On peut donc considérer qu'ils sont conformes à la TEI. Une telle conformité présente plusieurs avantages :
+                        <list><item>en termes de partage et d'intégration des documents parmi les chercheurs ou pour différentes utilisations</item>
+                           <item>pour l'utilisation de logiciels utilisant des outils
+                              conçus pour la TEI</item>
+                           <item>pour l'acceptation du dépôt des textes, leur
+                              distribution, ou leur archivage</item>
+                           <item>pour spécifier la forme des documents produits dans un
+                              projet.</item></list>
+                     </p>
+                     <p>Un document qui peut être transformé algorithmiquement ou automatiquement sans perte d'information.</p>
                      <p>See Modern Language Association, “Guidelines for Evaluating
                         Work in Digital Humanities and Digital Media,” n.d.,
                         http://www.mla.org/guidelines_evaluation_ digital; The American
@@ -1696,12 +1819,293 @@
                   <div>
                      <head>Usability</head>
                   </div>
-               </div>
-               <div>
-                  <head>Les Évolution futures de l'application</head>
                   <div>
                      <head>L’apport de l’application à l’étude du corpus</head>
+                     <div>
+                        <head>Introduction</head>
+                        <p>L'irruption des technologies numériques et leur
+                           développement ces dernières années ont considérablement fait
+                           évolué la théorie de l'édition et l'ont bouleversé ces
+                           dernières.</p>
+                        <p>Double héritage / deux méthodes éditoriales : les éditions
+                           fac-simile et diplomatique d'une part, et les éditions
+                           éclectiques d'autre part.</p>
+                        <p>De nombreux projets numériques conduits ces dernières années
+                           témoignent des efforts effectués pour créer des outils et un
+                           environnement numérique dédié à l'étude des sources
+                           primaires ou des contenus historiques (contenus culturels).
+                           Avec le numérique, l'édition académique ne se cantonne plus
+                           au seul document textuel mais elle peut embrasser l'ensemble
+                           du contexte social de l'ouvrage culturel. L'approche sociale
+                           du texte permet ainsi de le replacer dans son contexte. cf.
+                           D. F. McKenzie.</p>
+                        <p>De ce point de vue, l’histoire du développement de la TEI ne doit jamais être oublié. Conçue comme une implémentation de la thèse du caractère OHCO des textes et de la textualité, l’émergence de la TEI expose à de grande insuffisance dans la représentation des textes.</p>
+                        <p>Un texte n’est pas une hiérarchie d’objets contenus non ordonnés, à plein d’égard c’est un nombre indéterminé de hiérarchies possibles. Chaque élément d’un texte possède plusieurs dimensions. Cf. A companion, Marking Texts of Many Dimensions</p>
+                     </div>
+                     <div>
+                        <head>La nature d'une édition électronique</head>
+                        <div>
+                           <p>Le Newton project avance qu’avec le médium électronique le concept du rôle propriétaire de l’éditeur devient intenable. « La primauté du texte est restaurée, le commentaire et l’analyse deviennent une affaire courante de lecture. Une bonne édition électronique doit engager renforcer les capacités de l’utilisateur (empower), et au passage espérer plus de l’utilisateur que ne le fait une édition imprimée. »</p>
+                           <quote>In the electronic medium, the concept of the editor's virtually propietary role becomes untenable. The primacy of the text is restored, and comment and analysis become the common business of the readership. A good electronic edition should empower the user, and by the same token expect more of the user than a print edition does. The electronic medium is inevitably a gamble, as print was for Gutenberg. But it potentially liberates both author and user provided the editor/encoder is prepared to use it as a tool for liberation rather than control, and the user is prepared to treat it as such.</quote>
+                           <p>http://www.newtonproject.sussex.ac.uk/prism.php?id=29</p>
+                           
+                           <p>évaluer le fait que tienne compte de cela ou non. Citer Bentham project.</p>
+                           <p>Voir les autres positions tenues sur l’édition électronique. Cf. Shillinsburg.</p>
+                           <p>Justifier pourquoi pas le choix de collaboratif, ou recontextualiser.</p>
+                        </div>
+                        <div>
+                           <head>Différences entre l'édition électronique et l'édition
+                              imprimée</head>
+                           <p>L’édition électronique possède de nombreux avantages pratiques sur l’édition imprimée. D’abord, elle est de loin moins coûteuse à produire et peut être directement mise à disposition d’un très grand nombre de lecteurs. Surtout elle rend possible des recherches textuelles permettant d’accéder rapidement à des informations qu’elles contiennent.</p>
+                           <p></p>
+                           <p>Index imprimés, versus index électronique</p>
+                           <p>Complémentarité des modes de recherche</p>
+                           <p></p>
+                           <p>« Content tagging »</p>
+                           <p>Séparation de la source et du commentaire</p>
+                           <p>Sémantisation</p>
+                           <p>Possibilité de signer les interventions. Plusieurs points de vue sur le texte. Conserver la possibilité au lecteur de consulter les différents états du texte, sans privilège du choix opéré par l’éditeur.</p>
+                           <p>Honnêteté, transparence</p>
+                           <p></p>
+                           <p>Pas de texte définitif</p>
+                           <p>Un support labile. Améliorations possibles et enrichissement aisé. Plutôt concevoir le travail comme un travail en cours. Ne pas attendre l’achèvement complet du travail pour publier ou mettre à disposition le matériel.</p>
+                           <p>Citer discussions sur les manuscrits non relus. Question de l’exposition du travail.</p>
+                           <p>Mise à jour et versionning.</p>
+                           <p>Problème de citabilité.</p>
+                           <p></p>
+                           <p>Finesse de l’enregistrement rendu possible par le balisage → paradoxalement difficultés du rendu typographique.</p>
+                           <p>Par ailleurs propriétés propres à la matérialité du texte</p>
+                           <p>Peut désirer une édition papier, pas la même autorité, ni la même qualité de lecture.</p>
+                           <p>Se réserve la possibilité d’une édition papier.</p>
+                           <p>Il s’agit donc d’envisager des usages différents en fonction des supports.</p>
+                        </div>
+                        <div>
+                           <head>Accessibilité</head>
+                           <p>Dans sa présentation <title>A Bag of Words</title>, à
+                              l'occasion de ???, Edward Vanhoutte soulevait la
+                              question de ce que pourrait être une édition numérique
+                              et ce qu'elle est en définitive aux prises avec
+                              diverses contraintes qui pèsent sur sa production.
+                              Déconstruit à cette occasion plusieurs mythes sur la
+                              nature des éditions numériques. Notamment le fait que
+                              celles-ci seraient plus accessibles, ou permettrait
+                              d'offrir un accès plus rapide ou plus directe à des
+                              sources que des éditions imprimées.</p>
+                           <p>En réalité une édition imprimée est par nature
+                              accessible, généralement fournie pour une audience
+                              clairement ciblée, lorsqu'il s'agit d'une édition
+                              scientifique elle adopte le plus souvent des critères
+                              explicites. En réalité, et pour reprendre les termes
+                              d'Edward Vanhoutte, une édition numérique présente une
+                              accessibilité <quote>qualitativement
+                                 différente</quote>. Le medium numérique permet
+                              notamment la recherche plein texte que n'offre pas le
+                              support imprimé. Notre édition numérique met également
+                              en place toute une série d'index dont l'utilisation
+                              repose sur l'hypertextualité.</p>
+                        </div>
+                        <div>
+                           <head>Donner plus de choix au lecteur</head>
+                           <p>Qu’importe l’honnêteté ou la transparence de l’éditeur,
+                              le support imprimé impose une structure particulière, une
+                              séquence, une mise en page, etc.</p>
+                           <p>Différence avec électronique, changement de
+                              hiérarchies.</p>
+                           <p>Pour autant pas non plus sans conséquence sur le texte
+                              lui-même et sa lecture. Dispositifs outillés, corpus
+                              outillés.</p>
+<p></p>
+                           <p>Question des hiérarchies. Développer sur la libération du
+                              lecteur et choix de lecture possible.</p>
+                           <p>Possibilité d’attribuer plusieurs choix éditoriaux au
+                              lecteur dans une édition électronique. Produire sa propre
+                              édition en fonction des lectures ou des utilisations
+                              qu’il souhaite faire de la source.</p>
+                           <p>Bien sûr demeure nécessaire pour l’éditeur d’avoir
+                              considéré à l’avance ces questions de sorte de ménager
+                              ces utilisations possibles en laissant un grand nombre de
+                              choix ouvert.</p>
+                           <p></p>
+                           <p>Plusieurs exemples : <list>
+                                 <item>Accès par recherche, index, fréquences,
+                                    entités-nommées, structures hiérarchique</item>
+                                 <item>Gloses et notes → ici définitions</item>
+                                 <item>Régularisation</item>
+                                 <item>Éventuellement traduction</item>
+                                 <item>Modes de visualisation (comparaison, avec
+                                    images, etc.)</item>
+                                 <item>Rendus typographiques, etc.</item>
+                              </list></p>
+
+                           <p>Aurait pu aller plus loin et notamment, au lieu d’établir
+                              l’édition à partir d’un manuscrit maître, choisir
+                              d’inventer un nouveau texte tout en laissant la
+                              possibilité au lecteur de visualiser simultanément les
+                              variantes, etc.</p>
+                           <p></p>
+                           <p>Rendu typographique pouvant être laissé à la discrétion
+                              du lecteur en fonction du niveau de détail attendu pour
+                              sa lecture. Il aurait ainsi été possible de moderniser la
+                              langue pour rendre le texte plus maniable tout en
+                              conservant la leçon des manuscrits.</p>
+
+                           <p>Si dans une édition papier la question principale est
+                              celle du format utile pour rendre le contenu, pour
+                              l’éditeur électronique consiste plutôt à proposer au
+                              lecteur de choisir le format qu’il trouvera le plus utile
+                              et attrayant pour un texte.</p>
+                           <p></p>
+                           <p>Rapport moins paternaliste au lecteur récepteur passif,
+                              où considère le lecteur passif. Libérer sa lecture,
+                              meilleure prise en compte du lecteur et de l’utilisation
+                              qu’il peut faire du texte pour ses besoins
+                              personnels.</p>
+                           <p>Néanmoins implique plus grand investissement ou effort du
+                              lecteur pour exploiter l’information mise à disposition à
+                              son avantage. Alerter le lecteur à ce sujet notamment
+                              pour que puisse rencontrer ses besoins le plus
+                              possible.</p>
+                           <p>Question de la citabilité</p>
+                           <p>Question du réemploi et du remix</p>
+                           <p></p>
+                           <p>Cependant alerter sur la question de l’édition à tout
+                              faire. Cf. de Gutemberg à Google. Nécessairement à la
+                              fois des partis-pris éditoriaux et conditions de
+                              présentation du texte qui impacte la lecture.</p>
+                        </div>
+                        <div>
+                           <head>Pérennité</head>
+                           <p>Une des plus grandes préoccupations de l’éditeur
+                              électronique.</p>
+                           <p>Savoir si le medium retenu est aussi durable que le
+                              manuscrit ou l’imprimé.</p>
+                           <p>Cf. Bachimont, cf. Melot. Risque d’oubli. Codage,
+                              décodage.</p>
+                           <p>Édition d’un texte, effort que ne fait pas pour qqs
+                              années. Durabilité importe.</p>
+                           <p>Produire des ressources valables pour plusieurs
+                              décennies.</p>
+                           <p>Techniques de conservation long terme des documents
+                              électroniques nécessaire.</p>
+                           <p>Cependant choix d’encodages et modèles prennent d’emblée
+                              en compte ces questions. Même si ne les règlent pas
+                              toutes, XML bon candidat pour l’archivage pérenne.
+                              Simplicité de l’encodage, etc.</p>
+                        </div>
+                     </div>
+                     <div>
+                        <head>La politique éditoriale du projet</head>
+                        <div type="introduction">
+                           <p>Fournir une transcription détaillée de tous les manuscrits
+                           des cours conservés à travers le monde. Stricte fidélité à
+                           l'écrit quand bien même il ne s'agissait pas de manuscrit
+                           autographe.</p>
+                        <p>Dans la mesure du possible, et bien que la neutralité d'une
+                           édition soit un leurre, permettre au lecteur de définir ses
+                           propres conclusions interprétatives plutôt que d'imposer les
+                           nôtres.</p>
+                        <p>Dès lors respect de certains critères comme la lisibilité du
+                           processus de production et sa documentation importants.</p></div>
+                        <div>
+                           <head>L'accès au texte comme source</head>
+                           <p>Considérer la transcription comme une représentation plutôt
+                              qu'une interprétation de la source matérielle en première
+                              instance.</p>
+                           <p>Production d'une édition critique à partir d'un
+                              manuscrit maître auquel rapportait tous les autres
+                              témoins</p>
+                           <p>Cependant enrichissement au moyen de la production
+                              d'un apparat éditorial et critique étendu. Gloses,
+                              hyperliens, index.</p>
+                           <p>Dans la mesure du possible permettre au lecteur de
+                              définir ses propres conclusions interprétatives plutôt que d'imposer les nôtres.</p>
+                           <p>Raisons pour laquelle nous n'avons pas modernisé,
+                              standardisé, ou corrigé d'une toute autre manière
+                              l'orthographe originale. Néanmoins suivi les règles
+                              proposés par Barbiche et inspirées du manuel de l'ENC sur
+                              la production des sources primaires à l'époque médiévale.
+                              Même les erreurs manifestes dans le texte sont
+                              transcrites, on fournit simplement en note la correction
+                              proposées. Les parties effacées, ou ajoutées sont
+                              transcrites comme telles. En revanche la ponctuation a
+                              été modernisée. Le rétablissement de la ponctuation n'est
+                              pas dépourvu de parti pris, ni sans impact sur la
+                              compréhension du texte.</p>
+                           <p>Pour autant, n'avons pas produit un matériau
+                              nécessairement adapté pour l'étude du système
+                              d'abréviation ou de l'orthographe. Notre objet éditorial
+                              consistait d'abord à mettre à jour le corpus des cours
+                              des Desgodets pour les études en histoire de l'art et en
+                              histoire du droit. L'étude de la langue nécessiterait un
+                              balisage spécifique plus fin, même si le travail déjà
+                              réalisé pourrait constituer un point de départ solide
+                              dans cet objectif.</p>
+                           <p>Pas une édition hyperdiplomatique véritablement. Mais
+                              dispositif qui le permet. Même si pas une édition
+                              hyperdiplomatique au sens où, pour des raisons liées à
+                              l’obtention des droits, notre édition ne donne pas à voir
+                              les fac-simili en regard du texte, une approche qui tient
+                              pour l'essentiel de la production de sources primaires
+                              pour la recherche.</p>
+                           <p>Être conscient cependant des archaïsmes qui peuvent gêner
+                              le lecteur ou l'induire en erreur s'il n'est pas familier
+                              avec l'époque. Nous avons pour les termes que nous
+                              jugions significatifs proposé une forme alternative
+                              normalisée notamment pour faciliter les recherches. Reste
+                              que la recherche plein texte n'est pas sans écueil car
+                              l'ensemble du texte n'a pas été modernisé. Qualité du
+                              médium numérique choisi qui permet précisément de
+                              proposer des vues différentes sur le même texte à partir
+                              d'un même balisage pas exploitée. Le prévoir à terme ?
+                              question de sa pertinence/coût. </p>
+                        </div>
+                        <div>
+                           <head>Un processus de production consistant et
+                              contrôlé</head>
+                           <p>Adoption d'un processus de production consistant et
+                              contrôlé.</p>
+                           <p>Voir
+                              http://www.newtonproject.sussex.ac.uk/prism.php?id=51</p>
+                           <p>Mettre en rapport avec ce qu'a déjà écrit sur le
+                              sujet.</p>
+                           <p>Processus de production qui avait au moins le mérite de
+                              centraliser en partie la production et permettre un
+                              contrôle. N'en reste pas moins qu'une certainne
+                              hétérogénéité dans le travail éditorial mené. Cependant,
+                              contrôle rendue possible par l'adoption du framework TEI
+                              et la définition d'un schéma évoquée précédemment. Par
+                              ailleurs, versionning des fichiers qui permet
+                              d'historiciser les interventions et éventuellement d'y
+                              renoncer. Question de la citablité et de l'adoption
+                              d'identifiants pérennes qui nous le verrons plus loin
+                              reste encore en partie à traiter.</p>
+                        </div>
+                        <div>
+                           <head>La documentation du projet</head>
+                           <p>Documentation dans le domaine de l'édition important,
+                              mais aussi documentation du processus. Documentation d'un
+                              projet de DH présente un enjeu important.</p>
+                           <p>Un élément de la consistance du projet.</p>
+                           <p>Adoption du framework TEI qui a permis de produire une
+                              documentation conséquente du schéma à des fins
+                              d'interopérabilité ou de partage des fichiers. Mais
+                              également mis en place une documentation directement sur
+                              le site qui présente le travail mené au lecteur lors de
+                              la consultation de l'application.</p>
+                           <p>En position de juger pertinences des choix réalisés ou
+                              tout du moins leur justification.</p>
+                           <p>Mémoire qui appartient à cette démarche. Également,
+                              puisqu'il s'agit d'un projet de recherche, pouvoir
+                              relever les erreurs, les difficultés ou les écueils
+                              rencontrés, afin de pouvoir les éviter à l'avenir dans
+                              d'autres projets de ce type.</p>
+                        </div>
+                     </div>
                   </div>
+               </div>
+               <div type="chapter" n="3">
+                  <head>Les Évolution futures de l'application</head>
+                  
                   <div>
                      <head>Finir un projet DH</head>
                      <div>
@@ -1712,7 +2116,22 @@
                      </div>
                      <div>
                         <head>La question du versionning</head>
-                        <p>Comment traiter les versions</p>
+                        <p>Bien que les fichiers sources XML-TEI ait été produits avec
+                           l'aide d'un système de gestion de version (en l'espèce
+                           Subversion), la question de l'accès aux versions par
+                           l'utilisateur n'a pas été traitée dans l'application. Dès
+                           lors que l'édition est susceptible d'évoluer soit pour
+                           accueillir des corrections soit des augmentations, il aurait
+                           été pertinent de proposer un accès historicisé aux versions
+                           publiées au lecteur.</p>
+                        <p>Dans l'immédiat, on s'est contenté de renseigner le n° de
+                           version dans l'affichage au lecteur. En attendant de faire
+                           évoluer l'application pour traiter ce problème, il sera
+                           possible d'utiliser les fichiers téléchargeables pour donner
+                           accès aux sources des versions antérieures. Par ailleurs,
+                           nous pourrons rajouter un lien vers ces différentes versions
+                           en HTML dans la page de présentation des cours au niveau du
+                           tableau de tradition.</p>
                      </div>
                   </div>
                   <div>
@@ -1731,8 +2150,33 @@
                      </div>
                      <div>
                         <head>La réutilisation du modèle</head>
-                        <p>Publication des sources et du modèle XML-TEI sur github</p>
-                        <p>Archives de l'histoire de l'art et Nouvelles archives de l'histoire de l'art.</p>
+                        <p>Parce qu'elle est relativement simple et prend en compte la
+                           plupart des cas rencontrés lors de la transcription de
+                           sources manuscrites de l'époque moderne, nous pensons que la
+                           personnalisation de la TEI réalisée dans le cadre de
+                           l'édition des cours de Desgodets pourrait être
+                           avantageusement être employée dans d'autres projets de
+                           publication de sources primaire en histoire de
+                           l'architecture. Afin de favoriser l'édition des sources
+                           primaires en XML-TEI en histoire de l'art, il nous a donc
+                           semblé, en accord avec le directeur scientifique du projet,
+                           qu'il pourrait être utile de mettre à disposition librement
+                           le schéma XML-TEI avec sa documentation et les feuilles de
+                           transformations XSLT développés dans le cadre du projet.</p>
+                        <p>Cette mise à disposition interviendra sur la plateforme
+                           Github dans le cadre d'un projet intitulé
+                           publicarchitectura. Les différents outils mise en place
+                           devront être révisés et leur documentation améliorée dans ce
+                           cadre pour faciliter leur réutilisation. Plusieurs projets
+                           en cours pourraient déjà être intéressés par leur mise à
+                           disposition. Autour du lancement de l'édition du corpus des
+                           cours de Desgodets, et bientôt avec la publication du
+                              <title>Journal des travaux</title> d'Henri Labrouste, il
+                           est permis d'imaginer l'émergence d'une dynamique nouvelle
+                           dans le domaine de l'édition de sources primaires en
+                           histoire de l'art. Dans ce contexte, il pourrait être utile
+                           d'animer une communauté de pratiques autour de ce projet sur
+                           Github.</p>
                      </div>
                   </div>
                </div>
