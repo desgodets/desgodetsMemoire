@@ -131,10 +131,16 @@
             </divGen>
             <div xml:id="desgodetsMemoireFrontFr02">
                <head>Remerciements</head>
-               <p>Robert</p>
-               <p>Parents</p>
-               <p>Thomas</p>
-               <p>FC</p>
+               <p>Remercier Robert Carvais de m'avoir fait confiance tout au long du
+                  projet et de m'avoir offert l'occasion d'abord de participer à
+                  l'équipe scientifique, ensuite de cette première réalisation.</p>
+               <p>Florence Clavaud, pour le goût qu'elle a su confirmer chez moi la
+                  passion naissante que j'entretenais à l'égard de ces technologies
+                  appliquées à l'histoire et d'avoir ...</p>
+               <p>Parents qui ont supportés très concrètement parceque financièrement
+                  ces études parallèlement à l'achèvement de ma thèse sur laquelle je
+                  les ai tant fait attendre.</p>
+               <p>Thomas pour son soutien et sa compagnie qui éclaire mes jours.</p>
             </div>
             <div xml:id="desgodetsMemoireFrontFr03" type="foreword">
                <head>Avant-propos</head>
@@ -494,6 +500,10 @@
                      </div>
                      <div>
                         <head>Spécificités matérielles</head>
+                        <p>Des manuscrits pour la plus part mis au propre</p>
+                        <p>Peu de difficultés de lectures, plutôt question de savoir
+                           comment traiter les variantes si elles existaient.</p>
+                        <p>Question des mains</p>
                      </div>
                      <div>
                         <head>Spécificités liées au corpus</head>
@@ -503,6 +513,7 @@
                         <p>Expliquer pourquoi pour le toisé : objet d’un savoir
                            technique et géométrique.</p>
                         <p>Expliquer pourquoi pour la commodité : nouveaux modèles.</p>
+                        <p>La place des figures dans le texte</p>
                         <p>Conclure sur le fait que les figures sont parties prenantes
                            du discours architectural et ne peuvent être clairement
                            distinguer du texte. Cette particularité du corpus impose de
@@ -603,6 +614,10 @@
                               incidence sur le sens du texte, à l'exclusion des
                               particularités purement graphiques ou
                               grammaticales. ».</p>
+                           <p>Transcription diplomatique de chacun des témoins. Choix
+                              d'un texte maître par chaque équipe scientifique.
+                              Manuscrit maître auquel a décidé de rapporter les
+                              différents témoins.</p>
                         </div>
                         <div>
                            <head>Comparaison des témoins</head>
@@ -649,7 +664,10 @@
                      </div>
                      <div>
                         <head>Recherche plein texte</head>
-                        <p/>
+                        <p>Quoique non prioritaire parmi les fonctionnalités
+                           envisagées, la mise en place d'une recherche plein texte
+                           semblait pertinente à des fin d'accès rapide au contenu des
+                           textes. Non trivial.</p>
                      </div>
                   </div>
                   <div>
@@ -670,7 +688,13 @@
                <head>L’assistance à la maîtrise d’ouvrage</head>
                <div type="introduction">
                   <head>Introduction</head>
-                  <p></p>
+                  <p>Définition de la l'assistance à la maîtrise d'ouvrage. Ambiguïté
+                     entre domaine informatique et architectural.</p>
+                  <p>Expliquer que l'on a été finalement associé à chacune des phases
+                     du projet. En amont, lors de la définition des besoins et des
+                     fonctionnalités, au cours du projet dans la production des textes
+                     et de l'encodage, enfin en aval pour assurer le suivi de la
+                     réalisation de l'application et son recettage.</p>
                </div>
                <div type="chapter" n="1">
                   <head>Planification et adaptations apportées au cahier des
@@ -796,6 +820,53 @@
                         <p>La TEI fournit un vocabulaire qui permet de produire des
                            modèles de textes que l'on peut utiliser à différentes
                            fins.</p>
+                        <p />
+                        <p>Initiative scientifique pluridisciplinaire, 80’s.</p>
+                        <p>But : établir des pratiques et des techniques favorisant le
+                           partage des sources textuelles dans le domaine des
+                           humanités.</p>
+                        <p>Concevoir un modèle générique de structuration et de
+                           sémantisation des textes.</p>
+                        <p>Consortium TEI, gouvernance, etc.</p>
+                        <p>Utilisation du méta-langage informatique <hi rend="italic"
+                              >Extensible Markup Language </hi>(XML)</p>
+                        <p>Conçue pour baliser n’importe que type de document, la TEI
+                           s’apparente à une « ontologie du texte » FC</p>
+                        <p>Avantages de la TEI :
+                           <list>
+                                    <item>modularité et flexibilité</item>
+                                    <item>expressivité (niveau de granularité)</item>
+                                    <item>standard reconnu internationalement
+                                       (interopérabilité, pérennité)</item>
+                                    <item>propriété intrinsèque au modèle XML,
+                                       séparation présentation et contenu. Possibilité
+                                       de générer plusieurs formats de sortie à partir
+                                       de la même source</item>
+                                    <item>édition électronique (croisement sources,
+                                       fac-similés, hyperliens, etc.)</item>
+                                    <item>modulation de l’affichage et accessibilité,
+                                       aspects économiques</item>
+                                 </list></p>
+                        <p>Implantation dans la communauté scientifique. Son implantation en France, et dans le domaine des sciences historiques et de l’histoire de l’art et de l’architecture en particulier.
+                           Projets historiques (histoire des sciences, US), et Histoire de l’art (cf. Getty)
+                           Nicole Dufournaud en France
+                        </p>
+                        <p>TEI que l'on peut concevoir comme un cadre de travail
+                           technique, un framework, qui accompagne l'éditeur ou
+                           l'encodeur dans la structuration de l'information. (cf. FC
+                           et BR). Elle consiste en un ensemble de préconisations qui
+                           doivent être adaptées aux spécificités inhérentes à chaque
+                           projet éditoriale. Comme le relève Florence Clavaud, c'est
+                           cette modularité qui garantie la flexibilité du modèle et sa
+                           généralité peut parfois dérouter l'encodeur inexpérimenté ou
+                           le confronter à des choix difficiles. La définition des
+                           solutions d'encodage implique d'opérer des choix entre
+                           plusieurs solutions admissibles en en saisissant bien tous
+                           les tenants et les aboutissants. Elle implique un
+                           aller-retour continuel entre les sources textuelles à
+                           traiter et la documentation de la TEI (les
+                              <title>Guidelines</title>) afin de réévaluer les
+                           solutions d'encodage envisagées.</p>
                      </div>
                      <div>
                         <head>Un standard de fait pour la production de sources
