@@ -162,12 +162,6 @@
             </div>
             <div xml:id="desgodetsMemoireFrontFr04" type="introduction">
                <head>Introduction</head>
-               <p>Importance de l’écrit pour mesurer le savoir de l’architecte. Traités
-                  d’architecture, véritable genre littéraire à part entière.</p>
-               <p>Introduire sur l’intérêt renouvelé ces dernières années pour les écrits
-                  d’architecture (citer Guillaume, Garric, Bouvier, Medvedkova, etc.).</p>
-               <p>Contexte des appels à projet corpus. Occasion de mettre à disposition
-                  tout un pan nouveau de la théorie architecturale.</p>
                <div>
                   <head>Histoire de l’art et DH</head>
                   <p>Digital history et digital art history</p>
@@ -236,21 +230,29 @@
                <div type="chapter" n="1">
                   <head>Le projet d’ANR Desgodets, un contexte de travail
                      collaboratif ?</head>
+                  <div type="introduction">
+                     <p>Importance de l’écrit pour mesurer le savoir de l’architecte. Traités d’architecture, véritable genre littéraire à part entière.</p>
+                     <p>Introduire sur l’intérêt renouvelé ces dernières années pour les écrits d’architecture (citer Guillaume, Garric, Bouvier, Medvedkova, etc.).
+                     Contexte des appels à projet corpus. Occasion de mettre à disposition tout un pan nouveau de la théorie architecturale.</p>
+                  </div>
                   <div>
                      <head>Présentation du projet</head>
-                     <p>L’édition des cours d’Antoine Desgodets est à compter <ref type="note" target="#m0001">au nombre
-                        des rares projets de recherche en histoire de l’art qui ont pu
-                        bénéficier ces dernières années d’un financement de l’Agence
-                        Nationale de la Recherche (ANR)</ref>. D’abord proposé dans le cadre d’une recherche plus
-                        vaste sur la littérature architecturale intitulé
-                        « Vitruviana », l’édition des cours de l’architecte avait
-                        retenu l’attention des évaluateurs qui avaient suggéré de le
-                        présenter séparément à un autre appel d’offre. <ref type="note" target="#m0002">Le projet
-                        re-rédigé par Robert Carvais en ce sens a finalement obtenu le
-                        financement de l’ANR à l’appel d’offre corpus suivant sous le
-                        n° ANR-07-CORP-017-01 en 2004</ref>.</p>
+                     <p>L’édition des cours d’Antoine Desgodets est à compter <ref
+                           type="note" target="#m0001">au nombre des rares projets de
+                           recherche en histoire de l’art qui ont pu bénéficier ces
+                           dernières années d’un financement de l’Agence Nationale de
+                           la Recherche (ANR)</ref>. D’abord proposé dans le cadre
+                        d’une recherche plus vaste sur la littérature architecturale
+                        intitulé « Vitruviana », l’édition des cours de l’architecte
+                        avait retenu l’attention des évaluateurs qui avaient suggéré de
+                        le présenter séparément à un autre appel d’offre. <ref
+                           type="note" target="#m0002">Le projet re-rédigé par Robert
+                           Carvais en ce sens a finalement obtenu le financement de
+                           l’ANR à l’appel d’offre corpus suivant sous le n°
+                           ANR-07-CORP-017-01 en 2004</ref>.</p>
                      <p>Le projet de recherche proposait d’aborder la construction et
-                        la normalisation du savoir architectural à la fin du XVII<hi rend="superscript">e</hi> siècle à partir de l’édition du
+                        la normalisation du savoir architectural à la fin du XVII<hi
+                           rend="superscript">e</hi> siècle à partir de l’édition du
                         corpus des cours manuscrits dictés à l’Académie royale
                         d’architecture par Antoine Desgodets entre 1721 et 1728.
                         Plusieurs raisons justifiaient le choix de cette œuvre : D’une
@@ -264,24 +266,25 @@
                         moment clef de la constitution de la légitimité professionnel
                         de l’architecte par la prise en compte de la figure de l’expert
                         comme intermédiaire entre l’architecte et l’amateur.</p>
-                     <p><ref type="note" target="#m0003">Pour toutes ces raisons, les cours d’Antoine Desgodets
-                        méritaient d’être reconstitués et livrés à la communauté
-                        scientifique comme un texte fondateur du statut de l’architecte
-                        moderne. Mais à la différence de celle de Vitruve ou de
-                        Blondel, l’œuvre scolastique de Desgodets ne connaissait pas
-                        d’édition <hi rend="italic">princeps</hi>. Une équipe
-                        pluridisciplinaire a travaillé cinq ans pour rendre compte de
-                        toute la richesse de l’enseignement de d’Antoine Desgodets dans
-                        des directions jugées complémentaires : la théorie
-                        architecturale, la pratique du projet, son analyse économique
-                        et son approche juridique. Au final, un corpus de vingt-six
-                        manuscrits et sept ouvrages imprimés, soit trente-trois
-                        documents a été réuni et transcrit. Cinq manuscrits
-                        représentant quatre cours prononcés à l’Académie font l’objet
-                        d’une édition critique à laquelle sont rapportés les différents
-                        témoins conservés dans le cadre de leur tradition antérieure
-                        (sources) et dans celui de leur devenir (réception,
-                        publication, reprises par les suiveurs).</ref></p>
+                     <p><ref type="note" target="#m0003">Pour toutes ces raisons, les
+                           cours d’Antoine Desgodets méritaient d’être reconstitués et
+                           livrés à la communauté scientifique comme un texte fondateur
+                           du statut de l’architecte moderne. Mais à la différence de
+                           celle de Vitruve ou de Blondel, l’œuvre scolastique de
+                           Desgodets ne connaissait pas d’édition <hi rend="italic"
+                              >princeps</hi>. Une équipe pluridisciplinaire a travaillé
+                           cinq ans pour rendre compte de toute la richesse de
+                           l’enseignement de d’Antoine Desgodets dans des directions
+                           jugées complémentaires : la théorie architecturale, la
+                           pratique du projet, son analyse économique et son approche
+                           juridique. Au final, un corpus de vingt-six manuscrits et
+                           sept ouvrages imprimés, soit trente-trois documents a été
+                           réuni et transcrit. Cinq manuscrits représentant quatre
+                           cours prononcés à l’Académie font l’objet d’une édition
+                           critique à laquelle sont rapportés les différents témoins
+                           conservés dans le cadre de leur tradition antérieure
+                           (sources) et dans celui de leur devenir (réception,
+                           publication, reprises par les suiveurs).</ref></p>
                   </div>
                   <div>
                      <head>L’équipe de recherche</head>
@@ -359,8 +362,7 @@
                </div>
                <div type="chapter" n="2">
                   <head>Les cours de Desgodets</head>
-                  <div>
-                     <head>Introduction</head>
+                  <div type="introduction">
                      <p>Mis à part ses lois des bâtiments qui dispose d'une riche
                         tradition, les trois autres cours de Desgodets, à la différence
                         de nombre autres cours d'architecture, n'a jusqu'à présent fait
@@ -396,16 +398,20 @@
                               royale d'architecture</orgName> devait être à la fois une
                            assemblée savante travaillant au perfectionnement de l'art
                            et délibérant sur ses questions mais également une
-                           institution scolastique. <cit><quote>[Sa Majesté] a donc voulu
-                              premièrement que ces Architectes s'appliquant
-                              sérieusement à l'étude, s'assemblassent un jour de chaque
-                              semaine pour conférer &amp; se communiquer leurs
-                              connoissances […]</quote><quote>C'est aussi dans cette
-                              Académie où sa Majesté a voulu que les règles les plus
-                              justes &amp; les plus correctes de l'Architecture fussent
-                              publiquement enseignées deux jours de chaque semaine,
-                              afin qu'il s'y pust former un séminaire, pour ainsi dire,
-                              de jeunes Architectes. </quote><bibl>{Blondel, Preface}</bibl></cit></p>
+                           institution scolastique. <cit>
+                              <quote>[Sa Majesté] a donc voulu premièrement que ces
+                                 Architectes s'appliquant sérieusement à l'étude,
+                                 s'assemblassent un jour de chaque semaine pour
+                                 conférer &amp; se communiquer leurs connoissances
+                                 […]</quote>
+                              <quote>C'est aussi dans cette Académie où sa Majesté a
+                                 voulu que les règles les plus justes &amp; les plus
+                                 correctes de l'Architecture fussent publiquement
+                                 enseignées deux jours de chaque semaine, afin qu'il
+                                 s'y pust former un séminaire, pour ainsi dire, de
+                                 jeunes Architectes. </quote>
+                              <bibl>{Blondel, Preface}</bibl>
+                           </cit></p>
                         <p>À de nombreux égards, ce projet académique servait une
                            réforme plus large de l'architecture en améliorant les
                            compétences techniques de la profession mais aussi le goût
@@ -421,14 +427,15 @@
                               l'Orme</persName>, <persName>Jean Bullant</persName> et
                               <persName>Jacques Androuet du Cerceau</persName>,
                            l'enseignement de Blondel à l'Académie se composait
-                           conformément au brevet royal de cours publics  sur
+                           conformément au brevet royal de cours publics sur
                            l'architecture et les mathématiques deux fois par semaine
                            afin d'<quote>enseigner les véritables règles aux jeunes
                               gens qui se proposent d'embrasser la profession
                               d'architecture.</quote></p>
                         <p>Ce furent vraisemblablement ces conférences qui formèrent le
                            contenu du <title>Cours d'architecture</title> dont la
-                           publication débute en <date when="1675">1675</date>{présentation du cours Architectura}. N'ayant
+                           publication débute en <date when="1675"
+                           >1675</date>{présentation du cours Architectura}. N'ayant
                            jamais eu jusqu'à cette époque de formation officielle en
                            architecture même si les cours de
                               <persName>Blondel</persName> pouvaient avoir un précédent
@@ -445,8 +452,10 @@
                            l'Académie et les publications architecturales postérieures.
                               <persName>Philippe de La Hire</persName> allait par
                            exemple l'utiliser comme support de ses conférences à
-                           l'Académie pendant plus de deux ans <date from="1696-07" to="1698-10">de juillet 1696 à octobre 1698</date>, tout
-                           comme ses successeurs pendant <date from="1700" to="1799">tout le XVIII<hi rend="superscript">e</hi>
+                           l'Académie pendant plus de deux ans <date from="1696-07"
+                              to="1698-10">de juillet 1696 à octobre 1698</date>, tout
+                           comme ses successeurs pendant <date from="1700" to="1799"
+                              >tout le XVIII<hi rend="superscript">e</hi>
                            siècle</date>. <ref target="#m0008">Dans son mémoire
                               d'habilitation à diriger des recherches, Hélène
                               Rousteau-Chambon relève combien l'enseignement de
@@ -463,46 +472,53 @@
                            <p><date to="1730">1719 à 1730</date>, l'enseignement relève
                               désormais des architectes après l'épisode <persName>de La
                                  Hire</persName>.</p>
-                           <p>Assuré successivement par <persName>Antoine Desgodets</persName>
-                              (<date from="1719" to="1728">1719-1728</date>) et <persName>François Bruand</persName>
-                                 (<date from="1728" to="1730">1728-1730</date>) qui enseignent à la fois la
+                           <p>Assuré successivement par <persName>Antoine
+                                 Desgodets</persName> (<date from="1719" to="1728"
+                                 >1719-1728</date>) et <persName>François
+                                 Bruand</persName> (<date from="1728" to="1730"
+                                 >1728-1730</date>) qui enseignent à la fois la
                                  <q>géométrie appliquée à l'architecture</q> et
                               l'architecture proprement dite. Avant division de la
                               chaire <date when="1730">en 1730</date>. cf. HRC</p>
-                           <p/>
+                           <p />
                         </div>
                         <div>
                            <head>Le cours des Ordres</head>
-                           <p/>
+                           <p />
                         </div>
                         <div>
                            <head>Le cours des Commodités</head>
-                           <p><ref type="note" target="#m0005"><quote>Desgodets avait donné
-                                 une grande place aux ordres, mais dans la seconde
-                                 partie, la plus originale de tous les traités
-                                 d'architecture que nous connaissions et qu'on pourrait
-                                 utilement publier, il donna des modèles de plans de
-                                 palais, de châteaux, d'églises paroissiales,
-                                 conventuelles, d'hôtel de ville, de marchés,
-                                 etc.</quote></ref></p>
+                           <p><ref type="note" target="#m0005"><quote>Desgodets avait
+                                    donné une grande place aux ordres, mais dans la
+                                    seconde partie, la plus originale de tous les
+                                    traités d'architecture que nous connaissions et
+                                    qu'on pourrait utilement publier, il donna des
+                                    modèles de plans de palais, de châteaux, d'églises
+                                    paroissiales, conventuelles, d'hôtel de ville, de
+                                    marchés, etc.</quote></ref></p>
                         </div>
                         <div>
                            <head>Le cours du Toisé</head>
-                           <p><cit><quote>Néanmoins comme il est vray que la connoissance des
-                              préceptes de l'Architectrue ne suffit pas toute seule
-                              pour faire un Architecte, cette qualité supposant
-                              beaucoup d'autres lumières ; Sa Majesté a voulu que
-                              pendant la secodne heure des leçons de l'Académie, l'on
-                              enseignât publiquement les autres Sciences qui sont
-                              absolument nécessaires aux Architectes comme sont
-                              celles-cy, la Géométrie, l'Arithmétique, la Mécanique
-                              c'est à dire les forces mouvantes, les Hydrauliques qui
-                              traittent du mouvement des eaux, la Gnomonique ou l'art
-                              de faire les Quadrans au Soleil, l'Architecture militaire
-                              des fortifications, la Perspective, la Coupe des pierres
-                              &amp; diverses autres parties de Mathématique, dont les
-                              principales y ont déjà été expliquées par des traittez
-                              composez pour ce sujet.</quote><bibl>{Blondel, Preface}</bibl></cit></p>
+                           <p><cit>
+                                 <quote>Néanmoins comme il est vray que la connoissance
+                                    des préceptes de l'Architectrue ne suffit pas toute
+                                    seule pour faire un Architecte, cette qualité
+                                    supposant beaucoup d'autres lumières ; Sa Majesté a
+                                    voulu que pendant la secodne heure des leçons de
+                                    l'Académie, l'on enseignât publiquement les autres
+                                    Sciences qui sont absolument nécessaires aux
+                                    Architectes comme sont celles-cy, la Géométrie,
+                                    l'Arithmétique, la Mécanique c'est à dire les
+                                    forces mouvantes, les Hydrauliques qui traittent du
+                                    mouvement des eaux, la Gnomonique ou l'art de faire
+                                    les Quadrans au Soleil, l'Architecture militaire
+                                    des fortifications, la Perspective, la Coupe des
+                                    pierres &amp; diverses autres parties de
+                                    Mathématique, dont les principales y ont déjà été
+                                    expliquées par des traittez composez pour ce
+                                    sujet.</quote>
+                                 <bibl>{Blondel, Preface}</bibl>
+                              </cit></p>
                         </div>
                         <div>
                            <head>Le cours des servitudes</head>
@@ -529,6 +545,11 @@
                      </div>
                      <div>
                         <head>Identification des témoins conservés</head>
+                        <p>Heuristique : Phase préliminaire de l'édition critique,
+                           consistant à repérer tous les témoins subsistants d'un
+                           texte, et à rassembler les renseignements que l'on peut
+                           avoir sur les témoins perdus et sur la diffusion et
+                           l'utilisation du texte.</p>
                      </div>
                      <div>
                         <head>Spécificités matérielles</head>
@@ -556,13 +577,28 @@
                </div>
                <div type="chapter" n="3">
                   <head>Le projet éditorial</head>
-                  <div>
-                     <head>Introduction</head>
+                  <div type="introduction">
                      <p>Au début du siècle, Henri Lemonnier parlait déjà d'éditer le
                         cours de la Commodité de Desgodets. Alors qu'il en est de
                         nouveau question dans les années 80, …</p>
-                     <p>Introduire le propos par un état de l'art sur l’édition numérique et par les spécificités d’une
-                        édition numérique.</p>
+                     <p>Introduire le propos par un état de l'art sur l’édition
+                        numérique et par les spécificités d’une édition numérique.</p>
+                     <p>
+                        <quote>Édition critique : Essai de reconstitution d'un texte,
+                           pour lequel l'éditeur pèse chacun des mots du texte en se
+                           servant de tous les moyens de jugement dont il dispose. Cas
+                           particuliers : l'édition imitative ou diplomatique qui
+                           reproduit très exactement un document unique, jusqu'en ses
+                           particularités graphiques et mêmes ses erreurs, commentées à
+                           part mais pas corrigées dans le texte ; l'édition
+                           synthétique, intégrant différents états du textes
+                           suffisamment peu différents, moyennant un artifice
+                           typographique, avec comme variante l'édition génétique, qui
+                           rend compte par des artifices typographiques des différentes
+                           couches et états successifs du texte ; l'édition "variorum",
+                           qui done le texte accompagné, outre l'apparat normal des
+                           variantes, de toutes les soultions des éditeurs
+                           précédents.</quote>{Bourgain 2002} </p>
                      <p>L'édition académique à l'ère numérique mobilise des savoirs
                         relativement étendus. Elle implique que l'éditeur dispose non
                         seulement des savoirs traditionnellement associés à l'édition
@@ -575,12 +611,15 @@
                         communiquer les textes, et ce qu'il en sait, au moyen du medium
                         numérique.</p>
                      <p><ref type="note" target="#m0004"><quote>Une édition critique
-                        n'est pas une reproduction photographique. Elle résulte
-                        d'un compromis raisonnable entre, d'une part, le respect
-                        du texte à publier (dont on ne doit en aucun cas
-                        moderniser la graphie) et, d'autre part, le souci de le
-                        rendre aussi intelligible que possible pour un lecteur
-                        d'aujourd'hui.</quote></ref></p>
+                              n'est pas une reproduction photographique. Elle résulte
+                              d'un compromis raisonnable entre, d'une part, le respect
+                              du texte à publier (dont on ne doit en aucun cas
+                              moderniser la graphie) et, d'autre part, le souci de le
+                              rendre aussi intelligible que possible pour un lecteur
+                              d'aujourd'hui.</quote></ref></p>
+                     <p>Questions ecdotiques habituelles en ce qui concerne
+                        l'établissement du texte et sa normalisation</p>
+                     <p>L'abondance des témoins</p>
                      <p rend="heading 5">Spécificités de l’édition d’un cours
                         d’architecture</p>
                   </div>
@@ -603,14 +642,14 @@
                               comparaison des divers témoins, il a été proposé une
                               modernisation de l'orthographe des textes sauf à
                               conserver la graphie originale des termes architecturaux
-                              ou jurifiques significatifs. Une telle normalisation des
+                              ou juridiques significatifs. Une telle normalisation des
                               transcriptions paraissait en effet fournir une solution
                               pour l'étude des variantes à l'aide du logiciel MEDITE
                               telle qu'elle était prévue au début du projet. Elle
                               permettait de se focaliser uniquement sur les variantes
-                              significatives entre les temoins et par ailleurs
-                              permettait de présenter un texte modenisé plus facilement
-                              accessible pour le lecteur contemporain.</p>
+                              significatives entre les témoins et par ailleurs
+                              permettait de présenter un texte modernisé plus
+                              facilement accessible pour le lecteur contemporain.</p>
                            <p>Une telle solution n'a pas reçu l'approbation du Conseil
                               scientifique du projet. Au contraire, les membres de ce
                               conseil ont demandé aux transcripteurs d'adopter la plus
@@ -621,35 +660,100 @@
                               l'éditeur le choix final sur la graphie à présenter. Ces
                               changements d'orientations dans les directives de
                               transcription n'ont pas nécessairement facilité le
-                              travail des transcripteurs. Elles ont par ailleurs généré
-                              un surcroît de travail en matière de relecture des
-                              transcriptions des différents témoins que le Conseil
-                              scientifique avait également souhaité mettre à
-                              disposition des chercheurs sur un site internet.</p>
+                              travail de transcription impliquant la reprise du travail
+                              déjà réalisé. Elles ont par ailleurs généré un surcroît
+                              de travail en matière de relecture des transcriptions des
+                              différents témoins que le Conseil scientifique avait
+                              également souhaité mettre à disposition des chercheurs
+                              sur un site internet.</p>
                            <p>Meilleure intelligibilité</p>
                            <p>Révision de ce choix par le conseil scientifique.</p>
                         </div>
                         <div>
                            <head>La comparaison des états et le choix d’un
                               témoin</head>
+                           <p><quote>Lachmanien : se dit d'un éditeur qui suit une
+                                 méthode inspirée de celle de Karl Lachmann et
+                                 s'attache à reconstruire l'aspect original d'un texte
+                                 à partir de ses témoins. (On dit aussi
+                                 "reconstructionniste").</quote>{Bourgain 2002@213}</p>
+                           <p><quote>Approche plus <soCalled>conservatiste</soCalled>
+                                 du manuscrit qui relève du Bédiérisme.</quote>
+                           </p>
+                           <p><quote>Bédiérisme : Méthode issue des réflexions de
+                                 Joseph Bédier, qui consiste à choisir un manuscrit de
+                                 base en le corrigeant le moins
+                              possible.</quote>{Bourgain 2002@212}</p>
                            <p>L’absence d’originaux.</p>
-                           <p><ref type="note" target="#m0005"><quote>Si l'on possède <hi rend="bold">plusieurs états</hi> du
-                              texte <hi rend="bold">autres que l'original</hi>, on
-                              choisit celui qui est le plus proche de l'original et on
-                              signale en note les variantes que présentent les autres
-                              états par rapport au texte de base.</quote></ref></p>
+                           <p><ref type="note" target="#m0005"><quote>Si l'on possède
+                                       <hi rend="bold">plusieurs états</hi> du texte
+                                       <hi rend="bold">autres que l'original</hi>, on
+                                    choisit celui qui est le plus proche de l'original
+                                    et on signale en note les variantes que présentent
+                                    les autres états par rapport au texte de
+                                    base.</quote></ref></p>
                            <p>Plusieurs possibilités : choix d’un témoin auquel on
                               rapporte les états ou établissement d’un texte princeps.
                               Texte qui n’aurait pas existé.</p>
-                           <p>Voir Barbiche : abondance des variantes, « Seules sont à
-                              retenir les <hi rend="bold">variantes</hi> qui ont une
-                              incidence sur le sens du texte, à l'exclusion des
-                              particularités purement graphiques ou
-                              grammaticales. ».</p>
+                           <p>On définit la variante comme une divergence entre les
+                              différents exemplaires d'une même œuvre pour un endroit
+                              donné du texte. Les variantes peuvent consister en
+                              changements volontaires (on parle alors d'interpolations)
+                              ou en fautes involontaires.</p>
+                           <p>Abondance des variantes liées à l'abondance des témoins.
+                              Difficile d'établir une tradition précise entre ces
+                              témoins d'autant que le cours a souvent été prononcé
+                              plusieurs années et que son contenu peut avoir
+                              évolué.</p>
+                           <p>voir Barbiche, « Seules sont à retenir les <hi
+                                 rend="bold">variantes</hi> qui ont une incidence sur
+                              le sens du texte, à l'exclusion des particularités
+                              purement graphiques ou grammaticales. ».</p>
                            <p>Transcription diplomatique de chacun des témoins. Choix
                               d'un texte maître par chaque équipe scientifique.
                               Manuscrit maître auquel a décidé de rapporter les
                               différents témoins.</p>
+                        </div>
+                        <div>
+                           <head> Collation et comparaison des témoins</head>
+                           <p><quote>Collation : Comparaison d'un texte avec un ou
+                                 plusieurs autres témoins du même texte. Le mot vient
+                                 du latin <hi rend="italic">conferre</hi> qui signifie
+                                 poser côte à côte, comparer. – <hi rend="italic"
+                                    >Collation des variantes</hi>, collation des
+                                 témoins : Repérage des leçons variantes en chaque lieu
+                                 variant des différents témoins du texte. – <hi
+                                    rend="italic">Collationner</hi> : Effectuer la
+                                 comparaison d'un témoin d'un texte avec un
+                                 autre.</quote>{Bourgain 2002@210}</p>
+                           <p>Dans le cadre du projet d'ANR, il avait été initialement prévu d'utiliser le logiciel MEDITE. Problème de version OS.</p>
+                           <p>Utilisation de Juxta. Plusieurs avantages bien adaptés à
+                              notre contexte de production : multi-plateforme, facile
+                              d'emploi, supporte le balisage XML-TEI envisagé.</p>
+                           <p>Chercher à établir des traditions.</p>
+                           <p><quote>lieu variant : Endroit d'un texte où se produit
+                                 une variante. </quote>{Bourgain 2002@213}</p>
+                           <p />
+                        </div>
+                     </div>
+                  </div>
+                  <div>
+                     <head>Les fonctionnalités offertes par l'édition critique</head>
+                     <div>
+                        <head>Modalités de consultation</head>
+                        <div>
+                           <head>Lire le texte en regard des figures</head>
+                           <p>Les figures parties prenantes du discours</p>
+                           <p>S'agissant d'un cours d'architecture, nous avons vu à
+                              quel point les planches et figures tiennent une place
+                              importante dans l'intelligibilité du propos et sont à cet
+                              égard pour ainsi dire parties prenantes du texte. De
+                              surcroit, l'édition s'adressant principalement à des
+                              historiens de l'art, il s'agissait d'accorder une
+                              attention particulière à la consultation des images.</p>
+                           <p>Place du texte en regard des figures. Commentaire de
+                              figures relativement classique. Cf. Composition du
+                              premier traité des ordres.</p>
                         </div>
                         <div>
                            <head>Comparaison des témoins</head>
@@ -661,58 +765,60 @@
                               scientifique offrir au chercheur qui consulterait le site
                               l'accès aux différents témoins conservés. Une telle
                               présentation des versions permet à la fois de proposer à
-                              un public scientifique une lecture rapprochée (<foreign xml:lang="eng">close reading</foreign>) de l'édition
+                              un public scientifique une lecture rapprochée (<foreign
+                                 xml:lang="eng">close reading</foreign>) de l'édition
                               tout en justifiant les choix éditoriaux opérés dans le
                               cours de l'édition afin de pallier l'absence de
                               reproduction des originaux.</p>
                            <p>Public scientifique, notion de close reading, lecture
                               rapprochée.</p>
                         </div>
-                     </div>
-                  </div>
-                  <div>
-                     <head>L’édition d’un cours d’architecture</head>
-                     <p/>
-                     <div>
-                        <head>Lire le texte en regard des figures</head>
-                        <p>Les figures parties prenantes du discours</p>
-                        <p>S'agissant d'un cours d'architecture, nous avons vu à quel
-                           point les planches et figures tiennent une place importante
-                           dans l'intelligibilité du propos et sont à cet égard pour
-                           ainsi dire parties prenantes du texte. De surcroit,
-                           l'édition s'adressant principalement à des historiens de
-                           l'art, il s'agissait d'accorder une attention particulière à
-                           la consultation des images.</p>
-                        <p>Place du texte en regard des figures. Commentaire de figures
-                           relativement classique. Cf. Composition du premier traité
-                           des ordres.</p>
+                        <div>
+                           <head>Comparaison des figures</head>
+                           <p>Le lecteur devait ainsi pouvoir disposer non seulement
+                              des figures en regard du texte, mais aussi, à l'instar
+                              même du texte, il devait pouvoir être en mesure de
+                              comparer les représentations des différents témoins.</p>
+                        </div>
+                        <div>
+                           <head>Recherche plein texte</head>
+                           <p>Quoique non prioritaire parmi les fonctionnalités
+                              envisagées, la mise en place d'une recherche plein texte
+                              semblait pertinente à des fin d'accès rapide au contenu
+                              des textes. Non trivial.</p>
+                        </div>
                      </div>
                      <div>
-                        <head>Comparaison des figures</head>
-                        <p>Le lecteur devait ainsi pouvoir disposer non seulement des
-                           figures en regard du texte, mais aussi, à l'instar même du
-                           texte, il devait pouvoir être en mesure de comparer les
-                           représentations des différents témoins.</p>
-                     </div>
-                     <div>
-                        <head>Recherche plein texte</head>
-                        <p>Quoique non prioritaire parmi les fonctionnalités
-                           envisagées, la mise en place d'une recherche plein texte
-                           semblait pertinente à des fin d'accès rapide au contenu des
-                           textes. Non trivial.</p>
+                        <head>L'appareil critique</head>
+                        <div>
+                           <head>L'arsenal de notes critiques et historiques</head>
+                           <p>Notes d'édition critique</p>
+                           <p><quote>Leçon : Ce que l'on peut lire dans un manuscrit à
+                                 un endroit donné. – Leçons variantes : Leçons
+                                 différentes présentées par le texte dans chacun des
+                                 témoins conservés. – Leçons rejetés : Leçons que
+                                 l'éditeur décide de ne pas accueillir dans le texte
+                                 définitif mais signale dans l'apparat
+                                 critique.</quote>{Bourgain 2002@213}</p>
+                        </div>
+                        <div>
+                           <head>Glossaires et index</head>
+                           <p>Glossaires</p>
+                           <p><quote>Glossaire : Liste alphabétique des mots difficiles
+                                 d'un texte, avec proposition de traduction. Le
+                                 glossaire ne permet pas forcément de retrouver toutes
+                                 les occurrences d'un mot, il joue le rôle d'un
+                                 dictionnaire propre au texte.</quote>{Bourgain
+                              2002}</p>
+                           <p>Index rerum <quote>Index rerum : Table alphabétique des
+                                 notions que l'utilisateur peut souhaiter retrouver
+                                 facilement dans le texte.</quote>{Bourgain 2002}</p>
+                        </div>
                      </div>
                   </div>
                   <div>
                      <head>Le respect des standards</head>
-                     <div>
-                        <head>La définition des besoins et du cahier des charges</head>
-                     </div>
-                     <div>
-                        <head>L’établissement d’un cahier des charges</head>
-                     </div>
-                     <div>
-                        <head>Appel d’offre et sélection d’un partenaire</head>
-                     </div>
+
                   </div>
                </div>
             </div>
@@ -732,7 +838,24 @@
                   <head>Planification et adaptations apportées au cahier des
                      charges</head>
                   <div>
+                     <head>La définition des besoins et l'établissement du cahier des
+                        charges</head>
+                     <p>Distinguer les fonctionnalités des aspects techniques</p>
+                     <p>Recherche de modèle</p>
+                     <p>Clauses et conditions</p>
+                  </div>
+                  <div>
+                     <head>Appel d’offre et sélection d’un partenaire</head>
+                     <p>Procédure simplifiée</p>
+                     <p>Difficultés à trouver un prestataire réunissant les compétences
+                        requises</p>
+                     <p>Sélection des partenaires</p>
+                  </div>
+                  <div>
                      <head>Révisions du cahier des charges</head>
+                     <div>
+                        <p>Adaptations nécessaires au cahier des charges</p>
+                     </div>
                      <div>
                         <head>Planification</head>
                         <div>
@@ -864,25 +987,26 @@
                               >Extensible Markup Language </hi>(XML)</p>
                         <p>Conçue pour baliser n’importe que type de document, la TEI
                            s’apparente à une « ontologie du texte » FC</p>
-                        <p>Avantages de la TEI :
-                           <list>
-                                    <item>modularité et flexibilité</item>
-                                    <item>expressivité (niveau de granularité)</item>
-                                    <item>standard reconnu internationalement
-                                       (interopérabilité, pérennité)</item>
-                                    <item>propriété intrinsèque au modèle XML,
-                                       séparation présentation et contenu. Possibilité
-                                       de générer plusieurs formats de sortie à partir
-                                       de la même source</item>
-                                    <item>édition électronique (croisement sources,
-                                       fac-similés, hyperliens, etc.)</item>
-                                    <item>modulation de l’affichage et accessibilité,
-                                       aspects économiques</item>
-                                 </list></p>
-                        <p>Implantation dans la communauté scientifique. Son implantation en France, et dans le domaine des sciences historiques et de l’histoire de l’art et de l’architecture en particulier.
-                           Projets historiques (histoire des sciences, US), et Histoire de l’art (cf. Getty)
-                           Nicole Dufournaud en France
-                        </p>
+                        <p>Avantages de la TEI : <list>
+                              <item>modularité et flexibilité</item>
+                              <item>expressivité (niveau de granularité)</item>
+                              <item>standard reconnu internationalement
+                                 (interopérabilité, pérennité)</item>
+                              <item>propriété intrinsèque au modèle XML, séparation
+                                 présentation et contenu. Possibilité de générer
+                                 plusieurs formats de sortie à partir de la même
+                                 source</item>
+                              <item>édition électronique (croisement sources,
+                                 fac-similés, hyperliens, etc.)</item>
+                              <item>modulation de l’affichage et accessibilité, aspects
+                                 économiques</item>
+                           </list></p>
+                        <p>Implantation dans la communauté scientifique. Son
+                           implantation en France, et dans le domaine des sciences
+                           historiques et de l’histoire de l’art et de l’architecture
+                           en particulier. Projets historiques (histoire des sciences,
+                           US), et Histoire de l’art (cf. Getty) Nicole Dufournaud en
+                           France </p>
                         <p>TEI que l'on peut concevoir comme un cadre de travail
                            technique, un framework, qui accompagne l'éditeur ou
                            l'encodeur dans la structuration de l'information. (cf. FC
@@ -952,7 +1076,8 @@
                      <div>
                         <head>Un certain point de vue sur le texte</head>
                         <p>Il convient de garder à l'esprit que n'importe quelle
-                           représentation numérique d'un texte constitue <foreign xml:lang="lat">ipso facto</foreign> une modélisation, au
+                           représentation numérique d'un texte constitue <foreign
+                              xml:lang="lat">ipso facto</foreign> une modélisation, au
                            sens où un modèle est une réduction de la réalité. Même
                            lorsqu'on se contente de transcrire une page manuscrite à
                            l'aide d'un simple traitement de texte, on formule sans en
@@ -972,7 +1097,8 @@
                            être réunis dans une division <gi>div</gi>. À l'intérieur
                            d'un paragraphe, on peut marquer un nom de personne ou de
                            lieu à l'aide d'éléments persName ou placeName. Une telle
-                           configuration est très commode pour le traitement (<foreign xml:lang="eng">processing</foreign>), puisqu'il est
+                           configuration est très commode pour le traitement (<foreign
+                              xml:lang="eng">processing</foreign>), puisqu'il est
                            relativement trivial de transformer un élément TEI
                               <gi>div</gi> ou <gi>p</gi> en l'élément HTML
                            correspondant, ou persName en un hyperlien qui pointe vers
@@ -1136,20 +1262,20 @@
                               de représenter le modèle de contenu des documents traités
                               et de contrôler leur structure ou leur contenu d'un point
                               de vue technique.</p>
-                           <p>La définition du schéma s'opère au moyen
-                              d'aller-retour continus avec les sources textuelles
-                              que l'on souhaite traiter. Elle a d'abord été
-                              effectuée à partir d'un échantillon jugé suffisamment
-                              représentatif du corpus. Enfin, lors du passage à
-                              l'échelle, pour corriger quelques choix s'avérant
-                              inappropriés ou bien encore pour encore renforcer le
-                              contrôle par l'intermédiaire du schéma. Le processus
-                              d'élaboration du modèle est donc un processus
-                              incrémentiel, et le schéma n'est pas d'emblée figé
-                              dans le marbre.
+                           <p>La définition du schéma s'opère au moyen d'aller-retour
+                              continus avec les sources textuelles que l'on souhaite
+                              traiter. Elle a d'abord été effectuée à partir d'un
+                              échantillon jugé suffisamment représentatif du corpus.
+                              Enfin, lors du passage à l'échelle, pour corriger
+                              quelques choix s'avérant inappropriés ou bien encore pour
+                              encore renforcer le contrôle par l'intermédiaire du
+                              schéma. Le processus d'élaboration du modèle est donc un
+                              processus incrémentiel, et le schéma n'est pas d'emblée
+                              figé dans le marbre.
                               <!--TODO améliorer la rédaction.--></p>
                            <div>
-                              <head>L'infrastructure de la TEI et la personnalisation</head>
+                              <head>L'infrastructure de la TEI et la
+                                 personnalisation</head>
                               <p>L'architecture de la TEI permet de construire un
                                  schéma en combinant comme de besoin des déclarations
                                  d'éléments et d'attributs. Chaque élément est
@@ -1437,7 +1563,8 @@
                                     <cell>Structures versifiées</cell>
                                  </row>
                               </table>
-                              <p>Définition d'un élément au moyen d'un <gi>elementSpec</gi></p>
+                              <p>Définition d'un élément au moyen d'un
+                                    <gi>elementSpec</gi></p>
                            </div>
                            <div>
                               <head>Les classes</head>
@@ -1518,8 +1645,8 @@
                                  prendre plusieurs valeurs add, replace, delete, et
                                  change.</p>
                               <p>Déclarer que l'on ne souhaite pas voir apparaître
-                                    certains éléments dans notre schéma est aisé. ???
-                                    exemple</p>
+                                 certains éléments dans notre schéma est aisé. ???
+                                 exemple</p>
                               <p>Modifier des éléments existants.</p>
                               <p>Nous avons par exemple modifié le comportement de
                                  l'élément div pour rendre son attribut type
@@ -1560,8 +1687,7 @@
                                  que le module namesdates nous serait utile.</p>
                               <p>En ODD utilise à l'intérieur de schemaSpec, série
                                  d'élément moduleRef avec l'attribut key pour faire
-                                 appel à ces modules :
-                                 <egXML>
+                                 appel à ces modules : <egXML>
                                     <!-- corriger pour adapter à notre situation -->
                                     <schemaSpec ident="TEI-PROJECT" start="TEI">
                                        <moduleRef key="tei" />
@@ -1587,7 +1713,10 @@
                                  Roma a par exemple supprimer un certain nombre
                                  d'éléments jugés inutiles à l’intérieur de ces
                                  différents modules.</p>
-                              <egXML><elementSpec ident="note" module="core" mode="delete"/></egXML>
+                              <egXML>
+                                 <elementSpec ident="note" module="core" mode="delete"
+                                  />
+                              </egXML>
                               <p>Dans la plupart des cas la suppression est une
                                  modification "propre" de la TEI, toutefois certains
                                  éléments disposent d'enfants obligatoires. Par exemple
@@ -1646,11 +1775,12 @@
                   </div>
                   <div type="introduction">
                      <p>De part leur utilisation généralisée, on oublie souvent que les
-                        logiciels de traitement de texte dits <soCalled>WYSIWIG</soCalled> (What You See Is
-                        What You Get) présentent également un certain regard sur le
-                        texte. S'ils donnent l'impression d'éditer le document imprimé
-                        final, loin d'être des instruments neutres ils présentent en
-                        réalité un modèle de consultation du texte.</p>
+                        logiciels de traitement de texte dits
+                           <soCalled>WYSIWIG</soCalled> (What You See Is What You Get)
+                        présentent également un certain regard sur le texte. S'ils
+                        donnent l'impression d'éditer le document imprimé final, loin
+                        d'être des instruments neutres ils présentent en réalité un
+                        modèle de consultation du texte.</p>
                      <p>Peut s'avérer utile de produire une interface de travail
                         dépourvue de balises pour les éditeurs. Possibilité d'utiliser
                         le mode auteur d'Oxygen. Mais avantage de travailler à partir
@@ -1755,94 +1885,95 @@
                      </div>
                   </div>
                </div>
-               <div type="chapter" n="3">
-                  <head>La production de l’application</head>
-                  <div>
-                     <head>Le cadre de travail avec les prestataires</head>
-                     <p>Réunions de lancement</p>
-                     <p>Travail à distance</p>
-                     <p>Recettage</p>
-                  </div>
-                  <div>
-                     <head>La mission d'AMO</head>
+                  <div type="chapter" n="3">
+                     <head>La production de l’application</head>
                      <div>
-                        <head>De la bonne maîtrise du modèle</head>
-                        <p>Répondre rapidement aux questions</p>
-                        <p>Modèle qui détermine en grande partie l'utilisation</p>
+                        <head>Le cadre de travail avec les prestataires</head>
+                        <p>Réunions de lancement</p>
+                        <p>Travail à distance</p>
+                        <p>Recettage</p>
                      </div>
                      <div>
-                        <head>De l'utilité d'une double compétence</head>
-                        <p>Expression des choix scientifiques / traduction technique</p>
-                        <p>Anticipation des problèmes</p>
-                        <p>Respect des standards</p>
-                     </div>
-                  </div>
-                  <div>
-                     <head>Infrastructure technique et hébergement de
-                        l’application</head>
-                     <div>
-                        <head>Options de développement</head>
+                        <head>La mission d'AMO</head>
                         <div>
-                           <head>PHP et XSLT</head>
+                           <head>De la bonne maîtrise du modèle</head>
+                           <p>Répondre rapidement aux questions</p>
+                           <p>Modèle qui détermine en grande partie l'utilisation</p>
                         </div>
                         <div>
-                           <head>Question du moteur de recherche</head>
+                           <head>De l'utilité d'une double compétence</head>
+                           <p>Expression des choix scientifiques / traduction
+                              technique</p>
+                           <p>Anticipation des problèmes</p>
+                           <p>Respect des standards</p>
                         </div>
                      </div>
                      <div>
-                        <head>La grille de service Adonis</head>
+                        <head>Infrastructure technique et hébergement de
+                           l’application</head>
                         <div>
-                           <head>Le serveur http</head>
-                        </div>
-                        <div>
-                           <head>Le conteneur de servlets Tomcat</head>
-                        </div>
-                        <div>
-                           <head>La mise en place d’outils annexes</head>
+                           <head>Options de développement</head>
                            <div>
-                              <head>Le serveur de partage de documents</head>
-                              <div>
-                                 <head>Le protocole Webdav</head>
-                              </div>
-                              <div>
-                                 <head>Sharedocs</head>
-                              </div>
+                              <head>PHP et XSLT</head>
                            </div>
                            <div>
-                              <head>Archivage pérenne</head>
-                              <div>
-                                 <head>La norme OAIS et la politique d’archivage
-                                    pérenne</head>
-                              </div>
-                              <div>
-                                 <head>Mise en place de l’archivage</head>
-                              </div>
+                              <head>Question du moteur de recherche</head>
+                           </div>
+                        </div>
+                        <div>
+                           <head>La grille de service Adonis</head>
+                           <div>
+                              <head>Le serveur http</head>
                            </div>
                            <div>
-                              <head>Entrepôt SVN</head>
+                              <head>Le conteneur de servlets Tomcat</head>
+                           </div>
+                           <div>
+                              <head>La mise en place d’outils annexes</head>
                               <div>
-                                 <head>SVN et le client SVN</head>
+                                 <head>Le serveur de partage de documents</head>
+                                 <div>
+                                    <head>Le protocole Webdav</head>
+                                 </div>
+                                 <div>
+                                    <head>Sharedocs</head>
+                                 </div>
                               </div>
                               <div>
-                                 <head>Travail collaboratif sur l’édition</head>
+                                 <head>Archivage pérenne</head>
+                                 <div>
+                                    <head>La norme OAIS et la politique d’archivage
+                                       pérenne</head>
+                                 </div>
+                                 <div>
+                                    <head>Mise en place de l’archivage</head>
+                                 </div>
+                              </div>
+                              <div>
+                                 <head>Entrepôt SVN</head>
+                                 <div>
+                                    <head>SVN et le client SVN</head>
+                                 </div>
+                                 <div>
+                                    <head>Travail collaboratif sur l’édition</head>
+                                 </div>
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
                </div>
-            </div>
             <div xml:id="desgodetsMemoireBodyFr03" type="part" n="3">
                <head>Distance entre l’attendu et la réalisation et bilan</head>
                <div type="introduction">
-                  <head>Introduction</head>
                   <p>Expérience particulière dans le champs disciplinaire. À la fois
                      premier projet en ce qui me concerne. Rapports avec informaticiens
                      sur un type de mission particulier de médiateur entre expression
                      des besoins de nature scientifique, élaboration d'une réponse
                      technique avec la TEI, et interlocuteur extérieurs comme
                      prestataires externes.</p>
-                  <p>Travailler de concert. Changement des pratiques. Ajustements éventuels. Bilan et évolutions futures.</p>
+                  <p>Travailler de concert. Changement des pratiques. Ajustements
+                     éventuels. Bilan et évolutions futures.</p>
                </div>
                <div type="chapter" n="1">
                   <head>Ajustements nécessaires en cours de projets</head>
@@ -1896,16 +2027,23 @@
                               <item>est documenté au moyen d'un fichier ODD conforme à
                                  la TEI qui fait référence aux <hi rend="italic"
                                     >Guidelines</hi></item>
-                           </list></quote> Les documents livrés dans le cadre du projet remplissent l'ensemble de ces conditions. On peut donc considérer qu'ils sont conformes à la TEI. Une telle conformité présente plusieurs avantages :
-                        <list><item>en termes de partage et d'intégration des documents parmi les chercheurs ou pour différentes utilisations</item>
+                           </list></quote> Les documents livrés dans le cadre du projet
+                        remplissent l'ensemble de ces conditions. On peut donc
+                        considérer qu'ils sont conformes à la TEI. Une telle conformité
+                        présente plusieurs avantages : <list>
+                           <item>en termes de partage et d'intégration des documents
+                              parmi les chercheurs ou pour différentes
+                              utilisations</item>
                            <item>pour l'utilisation de logiciels utilisant des outils
                               conçus pour la TEI</item>
                            <item>pour l'acceptation du dépôt des textes, leur
                               distribution, ou leur archivage</item>
                            <item>pour spécifier la forme des documents produits dans un
-                              projet.</item></list>
+                              projet.</item>
+                        </list>
                      </p>
-                     <p>Un document qui peut être transformé algorithmiquement ou automatiquement sans perte d'information.</p>
+                     <p>Un document qui peut être transformé algorithmiquement ou
+                        automatiquement sans perte d'information.</p>
                      <p>See Modern Language Association, “Guidelines for Evaluating
                         Work in Digital Humanities and Digital Media,” n.d.,
                         http://www.mla.org/guidelines_evaluation_ digital; The American
@@ -1942,70 +2080,116 @@
                            du contexte social de l'ouvrage culturel. L'approche sociale
                            du texte permet ainsi de le replacer dans son contexte. cf.
                            D. F. McKenzie.</p>
-                        <p>De ce point de vue, l’histoire du développement de la TEI ne doit jamais être oublié. Conçue comme une implémentation de la thèse du caractère OHCO des textes et de la textualité, l’émergence de la TEI expose à de grande insuffisance dans la représentation des textes.</p>
-                        <p>Un texte n’est pas une hiérarchie d’objets contenus non ordonnés, à plein d’égard c’est un nombre indéterminé de hiérarchies possibles. Chaque élément d’un texte possède plusieurs dimensions. Cf. A companion, Marking Texts of Many Dimensions</p>
+                        <p>De ce point de vue, l’histoire du développement de la TEI ne
+                           doit jamais être oublié. Conçue comme une implémentation de
+                           la thèse du caractère OHCO des textes et de la textualité,
+                           l’émergence de la TEI expose à de grande insuffisance dans
+                           la représentation des textes.</p>
+                        <p>Un texte n’est pas une hiérarchie d’objets contenus non
+                           ordonnés, à plein d’égard c’est un nombre indéterminé de
+                           hiérarchies possibles. Chaque élément d’un texte possède
+                           plusieurs dimensions. Cf. A companion, Marking Texts of Many
+                           Dimensions</p>
                      </div>
                      <div>
                         <head>La nature d'une édition électronique</head>
                         <div>
-                           <p>Le Newton project avance qu’avec le médium électronique le concept du rôle propriétaire de l’éditeur devient intenable. « La primauté du texte est restaurée, le commentaire et l’analyse deviennent une affaire courante de lecture. Une bonne édition électronique doit engager renforcer les capacités de l’utilisateur (empower), et au passage espérer plus de l’utilisateur que ne le fait une édition imprimée. »</p>
-                           <quote>In the electronic medium, the concept of the editor's virtually propietary role becomes untenable. The primacy of the text is restored, and comment and analysis become the common business of the readership. A good electronic edition should empower the user, and by the same token expect more of the user than a print edition does. The electronic medium is inevitably a gamble, as print was for Gutenberg. But it potentially liberates both author and user provided the editor/encoder is prepared to use it as a tool for liberation rather than control, and the user is prepared to treat it as such.</quote>
+                           <p>Le Newton project avance qu’avec le médium électronique
+                              le concept du rôle propriétaire de l’éditeur devient
+                              intenable. « La primauté du texte est restaurée, le
+                              commentaire et l’analyse deviennent une affaire courante
+                              de lecture. Une bonne édition électronique doit engager
+                              renforcer les capacités de l’utilisateur (empower), et au
+                              passage espérer plus de l’utilisateur que ne le fait une
+                              édition imprimée. »</p>
+                           <quote>In the electronic medium, the concept of the editor's
+                              virtually propietary role becomes untenable. The primacy
+                              of the text is restored, and comment and analysis become
+                              the common business of the readership. A good electronic
+                              edition should empower the user, and by the same token
+                              expect more of the user than a print edition does. The
+                              electronic medium is inevitably a gamble, as print was
+                              for Gutenberg. But it potentially liberates both author
+                              and user provided the editor/encoder is prepared to use
+                              it as a tool for liberation rather than control, and the
+                              user is prepared to treat it as such.</quote>
                            <p>http://www.newtonproject.sussex.ac.uk/prism.php?id=29</p>
-                           
-                           <p>évaluer le fait que tienne compte de cela ou non. Citer Bentham project.</p>
-                           <p>Voir les autres positions tenues sur l’édition électronique. Cf. Shillinsburg.</p>
-                           <p>Justifier pourquoi pas le choix de collaboratif, ou recontextualiser.</p>
+
+                           <p>évaluer le fait que tienne compte de cela ou non. Citer
+                              Bentham project.</p>
+                           <p>Voir les autres positions tenues sur l’édition
+                              électronique. Cf. Shillinsburg.</p>
+                           <p>Justifier pourquoi pas le choix de collaboratif, ou
+                              recontextualiser.</p>
                         </div>
                         <div>
                            <head>Différences entre l'édition électronique et l'édition
                               imprimée</head>
-                           <p>L’édition électronique possède de nombreux avantages pratiques sur l’édition imprimée. D’abord, elle est de loin moins coûteuse à produire et peut être directement mise à disposition d’un très grand nombre de lecteurs. Surtout elle rend possible des recherches textuelles permettant d’accéder rapidement à des informations qu’elles contiennent.</p>
-                           <p></p>
+                           <p>L’édition électronique possède de nombreux avantages
+                              pratiques sur l’édition imprimée. D’abord, elle est de
+                              loin moins coûteuse à produire et peut être directement
+                              mise à disposition d’un très grand nombre de lecteurs.
+                              Surtout elle rend possible des recherches textuelles
+                              permettant d’accéder rapidement à des informations
+                              qu’elles contiennent.</p>
+                           <p />
                            <p>Index imprimés, versus index électronique</p>
                            <p>Complémentarité des modes de recherche</p>
-                           <p></p>
+                           <p />
                            <p>« Content tagging »</p>
                            <p>Séparation de la source et du commentaire</p>
                            <p>Sémantisation</p>
-                           <p>Possibilité de signer les interventions. Plusieurs points de vue sur le texte. Conserver la possibilité au lecteur de consulter les différents états du texte, sans privilège du choix opéré par l’éditeur.</p>
+                           <p>Possibilité de signer les interventions. Plusieurs points
+                              de vue sur le texte. Conserver la possibilité au lecteur
+                              de consulter les différents états du texte, sans
+                              privilège du choix opéré par l’éditeur.</p>
                            <p>Honnêteté, transparence</p>
-                           <p></p>
+                           <p />
                            <p>Pas de texte définitif</p>
-                           <p>Un support labile. Améliorations possibles et enrichissement aisé. Plutôt concevoir le travail comme un travail en cours. Ne pas attendre l’achèvement complet du travail pour publier ou mettre à disposition le matériel.</p>
-                           <p>Citer discussions sur les manuscrits non relus. Question de l’exposition du travail.</p>
+                           <p>Un support labile. Améliorations possibles et
+                              enrichissement aisé. Plutôt concevoir le travail comme un
+                              travail en cours. Ne pas attendre l’achèvement complet du
+                              travail pour publier ou mettre à disposition le
+                              matériel.</p>
+                           <p>Citer discussions sur les manuscrits non relus. Question
+                              de l’exposition du travail.</p>
                            <p>Mise à jour et versionning.</p>
                            <p>Problème de citabilité.</p>
-                           <p></p>
-                           <p>Finesse de l’enregistrement rendu possible par le balisage → paradoxalement difficultés du rendu typographique.</p>
-                           <p>Par ailleurs propriétés propres à la matérialité du texte</p>
-                           <p>Peut désirer une édition papier, pas la même autorité, ni la même qualité de lecture.</p>
+                           <p />
+                           <p>Finesse de l’enregistrement rendu possible par le
+                              balisage → paradoxalement difficultés du rendu
+                              typographique.</p>
+                           <p>Par ailleurs propriétés propres à la matérialité du
+                              texte</p>
+                           <p>Peut désirer une édition papier, pas la même autorité, ni
+                              la même qualité de lecture.</p>
                            <p>Se réserve la possibilité d’une édition papier.</p>
-                           <p>Il s’agit donc d’envisager des usages différents en fonction des supports.</p>
+                           <p>Il s’agit donc d’envisager des usages différents en
+                              fonction des supports.</p>
                         </div>
                         <div>
                            <head>Accessibilité</head>
                            <p>Dans sa présentation <title>A Bag of Words</title>, à
-                              l'occasion de ???, Edward Vanhoutte soulevait la
-                              question de ce que pourrait être une édition numérique
-                              et ce qu'elle est en définitive aux prises avec
-                              diverses contraintes qui pèsent sur sa production.
-                              Déconstruit à cette occasion plusieurs mythes sur la
-                              nature des éditions numériques. Notamment le fait que
-                              celles-ci seraient plus accessibles, ou permettrait
-                              d'offrir un accès plus rapide ou plus directe à des
-                              sources que des éditions imprimées.</p>
+                              l'occasion de ???, Edward Vanhoutte soulevait la question
+                              de ce que pourrait être une édition numérique et ce
+                              qu'elle est en définitive aux prises avec diverses
+                              contraintes qui pèsent sur sa production. Déconstruit à
+                              cette occasion plusieurs mythes sur la nature des
+                              éditions numériques. Notamment le fait que celles-ci
+                              seraient plus accessibles, ou permettrait d'offrir un
+                              accès plus rapide ou plus directe à des sources que des
+                              éditions imprimées.</p>
                            <p>En réalité une édition imprimée est par nature
                               accessible, généralement fournie pour une audience
                               clairement ciblée, lorsqu'il s'agit d'une édition
                               scientifique elle adopte le plus souvent des critères
                               explicites. En réalité, et pour reprendre les termes
                               d'Edward Vanhoutte, une édition numérique présente une
-                              accessibilité <quote>qualitativement
-                                 différente</quote>. Le medium numérique permet
-                              notamment la recherche plein texte que n'offre pas le
-                              support imprimé. Notre édition numérique met également
-                              en place toute une série d'index dont l'utilisation
-                              repose sur l'hypertextualité.</p>
+                              accessibilité <quote>qualitativement différente</quote>.
+                              Le medium numérique permet notamment la recherche plein
+                              texte que n'offre pas le support imprimé. Notre édition
+                              numérique met également en place toute une série d'index
+                              dont l'utilisation repose sur l'hypertextualité.</p>
                         </div>
                         <div>
                            <head>Donner plus de choix au lecteur</head>
@@ -2017,7 +2201,7 @@
                            <p>Pour autant pas non plus sans conséquence sur le texte
                               lui-même et sa lecture. Dispositifs outillés, corpus
                               outillés.</p>
-<p></p>
+                           <p />
                            <p>Question des hiérarchies. Développer sur la libération du
                               lecteur et choix de lecture possible.</p>
                            <p>Possibilité d’attribuer plusieurs choix éditoriaux au
@@ -2028,7 +2212,7 @@
                               considéré à l’avance ces questions de sorte de ménager
                               ces utilisations possibles en laissant un grand nombre de
                               choix ouvert.</p>
-                           <p></p>
+                           <p />
                            <p>Plusieurs exemples : <list>
                                  <item>Accès par recherche, index, fréquences,
                                     entités-nommées, structures hiérarchique</item>
@@ -2045,7 +2229,7 @@
                               d’inventer un nouveau texte tout en laissant la
                               possibilité au lecteur de visualiser simultanément les
                               variantes, etc.</p>
-                           <p></p>
+                           <p />
                            <p>Rendu typographique pouvant être laissé à la discrétion
                               du lecteur en fonction du niveau de détail attendu pour
                               sa lecture. Il aurait ainsi été possible de moderniser la
@@ -2057,7 +2241,7 @@
                               l’éditeur électronique consiste plutôt à proposer au
                               lecteur de choisir le format qu’il trouvera le plus utile
                               et attrayant pour un texte.</p>
-                           <p></p>
+                           <p />
                            <p>Rapport moins paternaliste au lecteur récepteur passif,
                               où considère le lecteur passif. Libérer sa lecture,
                               meilleure prise en compte du lecteur et de l’utilisation
@@ -2070,7 +2254,7 @@
                               possible.</p>
                            <p>Question de la citabilité</p>
                            <p>Question du réemploi et du remix</p>
-                           <p></p>
+                           <p />
                            <p>Cependant alerter sur la question de l’édition à tout
                               faire. Cf. de Gutemberg à Google. Nécessairement à la
                               fois des partis-pris éditoriaux et conditions de
@@ -2099,29 +2283,31 @@
                      <div>
                         <head>La politique éditoriale du projet</head>
                         <div type="introduction">
-                           <p>Fournir une transcription détaillée de tous les manuscrits
-                           des cours conservés à travers le monde. Stricte fidélité à
-                           l'écrit quand bien même il ne s'agissait pas de manuscrit
-                           autographe.</p>
-                        <p>Dans la mesure du possible, et bien que la neutralité d'une
-                           édition soit un leurre, permettre au lecteur de définir ses
-                           propres conclusions interprétatives plutôt que d'imposer les
-                           nôtres.</p>
-                        <p>Dès lors respect de certains critères comme la lisibilité du
-                           processus de production et sa documentation importants.</p></div>
+                           <p>Fournir une transcription détaillée de tous les
+                              manuscrits des cours conservés à travers le monde.
+                              Stricte fidélité à l'écrit quand bien même il ne
+                              s'agissait pas de manuscrit autographe.</p>
+                           <p>Dans la mesure du possible, et bien que la neutralité
+                              d'une édition soit un leurre, permettre au lecteur de
+                              définir ses propres conclusions interprétatives plutôt
+                              que d'imposer les nôtres.</p>
+                           <p>Dès lors respect de certains critères comme la lisibilité
+                              du processus de production et sa documentation
+                              importants.</p>
+                        </div>
                         <div>
                            <head>L'accès au texte comme source</head>
-                           <p>Considérer la transcription comme une représentation plutôt
-                              qu'une interprétation de la source matérielle en première
-                              instance.</p>
-                           <p>Production d'une édition critique à partir d'un
-                              manuscrit maître auquel rapportait tous les autres
-                              témoins</p>
-                           <p>Cependant enrichissement au moyen de la production
-                              d'un apparat éditorial et critique étendu. Gloses,
-                              hyperliens, index.</p>
+                           <p>Considérer la transcription comme une représentation
+                              plutôt qu'une interprétation de la source matérielle en
+                              première instance.</p>
+                           <p>Production d'une édition critique à partir d'un manuscrit
+                              maître auquel rapportait tous les autres témoins</p>
+                           <p>Cependant enrichissement au moyen de la production d'un
+                              apparat éditorial et critique étendu. Gloses, hyperliens,
+                              index.</p>
                            <p>Dans la mesure du possible permettre au lecteur de
-                              définir ses propres conclusions interprétatives plutôt que d'imposer les nôtres.</p>
+                              définir ses propres conclusions interprétatives plutôt
+                              que d'imposer les nôtres.</p>
                            <p>Raisons pour laquelle nous n'avons pas modernisé,
                               standardisé, ou corrigé d'une toute autre manière
                               l'orthographe originale. Néanmoins suivi les règles
@@ -2208,7 +2394,7 @@
                </div>
                <div type="chapter" n="3">
                   <head>Les Évolution futures de l'application</head>
-                  
+
                   <div>
                      <head>Finir un projet DH</head>
                      <div>
