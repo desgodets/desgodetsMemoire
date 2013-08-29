@@ -670,8 +670,7 @@
                            <p>Révision de ce choix par le conseil scientifique.</p>
                         </div>
                         <div>
-                           <head>La comparaison des états et le choix d’un
-                              témoin</head>
+                           <head>Choix du manuscrit maître</head>
                            <p><quote>Lachmanien : se dit d'un éditeur qui suit une
                                  méthode inspirée de celle de Karl Lachmann et
                                  s'attache à reconstruire l'aspect original d'un texte
@@ -695,6 +694,11 @@
                            <p>Plusieurs possibilités : choix d’un témoin auquel on
                               rapporte les états ou établissement d’un texte princeps.
                               Texte qui n’aurait pas existé.</p>
+                           <p>Choix du manuscrit maître</p>
+                           <p>ieu variant : Endroit d'un texte où se produit une
+                              variante. </p>
+                           <p />
+                           <p>Traitement des variantes</p>
                            <p>On définit la variante comme une divergence entre les
                               différents exemplaires d'une même œuvre pour un endroit
                               donné du texte. Les variantes peuvent consister en
@@ -731,9 +735,37 @@
                               notre contexte de production : multi-plateforme, facile
                               d'emploi, supporte le balisage XML-TEI envisagé.</p>
                            <p>Chercher à établir des traditions.</p>
+                           <p>Variante : Divergence entre les différents exemplaires
+                              d'une même œuvre pour un endroit donné du texte. Les
+                              variantes peuvent consister en changements volontaires
+                              (on parle alors d'inetrpolations) ou en fautes,
+                              involontaires. </p>
                            <p><quote>lieu variant : Endroit d'un texte où se produit
                                  une variante. </quote>{Bourgain 2002@213}</p>
-                           <p />
+                           <p>
+                              <quote>Original : Tout document qui remonte à l'auteur,
+                                 sous forme d'autographe ou plus généralement de forme
+                                 de l'œuvre voulue et reconnue par lui. Il peut être
+                                 dicté ou authentifié par lui sans être de sa
+                                 main.</quote>
+                           </p>
+                           <p>
+                              <quote>Prototype (synonyme : subarchétype) : Manuscrit
+                                 perdu ou subsistant) dont dérivent une partie
+                                 seulement des manuscrits subsistants, qui forment une
+                                 famille.</quote>
+                           </p>
+                           <p><quote>Recension (lat. recensio) : Travail de
+                                 reconstruction d'un texte, par classement raisonné des
+                                 variantes, sous la forme du plus ancien état de la
+                                 tradition qui soit perceptibel à travers les leçons
+                                 des témoins subsistants. – Recension fermée ou
+                                 tradition fermée : tradition d'un texte qui se diffuse
+                                 selon les lois d'une généalogie normale, sans
+                                 contamination. – Recension ouverte ou tradition
+                                 ouverte : tradition d'un texte où les lois d ela
+                                 filiation des copies sont brouillées par la
+                                 contamination.</quote>{Bourgain 2002@213}</p>
                         </div>
                      </div>
                   </div>
