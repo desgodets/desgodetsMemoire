@@ -132,8 +132,10 @@
             <div xml:id="desgodetsMemoireFrontFr02">
                <head>Remerciements</head>
                <p>Remercier Robert Carvais de m'avoir fait confiance tout au long du
-                  projet et de m'avoir offert l'occasion d'abord de participer à
-                  l'équipe scientifique, ensuite de cette première réalisation.</p>
+                  projet et de m'avoir offert l'occasion, d'abord d'y participer en
+                  tant que transcripteur mais également comme membre de l'équipe
+                  scientifique, ensuite de m'avoir offert l'occasion de mener avec lui
+                  cette première réalisation informatique.</p>
                <p>Florence Clavaud, pour le goût qu'elle a su confirmer chez moi la
                   passion naissante que j'entretenais à l'égard de ces technologies
                   appliquées à l'histoire et d'avoir ...</p>
@@ -144,7 +146,7 @@
             </div>
             <div xml:id="desgodetsMemoireFrontFr03" type="foreword">
                <head>Avant-propos</head>
-               <p>Relever le <gi>lien</gi> direct entre ce projet et lej fait que j’ai
+               <p>Relever le <gi>lien</gi> direct entre ce projet et le fait que j’ai
                   suivi la formation de l’<att>École</att> nationale des chartes.
                   Finalement projet qui précède la formation et ce mémoire même qui ont
                   été nécessités pour mener à bien ce projet.</p>
@@ -162,25 +164,77 @@
             </div>
             <div xml:id="desgodetsMemoireFrontFr04" type="introduction">
                <head>Introduction</head>
+               <p>Alors qu'elles ont été cruciales dans le développement des
+                  disciplines historiques, la place accordée aux sciences auxiliaires
+                  de l'histoire, tant institutionnellement que disciplinairement, est
+                  aujourd'hui portion congrue. Ce constat est d'autant plus troublant
+                  que la généralisation de l'informatique personnelle permettrait
+                  d'envisager aujourd'hui de manière nouvelle et bien plus efficace
+                  l'important effort de publications de sources primaires conduit
+                  depuis plusieurs siècles. Au-delà de la publication de ces seules
+                  sources, c'est l'ensemble de la communication scientifique et des
+                  modalités de productions des savoirs qui se trouve depuis quelques
+                  années déjà bouleversée par l’irruption des technologies numériques.
+                  Les conséquences de ce bouleversement tardent pourtant à être actées
+                  dans la plupart des disciplines historiques.</p>
+               <p>Prenant comme objet même de son travail l'observation et
+                  l'accompagnement de ces transformations, le courant des Digital
+                  humanities est parfois présenté comme une trans-discipline, d'aucuns
+                  l'abordent comme une science auxiliaire de l'histoire. Si cette
+                  dynamique transdisciplinaire est riche d'échanges et très favorable à
+                  la réflexivité, il nous semble tout à la fois nécessaire et pertinent
+                  d'affronter la question <q>de ce que font ces outils numérique</q> au
+                  sein-même des disciplines ; en l'espèce dans le domaine de l'histoire
+                  et de l'histoire de l'art.</p>
+               <p> Introduire sur la place des sciences auxiliaires de l'histoire.
+                  Permet d'évoquer l'ENC, et les nouvelles technologies.</p>
                <div>
                   <head>Histoire de l’art et DH</head>
-                  <p>Digital history et digital art history</p>
+                  <p>L'histoire de l'informatique appliquée à l'histoire est déjà
+                     ancienne. Cf. L'historien programmeur de Ladurie. Contrairement à
+                     ce que l'on pourrait supposer de la situation actuelle dans le
+                     domaine de l'histoire de l'art, elle n'y est pas moins ancienne.
+                     Dès 1986 ?? ... organisait un premier census sur les projets
+                     informatiques en histoire de l'art. Ce premier recueil
+                     d'initiatives est non seulement abondant, mais étonnamment il
+                     comporte déjà la plupart des projets qui structurent encore
+                     aujourd'hui la discipline du point de vue documentaire et
+                     informatique : vocabulaires et systèmes descriptifs de
+                     l'Inventaire des richesses artistiques de la France, base Joconde
+                     et bases de l'Inventaire, thesaurus du Ghetty, Iconclass, etc.</p>
+                  <p>L'ami, Thuillier. Constat désabusé en 1992.</p>
                   <p>Rapport Kress et n° special de Visual resources</p>
+                  <p> entre l'ordinateur et les disciplines historiques sont déjà
+                     Digital history et digital art history</p>
                   <div>
                      <head>Donner des exemples :</head>
-                     <p>Collections familiar to art and architectural historians include
-                        The William Blake Archive (http://www.blakearchive.org/blake/),
-                        The Rossetti Archive (http://www. rossettiarchive.org), The
+                     <p>Mis à part ces projets documentaires, force est de constater
+                        que la plupart des projets d'envergure menés jusqu'à présent
+                        avec succès dans le domaine académique concernent l'édition des
+                        sources primaires. Certains de ces projets sont déjà
+                        relativement anciens et sans doute familier des historiens
+                        d'art comme The William Blake Archive
+                        (http://www.blakearchive.org/blake/), ou The Rossetti Archive
+                        (http://www. rossettiarchive.org). Plus récemment, on relève
+                        quelques projets d'édition de correspondance : The
                         Correspondence of James McNeill Whistler (http://www.
-                        whistler.arts.gla.ac.uk/), Vincent van Gogh: The Letters
-                        (http://vangoghletters.org/vg/), The History of the Accademia di
-                        San Luca, c. 1590–1635 (http://www.nga.gov/casva/
-                        accademia/intro.shtm), and the Perseus Digital Library
-                        (http://www.perseus.tufts.edu/ hopper/). </p>
+                        whistler.arts.gla.ac.uk/), la très belle édition Vincent van
+                        Gogh: The Letters (http://vangoghletters.org/vg/), celle de
+                        Delacroix, ou encore de publication d'archives comme The
+                        History of the Accademia di San Luca, c. 1590–1635
+                        (http://www.nga.gov/casva/ accademia/intro.shtm), and the
+                        Perseus Digital Library (http://www.perseus.tufts.edu/
+                        hopper/). </p>
                   </div>
                   <div>
                      <head>Le contexte spécifique de la discipline</head>
                   </div>
+               </div>
+               <div>
+                  <head>Les enjeux liés à la production</head>
+                  <p>Travail collaboratif. Projets de grande ampleur. Coûteux. </p>
+                  <p>Irruption de nouveaux acteurs :</p>
+                  <p>Nécessité d'un savoir hybride</p>
                </div>
                <div>
                   <head>La mise à disposition des sources primaires</head>
@@ -210,11 +264,12 @@
                      production même, les éditions numériques bouleverses également les
                      manières de travailler des chercheurs. Abondance des sources
                      nouvellement mises à disposition. Changement du cadre de travail.
-                     Pervasivité de l'internet, et bientôt du Linked open data.</p>
+                     Pervasivité du numérique avec l'internet, et bientôt du Linked
+                     open data.</p>
                </div>
                <div>
                   <head>Problématique et annonce du plan</head>
-                  <p>Introduiire la problématique. Qu'est ce que cela change, du côté
+                  <p>Introduire la problématique. Qu'est ce que cela change, du côté
                      de l'éditeur scientifique, du côté du lecteur. Travail d'AMO,
                      précisément endroit intéressant pour faire ces constats. Croisée
                      des chemins. Compétences.</p>
@@ -231,7 +286,14 @@
                   <head>Le projet d’ANR Desgodets, un contexte de travail
                      collaboratif ?</head>
                   <div type="introduction">
-                     <p>Importance de l’écrit pour mesurer le savoir de l’architecte. Traités d’architecture, véritable genre littéraire à part entière.</p>
+                     <p>Ne pouvant plus accéder aujourd'hui au savoir transmis
+                        oralement sur le chantier, l'écrit se révèle d'une importance
+                        crucial pour mesurer le savoir de l'architecte. Place de
+                        l'écrit également dans la constitution de la discipline. Mise
+                        en ordre des savoirs, réduction en art. Traités d’architecture,
+                        véritable genre littéraire à part entière.</p>
+                     <p>Question de la théorie et de la pratique, qui dans le domaine
+                        de l'architecture trouve une résolution si particulière.</p>
                      <p>Introduire sur l’intérêt renouvelé ces dernières années pour les écrits d’architecture (citer Guillaume, Garric, Bouvier, Medvedkova, etc.).
                      Contexte des appels à projet corpus. Occasion de mettre à disposition tout un pan nouveau de la théorie architecturale.</p>
                   </div>
@@ -246,26 +308,29 @@
                         intitulé « Vitruviana », l’édition des cours de l’architecte
                         avait retenu l’attention des évaluateurs qui avaient suggéré de
                         le présenter séparément à un autre appel d’offre. <ref
-                           type="note" target="#m0002">Le projet re-rédigé par Robert
-                           Carvais en ce sens a finalement obtenu le financement de
-                           l’ANR à l’appel d’offre corpus suivant sous le n°
-                           ANR-07-CORP-017-01 en 2004</ref>.</p>
+                           type="note" target="#m0002">Le projet, re-rédigé par Robert
+                           Carvais en ce sens, a finalement obtenu le financement de
+                           l’ANR à l’appel d’offre du programme <title>Corpus et outils
+                              de la recherche en sciences humaines et sociales</title>
+                           suivant, sous le n° ANR-07-CORP-017-01 en 2007</ref>.</p>
                      <p>Le projet de recherche proposait d’aborder la construction et
                         la normalisation du savoir architectural à la fin du XVII<hi
                            rend="superscript">e</hi> siècle à partir de l’édition du
-                        corpus des cours manuscrits dictés à l’Académie royale
-                        d’architecture par Antoine Desgodets entre 1721 et 1728.
-                        Plusieurs raisons justifiaient le choix de cette œuvre : D’une
-                        part l’architecte était devenu professeur à l’Académie
-                        d’architecture en 1719, au cours de la Régence, époque à
-                        laquelle on cherche à réformer les dogmes. D’autre part,
-                        l’enseignement de l’architecte, par le choix de thèmes nouveaux
-                        participait d’une réduction en art de la discipline académique
-                        et constituait une des premières normalisation du savoir
-                        architectural. Enfin, l’œuvre de Desgodets intervenait à un
-                        moment clef de la constitution de la légitimité professionnel
-                        de l’architecte par la prise en compte de la figure de l’expert
-                        comme intermédiaire entre l’architecte et l’amateur.</p>
+                        corpus des cours manuscrits dictés à l’<orgName>Académie royale
+                           d’architecture</orgName> par <persName>Antoine
+                           Desgodets</persName>
+                        <date from="1721" to="1728">entre 1721 et 1728</date>. Plusieurs raisons justifiaient
+                        le choix de cette œuvre : D’une part l’architecte était devenu
+                        professeur à l’<orgName>Académie d’architecture</orgName> en
+                        1719, au cours de la Régence, époque à laquelle on cherche à
+                        réformer les dogmes. D’autre part, l’enseignement de
+                        l’architecte, par le choix de thèmes nouveaux participait d’une
+                        réduction en art de la discipline académique et constituait une
+                        des premières normalisation du savoir architectural. Enfin,
+                        l’Œuvre de Desgodets intervenait à un moment clef de la
+                        constitution de la légitimité professionnel de l’architecte par
+                        la prise en compte de la figure de l’expert comme intermédiaire
+                        entre l’architecte et l’amateur.</p>
                      <p><ref type="note" target="#m0003">Pour toutes ces raisons, les
                            cours d’Antoine Desgodets méritaient d’être reconstitués et
                            livrés à la communauté scientifique comme un texte fondateur
@@ -291,30 +356,35 @@
                      <p>S’agissant d’un projet collectif, et compte-tenu de l'ampleur
                         des sources à traiter, une équipe pluridisciplinaire de
                         chercheurs a été réunie par Robert Carvais pour l’étude et
-                        l’édition des manuscrits. L’équipe de recherche rassemblait des
+                        l’édition des manuscrits. Cette équipe rassemblait des
                         historiens du droit, des historiens de l’architecture et des
-                        historiens des sciences. C'est Robert Carvais qui en assurait
-                        en tant qu'investigateur principal et que responsable juridique
-                        projet d'ANR, la direction scientifique.</p>
-                     <p>C’est dans le cadre du recrutement de transcripteurs que j’ai
-                        d’abord été conduit à intervenir dans le cours du projet. J’ai
-                        ensuite été associé à l’équipe scientifique du projet et
-                        participé à l’ensemble de ses réunions. À plusieurs égards,
-                        c’est en partie ma participation à cette recherche qui m’a
-                        d’abord conduit à assister à une première formation organisée
-                        par le réseau Mutec sur l’édition numérique et la Text Encoding
-                        Initiative, puis à m’intéresser de plus près à la formation
-                        offerte par l’École des chartes dans le cadre de son master 2
-                        « Technologies numériques appliquées à l’histoire ».</p>
-                     <p>Malgré le nombre de sources à traiter, le projet restait
-                        relativement modeste tant en termes de gestion que de nombre de
-                        personnes engagées directement dans sa réalisation. Aussi, la
-                        direction du projet n'a pas nécessité la mise en place de
-                        service administratifs particuliers l'ensemble de ces tâches
-                        étant assurées par Robert Carvais qui assurait en même temps la
-                        direction scientifique du projet. Les questions financières
-                        étaient quant à elles traitées directement par les services
-                        financiers de l'université Paris II.</p>
+                        historiens des sciences. Robert Carvais qui en assurait en tant
+                        qu'investigateur principal et que responsable juridique projet
+                        d'ANR, la direction scientifique.</p>
+                     <p>Le nombre de témoins manuscrits identifiés dès les premiers
+                        temps du projet a impliquait le recrutement de plusieurs
+                        transcripteurs ; cinq au total. C’est dans ce cadre que je
+                        suis, dans un premier temps, intervenu dans le cours du projet.
+                        J’ai ensuite été directement associé à l’équipe scientifique et
+                        participé à l’ensemble des réunions de suivi. À bien des
+                        égards, c’est ma participation à cette recherche qui m’a
+                        conduit à assister à une première formation organisée par le
+                        réseau Mutec sur l’édition numérique et la Text Encoding
+                        Initiative à Lyon, puis à m’intéresser de plus près à la
+                        formation offerte par l’École des chartes dans le cadre de son
+                        master 2 « Technologies numériques appliquées à l’histoire » à
+                        l'origine aujourd'hui de la rédaction de ce mémoire.</p>
+                     <p>Malgré l'importance numérique des sources à traiter, le projet
+                        restait relativement modeste tant en nombre de personnes
+                        rémunérées que du point de vue de sa gestion. Ainsi, la
+                        direction du projet n'a pas nécessité la mise en place d'un
+                        service administratif spécifique, l'ensemble des tâches de
+                        gestion étant personnellement assurées par Robert Carvais qui
+                        se chargeait en même temps la direction scientifique du projet.
+                        Les questions financières étaient quant à elles traitées
+                        directement par les services financiers de l'université
+                        Panthéon-Assas (Paris II) qui hébergeait d'un point de vue
+                        institutionnel le projet de recherche.</p>
                      <p />
                      <p>Les transcripteurs</p>
                      <p>Les éditeurs</p>
@@ -596,8 +666,8 @@
                            typographique, avec comme variante l'édition génétique, qui
                            rend compte par des artifices typographiques des différentes
                            couches et états successifs du texte ; l'édition "variorum",
-                           qui done le texte accompagné, outre l'apparat normal des
-                           variantes, de toutes les soultions des éditeurs
+                           qui donne le texte accompagné, outre l'apparat normal des
+                           variantes, de toutes les solutions des éditeurs
                            précédents.</quote>{Bourgain 2002} </p>
                      <p>L'édition académique à l'ère numérique mobilise des savoirs
                         relativement étendus. Elle implique que l'éditeur dispose non
@@ -855,9 +925,8 @@
                </div>
             </div>
             <div xml:id="desgodetsMemoireBodyFr02" type="part" n="2">
-               <head>L’assistance à la maîtrise d’ouvrage</head>
+               <head>La mission d'assistance à la maîtrise d’ouvrage</head>
                <div type="introduction">
-                  <head>Introduction</head>
                   <p>Définition de la l'assistance à la maîtrise d'ouvrage. Ambiguïté
                      entre domaine informatique et architectural.</p>
                   <p>Expliquer que l'on a été finalement associé à chacune des phases
@@ -867,8 +936,8 @@
                      réalisation de l'application et son recettage.</p>
                </div>
                <div type="chapter" n="1">
-                  <head>Planification et adaptations apportées au cahier des
-                     charges</head>
+                  <head>L'Établissement d'un cahier des charges, le choix d'un
+                     prestataire et la planification</head>
                   <div>
                      <head>La définition des besoins et l'établissement du cahier des
                         charges</head>
@@ -878,21 +947,31 @@
                   </div>
                   <div>
                      <head>Appel d’offre et sélection d’un partenaire</head>
-                     <p>Procédure simplifiée</p>
-                     <p>Difficultés à trouver un prestataire réunissant les compétences
-                        requises</p>
-                     <p>Sélection des partenaires</p>
-                  </div>
-                  <div>
-                     <head>Révisions du cahier des charges</head>
                      <div>
-                        <p>Adaptations nécessaires au cahier des charges</p>
+                        <head>Procédure simplifiée</head>
                      </div>
                      <div>
-                        <head>Planification</head>
-                        <div>
-                           <head>Participation des membres à la planification</head>
-                        </div>
+                        <head>Sélection des partenaires</head>
+                        <p>Difficultés à trouver un prestataire réunissant les
+                           compétences requises</p>
+                        <p>Choix des partenaires</p>
+                     </div>
+                     <div>
+                        <head>Révisions du cahier des charges</head>
+                        <p>Adaptations nécessaires au cahier des charges</p>
+                     </div>
+                  </div>
+                  <div>
+                     <head>Planification</head>
+                     <div>
+                        <head>Production d'un échéancier</head>
+                     </div>
+                     <div>
+                        <head>Participation des membres à la planification</head>
+                     </div>
+                     <div>
+                        <head>Ajustements dans la planification</head>
+                        <p>évoquer la question des retards. Difficulté à évaluer le temps requis pour mener à bien tel ou tel travail</p>
                      </div>
                   </div>
                </div>
@@ -1707,8 +1786,8 @@
                                  matériaux manuscrits sous la forme d'un corpus. Chaque
                                  source manuscrite devant faire l'objet d'une
                                  description appropriée, et pouvant comprendre des
-                                 images, besoin d'ajouter plusieurs modules aux quatres
-                                 modules habituels tei, header, cors, et
+                                 images, besoin d'ajouter plusieurs modules aux quatre
+                                 modules habituels : tei, header, core, et
                                  textstructure.</p>
                               <p>Le module msdescription va permettre de prendre en
                                  charge une grande partie de la description des
@@ -2014,6 +2093,64 @@
                   </div>
                   <div>
                      <head>Renoncements en cours de projet</head>
+                     <p>Si la phase de réalisation a permis de trouver des solutions
+                        favorables à certains problèmes, elle a aussi nécessité
+                        plusieurs renoncements afin d'être certain de pouvoir mener à
+                        terme la production de l'application. Ces choix ont
+                        généralement été occasionnés par des difficultés techniques
+                        imprévues, ou bien des modifications dans la réalisation
+                        attendue. Ils ont toujours été déterminés en fonction des
+                        priorités dans l'économie globale du projet, et résultent pour
+                        l'essentiel d'une négociation avec le prestataire au cours du
+                        projet. Ils ont été abordés en termes de compensations sur la
+                        base de la réalisation convenue contractuellement au moment de
+                        la signature.</p>
+                     <p>Cette manière d'aborder la conduite du projet était déterminée
+                        par la recherche d'un équilibre entre l'exercice d'une autorité
+                        nécessaire pour faire respecter le cahier des charges et la
+                        nécessité de trouver un cadre de travail approprié aux fins de
+                        la réalisation. Il nous a semblé que l'adoption d'une relative
+                        souplesse en cours de réalisations était plus productive que le
+                        fait de s'accrocher au cahier des charges, au risque d'aller à
+                        la rupture avec le prestataire. En effet, il était dans
+                        l'intérêt de la réalisation et de sa finalisation de garder de
+                        bons rapports, et une dynamique de travail productive et
+                        soignée.</p>
+                     <p>Bien évidemment ces choix déterminants ont tous été effectués
+                        d'un commun accord avec le responsable scientifique du projet.
+                        La possibilité d'ailleurs d'en référer à lui permettait
+                        précisément dans l'échange avec le prestataire de pouvoir
+                        temporiser ses demandes ou de créer un niveau de discussion
+                        supplémentaire favorable à l'optention de certaines
+                        demandes.</p>
+                     <p>Exemples de renoncement :</p>
+                     <p>Entrepôt OAI-PMH. Bien qu'il soit déterminant en termes
+                        d'interopérabilité, nous avons renoncé à la production d'un
+                        entrepôt OAI-PMH au profit d'un travail plus avancé sur la
+                        gestion des images et des identifiants uniques ?? Choix
+                        effectué afin d'alléger le travail du prestataire qui avait en
+                        partie mal dimensionné l'ampleur des développements à
+                        effectuer. Bien que l'interopérabilité soit constitue une
+                        dimension cruciale d'un projet en digital humanities, et que ce
+                        protocole permette d'assurer une bonne visibilité de des
+                        contenus proposés par l'édition dans l'écosystème scientifique,
+                        il nous semblait raisonnable d'y renoncer pour deux
+                        raisons :</p>
+                     <p>D'une part, nous avons identifié au cours de la réalisation
+                        qu'un travail était mené dans le cadre du consortium Cahier sur
+                        l'interopérabilité des en-têtes XML-TEI et leur moissonnage en
+                        vue de leur exposition sous la forme d'un entrepôt OAI-PMH.
+                        Comme nous nous étions assurés de la compatibilité possible de
+                        nos métadonnées avec les propositions en cours de formulation
+                        dans le cadre de ce travail, et que le projet d'ANR envisage
+                        une candidature au consortium, la réalisation d'un tel entrepôt
+                        devenait moins impérieuse et il nous semblait intéressant de
+                        pouvoir bénéficier à court terme de cette mutualisation.
+                        D'autre part, envisageant comme évolution future la publication
+                        des sources à partir d'une base de données XML native, la
+                        création d'un entrepôt OAI-PMH deviendrait pour ainsi dire
+                        triviale dans une telle configuration.</p>
+                     <p />
                   </div>
                   <div>
                      <head>Interopérabilité</head>
