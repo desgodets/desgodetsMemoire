@@ -38,5 +38,11 @@
     <note xml:id="m0008">
         <p>HRC</p>
     </note>
+    <note xml:id="m0009">
+        <p>{SitemapsOrg}</p>
+    </note>
+    <note xml:id="m0010">
+        <p>{IsidoreAccèsAux}</p>
+    </note>
 
 </div>

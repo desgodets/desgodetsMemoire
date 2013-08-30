@@ -978,6 +978,33 @@
                <div type="chapter" n="2">
                   <head>L’encodage des textes</head>
                   <div type="introduction">
+                     <p>Dès lors qu'il fut décidé que l'édition des cours de Desgodets
+                        serait en premier lieu une édition numérique en ligne, se
+                        posait la question de l'encodage du texte. En effet, le rendu
+                        d'une page web repose sur un balisage HTML. Toute présentation
+                        web de nos textes nécessitait donc a minima une opération
+                        d'encodage.</p>
+                     <p><title>Référentiel général d'interopérabilité</title> publié en
+                        2009 par le Direction générale de la modernisation de l'État
+                        qui recommande l'utilisation des technologies XML dans son
+                           <soCalled>Guide d'interopérabilité</soCalled> dans le cadre
+                        de l'administration en ligne, p. 26 Recommandation pour
+                        l'échange de documents structurés.</p>
+                     <p>Dialecte XML de la Text Encoding Initiative (TEI) qui s'est
+                        très largement imposée comme un standard de fait dans le
+                        domaine de l'édition numérique universitaire et pour la
+                        publication de sources primaires.</p>
+                     <p>Une démarche qui repose sur un balisage descriptif du
+                        texte.</p>
+                     <p>Tire partie de l'infrastructure technique offerte par XML.</p>
+                     <p>Mais pas prêt à l'emploi : l'encodage est une étape dans un
+                        processus global qui implique la définition d'un schéma dans
+                        lequel on déclare ses pratiques et la manière dont on va
+                        utiliser la TEI. Pour produire ce schéma et éventuellement un
+                        manuel d'encodage qui l'accompagne, il est nécessaire de
+                        comprendre sa source.</p>
+                     <p>L'encodage n'est pas une fin en soi, mais plutôt un moyen.</p>
+                     <p>L'utilisation d'un balisage descriptif</p>
                      <p>Les trois opérations qui interviennent au cours du balisage
                         sont les suivantes :<list>
                            <item><hi rend="bold">reconnaissance des éléments</hi>,
@@ -1023,6 +1050,10 @@
                         fournit l'information sémantique et pragmatique nécessaire pour
                         produire des vues alternatives sur le document et une édition
                         basée sur la structure.</p>
+                     <p>Balisage descriptif : langages conçus habituellement pour
+                        identifier explicitement la structure sémantique sous-jacente
+                        d'un document, indépendamment de tout traitement déterminé à
+                        l'avance{Renear 2003}.</p>
                      <p>La question du balisage est fondamentale dans l'histoire de la
                         numérisation des textes puisqu'elle détermine en grande partie
                         les possibilités de traitement informatique du texte. Cf.
@@ -1078,15 +1109,112 @@
                         premier lieu de rendre la structure du texte explicite,
                         c'est-à-dire de clarifier à la fois les relations hiérarchiques
                         et séquentielles.</p>
+                     <p>Possibilité de traiter ces éléments marqués par des balises pour
+                        une transformation. Objets textuels éditoriaux identifiés par
+                        des balises. Explicitement délimité par des balises.</p>
+                     <p>Expliqué que lié à XML. Le métalangage XML permet le
+                        développement de vocabulaires descriptifs de balisages
+                        interopérables spécifiques à certains domaines. Supporte
+                        grammaire lisible par la machine, mais pas de sémantique. Ne
+                        peut donc seul spécifier formellement une sémantique. La large
+                        adoption de la vocabulaires XML spécialisés comme la TEI
+                        rendent disponible une importante information sémantique, mais
+                        seulement sous la forme d'une document en prose et de pratiques
+                        partagées. (peut laisser désirer à certains une sémantique
+                        proprement dite{Renear 2003}{Renear 2002}.) Si pas lisible par
+                        la machine, pb interopérabilité.</p>
                   </div>
                   <div>
                      <head>Le choix de la TEI</head>
+                     <p>La plupart des contenus des bibliothèques numériques
+                        aujourd'hui mis à disposition sur le web sont encodés en
+                        utilisant un balisage XML. Comme nous l'avons vu, XML propose
+                        une solution rigoureuse, compréhensible par les machines, pour
+                        définir un langage de balisage descriptif.</p>
                      <div>
                         <head>Le projet de la Text Encoding Initiative</head>
                         <p>La TEI fournit un vocabulaire qui permet de produire des
                            modèles de textes que l'on peut utiliser à différentes
                            fins.</p>
-                        <p />
+                        <p><quote>1. The guidelines are intended to provide a standard
+                              format for data interchange in humanities research. 2.
+                              The guidelines are also intended to suggest principles
+                              for the encoding of texts in the same format. 3. The
+                              guidelines should a. define a recommended syntax for the
+                              format, b.define a metalanguage for the description of
+                              text-encoding schemes, c. describe the new format and
+                              representative existing schemes both in that metalanguage
+                              and in prose. 4. The guidelines should propose sets of
+                              coding conventions suited for various applications. 5.
+                              The guidelines should include a minimal set of
+                              conventions for encoding new texts in the format. 6. The
+                              guidelines are to be drafted by committees on a. text
+                              documentation b. text representation c. text
+                              interpretation and analysis d. metalanguage definition
+                              and description of existing and proposed schemes,
+                              coordinated by a steering committee of representatives of
+                              the principal sponsoring organizations. 7. Compatibility
+                              with existing standards will be maintained as far as
+                              possible. 8. A number of large text archives have agreed
+                              in principle to support the guidelines in their function
+                              as an interchange format. We encourage funding agencies
+                              to support development of tools to facilitate this
+                              interchange. 9. Conversion of existing machine-readable
+                              texts to the new format involves the translation of their
+                              conventions into the syntax of the new format. No
+                              requirements will be made for the addition of information
+                              not already coded in the texts.</quote><quote>The concern
+                              over conversion between formats led to the third
+                              Poughkeepsie Principle, which stressed that the TEI
+                              should develop a metalanguage for describing encoding
+                              schemes. The idea behind this principle was to provide a
+                              formal description of the mapping among schemes, in order
+                              to facilitate the conversion between schemes envisaged at
+                              the Vassar conference. Among the Poughkeepsie Principles,
+                              this is the only one which was explicitly dropped later
+                              on in the project.</quote><quote>The TEI made an early
+                              commitment to provide guidelines, rather than a standard,
+                              for encoding literary and linguistic materials. The goal
+                              was to specify encoding conventions that are coherent,
+                              easy to use, relatively comprehensive, and which provide
+                              ample mechanisms for user-defined extensions in order to
+                              suit individual needs.</quote><quote>The participants in
+                              the Vassar conference agreed unanimously that the TEI
+                              Guidelines should not only specify what the user should
+                              or could encode in a computer-readable text for various
+                              applications in humanities scholarship, but also how
+                              these features should be encoded---that is, a concrete
+                              syntax for the recommended and suggested tags.
+                              </quote><quote>SGML, which is a syntactic framework for
+                              developing tags sets rather than a tag set itself, was
+                              early adopted as the basis of the Association of American
+                              Publishers' standard for electronic manuscript markup,
+                              which had wide acceptance in the scholarly community.7 A
+                              survey of encoding problems at Queens University in 1986
+                              concluded that SGML offers a better basis for
+                              research-oriented text encoding than other schemes,8 in
+                              large part because of its orientation toward descriptive
+                              markup (markup which describes function rather than
+                              form--e.g., "emphasis" or "foreign word" rather than
+                              "italics").9 Since 1987, SGML has become widely adopted
+                              by government, industry, and academic groups world-wide.
+                              Thus the TEI Guidelines, by adopting SGML, have achieved
+                              de facto compatability with a large number of other
+                              encoding schemes in addition to that of the
+                              AAP.</quote><quote>The TEI Guidelines define a
+                              general-purpose encoding scheme which enables encoding
+                              any of these views. Further, it enables the simultaneous
+                              encoding of multiple views, which is important for both
+                              research and industrial text applications. For example,
+                              the scholar reconstructing the lexicon of an ancient
+                              language from surviving parchment fragments or an
+                              industrial application for document translation must
+                              constantly switch between the levels of physical and
+                              linguistic description; the historian or anthropologist
+                              testing a theory of social interactions or customs by an
+                              investigation of textual records relating to them must
+                              switch between linguistic and propositional
+                              perspectives.</quote>{Ide 1995}</p>
                         <p>Initiative scientifique pluridisciplinaire, 80’s.</p>
                         <p>But : établir des pratiques et des techniques favorisant le
                            partage des sources textuelles dans le domaine des
@@ -1142,6 +1270,7 @@
                            format a l'avantage de permettre de tirer parti des
                            puissants outils disponibles pour traiter des documents
                            XML.</p>
+                        <p />
                         <p>Noter également que n'est pas une norme au sens strict.
                            Choix délibéré, car un projet de recherche. Norme ISO un
                            moment adoptée se révélait trop contraignante.</p>
@@ -1454,6 +1583,11 @@
                                  par la TEI. Enfin, l'utilitaire Roma génère un simple
                                  fichier portable que l'on peut utiliser pour partager
                                  son schéma.</p>
+                              <p>Formalisme pour exprimer la sémantique d'un
+                                 vocabulaire. Schémas, etc. fournissent des mécanismes
+                                 pour spécifier la syntaxe d'un vocabulaire, mais
+                                 besoin de mécanisme comparacbles pour exprimer la
+                                 sémantique de ces vocabulaires.</p>
                            </div>
                            <div>
                               <head>Le format ODD</head>
@@ -1885,6 +2019,7 @@
                      <head>Produire l’édition avec des documents Microsoft Word</head>
                   </div>
                   <div type="introduction">
+                     <p>Question de savoir qui doit encoder{Buquet 2010}. Si l'encodage un moyen. Pb expressivité.</p>
                      <p>De part leur utilisation généralisée, on oublie souvent que les
                         logiciels de traitement de texte dits
                            <soCalled>WYSIWIG</soCalled> (What You See Is What You Get)
@@ -2121,63 +2256,132 @@
                         La possibilité d'ailleurs d'en référer à lui permettait
                         précisément dans l'échange avec le prestataire de pouvoir
                         temporiser ses demandes ou de créer un niveau de discussion
-                        supplémentaire favorable à l'optention de certaines
+                        supplémentaire favorable à l’obtention de certaines
                         demandes.</p>
-                     <p>Exemples de renoncement :</p>
-                     <p>Entrepôt OAI-PMH. Bien qu'il soit déterminant en termes
-                        d'interopérabilité, nous avons renoncé à la production d'un
-                        entrepôt OAI-PMH au profit d'un travail plus avancé sur la
-                        gestion des images et des identifiants uniques ?? Choix
-                        effectué afin d'alléger le travail du prestataire qui avait en
-                        partie mal dimensionné l'ampleur des développements à
-                        effectuer. Bien que l'interopérabilité soit constitue une
-                        dimension cruciale d'un projet en digital humanities, et que ce
-                        protocole permette d'assurer une bonne visibilité de des
-                        contenus proposés par l'édition dans l'écosystème scientifique,
-                        il nous semblait raisonnable d'y renoncer pour deux
-                        raisons :</p>
-                     <p>D'une part, nous avons identifié au cours de la réalisation
-                        qu'un travail était mené dans le cadre du consortium Cahier sur
-                        l'interopérabilité des en-têtes XML-TEI et leur moissonnage en
-                        vue de leur exposition sous la forme d'un entrepôt OAI-PMH.
-                        Comme nous nous étions assurés de la compatibilité possible de
-                        nos métadonnées avec les propositions en cours de formulation
-                        dans le cadre de ce travail, et que le projet d'ANR envisage
-                        une candidature au consortium, la réalisation d'un tel entrepôt
-                        devenait moins impérieuse et il nous semblait intéressant de
-                        pouvoir bénéficier à court terme de cette mutualisation.
-                        D'autre part, envisageant comme évolution future la publication
-                        des sources à partir d'une base de données XML native, la
-                        création d'un entrepôt OAI-PMH deviendrait pour ainsi dire
-                        triviale dans une telle configuration.</p>
-                     <p />
                   </div>
                   <div>
                      <head>Interopérabilité</head>
                      <div>
                         <head>Entrepôt OAI-PMH</head>
+                        <p>Entrepôt OAI-PMH. Bien qu'il soit déterminant en termes
+                           d'interopérabilité, nous avons renoncé à la production d'un
+                           entrepôt OAI-PMH au profit d'un travail plus avancé sur le
+                           module de visualisation des cours. Choix effectué afin
+                           d'alléger le travail du prestataire qui avait en partie mal
+                           dimensionné l'ampleur des développements à effectuer. Bien
+                           que l'interopérabilité soit constitue une dimension cruciale
+                           d'un projet en digital humanities, et que ce protocole
+                           permette d'assurer une bonne visibilité de des contenus
+                           proposés par l'édition dans l'écosystème scientifique, il
+                           nous semblait raisonnable d'y renoncer pour deux
+                           raisons :</p>
+                        <p>D'une part, nous avons identifié au cours de la réalisation
+                           qu'un travail était mené dans le cadre du consortium Cahier sur
+                           l'interopérabilité des en-têtes XML-TEI et leur moissonnage en
+                           vue de leur exposition sous la forme d'un entrepôt OAI-PMH.
+                           Comme nous nous étions assurés de la compatibilité possible de
+                           nos métadonnées avec les propositions en cours de formulation
+                           dans le cadre de ce travail, et que le projet d'ANR envisage
+                           une candidature au consortium, la réalisation d'un tel entrepôt
+                           devenait moins impérieuse et il nous semblait intéressant de
+                           pouvoir bénéficier à court terme de cette mutualisation.
+                           D'autre part, envisageant comme évolution future la publication
+                           des sources à partir d'une base de données XML native, la
+                           création d'un entrepôt OAI-PMH deviendrait pour ainsi dire
+                           triviale dans une telle configuration.</p>
                      </div>
                      <div>
                         <head>SiteMap</head>
+                        <p>Afin de favoriser l'indexation du site par les moteurs de
+                           recherche et son référencement, il était normalement prévu
+                           de produire un plan de site ou <foreign xml:lang="eng">site
+                              map</foreign>, c'est-à-dire une représentation de
+                           l'architecture du site listant les ressources proposées.
+                              <ref type="note" target="#m0009">Nous envisagions
+                              d'utiliser le protocole sitemaps, proposé par Google en
+                              2005, du fait de sa simplicité et de sa large utilisation
+                              par les moteurs de recherche actuellement</ref>. C'est
+                           par ailleurs un format XML qui paraissait bien s'intégrer à
+                           notre environnement.</p>
+                        <p>Ce sitemap n'a finalement pas été produit lors de la
+                           réalisation du site. Compte-tenu de l'arborescence du site
+                           et de la configuration de ses pages HTML, le référencement
+                           ne devrait pas poser trop de problème. Une première
+                           indexation accidentelle du site par le moteur de recherche
+                           Google a confirmé cette impression. Toutefois, la production
+                           d'un plan de site reste nécessaire notamment en vue d'un
+                           moissonnage du site web par <ref type="note" target="#m0010"
+                              >le moteur de recherche Isidore</ref>. Comme un sitemaps
+                           se contente de répertorier les URL d'un site ainsi que les
+                           métadonnées concernant chacune de ces pages (date de
+                           dernière modification, fréquence de révision et importance
+                           relative par rapport aux autres URL du site), sa production
+                           devrait être relativement aisée.</p>
                      </div>
                   </div>
                   <div>
                      <head>Interface graphique</head>
                      <div>
+                        <p>Bien qu'elle nous ait beaucoup occupé et que le résultat soit relativement satisfaisant, l'interface graphique produite présente quelques inconvénients.</p>
+                     </div>
+                     <div>
                         <head>Redimensionnement des colonnes</head>
+                        <p>La question du redimensionnement des colonnes dans le module
+                           de visualisation des cours a constitué une réelle
+                           difficulté.</p>
+                     </div>
+                     <div>
+                        <head>Ne pas recharger la page</head>
+                     <p>Aurait préféré si possible, simple modification de l'affichage sans rechargement de page.</p>
                      </div>
                      <div>
                         <head>Pas responsive design</head>
+                        <p>Module de visualisation qui impliquent des hauteurs et
+                           largeurs de colonnes fixes car calcul en javascript de la
+                           taille de l'écran pour l'affichage des barres de navigation.
+                           Dès lors pas responsive design.</p>
                      </div>
                   </div>
                   <div>
                      <head>Pbs identifiés avec le modèle</head>
+                     <p>Les premiers choix d'encodages effectués pour les figures
+                        avaient le mérite d'une certainne simplicité. Solution initiale
+                        qui pointait seulement sur une version du fichier avec un
+                        élément graphic directement compris dans figure. Mais, pour
+                        faciliter la production de l'application web, il était
+                        nécessaire de mieux renseigner la localisation des avatars
+                        numériques des planches et leur différents formats. Il a été
+                        décidé, d'un commun accord avec le développeur, de faire
+                        évoluer le schéma TEI pour renseigner directement dans le
+                        fichier de manière distincte et explicite la localisation des
+                        images à afficher dans l'application dans leurs trois formats
+                        (fac-simili, miniatures, vues intermédiaires). Dès lors, comme
+                        il devenait intéressant de pouvoir apparier ces trois éléments
+                        graphic, on a saisi l'occasion pour créer un élément facsimile
+                        dans chaque fichier et adopter un schéma plus conforme aux
+                        recommandations de la TEI.</p>
                   </div>
                </div>
                <div type="chapter" n="2">
                   <head>Évaluation du résultat</head>
+                  <p>Basée sur la publication de sources encodées en utilisant les
+                        meilleures pratiques dans le domaine de l'encodage de texte,
+                        l'édition en ligne des cours de Desgodets permettra de mettre à
+                        disposition du chercheur l'ensemble des transcriptions
+                        diplomatiques des cours de l'architecte identifiés à travers le
+                        monde. Chacun de ces témoins manuscrit est accompagné de
+                        métadonnées descriptives et des reproductions des planches.
+                        Pour chacun des cours, l'édition en ligne propose une édition
+                        critique comprenant un important arsenal critique ainsi que des
+                        index.</p>
                   <div>
                      <head>Recettage du produit livré</head>
+                     <p>Le site web est un site statique produit à l'aide d'une
+                        transformation XSLT lancés par quelques scripts PHP.</p>
+                     <p>Production des index à l'aide de programmes XSLT</p>
+                     <p>Interface graphique comportement attendu.</p>
+                     <p>Recherche plein-texte implémentée</p>
+                     <p>Recettage encore en cours.</p>
                   </div>
                   <div>
                      <head>Conformité aux standards </head>
@@ -2231,8 +2435,7 @@
                   </div>
                   <div>
                      <head>L’apport de l’application à l’étude du corpus</head>
-                     <div>
-                        <head>Introduction</head>
+                     <div type="introduction">
                         <p>L'irruption des technologies numériques et leur
                            développement ces dernières années ont considérablement fait
                            évolué la théorie de l'édition et l'ont bouleversé ces
@@ -2302,8 +2505,22 @@
                               permettant d’accéder rapidement à des informations
                               qu’elles contiennent.</p>
                            <p />
-                           <p>Index imprimés, versus index électronique</p>
-                           <p>Complémentarité des modes de recherche</p>
+                           <p>Informations para-textuelle accompagnant l'édition. Index
+                              imprimés, versus index électronique. Accès rapide au
+                              contenu textuel concerné et facilité de manipulation des
+                              index se basant sur les fonctionnalités de
+                              l'hypertexte.</p>
+                           <p>Production automatisée des listes d’occurrence,
+                              permettant une visualisation contextuelle des
+                              entités.</p>
+                           <p>Production d'enrichissements interactifs, comme
+                              définitions au survol, liens vers entités nommées dans
+                              autres catalogues et autre ressources. Avait envisagé un
+                              temps la production d'un matériel iconographique
+                              d'accompagnement auquel a renoncé. Besoin de réflexion
+                              sur la manière de l'intégrer.</p>
+                           <p>Complémentarité des modes de recherche. Possibilité de
+                              faire des recherches dynamiques sur le contenu.</p>
                            <p />
                            <p>« Content tagging »</p>
                            <p>Séparation de la source et du commentaire</p>
@@ -2392,6 +2609,8 @@
                                     images, etc.)</item>
                                  <item>Rendus typographiques, etc.</item>
                               </list></p>
+                           <p>Navigation dans les images. Facilités de zoom, etc. Bien
+                              que rudimentaires, permet examen de détails.</p>
 
                            <p>Aurait pu aller plus loin et notamment, au lieu d’établir
                               l’édition à partir d’un manuscrit maître, choisir
@@ -2570,9 +2789,6 @@
                         <head>La labilité du support numérique</head>
                      </div>
                      <div>
-                        <head>Enrichissement des index et des glossaires</head>
-                     </div>
-                     <div>
                         <head>La question du versionning</head>
                         <p>Bien que les fichiers sources XML-TEI ait été produits avec
                            l'aide d'un système de gestion de version (en l'espèce
@@ -2590,6 +2806,9 @@
                            nous pourrons rajouter un lien vers ces différentes versions
                            en HTML dans la page de présentation des cours au niveau du
                            tableau de tradition.</p>
+                     </div>
+                     <div>
+                        <head>Enrichissement des index et des glossaires</head>
                      </div>
                   </div>
                   <div>
