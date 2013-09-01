@@ -781,11 +781,16 @@
                         nouveau question dans les années 80, …</p>
                      <p>Introduire le propos par un état de l'art sur l’édition
                         numérique et par les spécificités d’une édition numérique.</p>
-                     <p>Question de la critique textuelle</p>
+                     <p>Question de l'<soCalled>édition scientifique</soCalled> dont
+                        l'adjectif dans appellation vient désigner le caractère savant.
+                        On peut plutôt parler d'<soCalled>édition critique</soCalled>
+                        au sens où il s'agit de produire une reproduction contrôlée
+                        d'un texte dont sont procurés les états, versions, variantes et
+                        leçons. De ce point de vue l'édition critique constitue un </p>
                      <p>
-                        <quote>Édition critique : Essai de reconstitution d'un texte,
-                           pour lequel l'éditeur pèse chacun des mots du texte en se
-                           servant de tous les moyens de jugement dont il dispose. Cas
+                        <quote>Essai de reconstitution d'un texte, pour lequel
+                           l'éditeur pèse chacun des mots du texte en se servant de
+                           tous les moyens de jugement dont il dispose. Cas
                            particuliers : l'édition imitative ou diplomatique qui
                            reproduit très exactement un document unique, jusqu'en ses
                            particularités graphiques et mêmes ses erreurs, commentées à
@@ -798,7 +803,7 @@
                            qui donne le texte accompagné, outre l'apparat normal des
                            variantes, de toutes les solutions des éditeurs
                            précédents.</quote>{Bourgain 2002} </p>
-                     <p>L'édition académique à l'ère numérique mobilise des savoirs
+                     <p>L'établissement d'une édition critique mobilise des savoirs
                         relativement étendus. Elle implique que l'éditeur dispose non
                         seulement des savoirs traditionnellement associés à l'édition
                         des sources primaires. Il doit en effet être en mesure
@@ -807,8 +812,7 @@
                         celui-ci a été transmis, altéré ou transformé au cours du
                         temps, etc. Mais l'éditeur doit encore être en mesure de
                         connaître son lectorat, et d'identifier la meilleure manière de
-                        communiquer les textes, et ce qu'il en sait, au moyen du medium
-                        numérique.</p>
+                        communiquer les textes, et ce qu'il en sait.</p>
                      <p><ref type="note" target="#m0004"><quote>Une édition critique
                               n'est pas une reproduction photographique. Elle résulte
                               d'un compromis raisonnable entre, d'une part, le respect
@@ -820,20 +824,20 @@
                         l'établissement du texte et sa normalisation</p>
                      <p>L'abondance des témoins</p>
                      <p>La production d'une édition critique de qualité exige d'avoir
-                        bien défini sa destination. Cette question est cruciale et
-                        déterminante même si l'on ne renonce généralement pas à toucher
-                        un public un tant soit peu élargi. S'agissant ici de mettre à
-                        disposition un corpus de textes inédits, établi d'après une
-                        tradition abondante de témoins manuscrits, l'édition des cours
-                        de Desgodets offrait un intérêt tout particulier pour
-                        l'historien de l'art et l'historien du droit. Elle devait donc
-                        présenter toutes les qualités habituellement requises par une
-                        édition de haute tenue scientifique en termes de fiabilité, de
-                        solidité et de justification des partis pris. S'agissant d'un
-                        matériau entièrement neuf pour la recherche, il s'agissait
-                        également de faciliter son étude et de prendre en compte
-                        certaines particularités propres à des manuscrits
-                        architecturaux pour la consultation.</p>
+                        bien défini sa destination. Cette question est déterminante
+                        même si l'on ne renonce généralement pas à toucher un public un
+                        tant soit peu élargi. S'agissant ici de mettre à disposition un
+                        corpus de textes inédits, établi d'après une tradition
+                        abondante de témoins manuscrits, l'édition des cours de
+                        Desgodets offrait un intérêt tout particulier pour l'historien
+                        de l'art et l'historien du droit. Elle devait donc présenter
+                        toutes les qualités habituellement requises par une édition de
+                        haute tenue scientifique en termes de fiabilité, de solidité et
+                        de justification des partis pris. S'agissant d'un matériau
+                        entièrement neuf pour la recherche, il s'agissait également de
+                        faciliter son étude et de prendre en compte certaines
+                        particularités propres à des manuscrits architecturaux pour la
+                        consultation.</p>
                   </div>
                   <div>
                      <head>L’établissement du texte</head>
@@ -882,19 +886,19 @@
                         <p>Cette liberté avait été envisagée dans la mesure où aucun
                            manuscrit n'était de la main d'<persName>Antoine
                               Desgodets</persName>, qu'un nombre conséquents de témoins
-                           permettaient d'étayer l'établissement du texte, et que
-                           l'orthographe des manuscrits ne présentait très généralement
-                           aucun intérêt du point de vue de la compréhension et de la
-                           signification. Une telle attitude est généralement admise
-                           pour l'édition des textes postérieurs à 1600 et surtout à
-                           1700{Varloot 1981}. La normalisation des transcriptions
-                           paraissait surtout fournir une solution pour réduire le
-                           bruit lors de l'étude des variantes à l'aide du logiciel
-                           MEDITE comme elle était prévue au début du projet. En outre,
-                           elle permettait de se focaliser uniquement sur les variantes
-                           significatives entre les témoins tout en permettant de
-                           produire un texte modernisé plus facilement accessible pour
-                           le lecteur contemporain.</p>
+                           permettaient d'étayer l'établissement du texte, et que la
+                           graphie des manuscrits ne présentait très généralement aucun
+                           intérêt du point de vue de la compréhension et de la
+                           signification. Une telle attitude est admise pour l'édition
+                           des textes postérieurs à 1600 et surtout à 1700{Varloot
+                           1981}. La normalisation des transcriptions paraissait
+                           surtout fournir une solution pour réduire le bruit lors de
+                           l'étude des variantes à l'aide du logiciel MEDITE comme elle
+                           était prévue au début du projet. En outre, elle permettait
+                           de se focaliser uniquement sur les variantes significatives
+                           entre les témoins tout en permettant de produire un texte
+                           modernisé plus facilement accessible pour le lecteur
+                           contemporain.</p>
                            <p>Une telle solution n'a pas reçue l'approbation du Conseil
                            scientifique du projet. Au contraire, les membres de ce
                            conseil ont défendu une transcription la plus diplomatique
@@ -933,7 +937,7 @@
                            pour le traitement des variantes des différents témoins. </p>
                         </div>
                         <div>
-                           <head>Choix du manuscrit maître</head>
+                           <head>La méthode d'édition critique</head>
                            <p>En l'absence de manuscrits autographes identifiés ou de
                            prototypes clairement déterminés parmi les témoins
                            manuscrits conservés pour chacun des cours, l'établissement
@@ -956,32 +960,61 @@
                            étant susceptible d'avoir varié au cours du temps, la
                            production d'une édition composite pouvait être défendue
                            malgré l'interdit de <persName>Pierre-Georges
-                              Castex</persName>{Varloot 1981}. D'une certaine façon,
-                           ces débats sont en partie devenus caducs avec les techniques
-                           d'édition numérique. Il est en effet aujourd'hui tout à fait
-                           possible de proposer plusieurs vues sur un même texte. Ces
-                           possibilités n'éliminent toutefois ni la signification ni la
-                           responsabilité de l'éditeur dans le choix des aspects mis en
-                           avant par une édition.</p>
-                           <p>Disposant de plusieurs états du texte autres que
-                           l'original, et ayant choisi d'éditer un témoin en lui
+                              Castex</persName>{Varloot 1981}.</p>
+                        <p>Bien sûr, il aurait été vain de prétendre rétablir le texte
+                           princeps de chacun des cours à partir d'une critique
+                           textuelle des différents témoins conservés. La recension
+                           stemmatique, nous paraissait peu praticable compte-tenu de
+                           la proximité des témoins et l'absence de certitude quant à
+                           l'existence d'un prototype unique. En revanche, l'approche
+                           dite <soCalled>éclectique</soCalled> , ou tout du moins
+                           celle de l'<soCalled>édition de référence</soCalled>,
+                           consistant à choisir les variantes semblant supérieures d'un
+                           point de vue interne parmi les différents manuscrits,
+                           pouvait avoir le mérite de rendre compte plus fidèlement, et
+                           plus complètement, du contenu réel de l'enseignement
+                           d'Antoine Desgodets.</p>
+                        <p>Disposant de plusieurs états du texte autres que l'original,
+                           on a choisi de se contenter d'éditer un témoin en lui
                            rapportant en note les variantes que présentaient les autres
                            états par rapport au texte de base comme le suggère le Guide
-                           de Bernard Barbiche et Monique Châtenet{Barbiche}, il rester
-                           à déterminer les critères de choix du manuscrit maître. À
-                           cet égard <q>chaque texte, en fonction de son histoire
-                              propre, impose un choix particulier.</q> dit
-                           Beugnot{Varloot 1981}. Chaque équipe éditoriale a donc été
-                           laissée libre de proposer un manuscrit maître pour le cours
-                           qu'elle éditait en justifiant de ses critères de choix
-                           d'après une grille établie dans le cadre du projet. Le choix
-                           du manuscrit maître était définitivement acté au terme d'une
-                           discussion du Conseil scientifique.</p>
-                        <p>Relever les critères différents appliqués selon les cours. </p>
-                           <p>lieu variant : Endroit d'un texte où se produit une
-                           variante. </p>
-                           <p />
-                           <p>Traitement des variantes</p>
+                           de Bernard Barbiche et Monique Châtenet{Barbiche}. Cette
+                           approche privilégie la source primaire mais il faut
+                           également avoir conscience qu'elle présente plusieurs
+                           inconvénients. D'abord, elle favorise l'intégration des
+                           fautes du copiste, telles que les interpolations ou
+                           l'intégration d'éventuelles gloses. Ensuite elle ne permet
+                           pas de rendre compte directement dans le corps de texte de
+                           passages éventuellement manquants dans la version du
+                           manuscrit de base.</p>
+                        <p>Il n'existe certainement pas, en matière d'édition critique,
+                           d'approche idéale satisfaisant tous les cas de figure. D'une
+                           certaine façon, ces débats sont en partie devenus caducs
+                           avec les techniques d'édition numérique. Il est en effet
+                           aujourd'hui tout à fait possible de proposer plusieurs vues
+                           sur un même texte. Mais en pratique, ce n'est pas toujours
+                           faisable ne serait-ce que pour des raisons économiques. Et
+                           ces possibilités n'éliminent toutefois ni la signification
+                           ni la responsabilité de l'éditeur dans le choix des aspects
+                           mis en avant par une édition.</p></div>
+                           <div><head>Le choix du manuscrit maître</head>
+                           <p>Ayant choisi l'approche conservatiste, il restait à
+                              déterminer les critères de choix du manuscrit maître. À
+                              cet égard <q>chaque texte, en fonction de son histoire
+                                 propre, impose un choix particulier.</q> dit
+                              Beugnot{Varloot 1981}. Les équipes éditoriales ont donc
+                              été laissées libre de proposer un manuscrit maître pour
+                              le cours qu'elles éditaient en justifiant de leur
+                              critères de choix d'après une grille établie dans le
+                              cadre du projet. Le choix du manuscrit maître était
+                              définitivement arrêté au terme d'une discussion au sein
+                              du Conseil scientifique.</p>
+                              <p>Relever les critères différents appliqués selon les cours. </p>
+                              <p>lieu variant : Endroit d'un texte où se produit une
+                                 variante.</p>
+                           </div>
+                           <div>
+                              <head>Le traitement des variantes</head>
                            <p>On définit la variante comme une divergence entre les
                               différents exemplaires d'une même œuvre pour un endroit
                               donné du texte. Les variantes peuvent consister en
@@ -992,17 +1025,16 @@
                               témoins d'autant que le cours a souvent été prononcé
                               plusieurs années et que son contenu peut avoir
                               évolué.</p>
-                           <p>voir Barbiche, « Seules sont à retenir les <hi
-                                 rend="bold">variantes</hi> qui ont une incidence sur
-                              le sens du texte, à l'exclusion des particularités
-                              purement graphiques ou grammaticales. ».</p>
+                        <p>voir Barbiche, « Seules sont à retenir les <hi rend="bold"
+                              >variantes</hi> qui ont une incidence sur le sens du
+                           texte, à l'exclusion des particularités purement graphiques
+                           ou grammaticales. ».</p>
                            <p>Transcription diplomatique de chacun des témoins. Choix
                               d'un texte maître par chaque équipe scientifique.
                               Manuscrit maître auquel a décidé de rapporter les
-                              différents témoins.</p>
-                        </div>
+                              différents témoins.</p></div>
                         <div>
-                           <head> Collation et comparaison des témoins</head>
+                           <head>La collation et la comparaison des témoins</head>
                            <p><quote>Collation : Comparaison d'un texte avec un ou
                                  plusieurs autres témoins du même texte. Le mot vient
                                  du latin <hi rend="italic">conferre</hi> qui signifie
@@ -1013,6 +1045,7 @@
                                     rend="italic">Collationner</hi> : Effectuer la
                                  comparaison d'un témoin d'un texte avec un
                                  autre.</quote>{Bourgain 2002@210}</p>
+                        <p>Collationnement, leçon variante.</p>
                            <p>Dans le cadre du projet d'ANR, il avait été initialement prévu d'utiliser le logiciel MEDITE. Problème de version OS.</p>
                            <p>Utilisation de Juxta. Plusieurs avantages bien adaptés à
                               notre contexte de production : multi-plateforme, facile
@@ -1191,6 +1224,19 @@
                      fonctionnalités, au cours du projet dans la production des textes
                      et de l'encodage, enfin en aval pour assurer le suivi de la
                      réalisation de l'application et son recettage.</p>
+                  <p>Mobilisation d'une double compétence. Capacité à parler les deux
+                     langues, celle habituelle du chercheur pour comprendre les
+                     besoins, celle du techniciens pour être capables de les exprimer
+                     de manière compréhensible et opérationnelle.</p>
+                  <p>Missions maîtrise d'ouvrage à la fois dans la définition des
+                     fonctionnalités et l'identification des standards auxquels
+                     répondre ou sur lesquels s'appuyer.</p>
+                  <p>Partie directement opérationnelle en matière de production du
+                     dispositif de travail technique. Opération de modélisation qui
+                     relève, nous le verrons, directement de l'approche scientifique
+                     des sources.</p>
+                  <p>Enfin, suivi de la réalisation de l'application et dialogues avec
+                     le prestataire toute au long de la phase de production.</p>
                </div>
                <div type="chapter" n="1">
                   <head>L'Établissement d'un cahier des charges, le choix d'un
@@ -2602,7 +2648,7 @@
                   <div>
                      <head>Pbs identifiés avec le modèle</head>
                      <p>Les premiers choix d'encodages effectués pour les figures
-                        avaient le mérite d'une certainne simplicité. Solution initiale
+                        avaient le mérite d'une certaine simplicité. Solution initiale
                         qui pointait seulement sur une version du fichier avec un
                         élément graphic directement compris dans figure. Mais, pour
                         faciliter la production de l'application web, il était
@@ -2954,10 +3000,10 @@
                               définir ses propres conclusions interprétatives plutôt
                               que d'imposer les nôtres.</p>
                            <p>Raisons pour laquelle nous n'avons pas modernisé,
-                              standardisé, ou corrigé d'une toute autre manière
-                              l'orthographe originale. Néanmoins suivi les règles
-                              proposés par Barbiche et inspirées du manuel de l'ENC sur
-                              la production des sources primaires à l'époque médiévale.
+                              standardisé, ou corrigé d'une toute autre manière la
+                              graphie originale. Néanmoins suivi les règles proposés
+                              par Barbiche et inspirées du manuel de l'ENC sur la
+                              production des sources primaires à l'époque médiévale.
                               Même les erreurs manifestes dans le texte sont
                               transcrites, on fournit simplement en note la correction
                               proposées. Les parties effacées, ou ajoutées sont
@@ -3004,7 +3050,7 @@
                               sujet.</p>
                            <p>Processus de production qui avait au moins le mérite de
                               centraliser en partie la production et permettre un
-                              contrôle. N'en reste pas moins qu'une certainne
+                              contrôle. N'en reste pas moins qu'une certaine
                               hétérogénéité dans le travail éditorial mené. Cependant,
                               contrôle rendue possible par l'adoption du framework TEI
                               et la définition d'un schéma évoquée précédemment. Par
