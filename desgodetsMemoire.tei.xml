@@ -487,8 +487,8 @@
                      <p>Le suivi de la réalisation de l'application web nécessitait des
                         contacts réguliers avec les prestataires de services. Plusieurs
                         réunions physiques sont intervenues dans le cours du projet à
-                        intervales réguliers. De telles réunions physiques surtout
-                        nécessaires pour discuter des points problématiques </p>
+                        intervalles réguliers. De telles réunions physiques étaient
+                        surtout nécessaires pour discuter des points problématiques </p>
                      <p>Communication par mail : Validation des choix ergonomiques /
                         problèmes rencontrés sur l’encodage.</p>
                      <p>Réunion à distance régulières avec la développeuse web à l'aide
@@ -529,7 +529,7 @@
                         qui hébergeait administrativement le projet de recherche.</p>
                   </div>
                   <div>
-                     <head>Durée</head>
+                     <head>Durée du projet</head>
                      <p>Initialement financé sur une durée de quatre années courant du
                         28 décembre 2007 au 28 décembre 2011, le projet a nécessité une
                         prolongation d'un peu plus d'une année. Diverses difficultés
@@ -870,8 +870,8 @@
                            l'édition des textes de l'époque moderne, c'est <ref
                               type="note" target="#m0006">le travail publié par Bernard
                               Barbiche et ses collègues dans la collection de
-                              l'Inventaire qui fait référence</ref>. L'équipe
-                           éditoriale a donc formulé les premières propositions
+                              l'Inventaire qui fait référence</ref>. L'équipe de
+                           transcripteurs a donc formulé les premières propositions
                            concernant la transcription des manuscrits à partir de ces
                            indications. Toutefois, eût égard aux besoins particuliers
                            du projet ayant trait à la comparaison des divers témoins,
@@ -885,7 +885,9 @@
                            permettaient d'étayer l'établissement du texte, et que
                            l'orthographe des manuscrits ne présentait très généralement
                            aucun intérêt du point de vue de la compréhension et de la
-                           signification. La normalisation des transcriptions
+                           signification. Une telle attitude est généralement admise
+                           pour l'édition des textes postérieurs à 1600 et surtout à
+                           1700{Varloot 1981}. La normalisation des transcriptions
                            paraissait surtout fournir une solution pour réduire le
                            bruit lors de l'étude des variantes à l'aide du logiciel
                            MEDITE comme elle était prévue au début du projet. En outre,
@@ -906,9 +908,9 @@
                            mieux comprendre les manuscrits et de mieux les situer les
                            uns par rapport aux autres. Aux consignes publiées dans
                               <title>Guide</title> de Bernard Barbiche et Monique
-                           Châtenet, le conseil scientifique ajoutait le respect strict
-                           des majuscules, réservant à l'éditeur le choix final sur la
-                           graphie à retenir.</p>
+                           Châtenet{Barbiche}, le conseil scientifique ajoutait le
+                           respect strict des majuscules, réservant à l'éditeur le
+                           choix final sur la graphie à retenir.</p>
                         <p>Ce changement d'orientation intervenu dans les directives de
                            transcription n'a pas nécessairement facilité le travail de
                            transcription. Il a en partie impliqué la reprise du travail
@@ -944,21 +946,40 @@
                            d'approches plus conservatistes inspirées de
                               <persName>Joseph Bédier</persName> et qui consistent à
                            choisir un manuscrit de base en le corrigeant le moins
-                           possible{Bourgain 2002@212-213}. </p>
-                           <p>L’absence d’originaux.</p>
-                           <p><ref type="note" target="#m0005"><quote>Si l'on possède
-                                       <hi rend="bold">plusieurs états</hi> du texte
-                                       <hi rend="bold">autres que l'original</hi>, on
-                                    choisit celui qui est le plus proche de l'original
-                                    et on signale en note les variantes que présentent
-                                    les autres états par rapport au texte de
-                                    base.</quote></ref></p>
-                           <p>Plusieurs possibilités : choix d’un témoin auquel on
-                              rapporte les états ou établissement d’un texte princeps.
-                              Texte qui n’aurait pas existé.</p>
-                           <p>Choix du manuscrit maître</p>
-                           <p>ieu variant : Endroit d'un texte où se produit une
-                              variante. </p>
+                           possible{Bourgain 2002@212-213}.</p>
+                        <p>C'est l'approche conservatiste qui a le plus de faveur
+                           aujourd'hui en France. Celle-ci est plus respectueuse de la
+                           source et évite de produire un texte qui n'a jamais existé.
+                           Néanmoins, en présence d'un grand nombre de témoins, pour
+                           l'essentiel identiques, les cours ayant souvent été
+                           prononcés pendant plusieurs années, et donc leur contenu
+                           étant susceptible d'avoir varié au cours du temps, la
+                           production d'une édition composite pouvait être défendue
+                           malgré l'interdit de <persName>Pierre-Georges
+                              Castex</persName>{Varloot 1981}. D'une certaine façon,
+                           ces débats sont en partie devenus caducs avec les techniques
+                           d'édition numérique. Il est en effet aujourd'hui tout à fait
+                           possible de proposer plusieurs vues sur un même texte. Ces
+                           possibilités n'éliminent toutefois ni la signification ni la
+                           responsabilité de l'éditeur dans le choix des aspects mis en
+                           avant par une édition.</p>
+                           <p>Disposant de plusieurs états du texte autres que
+                           l'original, et ayant choisi d'éditer un témoin en lui
+                           rapportant en note les variantes que présentaient les autres
+                           états par rapport au texte de base comme le suggère le Guide
+                           de Bernard Barbiche et Monique Châtenet{Barbiche}, il rester
+                           à déterminer les critères de choix du manuscrit maître. À
+                           cet égard <q>chaque texte, en fonction de son histoire
+                              propre, impose un choix particulier.</q> dit
+                           Beugnot{Varloot 1981}. Chaque équipe éditoriale a donc été
+                           laissée libre de proposer un manuscrit maître pour le cours
+                           qu'elle éditait en justifiant de ses critères de choix
+                           d'après une grille établie dans le cadre du projet. Le choix
+                           du manuscrit maître était définitivement acté au terme d'une
+                           discussion du Conseil scientifique.</p>
+                        <p>Relever les critères différents appliqués selon les cours. </p>
+                           <p>lieu variant : Endroit d'un texte où se produit une
+                           variante. </p>
                            <p />
                            <p>Traitement des variantes</p>
                            <p>On définit la variante comme une divergence entre les
@@ -1033,15 +1054,33 @@
                   </div>
                   <div>
                      <head>Les fonctionnalités offertes par l'édition critique</head>
-                     <p>Une édition critique de qualité exige d'avoir bien défini sa
-                        destination. La question est cruciale et déterminante même si
-                        l'on renonce généralement pas à toucher un public un peu
-                        élargi. S'agissant ici de l'édition de texte inédits à établir
-                        d'après une tradition abondante de témoins manuscrits, la
-                        production du corpus des cours de Desgodets allait mettre à
-                        disposition de l'historien un ensemble de sources nouvelles
-                        particulièrement important. L'édition devait donc </p>
-                     
+                     <p> Problème pratique de la présentation de l'édition. Déterminé
+                        par les fonctionnalités attendues pour la consultation du
+                        texte. Même si plus de souplesse avec le numérique, n'en reste
+                        pas moins problématique et tient du parti-pris éditorial. Il
+                        n'y a pas de solution absolue en la matière, le meilleur
+                        dispositif étant celui qui sert le mieux le point de vue
+                        éditorial adopté ou qui offre les meilleures conditions
+                        d'accessibilité.</p>
+                     <p>Comment distinguer cette partie de la 3e où évalue. Ici mettre
+                        en avant les pré-requis qui qualifient une édition
+                        critique.</p>
+                     <p>Avant la forme, le sens, ce que doit véhiculer l'édition.</p>
+                     <div>
+                        <head>Le respect des standards éditoriaux</head>
+                        <p>Longue tradition de l'édition critique qui détermine en
+                           grande partie ce qu'est en droit d'attendre un lecteur lors
+                           de la consultation. Ensemble de prérequis qui qualifient
+                           l'édition.</p>
+                        <p>Éléments de repérage et de citabilité : Indiquer la
+                           pagination du texte de base. Numérotation marginale des
+                           lignes, etc.</p>
+                        <p>Signifier telle ou telle caractéristique matérielle : à cet
+                           égard grande richesse d'emplois de marques typographiques,
+                           même si n'ont pas toujours à travers les éditions la même
+                           signification : barres, crochets, soufflets, etc.</p>
+                        <p />
+                     </div>
                      <div>
                         <head>Modalités de consultation</head>
                         <div>
@@ -1092,9 +1131,18 @@
                         </div>
                      </div>
                      <div>
-                        <head>L'appareil critique</head>
+                        <head>L'apparat critique et du commentaire historique</head>
+                        <p>L'apparat critique d'une édition a essentiellement une
+                           fonction descriptive. Il concerne la description des
+                           particularités matérielles du texte transcrit, des autres
+                           états du texte s'il en existe, par un relevé des leçons pour
+                           chaque passage. Au delà de cet apparat, l'édition envisagée
+                           devait offrir au lecteur des notes de commentaire historique
+                           et une contextualisation du Cours de Desgodets sous la forme
+                           de présentations à caractère historique. Une notice de
+                           présentation de </p>
                         <div>
-                           <head>L'arsenal de notes critiques et historiques</head>
+                           <head>L'apparat critique</head>
                            <p>Notes d'édition critique</p>
                            <p><quote>Leçon : Ce que l'on peut lire dans un manuscrit à
                                  un endroit donné. – Leçons variantes : Leçons
@@ -1103,6 +1151,11 @@
                                  l'éditeur décide de ne pas accueillir dans le texte
                                  définitif mais signale dans l'apparat
                                  critique.</quote>{Bourgain 2002@213}</p>
+                           <p>Commentaire proprement dit, c'est-à-dire aux études
+                              introductives et aux notes explicatives. Place accordée
+                              variable selon les éditions.. </p>
+                           <p>Présentation de l'édition</p>
+                           <p>Notes de commentaire historique</p>
                         </div>
                         <div>
                            <head>Glossaires et index</head>
@@ -1117,11 +1170,14 @@
                                  notions que l'utilisateur peut souhaiter retrouver
                                  facilement dans le texte.</quote>{Bourgain 2002}</p>
                         </div>
+                        <div>
+                           <head>Système des appels dans le texte</head>
+                           <p>Pas déterminé manière dont affichage doit s'effectuer.
+                              Bas de page, etc. Manière de le rédiger. Manière de
+                              découper le passage qui concerne la variante. Omissions,
+                              additions, etc. Choix des abréviations, des sigles.</p>
+                        </div>
                      </div>
-                  </div>
-                  <div>
-                     <head>Le respect des standards</head>
-
                   </div>
                </div>
             </div>
