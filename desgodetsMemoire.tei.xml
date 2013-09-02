@@ -314,7 +314,7 @@
                            dernières années d’un financement de l’Agence Nationale de
                            la Recherche (ANR)</ref>. D’abord proposé dans le cadre
                         d’une recherche plus vaste sur la littérature architecturale
-                        intitulé « Vitruviana », l’édition des cours de l’architecte
+                        intitulé « Vitruviana », l’édition des cours de l’architecte
                         avait retenu l’attention des évaluateurs qui avaient suggéré de
                         le présenter séparément à un autre appel d’offre. <ref
                            type="note" target="#m0002">Le projet, re-rédigé par Robert
@@ -383,7 +383,7 @@
                         Initiative organisée par le réseau Mutec à Lyon, puis à
                         m’intéresser de plus près à la formation offerte par l’École
                         des chartes dans le cadre de son master 2 « Technologies
-                        numériques appliquées à l’histoire » qui occasionne aujourd'hui
+                        numériques appliquées à l’histoire » qui occasionne aujourd'hui
                         de la rédaction de ce mémoire.</p>
                      <p>Les transcriptions de chaque cours ont par la suite été
                         confiées à des équipes d'éditeurs rassemblés pour l'occasion.
@@ -1184,15 +1184,19 @@
                      </div>
                      <div>
                         <head>L'apparat critique et du commentaire historique</head>
-                        <p>L'apparat critique d'une édition a essentiellement une
-                           fonction descriptive. Il concerne la description des
-                           particularités matérielles du texte transcrit, des autres
-                           états du texte s'il en existe, par un relevé des leçons pour
-                           chaque passage. Au delà de cet apparat, l'édition envisagée
-                           devait offrir au lecteur des notes de commentaire historique
-                           et une contextualisation du Cours de Desgodets sous la forme
-                           de présentations à caractère historique. Une notice de
-                           présentation de </p>
+                        <p>Dans une édition critique d'un texte ancien, on appelle
+                              <soCalled>apparat critique</soCalled> l'ensemble des
+                           notes fournies par l'auteur de l'édition pour justifier des
+                           choix opérés dans l'édition ou signaler certaines
+                           particularités de la source. L'apparat critique d'une
+                           édition a essentiellement une fonction descriptive. Il
+                           concerne la description des particularités matérielles du
+                           texte transcrit, des autres états du texte s'il en existe,
+                           par un relevé des leçons pour chaque passage. Au-delà de cet
+                           apparat, l'édition envisagée devait offrir au lecteur des
+                           notes de commentaire historique et une contextualisation du
+                           Cours de Desgodets sous la forme de présentations à
+                           caractère historique. Une notice de présentation de??? </p>
                         <div>
                            <head>L'apparat critique</head>
                            <p>Notes d'édition critique</p>
@@ -1260,27 +1264,134 @@
                <div type="chapter" n="1">
                   <head>L'Établissement d'un cahier des charges, le choix d'un
                      prestataire et la planification</head>
+                  <p>La publication en ligne des Cours de Desgodets sur un site web
+                     exigeait la mobilisation de compétences artistiques et techniques
+                     dont l'équipe était dépourvue. Il a donc été choisi de faire appel
+                     à un prestataire pour produire l'application web. Une telle
+                     décision impliquait une définition claire des besoins et des
+                     fonctionnalités attendues sous la forme d'un cahier des charges
+                     qui puisse servir de base à un appel d'offre et à l'établissement
+                     du contrat. Nous rendons compte ici de ces diverses opérations et
+                     des ajustements qui sont intervenus à cette occasion dans la
+                     définition du projet. Loin d'être triviales, ces diverses
+                     opérations sont des étapes cruciales dans la conduite de projet.
+                     Elle déterminent non seulement le produit fini, elles peuvent
+                     également avoir des conséquences légales et financières
+                     importantes.</p>
                   <div>
                      <head>La définition des besoins et l'établissement du cahier des
                         charges</head>
-                     <p>Distinguer les fonctionnalités des aspects techniques</p>
+                     <p>Le <soCalled>cahier des charges</soCalled> est un document qui
+                        contient la liste des besoins, des exigences et des contraintes
+                        qu'il est nécessaire de respecter lors de la réalisation d'un
+                        projet. On attend d'un cahier des charges qu'il formalise les
+                        besoins et les explique clairement. Un tel document peut
+                        également contenir des indications concernant les modalités de
+                        réalisation, ses délais, la conduite du projet et les étapes de
+                        validation. C'est une pièce essentielle dans le cadre d'une
+                        procédure d'appel d'offre car c'est sur la base de ce cahier
+                        des charges que le prestataire va formuler son offre.</p>
+                     <p>Le but d'un projet étant d'abord de satisfaire un besoin, aussi
+                        est-il nécessaire d'exprimer clairement les objectifs à
+                        atteindre afin d'éviter tout malentendu avec le prestataire. Au
+                        lieu d'imposer une solution technique à l'avance qui pourrait
+                        se révéler inadaptée, il est souvent préférable d'élaborer la
+                        solution de manière structurée conjointement avec le
+                        prestataire. Le <soCalled>cahier des charges fonctionnel
+                           (CDCF)</soCalled> est un document formulant le besoin, au
+                        moyen de fonctions détaillant les services rendus par le
+                        produit et les contraintes auxquelles il est soumis{Wikipédia}.
+                        Il permet de présenter le problème dans son ensemble, et
+                        d'expliciter le besoin du client en favorisant le dialogue
+                        entre les différents partenaires pour obtenir du prestataire la
+                        conception et la réalisation la plus efficace qui soit.</p>
+                     <p />
+                     <p />
+                     <p>L'établissement d'un document qui puisse servir de base à la
+                        publication d'un appel d'offre et à l'établissement d'un
+                        contrat nécessite de concevoir une idée relativement précise du
+                        produit attendu. En effet, la qualité du cahier des charges
+                        dépend grandement de la capacité à identifier, à l'avance,
+                        l'ensemble des besoins et des fonctionnalités car c'est en
+                        grande partie sur cette base que sera par la suite établi le
+                        marché avec le prestataire. Dès lors que l'application web dont
+                        il s'agit de décrire les contours définira les modalités de
+                        consultation du corpus, sa conception a des implications
+                        scientifiques évidentes. Il s'agit donc une opération
+                        prospective qui nécessite la mobilisation de compétences
+                        variées.</p>
+                     <p>Une culture générale de l'état de l'art en matière d'édition
+                        scientifique</p>
+                     <p>Une connaissance des standards de publication électronique</p>
+                     <p>Un minimum de compétences techniques</p>
+                     <p>Dire que le cahier des charges en annexe.</p>
+                     <p>Distinguer les aspects qui relèvent de la responsabilité du
+                        prestataire de celle du commanditaire. Choix technologiques,
+                        etc. qui servent à l'évaluation de l'offre du prestataire.</p>
+                     <p>L'établissement du cahier des charges découle directement d'une
+                        opération de conceptualisation. L'application web mise en ordre
+                        des besoins. Elle implique de se faire une idée relativement
+                        préciser du produit attendu et de ses fonctionnalités.</p>
                      <p>Recherche de modèle</p>
-                     <p>Clauses et conditions</p>
+                     <p>Rédaction des clauses et conditions</p>
+                     <p>D'après le code des marchés publics, Un cahier des charges peut
+                        comporter une partie technique et une partie administrative. </p>
+                     <p>Les cahiers des charges des marchés passés selon une procédure
+                        formalisée déterminent les conditions dans lesquelles les
+                        marchés sont exécutés. Il comprennent des documents généraux et
+                        des documents particuliers. Les documents généraux sont : Les
+                        cahiers des clauses administratives générales qui fixent les
+                        dispositions administratives applicables à une catégorie de
+                        marchés ; les cahiers des clauses techniques générales, qui
+                        fixent les dispositions techniques applicables à toutes les
+                        prestations d'une même nature. Les documents particuliers
+                        sont : les cahiers des clauses techniques particulières, qui
+                        fixent les dispositions techniques nécessaires à l'exécution
+                        des prestations de chaque marché ; les cahiers des clauses
+                        administratives particulières, qui fixent les dispositions
+                        administratives propres à chaque marché.</p>
                   </div>
                   <div>
                      <head>Appel d’offre et sélection d’un partenaire</head>
+                     <p>Le projet d'ANR étant géré administrativement par un
+                        établissement public à caractère scientifique, culturel et
+                        professionnel (EPST), l'Université Panthéon-Assas, et financé
+                        sur fonds publics, le choix d'un prestataire relevait de la
+                        commande publique. En France, le droit des marchés publics est
+                        soumis à un certain nombre de règles définies par le
+                           <title>Code des marchés publics</title>. Celui-ci garantit
+                        les principes de liberté d'accès à la commande publique,
+                        d'égalité de traitement des candidats et de transparence des
+                        procédures. De tels principes permettent d'assurer, à la fois
+                        l'efficacité de la commande publique, et la bonne utilisation
+                        des deniers publics. Le Code des marchés publics indique
+                        comment les marchés publics doivent être préparés, et notamment
+                        les besoins à satisfaire. Les procédures d'appel d'offres
+                        publics doivent s'y conformer.</p>
                      <div>
-                        <head>Procédure simplifiée</head>
+                        <head>Un marché à procédure adapté</head>
+                        <p>Un marché public est un contrat administratif conclu à titre
+                           onéreux entre les pouvoirs adjudicateurs économiques publics
+                           ou privés et qui répond aux beosins de l'administration en
+                           matière de fourniture, services et travaux. Le montant du
+                           marché relatif à la production de l'application web étant
+                           inférieur à 20 000 euros au total, il a été possible de
+                           réaliser une procédure d'appel d'offre simplifiée. Celle-ci
+                           a impliqué</p>
+                        <p>Clauses et conditions.</p>
+                        <p>Aspects juridiques importants. Ne doit pas être </p>
                      </div>
                      <div>
-                        <head>Sélection des partenaires</head>
+                        <head>La sélection des partenaires</head>
                         <p>Difficultés à trouver un prestataire réunissant les
                            compétences requises</p>
                         <p>Choix des partenaires</p>
                      </div>
                      <div>
-                        <head>Révisions du cahier des charges</head>
-                        <p>Adaptations nécessaires au cahier des charges</p>
+                        <head>L'établissement du contrat</head>
+                        <p>Adaptations nécessaires au cahier des charges en fonction de
+                           l'offre retenue.</p>
+                        <p>Établissement du contrat</p>
                      </div>
                   </div>
                   <div>
@@ -1547,7 +1658,7 @@
                         <p>Utilisation du méta-langage informatique <hi rend="italic"
                               >Extensible Markup Language </hi>(XML)</p>
                         <p>Conçue pour baliser n’importe que type de document, la TEI
-                           s’apparente à une « ontologie du texte » FC</p>
+                           s’apparente à une « ontologie du texte » FC</p>
                         <p>Avantages de la TEI : <list>
                               <item>modularité et flexibilité</item>
                               <item>expressivité (niveau de granularité)</item>
@@ -2795,7 +2906,7 @@
                               de lecture. Une bonne édition électronique doit engager
                               renforcer les capacités de l’utilisateur (empower), et au
                               passage espérer plus de l’utilisateur que ne le fait une
-                              édition imprimée. »</p>
+                              édition imprimée. »</p>
                            <quote>In the electronic medium, the concept of the editor's
                               virtually propietary role becomes untenable. The primacy
                               of the text is restored, and comment and analysis become
@@ -2844,7 +2955,7 @@
                            <p>Complémentarité des modes de recherche. Possibilité de
                               faire des recherches dynamiques sur le contenu.</p>
                            <p />
-                           <p>« Content tagging »</p>
+                           <p>« Content tagging »</p>
                            <p>Séparation de la source et du commentaire</p>
                            <p>Sémantisation</p>
                            <p>Possibilité de signer les interventions. Plusieurs points
