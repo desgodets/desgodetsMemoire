@@ -1274,9 +1274,9 @@
                      du contrat. Nous rendons compte ici de ces diverses opérations et
                      des ajustements qui sont intervenus à cette occasion dans la
                      définition du projet. Loin d'être triviales, ces diverses
-                     opérations sont des étapes cruciales dans la conduite de projet.
-                     Elle déterminent non seulement le produit fini, elles peuvent
-                     également avoir des conséquences légales et financières
+                     opérations constituent des étapes cruciales dans la conduite de
+                     projet. Elle déterminent non seulement le produit fini, elles
+                     peuvent également avoir des conséquences légales et financières
                      importantes.</p>
                   <div>
                      <head>La définition des besoins et l'établissement du cahier des
@@ -1295,31 +1295,33 @@
                         est-il nécessaire d'exprimer clairement les objectifs à
                         atteindre afin d'éviter tout malentendu avec le prestataire. Au
                         lieu d'imposer une solution technique à l'avance qui pourrait
-                        se révéler inadaptée, il est souvent préférable d'élaborer la
-                        solution de manière structurée conjointement avec le
-                        prestataire. Le <soCalled>cahier des charges fonctionnel
+                        se révéler par la suite inadaptée, il est souvent préférable
+                        d'élaborer la solution de manière structurée conjointement avec
+                        le prestataire. Le <soCalled>cahier des charges fonctionnel
                            (CDCF)</soCalled> est un document formulant le besoin, au
                         moyen de fonctions détaillant les services rendus par le
                         produit et les contraintes auxquelles il est soumis{Wikipédia}.
                         Il permet de présenter le problème dans son ensemble, et
-                        d'expliciter le besoin du client en favorisant le dialogue
-                        entre les différents partenaires pour obtenir du prestataire la
-                        conception et la réalisation la plus efficace qui soit.</p>
-                     <p />
-                     <p />
+                        d'expliciter les besoins du client en favorisant le dialogue
+                        pour obtenir du prestataire la conception et la réalisation la
+                        plus efficace qui soit.</p>
+                     <p>Se projeter</p>
                      <p>L'établissement d'un document qui puisse servir de base à la
-                        publication d'un appel d'offre et à l'établissement d'un
-                        contrat nécessite de concevoir une idée relativement précise du
-                        produit attendu. En effet, la qualité du cahier des charges
-                        dépend grandement de la capacité à identifier, à l'avance,
-                        l'ensemble des besoins et des fonctionnalités car c'est en
-                        grande partie sur cette base que sera par la suite établi le
-                        marché avec le prestataire. Dès lors que l'application web dont
-                        il s'agit de décrire les contours définira les modalités de
-                        consultation du corpus, sa conception a des implications
-                        scientifiques évidentes. Il s'agit donc une opération
-                        prospective qui nécessite la mobilisation de compétences
-                        variées.</p>
+                        publication d'un appel d'offre, nécessite de concevoir une idée
+                        relativement précise du produit attendu. En effet, la qualité
+                        du cahier des charges dépend grandement de la capacité à
+                        identifier, à l'avance, l'ensemble des besoins et des
+                        fonctionnalités car c'est en grande partie sur cette base que
+                        sera par la suite établi le marché avec le prestataire. Dès
+                        lors que l'application web dont il s'agit de décrire les
+                        contours définira les modalités de consultation du corpus, sa
+                        conception a des implications scientifiques évidentes. Il
+                        s'agit donc une opération prospective qui nécessite la
+                        mobilisation de compétences variées.</p>
+                     <p>L'analyse fonctionnelle des besoins</p>
+                     <p>Expression des besoins sous forme de fonctions plutôt que de
+                        solutions afin de permettre un choix lors de l'étude
+                        technique.</p>
                      <p>Une culture générale de l'état de l'art en matière d'édition
                         scientifique</p>
                      <p>Une connaissance des standards de publication électronique</p>
@@ -1370,22 +1372,89 @@
                         publics doivent s'y conformer.</p>
                      <div>
                         <head>Un marché à procédure adapté</head>
-                        <p>Un marché public est un contrat administratif conclu à titre
-                           onéreux entre les pouvoirs adjudicateurs économiques publics
-                           ou privés et qui répond aux beosins de l'administration en
-                           matière de fourniture, services et travaux. Le montant du
-                           marché relatif à la production de l'application web étant
-                           inférieur à 20 000 euros au total, il a été possible de
-                           réaliser une procédure d'appel d'offre simplifiée. Celle-ci
-                           a impliqué</p>
-                        <p>Clauses et conditions.</p>
-                        <p>Aspects juridiques importants. Ne doit pas être </p>
+                        <p>Un marché public est un contrat conclu à titre onéreux entre
+                           les pouvoirs adjudicateurs publics et des opérateurs
+                           économiques publics ou privés pour répondre aux besoins de
+                           l'administration en matière de travaux, de fournitures ou de
+                           services{Legifrance}. La procédure à mettre en œuvre pour le
+                           marché est définie en fonction du montant de la dépense et
+                           de la nature du marché aux articles 26 à 30 du <title>Code
+                              des marchés publics</title>. En dessous d'une valeur
+                           estimée de 130 000 euros les marchés de services peuvent
+                           faire l'objet d'une procédure adaptée. Compte-tenu des
+                           sommes disponibles, la réalisation de l'application web de
+                           l'édition électronique des cours de Desgodets entrait dans
+                           ce cas de figure.</p>
+                        <p>La procédure adaptée est moins rigide que la procédure
+                           formalisée qui nécessite l'établissement de documents
+                           contractuels détaillés lors de la publication du marché.
+                           Elle permet notamment à l'adjudicateur de négocier avec les
+                           candidats ayant présenté une offre, <q>cette négociation
+                              pouvant porter sur tous les éléments de l'offre,
+                              notamment sur le prix</q>{Legifrance\Article 28\}.
+                           N'ayant pas la certitude d'obtenir des offres complètement
+                           satisfaisantes, une telle procédure avait la souplesse
+                           requise pour notre projet. Comme nous allons le voir,
+                           celle-ci a autorisé une redéfinition des objectifs sur la
+                           base du cahier des charges en fonction de l'offre du
+                           prestataire.</p>
+                        <p>Les II et III de l'article 28 du Code des marchés publics
+                           fixe également les conditions de publicité et de mise en
+                              concurrence :<quote>II. - Le pouvoir adjudicateur peut
+                              décider que le marché sera passé sans publicité ni mise
+                              en concurrence préalables dans les situations décrites au
+                              II de l'article 35 ou lorsque ces formalités sont
+                              impossibles ou manifestement inutiles en raison notamment
+                              de l'objet du marché, de son montant ou du faible degré
+                              de concurrence dans le secteur
+                              considéré.</quote><quote>III. - Le pouvoir adjudicateur
+                              peut également décider que le marché sera passé sans
+                              publicité ni mise en concurrence préalables si son
+                              montant estimé est inférieur à 15 000 euros HT. Lorsqu'il
+                              fait usage de cette faculté, il veille à choisir une
+                              offre répondant de manière pertinente au besoin, à faire
+                              une bonne utilisation des deniers publics et à ne pas
+                              contracter systématiquement avec un même prestataire
+                              lorsqu'il existe une pluralité d'offres potentielles
+                              susceptibles de répondre au besoin.
+                                 <bibl>{Legifrance\Article 28, modifié en
+                              2011\}</bibl></quote>Selon l'article 35, entre
+                           15 000 euros HT et 90 000 euros HT, l'adjudicateur peut
+                           choisir librement les modalités de publicité adaptées en
+                           fonction des caractéristiques du marché, notamment le
+                           montant et la nature des travaux, des fournitures ou des
+                           services en cause. Comme la dépense envisagée ne devait pas
+                           dépasser 15 000 €, et être dans tous les cas inférieure à
+                           90 000 euros, compte-tenu de la complexité de la prestation,
+                           le cadre réglementaire n'était pas très contraignant en ce
+                           qui concerne notre projet.</p>
                      </div>
                      <div>
                         <head>La sélection des partenaires</head>
-                        <p>Difficultés à trouver un prestataire réunissant les
-                           compétences requises</p>
-                        <p>Choix des partenaires</p>
+                        <p>La production de l'application consistant à publier des
+                           sources XML-TEI sur le web, il s'est avéré relativement
+                           difficile d'identifier des prestataires en mesure de
+                           répondre au marché. Le réseau de la TEI français a été
+                           largement sollicité afin d'identifier des entreprises
+                           compétences. Le Cahier des charges a relativement bien
+                           circulé dans la communauté des digital humanities si l'on en
+                           juge par les prises de contact. Il a souvent été nécessaire
+                           de rencontrer les entreprises afin de préciser ou
+                           d'expliciter le cahier des charges. Plusieurs prestataires
+                           sollicités ont décliné l'offre compte-tenu de sa
+                           complexité.</p>
+                        <p>Passé le délai de réception des candidatures et des offres,
+                           seulement trois prestataires nous ont soumis une
+                           proposition. Après examen de ces candidatures, la première
+                           était inadéquate eut égard aux attentes du projet. La
+                           seconde proposition, de loin la plus pertinente et la plus
+                           étayée dépassait considérablement les moyens disponibles
+                           même en renonçant à une grande partie des fonctionnalités.
+                           La troisième, même si moins pertinente et présentant moins
+                           de références, était dans le budget alloué même si elle
+                           était plus risqué. Compte-tenu du contexte budgétaire de
+                           l'opération, et après négociations avec les prestataires,
+                           c'est celle qui a finalement été retenue.</p>
                      </div>
                      <div>
                         <head>L'établissement du contrat</head>
