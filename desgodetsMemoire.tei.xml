@@ -2864,16 +2864,14 @@
                      </div>
                      <div>
                         <head>Redimensionnement des colonnes</head>
-                        <p>Nous avions manifesté le souhait de disposer d'un dispositif
-                           qui permette à l'utilisateur de modifier la largeur des
-                           colonnes dans l'interface de consultation. Cette
-                           fonctionnalité pouvait permettre à l'utilisateur de
-                           configurer le module de consultation des manuscrits comme il
-                           le souhaitait. Les prestataires nous ont rapidement fait
-                           part de difficultés techniques possible dans la réalisation
-                           de cette fonctionnalité. Malgré notre insistance, nous avons
-                           choisi d'y renoncer après avoir identité les difficultés
-                           rencontrées.</p>
+                        <p>Le cahier des charges envisageait une interface graphique
+                           avec des colonnes réglables en largeur. Cette fonctionnalité
+                           pouvait permettre à l'utilisateur de configurer le module de
+                           consultation des manuscrits comme il le souhaitait. Les
+                           prestataires nous ont rapidement fait part de difficultés
+                           techniques relatives à la réalisation de cette
+                           fonctionnalité. Malgré notre insistance, nous avons été
+                           contraint d'y renoncer pour des raisons techniques.</p>
                         <p>L'interface de l'application propose une barre de navigation
                            dans le contenu avec des boutons et des onglets. Celle-ci
                            doit être en position fixe pour toujours être disponible
@@ -2893,12 +2891,13 @@
                      <div>
                         <head>Page distincte pour la consultation en une colonne</head>
                         <p>Les difficultés rencontrées pour le dimensionnement des
-                           colonnes n'étaient pas sans inconvénients. Les colonnes
-                           étant de largeur fixe, l'écran devenait presque vide lorsque
-                           l'on n'affichait qu'une seule version d'un manuscrit
-                           dépourvu de planches (comme les commodités par exemple). Une
-                           telle configuration d'écran se révélait frustrante pour
-                           l'utilisateur et difficilement compréhensible.</p>
+                           colonnes n'ont pas été sans conséquence sur la conception
+                           générale de l'application. Les colonnes étant de largeur
+                           fixe, l'écran devenait presque vide lorsque l'on n'affichait
+                           qu'une seule version d'un manuscrit dépourvu de planches
+                           (comme les commodités par exemple). Une telle configuration
+                           d'écran se révélait frustrante pour l'utilisateur et
+                           difficilement compréhensible.</p>
                         <p>Afin de corriger ce problème et d'augmenter le confort de
                            lecture, d'un commun accord avec la graphiste et la
                            développeuse, il a été décidé de proposer au lecteur un
@@ -2970,12 +2969,46 @@
                         index.</p>
                   <div>
                      <head>Recettage du produit livré</head>
-                     <p>Le site web est un site statique produit à l'aide d'une
-                        transformation XSLT lancés par quelques scripts PHP.</p>
+                     <p>L'application web a été réalisée à l'aide de PHP et de XSLT.
+                        Plus précisément, il s'agit d'un site statique produit
+                        dynamiquement à partir des sources XML-TEI à l'aide de
+                        programmes XSLT lancés par des scripts PHP. Sauf les éléments
+                        mentionnés ci-dessus auxquels on avait dû renoncer au cours du
+                        projet ou pour lesquels d'autres solutions avaient été
+                        trouvées, les principales fonctionnalités qui figuraient au
+                        cahier des charge ont été remplies.</p>
                      <p>Production des index à l'aide de programmes XSLT</p>
                      <p>Interface graphique comportement attendu.</p>
                      <p>Recherche plein-texte implémentée</p>
+                     <p>Bonne intégration des CSS</p>
                      <p>Recettage encore en cours.</p>
+                     <p>Le recettage de l'application web est encore en cours. Cette
+                        opération consiste à vérifier en détail l'ensemble des
+                        fonctionnalités du site en listant les problèmes en vue de leur
+                        correction. Un premier recettage global de l'application est
+                        déjà intervenu portant principalement sur l'interface graphique
+                        et les fonctionnalités d'affichage. Reste à vérifier le détail
+                        de l'affichage des transformations XSLT.</p>
+                     <p>Conformément au marché, nous disposons d'une garantie d'un an
+                        sur l'application, ce qui laisse un certain temps pour
+                        éventuellement identifier des vices cachés. Une maintenance est
+                        par ailleurs prévue par le prestataire. En accord avec le
+                        prestataire, il est également probable que nous apportions
+                        quelques modifications aux transformations afin de prendre en
+                        compte quelques configurations d'encodages qui n'avaient pas
+                        été correctement anticipé. Un repérage des éléments pouvant
+                        poser problème a déjà été effectué à cet effet à l'intérieur
+                        des fichiers sous-forme de commentaires.</p>
+                     <p>Hormis les problèmes exposés ci-dessus, nous sommes globalement
+                        très satisfait de la réalisation qui est au-delà de nos
+                        espérances compte-tenu des faibles sommes engagées. Les bonnes
+                        conditions d'achèvement du projet dont nous pouvons
+                        particulièrement juger en comparaison avec une expérience
+                        précédente difficile, signalent la qualité des prestataires
+                        étant intervenus sur le projet. Il n'a en effet pas été
+                        compliqué d'obtenir la correction des dysfonctionnements
+                        constatés et le travail général se caractérise par sa précision
+                        et sa qualité.</p>
                   </div>
                   <div>
                      <head>Conformité aux standards </head>
@@ -3025,7 +3058,27 @@
                      <p>http://ica.princeton.edu/digitalbooks/digitalworldofarthistory2013/7.D.Zorich.pdf</p>
                   </div>
                   <div>
-                     <head>Usability</head>
+                     <head>Usabilité et accessibilité</head>
+                     <p>Il n'a malheureusement pas été possible de conduire des test
+                        d'usabilité, ceux-ci n'étant pas prévus pour des raisons
+                        budgétaire. De tels tests auraient pu présenter un intérêt dans
+                        le cours du développement de l'interface utilisateur pour
+                        valider certains choix.</p>
+                     <p>Conformément à la loi sur le handicap de 2005, nous aurions
+                        souhaité que le site soit parfaitement accessible aux
+                        handicapés en respectant un certain nombre de standards
+                        d'accessibilité. Les fonctionnalités complexes du module de
+                        consultation des manuscrits entraient souvent en contradiction
+                        avec les règles d'accessibilité. Toutefois, la possibilité de
+                        consulter chaque manuscrit de manière isolée devrait permettre
+                        une consultation plus aisée pour les personnes à mobilité
+                        réduite ainsi que pour les personnes équipées de liseuses
+                        numériques. Quelques tests ont été effectués avec des
+                        équipements pour aveugles, mais de tels tests devraient être
+                        reconduits pour identifier des améliorations possibles à
+                        effectuer sur le site. Les commandes de l'interface devraient
+                        également être doublées d'accès claviers pour améliorer leur
+                        accessibilité pour un personnel handicapé.</p>
                   </div>
                   <div>
                      <head>L’apport de l’application à l’étude du corpus</head>
