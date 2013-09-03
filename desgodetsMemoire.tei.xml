@@ -2727,6 +2727,37 @@
                   <head>Ajustements nécessaires en cours de projets</head>
                   <div>
                      <head>Solutions trouvées lors du travail</head>
+                     <p>Ergonomie</p>
+                     <p>Graphisme et rendu typographique</p>
+                     <p>Afin de laisser une certaine latitude au prestataire en charge
+                        de faire les propositions de rendus graphiques et
+                        typographiques, on s'est contenté d'indications fonctionnelles
+                        dans une documentation sur la transformation des éléments TEI.
+                        Cette documentation est fournie en index et a servi à la fois
+                        pour la préparation des transformations XSLT et pour la
+                        détermination de l'ergonomie et du graphisme du projet. Ces
+                        indications portaient par exemple sur la distinction des
+                        divisions du texte, ou bien l'affichage des
+                        entités-nommées.</p>
+                     <p>C'est donc sur la base de maquettes de projet graphiques que se
+                        sont opérés les choix d'ergonomie et de graphisme. Plusieurs
+                        aller-retours ont été nécessaires pour atteindre un rendu
+                        satisfaisant. On a d'abord validé des orientations générales
+                        puis affinés les différents aspects du rendu graphique et les
+                        fonctionnalités.</p>
+                     <p>Ergonomie</p>
+                     <p>Les fonctionnalités identifiées dans le cahier des charges pour
+                        la consultation des manuscrits étaient nombreuses et complexes.
+                        La conception de l'ergonomie du site a nécessité un
+                        investissement important de la part de la graphiste et des
+                        navettes nombreux avec nous. Ces discussion, auxquelles était
+                        associée la développeuse, ont permis de très fortement
+                        simplifier et rationaliser l'interface utilisateur. De ce point
+                        de vue, l'apport du prestataire externe a été notable dans la
+                        mise au point d'une solution efficace.</p>
+                     <p />
+                     <p>La développeuse web était associée au travail avec la
+                        graphiste. </p>
                   </div>
                   <div>
                      <head>Renoncements en cours de projet</head>
@@ -2824,24 +2855,85 @@
                   <div>
                      <head>Interface graphique</head>
                      <div>
-                        <p>Bien qu'elle nous ait beaucoup occupé et que le résultat soit relativement satisfaisant, l'interface graphique produite présente quelques inconvénients.</p>
+                        <p>Bien qu'elle nous ait beaucoup occupé et que le résultat
+                           soit relativement satisfaisant, l'interface graphique
+                           produite présente de notre point de vue plusieurs
+                           inconvénients. Certains d'entre eux sont en partie relatifs
+                           à des choix de développement entérinés en cours de projet,
+                           d'autres à des éléments auxquels on a du renoncer.</p>
                      </div>
                      <div>
                         <head>Redimensionnement des colonnes</head>
-                        <p>La question du redimensionnement des colonnes dans le module
-                           de visualisation des cours a constitué une réelle
-                           difficulté.</p>
+                        <p>Nous avions manifesté le souhait de disposer d'un dispositif
+                           qui permette à l'utilisateur de modifier la largeur des
+                           colonnes dans l'interface de consultation. Cette
+                           fonctionnalité pouvait permettre à l'utilisateur de
+                           configurer le module de consultation des manuscrits comme il
+                           le souhaitait. Les prestataires nous ont rapidement fait
+                           part de difficultés techniques possible dans la réalisation
+                           de cette fonctionnalité. Malgré notre insistance, nous avons
+                           choisi d'y renoncer après avoir identité les difficultés
+                           rencontrées.</p>
+                        <p>L'interface de l'application propose une barre de navigation
+                           dans le contenu avec des boutons et des onglets. Celle-ci
+                           doit être en position fixe pour toujours être disponible
+                           pour l'utilisateur lors de la consultation. Le modèle de
+                           contenu de CSS, et la propriété utilisée, ne permet pas de
+                           déterminer une position fixe qui soit seulement verticale.
+                           Or, le redimensionnement des colonnes nécessiterait de
+                           pouvoir recalculer le positionnement de des barres de
+                           navigation des colonnes adjacente.</p>
+                        <p>Il n'est pas impossible de réaliser une telle interface
+                           utilisateur, notamment en utilisant Javascript. Le marché ne
+                           portait pas sur la conception d'une interface graphique
+                           présentant un tel niveau de complexité, et il convenait de
+                           faire des choix en fonction de priorités parmi les
+                           fonctionnalités.</p>
                      </div>
                      <div>
-                        <head>Ne pas recharger la page</head>
-                     <p>Aurait préféré si possible, simple modification de l'affichage sans rechargement de page.</p>
+                        <head>Page distincte pour la consultation en une colonne</head>
+                        <p>Les difficultés rencontrées pour le dimensionnement des
+                           colonnes n'étaient pas sans inconvénients. Les colonnes
+                           étant de largeur fixe, l'écran devenait presque vide lorsque
+                           l'on n'affichait qu'une seule version d'un manuscrit
+                           dépourvu de planches (comme les commodités par exemple). Une
+                           telle configuration d'écran se révélait frustrante pour
+                           l'utilisateur et difficilement compréhensible.</p>
+                        <p>Afin de corriger ce problème et d'augmenter le confort de
+                           lecture, d'un commun accord avec la graphiste et la
+                           développeuse, il a été décidé de proposer au lecteur un
+                           affichage supplémentaire sur une seule colonne. Cette
+                           configuration de l'affichage est accessible lors de la
+                           suppression des colonnes de droite dans le module de
+                           comparaison des manuscrits ou directement et en premier lors
+                           de la consultation d'un cours.</p>
+                        <p>Ce changement nous a conduit à préciser la séquence de
+                           visualisation en distinguant la consultation d'un manuscrit
+                           de la comparaison des manuscrits. Cette distinction
+                           clarifiait finalement un dispositif que nous avions du mal à
+                           expliquer dans la notice d'utilisation du site. Elle
+                           rejoignait également le fait de pouvoir disposer d'une URL
+                           par cours pour la citabilité. Cependant, conçue pour être
+                           afficher sur une seule colonne, il fallait ménager
+                           l'affichage des images d'une autre manière et le
+                           rechargement du cours dans la page. Une solution sans
+                           rechargement de la page en modifiant seulement la CSS aurait
+                           certainement été préférable du point de vue de l'expérience
+                           utilisateur.</p>
                      </div>
                      <div>
                         <head>Pas responsive design</head>
-                        <p>Module de visualisation qui impliquent des hauteurs et
-                           largeurs de colonnes fixes car calcul en javascript de la
-                           taille de l'écran pour l'affichage des barres de navigation.
-                           Dès lors pas responsive design.</p>
+                        <p>Le dispositif de comparaison des manuscrit qui ménage
+                           plusieurs colonnes n'est pas complètement dépourvu
+                           d'inconvénients. Les barres de défilement de chaque colonnes
+                           sont produites en javascript. Leur positionnement est
+                           calculé en javascript par la hauteur de la page. De ce fait,
+                           le site ne s'adapte pas vraiment à des modifications du
+                           contexte d'affichage comme le zoom ou le renversement de
+                           l'écran d'une tablette. Le dispositif en colonnes de largeur
+                           fixe interdit également de pouvoir proposer un site qui
+                           s'adapte complètement à la largeur de l'écran (du type
+                              <soCalled>responsive design</soCalled>).</p>
                      </div>
                   </div>
                   <div>
@@ -3283,7 +3375,7 @@
                   </div>
                </div>
                <div type="chapter" n="3">
-                  <head>Les Évolution futures de l'application</head>
+                  <head>Bilan et Évolution futures de l'application</head>
 
                   <div>
                      <head>Finir un projet DH</head>
