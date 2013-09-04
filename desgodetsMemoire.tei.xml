@@ -186,22 +186,74 @@
                   d'affronter la question <q>de ce que font ces outils numérique</q> au
                   sein-même des disciplines ; en l'espèce dans le domaine de l'histoire
                   et de l'histoire de l'art.</p>
+               <p>Déjà en 1968, Emmanuel Le Roy Ladurie, dans un article resté célèbre,
+                  envisageait l'avènement d'un historien programmeur{LeRoyLadurie
+                  1968}. Ces réflexions étaient fortement marquées du sceau de
+                  l'histoire quantitative issue de l'école des Annales. Le renouveau
+                  critique des années 80 aura tôt fait de les balayer. Malgré une
+                  histoire relativement ancienne, ce n'est finalement qu'assez
+                  tardivement que la question des rapports entre historien et
+                  programmeur réapparaît aujourd'hui{Ruiz 2011}.</p>
+               <p>La réflexion concernant l'utilisation des moyens informatiques en
+                  histoire de l'art est également relativement ancienne. De 1983 à
+                  1993, Jacques Thuillier alors enseignant au Collège de France, anime
+                  et fait paraître une lettre d'information consacrée à l'informatique
+                  et à l'histoire de l'art, l'<title>HAMI (Histoire de l'art et moyens
+                     informatiques)</title>. Dans son premier éditorial, Jacques
+                  Thuillier expliquait un certain retard dans l'intérêt porté par la
+                  discipline à l'informatique par ses caractéristiques propres. Mais il
+                  lui présidait un riche avenir :<quote>La situation s'est modifiée
+                     rapidement. L'informatique s'est développée en capacité et en
+                     flexibilité d'une manière prodigieuse, et désormais elle est en
+                     mesure de répondre aux exigences de l'historien d'art. Bien plus :
+                     elle semble appelée à bouleverser – dans un avenir prévisible et
+                     qu'il faut dès maintenant préparer – les conditions de sa
+                     recherche, plus profondément peut-être que pour les autres
+                     disciplines, justement parce qu'elle résoudra des problèmes plus
+                     complexes et jusqu'ici insurmontables. Son aide pourrait bien se
+                     révéler aussi décisive pour l'histoire de l'art que l'intervention
+                     de la photographie voilà plus d'un siècle.</quote>{Thuillier
+                  1983}</p>
+               <p>Dès 1978, une initiative de Paola Barocchi avait suscité à Pise
+                  l'organisation d'un grand colloque qui avait connu un succès
+                  enthousiaste. Un second Colloque s'était tenu à Pise en 1984 avec la
+                  publication d'un <title>Census</title> qui témoigne de l'abondance
+                  des projets en cours{\162 projets contre 41 en 1978, \ Corti 1984}.
+                  D'ailleurs, il est remarquable que la plupart des projets qui
+                  structurent encore aujourd'hui la discipline dans le domaine
+                  documentaire y figurent déjà presque tous : iconclass, thesauri du
+                  Getty, systèmes descriptifs de l'Inventaire, etc.</p>
+               <p>C'est un constat amer que formule Jacques Thuillier en 1992 dans la
+                     <title>Revue de l'art</title> au terme de plus d'une décennie
+                  d'expérimentation :  <q>[...] Que cette constatation soit ressentie
+                     ou non comme humiliante, il faut bien ajouter : l'échec n'est pas
+                     à mettre au compte de l'informatique, mais des historiens d'art,
+                     qui n'ont pas sur tirer parti d'elle.</q> {Thuillier 1992} Cet
+                  échec est pour lui le signe d'une sclérose de la discipline.
+                  Toutefois, il ne manque pas de souligner les périls résidant dans
+                  l'émiettement des projets et de mettre le doigt sur les divergences
+                  d'objectifs entre les institutions patrimoniales et le secteur
+                  académique.</p>
+               <p>Une opposition qui caractérise encore bien aujourd'hui en France la
+                  situation. Si les institutions patrimoniales et culturelles ont été
+                  pressées ces dernières années par des politiques internationales à
+                  publier leurs collections sous forme numérique, une telle dynamique
+                  ne s'est pas retrouvée à l'université{WelgerBarboza 2002}. On
+                  pourrait évidemment nous opposer pléthore de projets de constitution
+                  de bases de données scientifiques à caractère documentaire produites
+                  depuis plusieurs décennies. Mais on ne peut pas vraiment dire que
+                  cela se soit accompagné de mutations profondes et réelles dans la
+                  manière d'aborder tant les sources que la publication au sein de la
+                  discipline.</p>
+               <p>Ce constat n'est pas seulement national. L'année dernière, la
+                  fondation Kress publiait un rapport sur l'histoire de l'art et les
+                  Digital humanities aux États-Unis{Zorich 2012}. Dans la mesure où
+                  l'on peut comparer la situation américaine et la situation française,
+                  on reconnaît assez bien dans ce rapport la situation française.</p>
                <p> Introduire sur la place des sciences auxiliaires de l'histoire.
                   Permet d'évoquer l'ENC, et les nouvelles technologies.</p>
                <div>
                   <head>Histoire de l’art et DH</head>
-                  <p>L'histoire de l'informatique appliquée à l'histoire est déjà
-                     ancienne. Cf. L'historien programmeur de Ladurie. Contrairement à
-                     ce que l'on pourrait supposer de la situation actuelle dans le
-                     domaine de l'histoire de l'art, elle n'y est pas moins ancienne.
-                     Dès 1986 ?? ... organisait un premier census sur les projets
-                     informatiques en histoire de l'art. Ce premier recueil
-                     d'initiatives est non seulement abondant, mais étonnamment il
-                     comporte déjà la plupart des projets qui structurent encore
-                     aujourd'hui la discipline du point de vue documentaire et
-                     informatique : vocabulaires et systèmes descriptifs de
-                     l'Inventaire des richesses artistiques de la France, base Joconde
-                     et bases de l'Inventaire, thesaurus du Ghetty, Iconclass, etc.</p>
                   <p>L'ami, Thuillier. Constat désabusé en 1992.</p>
                   <p>Rapport Kress et n° special de Visual resources</p>
                   <p> entre l'ordinateur et les disciplines historiques sont déjà
