@@ -2518,36 +2518,6 @@
                      </div>
                   </div>
                   <div>
-                     <head>Produire l’édition avec des documents Microsoft Word</head>
-                  </div>
-                  <div type="introduction">
-                     <p>Question de savoir qui doit encoder{Buquet 2010}. Si l'encodage un moyen. Pb expressivité.</p>
-                     <p>De part leur utilisation généralisée, on oublie souvent que les
-                        logiciels de traitement de texte dits
-                           <soCalled>WYSIWIG</soCalled> (What You See Is What You Get)
-                        présentent également un certain regard sur le texte. S'ils
-                        donnent l'impression d'éditer le document imprimé final, loin
-                        d'être des instruments neutres ils présentent en réalité un
-                        modèle de consultation du texte.</p>
-                     <p>Peut s'avérer utile de produire une interface de travail
-                        dépourvue de balises pour les éditeurs. Possibilité d'utiliser
-                        le mode auteur d'Oxygen. Mais avantage de travailler à partir
-                        du cadre de travail des auteurs mêmes.</p>
-                     <p>Question de l'interface et de la production du texte.
-                        Difficulté à produire une interface générique pour la TEI
-                        compte-tenu de la diversité des modèles que l'on vient de voir.
-                        Impliquerait un <foreign xml:lang="eng">mapping</foreign> de
-                        chaque élément vers un dispositif visuel correspondant dans
-                        l'éditeur.</p>
-                     <p>Mise en place d'un modèle de document de traitement de texte
-                        (en l'espère Microsoft Word parce qu'il était le plus utilisé
-                        au sein de l'équipe éditoriale) en vue d'une importation
-                        automatisée. Distance entre le modèle d'édition que suggère une
-                        telle interface d'édition et l'expressivité réelle du modèle
-                        XML-TEI utilisée qui a nécessité certains ajustement dont nous
-                        allons ici également rendre compte.</p>
-                  </div>
-                  <div>
                      <head>La production des textes encodés</head>
                      <p>Alors qu'aucun des membres des équipes éditoriales ne
                         disposaient de compétences en matière d'encodage XML-TEI, il a
@@ -2575,7 +2545,53 @@
                         inconvénients dont nous voudrions maintenant rendre compte en
                         évaluant l'approche retenue.</p>
                      <div>
-                        <head>Travail avec les auteurs</head>
+                        <head>L'utilisation d'un logiciel de traitement de texte</head>
+                        <p>Comme nous l'avons vu précédemment, les choix qui interviennent dans
+                           l'encodage d'un document ont un caractère scientifique affirmé. Ainsi, se
+                           pose souvent la question dans un projet d'édition électronique de savoir
+                           à qui doit revenir le soin d'encoder des documents{Buquet 2010}. Les
+                           chercheurs sont généralement peu enclins à s'occuper eux-même de
+                           l'encodage des documents qui est habituellement envisagé comme une
+                           opération technique. Cela tient en partie au caractère relativement
+                           rébarbatif de l'encodage et au défaut d'interface du type<soCalled>What
+                              You See Is What You Get</soCalled> pour éditer un texte en TEI.</p>
+                        <p>La complexité de la TEI, et les différentes manières de l'utiliser, ne
+                           rendent guère possible la définition d'une interface graphique générique, à
+                           moins de concevoir une interface entièrement personnalisable en fonction de
+                           chaque schéma. En effet, la production d'une telle interface implique une
+                           mise en correspondance de chaque élément TEI avec un dispositif visuel. Pour
+                           disposer d'un éditeur <soCalled>WYSIWIG</soCalled>, il faudrait en outre
+                           déterminer à l'avance le rendu final de ces éléments. On comprend donc que
+                           la définition de cet éditeur serait fortement orientée par le point de vue
+                           sut le texte exprimé par la modélisation.</p>
+                        <p>De par leur utilisation généralisée, on oublie souvent que les logiciels
+                           de traitement de texte dits <soCalled>WYSIWIG</soCalled> (What You See Is
+                           What You Get) présentent également un certain regard sur le texte. S'ils
+                           donnent l'impression d'éditer le document imprimé final, loin d'être des
+                           instruments neutres, ils présentent en réalité un modèle de consultation
+                           et d'édition du texte relativement contraignant. Lorsque l'on manie la
+                           TEI, il n'est pas difficile de percevoir combien celle-ci offre une plus
+                           grande expressivité. Un grand nombre de phénomènes textuels que l'on peut
+                           marquer simplement avec la TEI ne sont pas facilement traitables avec un
+                           traitement de texte. Si l'encodage n'est qu'un moyen, ce défaut
+                           d'expressivité ne va pas sans poser problème.</p>
+                        <p>Peut s'avérer utile de produire une interface de travail
+                           dépourvue de balises pour les éditeurs. Possibilité d'utiliser
+                           le mode auteur d'Oxygen. Mais avantage de travailler à partir
+                           du cadre de travail des auteurs mêmes.</p>
+                        <p>Mise en place d'un modèle de document de traitement de texte (en l'espère
+                           Microsoft Word parce qu'il était le plus utilisé au sein de l'équipe
+                           éditoriale) en vue d'une importation automatisée. Distance entre le
+                           modèle d'édition que suggère une telle interface d'édition et
+                           l'expressivité réelle du modèle XML-TEI utilisée qui a nécessité certains
+                           ajustement dont nous allons ici également rendre compte.</p>
+                     </div>
+                     <div>
+                        <head>La production de directives pour les éditeurs</head>
+                        <div>
+                           <head>La définition des règles</head>
+                           <p></p>
+                        </div>
                         <div>
                            <head>Réunions de travail</head>
                            <p>Validation du principe d'un <soCalled>stylage</soCalled>
@@ -2601,14 +2617,14 @@
                               juin 2012.</p>
                         </div>
                         <div>
-                           <head>Les problèmes d’interprétation des règles</head>
+                           <head>Compréhension des enjeux</head>
                         </div>
                         <div>
-                           <head>Compréhension des enjeux</head>
+                           <head>Les problèmes d’interprétation des règles</head>
                         </div>
                      </div>
                      <div>
-                        <head>Importation des textes pré-encodés</head>
+                        <head>L'importation des textes pré-encodés</head>
                         <div>
                            <head>Choix d’automatisation</head>
                         </div>
