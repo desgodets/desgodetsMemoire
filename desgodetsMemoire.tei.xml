@@ -560,45 +560,27 @@
                   </div>
                   <div>
                      <head>Fonctionnement de l’équipe scientifique</head>
-                     <p>Outre la direction scientifique assurée par Robert Carvais, le
-                        projet disposait d'un Conseil scientifique. Ce conseil était
-                        principalement en charge de discuter et d'arrêter les grandes
-                        orientations scientifiques de la recherche. Composé de
-                        personnalités reconnues dans le domaine de l'histoire de l'art
-                        et de l'histoire du droit, ce conseil scientifique a été
-                        mobilisé de manière régulière aux étapes cruciales du
-                        projet.</p>
-                     <p>Comme tout projet faisant l’objet d’un financement par l’ANR,
-                        des bilans intermédiaires étaient prévus. </p>
-                     <p>Compte-tenu des difficultés concernant la réunion de l'ensemble
-                        des membres du Conseil scientifique, pour faciliter le travail,
-                        des réunions régulières, en plus petit comité, ont été
-                        organisées au gré des besoins. Nous avons participé à
-                        l'ensemble de ces réunions. C'est dans ce cadre qu'ont été
-                        préparées la plupart des orientations concernant la production
-                        de l'application web ainsi que certains choix éditoriaux. Tout
-                        au long du stage, j'ai par ailleurs été en contact direct et
-                        régulier avec Robert Carvais pour travailler.</p>
-                     <p>Ca travail issus de l’AMO, La méthode de travail avec le
-                        prestataire.</p>
-                     <p>Le suivi de la réalisation de l'application web nécessitait des
-                        contacts réguliers avec les prestataires de services. Plusieurs
-                        réunions physiques sont intervenues dans le cours du projet à
-                        intervalles réguliers. De telles réunions physiques étaient
-                        surtout nécessaires pour discuter des points problématiques </p>
-                     <p>Communication par mail : Validation des choix ergonomiques /
-                        problèmes rencontrés sur l’encodage.</p>
-                     <p>Réunion à distance régulières avec la développeuse web à l'aide
-                        du service de communication synchrone de Microsoft Skype. Ce
-                        service c'est notamment révélé très utile compte-tenu de la
-                        diversité des modalités de communications permises : chat,
-                        discussions de vive voix, visualisation de la présence de
-                        l'interlocuteur derrière son écran, conservation de la trace
-                        des échanges équivalente à des relevés de décisions. Il
-                        permettait par exemple de constater la présence de son
-                        interlocuteur derrière son écran et de le solliciter
-                        ponctuellement de manière rapide pour aplanir une difficulté ou
-                        résoudre un problème. </p>
+                     <p>Pour l'assister dans la direction scientifique du projet, Robert Carvais, le
+                        projet disposait d'un Conseil scientifique. Ce conseil était principalement
+                        en charge de discuter et d'arrêter les grandes orientations scientifiques de
+                        la recherche. Composé de personnalités reconnues dans le domaine de
+                        l'histoire de l'art et de l'histoire du droit, ce conseil scientifique a été
+                        mobilisé de manière régulière aux étapes cruciales du projet. Ce Conseil
+                        scientifique a été réuni quatre fois au total dans le cours du projet. Un
+                        ordre du jour était fixé à l'avance, et chaque réunion faisait l'objet d'un
+                        compte-rendu dont nous nous sommes chargé.</p>
+                     <p>Compte-tenu de la difficulté à réunion l'ensemble des membres du Conseil
+                        scientifique, et pour faciliter le travail, des réunions régulières, en plus
+                        petit comité, ont été organisées au gré des besoins. Nous avons également
+                        participé à l'ensemble de ces réunions. C'est dans ce cadre qu'ont été
+                        préparées la plupart des orientations concernant la production de
+                        l'application web ainsi que certains choix éditoriaux avant d'être soumis au
+                        Conseil scientifique. Tout au long du stage, j'ai par ailleurs été en
+                        contact direct et régulier avec Robert Carvais pour toutes les décisions à
+                        prendre.</p>
+                     <p>Comme tout projet faisant l’objet d’un financement par l’ANR, des bilans
+                        intermédiaires étaient prévus chaque année pour rendre compte de l'emploi
+                        des fonds et de l'avancement du travail.</p>
                   </div>
                   <div>
                      <head>Gestion administrative et financière</head>
@@ -1357,6 +1339,29 @@
                      des sources.</p>
                   <p>Enfin, suivi de la réalisation de l'application et dialogues avec
                      le prestataire toute au long de la phase de production.</p>
+               </div>
+               <div>
+                  <head>Cadre du travail</head>
+                  <p>Ca travail issus de l’AMO, La méthode de travail avec le
+                     prestataire.</p>
+                  <p>Le suivi de la réalisation de l'application web nécessitait des
+                     contacts réguliers avec les prestataires de services. Plusieurs
+                     réunions physiques sont intervenues dans le cours du projet à
+                     intervalles réguliers. De telles réunions physiques étaient
+                     surtout nécessaires pour discuter des points problématiques </p>
+                  <p>Communication par mail : Validation des choix ergonomiques /
+                     problèmes rencontrés sur l’encodage.</p>
+                  <p>Réunion à distance régulières avec la développeuse web à l'aide
+                     du service de communication synchrone de Microsoft Skype. Ce
+                     service c'est notamment révélé très utile compte-tenu de la
+                     diversité des modalités de communications permises : chat,
+                     discussions de vive voix, visualisation de la présence de
+                     l'interlocuteur derrière son écran, conservation de la trace
+                     des échanges équivalente à des relevés de décisions. Il
+                     permettait par exemple de constater la présence de son
+                     interlocuteur derrière son écran et de le solliciter
+                     ponctuellement de manière rapide pour aplanir une difficulté ou
+                     résoudre un problème. </p>
                </div>
                <div type="chapter" n="1">
                   <head>L'Établissement d'un cahier des charges, le choix d'un
