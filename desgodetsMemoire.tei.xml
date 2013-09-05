@@ -126,7 +126,7 @@
          </titlePage>
          <div xml:id="desgodetsMemoireFrontFr" xml:lang="fr">
             <!-- générer un sommaire -->
-            <divGen n="desgodetsMemoireFrontFr01" type="sommaire">
+            <divGen n="desgodetsMemoireFrontFr01" type="toc">
                <head>Sommaire</head>
             </divGen>
             <div xml:id="desgodetsMemoireFrontFr02">
