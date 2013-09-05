@@ -179,14 +179,16 @@
                   Les conséquences de ce bouleversement tardent pourtant à être actées
                   dans la plupart des disciplines historiques.</p>
                <p>Prenant comme objet même l'observation et l'accompagnement de ces
-                  transformations, le courant des Digital humanities est parfois
-                  présenté comme une trans-discipline, d'aucuns l'abordent comme une
-                  science auxiliaire de l'histoire. Si cette dynamique
-                  transdisciplinaire est riche d'échanges et très favorable à la
-                  réflexivité, il nous semble tout à la fois nécessaire et pertinent
-                  d'affronter la question <q>de ce que font ces outils numérique</q> au
-                  sein-même des disciplines ; en l'espèce dans le domaine de l'histoire
-                  et de l'histoire de l'art.</p></div>
+                     transformations, le courant des <soCalled>Digital
+                        humanities</soCalled> est parfois présenté comme une
+                        <soCalled>trans-discipline</soCalled>{ThatcampParis2010},
+                     d'aucuns l'abordent comme une science auxiliaire de l'histoire. Si
+                     cette dynamique transdisciplinaire est riche d'échanges et très
+                     favorable à la réflexivité, il nous semble tout à la fois
+                     nécessaire et pertinent d'affronter la question <q>de ce que font
+                        ces outils numérique</q> au sein-même des disciplines ; en
+                     l'espèce dans le domaine de l'histoire et de l'histoire de
+                     l'art.</p></div>
                <div>
                   <head>Histoire de l’art et DH</head>
                <p>Déjà en 1968, Emmanuel Le Roy Ladurie, dans un article resté célèbre,
@@ -217,26 +219,27 @@
                      révéler aussi décisive pour l'histoire de l'art que l'intervention
                      de la photographie voilà plus d'un siècle.</quote>{Thuillier
                   1983}</p>
-               <p>Dès 1978, une initiative de Paola Barocchi avait suscité à Pise
-                  l'organisation d'un grand colloque qui avait connu un succès
-                  enthousiaste. Un second Colloque s'était tenu à Pise en 1984 avec la
-                  publication d'un <title>Census</title> qui témoigne de l'abondance
-                  des projets en cours{\162 projets contre 41 en 1978, \ Corti 1984}.
-                  D'ailleurs, il est remarquable que la plupart des projets qui
-                  structurent encore aujourd'hui la discipline dans le domaine
-                  documentaire y figurent déjà presque tous : iconclass, thesauri du
-                  Getty, systèmes descriptifs de l'Inventaire, etc.</p>
-               <p>C'est un constat amer que formule Jacques Thuillier en 1992 dans la
-                     <title>Revue de l'art</title> au terme de plus d'une décennie
-                  d'expérimentation :  <q>[...] Que cette constatation soit ressentie
-                     ou non comme humiliante, il faut bien ajouter : l'échec n'est pas
-                     à mettre au compte de l'informatique, mais des historiens d'art,
-                     qui n'ont pas sur tirer parti d'elle.</q> {Thuillier 1992} Cet
-                  échec est pour lui le signe d'une sclérose de la discipline.
-                  Toutefois, il ne manque pas de souligner les périls résidant dans
-                  l'émiettement des projets et de mettre le doigt sur les divergences
-                  d'objectifs entre les institutions patrimoniales et le secteur
-                  académique.</p>
+               <p>Dès 1978, une initiative de <persName>Paola Barocchi</persName> avait
+                     suscité à Pise l'organisation d'un grand colloque qui avait connu
+                     un succès enthousiaste. Un second Colloque s'était tenu à Pise en
+                     1984 avec la publication d'un <title>Census</title> qui témoigne
+                     de l'abondance des projets en cours{\162 projets contre 41 en
+                     1978, \ Corti 1984}. D'ailleurs, il est remarquable que la plupart
+                     des projets qui structurent encore aujourd'hui la discipline dans
+                     le domaine documentaire y figurent déjà presque tous : iconclass,
+                     thesauri du Getty, systèmes descriptifs de l'Inventaire, etc.</p>
+               <p>C'est un constat amer que formule <persName>Jacques
+                        Thuillier</persName> en 1992 dans la <title>Revue de
+                        l'art</title> au terme de plus d'une décennie
+                     d'expérimentation : <q>[...] Que cette constatation soit ressentie
+                        ou non comme humiliante, il faut bien ajouter : l'échec n'est
+                        pas à mettre au compte de l'informatique, mais des historiens
+                        d'art, qui n'ont pas sur tirer parti d'elle.</q> {Thuillier
+                     1992} Cet échec est pour lui le signe d'une sclérose de la
+                     discipline. Toutefois, il ne manque pas de souligner les périls
+                     résidant dans l'émiettement des projets et de mettre le doigt sur
+                     les divergences d'objectifs entre les institutions patrimoniales
+                     et le secteur académique.</p>
                <p>Une opposition qui caractérise encore bien aujourd'hui en France la
                   situation. Si les institutions patrimoniales et culturelles ont été
                   pressées ces dernières années par des politiques internationales à
@@ -248,15 +251,16 @@
                   cela se soit accompagné de mutations profondes et réelles dans la
                   manière d'aborder tant les sources que la publication au sein de la
                   discipline.</p>
-               <p>Ce constat n'est pas seulement national. La fondation Kress publiait
-                  l'année dernière un rapport sur l'histoire de l'art et les Digital
-                  humanities aux États-Unis{Zorich 2012}. Dans où elles peuvent être
-                  comparées, on reconnaît assez bien dans ce rapport la situation
-                  française. Rapport ambivalent aux outils numériques d'une part,
-                  manque d'institutions de recherche engagés sur le domaine d'autre
-                  part, et plus généralement des interrogations ou sur le fait qu'ils
-                  puissent bouleverser la discipline et ses méthodes. ?? Revoir</p>
-               <p>Corinne Welger Barboza</p>
+               <p>Ce constat n'est pas seulement national. La <orgName>fondation
+                        Kress</orgName> publiait l'année dernière un rapport sur
+                     l'histoire de l'art et les Digital humanities aux
+                     États-Unis{Zorich 2012}. Dans où elles peuvent être comparées, on
+                     reconnaît assez bien dans ce rapport la situation française.
+                     Rapport ambivalent aux outils numériques d'une part, manque
+                     d'institutions de recherche engagés sur le domaine d'autre part,
+                     et plus généralement des interrogations ou sur le fait qu'ils
+                     puissent bouleverser la discipline et ses méthodes. ?? Revoir</p>
+               <p><persName>Corinne Welger Barboza</persName></p>
                <p>Pourtant, la question des digital humanities semble à l'ordre du jour
                   en histoire de l'art. Le Getty a organisé une manifestation à ce
                   sujet au printemps dernier et, il y a quelques mois, un numéro
@@ -310,6 +314,12 @@
                   <p>Irruption de nouveaux acteurs :</p>
                   <p>Nécessité d'un savoir hybride</p>
                   <p>Problématique</p>
+                  <p>Introduire la problématique. Qu'est ce que cela change, du côté de
+                     l'éditeur scientifique, du côté du lecteur. Travail d'AMO,
+                     précisément endroit intéressant pour faire ces constats. Croisée
+                     des chemins. Compétences.</p>
+                  <p>Introduire sur la place des sciences auxiliaires de l'histoire.
+                     Permet d'évoquer l'ENC, et les nouvelles technologies.</p>
                </div>
                <div>
                   <head>Annonce du plan</head>
@@ -353,22 +363,17 @@
                         designers, etc. Elle suppose également de considérer
                         l'évolution du contenu dans le temps et sur différents
                         supports. Penser dès le départ sa propre conservation.</p>
+                  </div>
+                  <div>
+                     <head>Problématique et annonce du plan</head>
                      <p>Outre les changements qu'elles impliquent dans leur mode de
                         production même, les éditions numériques bouleverses également
                         les manières de travailler des chercheurs. Abondance des
                         sources nouvellement mises à disposition. Changement du cadre
                         de travail. Pervasivité du numérique avec l'internet, et
                         bientôt du Linked open data.</p>
-                  </div>
-                  <div>
-                     <head>Problématique et annonce du plan</head>
-                     <p>Introduire la problématique. Qu'est ce que cela change, du côté
-                        de l'éditeur scientifique, du côté du lecteur. Travail d'AMO,
-                        précisément endroit intéressant pour faire ces constats.
-                        Croisée des chemins. Compétences.</p>
-                     <p> Introduire sur la place des sciences auxiliaires de
-                        l'histoire. Permet d'évoquer l'ENC, et les nouvelles
-                        technologies.</p>
+                     <p>Mode d'accès renouvelé au source. Bilan d'un projet sous
+                        l'aspect de l'accompagnement technique.</p>
                   </div>
                </div>
             </div>
@@ -390,14 +395,15 @@
                         en ordre des savoirs, réduction en art. Traités d’architecture,
                         véritable genre littéraire à part entière.</p>
                      <p>L'objectif principal du projet de recherche consistait à
-                        restituer, dans le cadre du savoir, le cours d'Antoine
-                        Desgodets, architecte du roi, professeur à l'Académie
-                        d'architecture de 1719 à 1728. De nombreuses copies manuscrites
-                        du cours étaient en effet conservées à travers les
-                        bibliothèques et institutions patrimoniales internationales.
-                        L'avantage principal de cette recherche était de réunir dans un
-                        même lieu, et de mettre à disposition des chercheurs, le corpus
-                        de ces écrits dispersés.</p>
+                        restituer, dans le cadre du savoir, le cours
+                           d'<persName>Antoine Desgodets</persName>, architecte du roi,
+                        professeur à l'<orgName>Académie d'architecture</orgName> de
+                        1719 à 1728. De nombreuses copies manuscrites du cours étaient
+                        en effet conservées à travers les bibliothèques et institutions
+                        patrimoniales internationales. L'avantage principal de cette
+                        recherche était de réunir dans un même lieu, et de mettre à
+                        disposition des chercheurs, le corpus de ces écrits
+                        dispersés.</p>
                      <p>Question de la théorie et de la pratique, qui dans le domaine
                         de l'architecture trouve une résolution si particulière.</p>
                      <p>Introduire sur l’intérêt renouvelé ces dernières années pour les écrits d’architecture (citer Guillaume, Garric, Bouvier, Medvedkova, etc.).
@@ -405,20 +411,21 @@
                   </div>
                   <div>
                      <head>Présentation du projet</head>
-                     <p>L’édition des cours d’Antoine Desgodets est à compter <ref
-                           type="note" target="#m0001">au nombre des rares projets de
-                           recherche en histoire de l’art qui ont pu bénéficier ces
-                           dernières années d’un financement de l’Agence Nationale de
-                           la Recherche (ANR)</ref>. D’abord proposé dans le cadre
-                        d’une recherche plus vaste sur la littérature architecturale
-                        intitulé « Vitruviana », l’édition des cours de l’architecte
-                        avait retenu l’attention des évaluateurs qui avaient suggéré de
-                        le présenter séparément à un autre appel d’offre. <ref
-                           type="note" target="#m0002">Le projet, re-rédigé par Robert
-                           Carvais en ce sens, a finalement obtenu le financement de
-                           l’ANR à l’appel d’offre du programme <title>Corpus et outils
-                              de la recherche en sciences humaines et sociales</title>
-                           suivant, sous le n° ANR-07-CORP-017-01 en 2007</ref>.</p>
+                     <p>L’édition des cours d’<persName>Antoine Desgodets</persName>
+                        est à compter <ref type="note" target="#m0001">au nombre des
+                           rares projets de recherche en histoire de l’art qui ont pu
+                           bénéficier ces dernières années d’un financement de l’Agence
+                           Nationale de la Recherche (ANR)</ref>. D’abord proposé dans
+                        le cadre d’une recherche plus vaste sur la littérature
+                        architecturale intitulé « Vitruviana », l’édition des cours de
+                        l’architecte avait retenu l’attention des évaluateurs qui
+                        avaient suggéré de le présenter séparément à un autre appel
+                        d’offre. <ref type="note" target="#m0002">Le projet, re-rédigé
+                           par <persName>Robert Carvais</persName> en ce sens, a
+                           finalement obtenu le financement de l’ANR à l’appel d’offre
+                           du programme <title>Corpus et outils de la recherche en
+                              sciences humaines et sociales</title> suivant, sous le n°
+                           ANR-07-CORP-017-01 en 2007</ref>.</p>
                      <p>Le projet de recherche proposait d’aborder la construction et
                         la normalisation du savoir architectural à la fin du XVII<hi
                            rend="superscript">e</hi> siècle à partir de l’édition du
@@ -465,7 +472,7 @@
                         chercheurs a été réunie par Robert Carvais pour l’étude et
                         l’édition des manuscrits. Cette équipe rassemblait des
                         historiens du droit, des historiens de l’architecture et des
-                        historiens des sciences. Robert Carvais qui en assurait en tant
+                        historiens des sciences. Robert Carvais en assurait en tant
                         qu'investigateur principal, et que responsable juridique du
                         projet d'ANR, la direction scientifique.</p>
                      <p>Le nombre de témoins manuscrits identifiés dès l'origine
@@ -473,19 +480,19 @@
                         total. C’est dans ce cadre que j'ai eu, dans un premier temps,
                         l'opportunité d'intervenir dans le cours du projet. L'ensemble
                         des transcripteurs ont eu la chance d'être directement associés
-                        à l’équipe scientifique et de participer à l’ensemble des
-                        réunions de suivi. À bien des égards, c'est ma participation à
-                        ce projet de recherche qui m’a conduit à assister à une
-                        première formation sur l'édition numérique et la Text Encoding
-                        Initiative organisée par le réseau Mutec à Lyon, puis à
-                        m’intéresser de plus près à la formation offerte par l’École
-                        des chartes dans le cadre de son master 2 « Technologies
-                        numériques appliquées à l’histoire » qui occasionne aujourd'hui
-                        de la rédaction de ce mémoire.</p>
+                        à l’équipe scientifique et de participer aux réunions de suivi.
+                        À bien des égards, c'est ma participation à ce projet de
+                        recherche qui m’a conduit à participer à une première formation
+                        sur l'édition numérique et la Text Encoding Initiative
+                        organisée par le réseau Mutec à Lyon, puis à m’intéresser de
+                        plus près à la formation offerte par l’École des chartes dans
+                        le cadre de son master 2 « Technologies numériques appliquées à
+                        l’histoire » qui occasionne aujourd'hui de la rédaction de ce
+                        mémoire.</p>
                      <p>Les transcriptions de chaque cours ont par la suite été
                         confiées à des équipes d'éditeurs rassemblés pour l'occasion.
                         Les transcripteurs qui le souhaitaient se sont répartis au sein
-                        de ces équipes en fonction de sujets de prédilection. Ces
+                        de ces équipes en fonction de leurs sujets de prédilection. Ces
                         éditeurs, disposant ou non d'une activité universitaire
                         statutaire, travaillaient de manière volontaire et gracieuse
                         sur le projet d'édition. Chaque équipe s'est organisée comme
@@ -588,23 +595,32 @@
                         traiter, le financement était relativement faible même s'il
                         représentait une somme importante dans le domaine de l'histoire
                         de l'art. L'ANR subventionnait le projet de recherche sur
-                        quatre ans à hauteur de 103 000 euros??. Somme globalement
-                        ventilée de la manière suivante : ?? Faire la répartition entre
-                        documentation, matériel, déplacement, numérisation et
-                        personnel??. Pour évaluer le coût réel total de la recherche,
-                        il serait nécessaire d'ajouter à cette somme les rémunérations
+                        quatre ans à hauteur de 103 000 euros. Somme globalement
+                        ventilée de la manière suivante : plus des trois quart de la
+                        dépense en salaires et rétributions, 14% pour le graphisme et
+                        le développement du site, 8 % en matériel, déplacements et
+                        dépenses diverses, enfin 2% en frais de reproduction.</p>
+                     <p>Pour évaluer le coût réel total de la recherche, il serait
+                        nécessaire d'ajouter à cette somme les rémunérations
                         éventuelles des personnels scientifiques engagés sur la
                         recherche, rémunérés ou non par leur institution pour y
-                        travailler.</p>
-                     <p>Du point de vue de la gestion, tant du point de vue des sommes engagées que
-                        du nombre de personnes rémunérées, le projet restait relativement modeste.
-                        Ainsi, la direction du projet n'a pas nécessité la création d'un service
-                        administratif spécifique, l'ensemble des tâches de gestion étant
-                        personnellement assurées par Robert Carvais qui se chargeait en même temps
-                        la direction du projet. Les questions financières étaient quant à elles
-                        traitées directement par les services financiers de l'université
-                        Panthéon-Assas (Paris II) qui hébergeait administrativement le projet de
-                        recherche.</p>
+                        travailler. De surcroît, les sommes disponibles pour la
+                        réalisation de l'application étaient insuffisantes, et il
+                        aurait fallu disposer de plus d'argent si nous avions voulu
+                        pouvoir faire numériser l'ensemble des manuscrits par des
+                        professionnels. Des négociations sont encore en cours pour
+                        obtenir la numérisation des manuscrits par les établissements
+                        de conservation.</p>
+                     <p>Du point de vue de la gestion, tant du point de vue des sommes
+                        engagées que du nombre de personnes rémunérées, le projet
+                        restait relativement modeste. Ainsi, la direction du projet n'a
+                        pas nécessité la création d'un service administratif
+                        spécifique, l'ensemble des tâches de gestion étant
+                        personnellement assurées par Robert Carvais qui se chargeait en
+                        même temps la direction scientifique. Les questions financières
+                        étaient quant à elles traitées directement par les services
+                        financiers de l'université Panthéon-Assas (Paris II) qui
+                        hébergeait administrativement le projet de recherche.</p>
                   </div>
                   <div>
                      <head>Durée du projet</head>
@@ -665,7 +681,7 @@
                               d'architecture</orgName>
                            <date when="1671">en 1671</date> sur les conseils de
                               <persName>Colbert</persName>, <persName>Louis
-                              XIV</persName> prévoyait plusieurs missions pour
+                              XIV</persName> attribuait plusieurs missions à
                            l'institution. Tout comme l'<orgName>Académie de peinture et
                               de sculpture</orgName> son aînée, l'<orgName>Académie
                               royale d'architecture</orgName> devait être à la fois une
@@ -687,10 +703,11 @@
                            </cit></p>
                         <p>À de nombreux égards, ce projet académique servait une
                            réforme plus large de l'architecture en améliorant les
-                           compétences techniques de la profession mais aussi le goût
-                           des commanditaires publics et privés. Outre les conférences
-                           dirigées par <persName>François Blondel</persName> jusqu'à
-                           sa mort en 1686, qui revisitaient les grands traités
+                           compétences techniques au sein de la profession mais aussi
+                           le goût des commanditaires publics et privés. Outre les
+                           conférences dirigées par <persName>François
+                              Blondel</persName> jusqu'à sa mort <date when="1686">en
+                              1686</date>, qui revisitaient les grands traités
                            d'architecture à travers un programme d'étude à long terme
                            de ce qui constituait le curriculum académique :
                               <persName>Palladio</persName>,
@@ -702,9 +719,9 @@
                            l'enseignement de Blondel à l'Académie se composait
                            conformément au brevet royal de cours publics sur
                            l'architecture et les mathématiques deux fois par semaine
-                           afin d'<quote>enseigner les véritables règles aux jeunes
+                           afin d'<q>enseigner les véritables règles aux jeunes
                               gens qui se proposent d'embrasser la profession
-                              d'architecture.</quote></p>
+                              d'architecture.</q></p>
                         <p>Ce furent vraisemblablement ces conférences qui formèrent le
                            contenu du <title>Cours d'architecture</title> dont la
                            publication débute en <date when="1675"
@@ -818,11 +835,17 @@
                      </div>
                      <div>
                         <head>Identification des témoins conservés</head>
-                        <p>Heuristique : Phase préliminaire de l'édition critique,
-                           consistant à repérer tous les témoins subsistants d'un
-                           texte, et à rassembler les renseignements que l'on peut
-                           avoir sur les témoins perdus et sur la diffusion et
-                           l'utilisation du texte.</p>
+                        <p>Une phase préliminaire du travail a consisté à repérer les
+                           différents témoins subsistants des textes et à rassembler
+                           les renseignements que l'on pouvait avoir sur d'éventuels
+                           témoins perdus et sur la diffusion et l'utilisation du
+                           texte. Un grand nombre de manuscrit a été identifié au cours
+                           de cette phase heuristique. Au final, le corpus rassemblé
+                           comprenait vingt-six manuscrits et sept ouvrages imprimés,
+                           soit trente-trois documents. Cinq manuscrits font l'objet
+                           d'une édition critique, le cours des ordres, celui des
+                           commodités et celui du toisé, ainsi que les deux manuscrits
+                           des servitudes.</p>
                         <p>La datation des manuscrits a souvent été problématique. Si
                            certains manuscrits portent une date précise inscrite sur la
                            page de titre ou dans un colophon, il n'est pas toujours
@@ -831,13 +854,9 @@
                            la date de prononcé de celle de la copie, par exemple parce
                            que l'écart entre les deux dates est trop important. Dans
                            quelques rares cas, il a été possible de dater
-                           approximativement les manuscrits par l'étude des
-                           filigranes.</p>
-                        <p>Au final, le corpus rassemblé comprenait vingt-six
-                           manuscrits et sept ouvrages imprimés, soit trente-trois
-                           documents. Cinq manuscrits font l'objet d'une édition
-                           critique, le Cours des Ordres, celui des commodités et celui
-                           du Toisé, ainsi que les deux manuscrits des servitudes.</p>
+                           approximativement les manuscrits par l'étude des filigranes.
+                           On pourra se reporter à la présentation des cours sur
+                           l'édition en ligne pour plus de détails.</p>
                      </div>
                      <div>
                         <head>Spécificités matérielles</head>
@@ -872,43 +891,50 @@
                      <p>Au début du siècle, <persName>Henri Lemonnier</persName>
                         envisageait déjà l'édition du cours de
                            <persName>Desgodets</persName> sur la Commodité. ??citation.
-                        Jean-Marie Pérouse de Montclos envisageait à nouveau une telle
-                        édition dans les années 80, mais sans suite. L'originalité du
-                        sujet de ce cours explique en grande partie qu'il ait focalisé
-                        l'attention. Pourtant, ce cours s'inscrit dans un ensemble plus
-                        large. Il constitue d'abord la suite d'un premier cours sur les
-                        ordres qui comme nous l'avons vu se révèle plus intéressant que
-                        son titre ne le laissait paraître. Par ailleurs, l'enseignement
-                        plus technique de Desgodets sur le Toisé ou les Servitudes
-                        donne un relief et une cohérence tout à fait particulière à
-                        l'ensemble de son enseignement. Mis à part celui sur les Lois
-                        des bâtiments qui fut publié post mortem par un élève, les
-                        autres cours de Desgodets sont restés jusqu'à nous jours
-                        inédits. Pourtant, le nombre de copies conservées suffit à
-                        attester de leur importance dans la culture architecturale du
-                           <date from="1700" to="1799">XVIIIe siècle</date>. De ce
-                        point de vue, la publication d'une édition critique des cours
-                        de Desgodets avait le mérite de faire entrer dans l'histoire de
-                        l'art tout un pan inédit de la théorie architecturale.</p>
-                     <p>On parle d'<soCalled>édition critique</soCalled>, ou  d'<soCalled>édition
-                           scientifique</soCalled> l'adjectif dans appellation venant en désigner le
-                        caractère savant, au sens où il s'agit de produire une reproduction
-                        contrôlée d'un texte dont sont procurés les états, versions, variantes et
-                        leçons. De ce point de vue l'édition critique constitue selon la définition
-                        du manuel de l'École des chartes sur l'édition des textes médiévaux un :<quote>Essai de reconstitution d'un texte, pour lequel l'éditeur pèse
-                        chacun des mots du texte en se servant de tous les moyens de
-                        jugement dont il dispose. Cas particuliers : l'édition
-                        imitative ou diplomatique qui reproduit très exactement un
-                        document unique, jusqu'en ses particularités graphiques et
-                        mêmes ses erreurs, commentées à part mais pas corrigées dans le
-                        texte ; l'édition synthétique, intégrant différents états du
-                        textes suffisamment peu différents, moyennant un artifice
-                        typographique, avec comme variante l'édition génétique, qui
-                        rend compte par des artifices typographiques des différentes
-                        couches et états successifs du texte ; l'édition "variorum",
-                        qui donne le texte accompagné, outre l'apparat normal des
-                        variantes, de toutes les solutions des éditeurs
-                        précédents.</quote>{Bourgain 2002}.</p>
+                           <persName>Jean-Marie Pérouse de Montclos</persName>
+                        envisageait à nouveau une telle édition dans les années 80,
+                        mais sans suite. L'originalité du sujet de ce cours explique en
+                        grande partie qu'il ait focalisé l'attention. Pourtant, ce
+                        cours s'inscrit dans un ensemble plus large. Il constitue
+                        d'abord la suite d'un premier cours sur les ordres qui comme
+                        nous l'avons vu se révèle plus intéressant que son titre ne le
+                        laissait paraître. Par ailleurs, l'enseignement plus technique
+                        de <persName>Desgodets</persName> sur le Toisé ou les
+                        Servitudes donne un relief et une cohérence tout à fait
+                        particulière à l'ensemble de son enseignement. Mis à part celui
+                        sur les Lois des bâtiments qui fut publié <foreign
+                           xml:lang="lat">post mortem</foreign> par un élève, les
+                        autres cours de <persName>Desgodets</persName> sont restés
+                        jusqu'à nous jours inédits. Pourtant, le nombre de copies
+                        conservées suffit à attester de leur importance dans la culture
+                        architecturale du <date from="1700" to="1799">XVIIIe
+                           siècle</date>. De ce point de vue, la publication d'une
+                        édition critique des cours de <persName>Desgodets</persName>
+                        avait le mérite de faire entrer dans l'histoire de l'art tout
+                        un pan inédit de la théorie architecturale.</p>
+                     <p>On parle d'<soCalled>édition critique</soCalled>, ou
+                           d'<soCalled>édition scientifique</soCalled> l'adjectif dans
+                        appellation venant en désigner le caractère savant, au sens où
+                        il s'agit de produire une reproduction contrôlée d'un texte
+                        dont sont procurés les états, versions, variantes et leçons. De
+                        ce point de vue l'édition critique constitue selon la
+                        définition du manuel de l'<orgName>École nationale des
+                           chartes</orgName> sur l'édition des textes médiévaux
+                           un :<quote>Essai de reconstitution d'un texte, pour lequel
+                           l'éditeur pèse chacun des mots du texte en se servant de
+                           tous les moyens de jugement dont il dispose. Cas
+                           particuliers : l'édition imitative ou diplomatique qui
+                           reproduit très exactement un document unique, jusqu'en ses
+                           particularités graphiques et mêmes ses erreurs, commentées à
+                           part mais pas corrigées dans le texte ; l'édition
+                           synthétique, intégrant différents états du textes
+                           suffisamment peu différents, moyennant un artifice
+                           typographique, avec comme variante l'édition génétique, qui
+                           rend compte par des artifices typographiques des différentes
+                           couches et états successifs du texte ; l'édition "variorum",
+                           qui donne le texte accompagné, outre l'apparat normal des
+                           variantes, de toutes les solutions des éditeurs
+                           précédents.</quote>{Bourgain 2002}.</p>
                      <p>Même si le domaine de l'édition scientifique a connu de profonds
                         changements au cours de ces dernières années avec l'irruption
                         du numérique, les opérations de bases de toute édition critique
@@ -932,19 +958,21 @@
                            rendre aussi intelligible que possible pour un lecteur
                            d'aujourd'hui.</quote><ref type="note" target="#m0004"
                          /></p>
-                     <p>La production d'une édition critique de qualité exige donc d'avoir bien
-                        défini sa destination. Cette question est déterminante même si l'on ne
-                        renonce généralement pas à toucher un public un tant soit peu élargi.
-                        S'agissant ici de mettre à disposition un corpus de textes inédits, établi
-                        d'après une tradition abondante de témoins manuscrits, l'édition des cours
-                        de Desgodets offrait un intérêt tout particulier pour l'historien de l'art
-                        et l'historien du droit. Elle se devait de présenter toutes les qualités
-                        habituellement requises par une édition de haute tenue scientifique en
-                        termes de fiabilité, de solidité et de justification des partis pris.
-                        S'agissant d'un matériau entièrement neuf pour la recherche, il s'agissait
-                        également de faciliter son étude et de prendre en compte certaines
-                        particularités propres à des manuscrits architecturaux pour la
-                        consultation.</p>
+                     <p>La production d'une édition critique de qualité exige donc
+                        d'avoir bien défini sa destination. Cette question est
+                        déterminante même si l'on ne renonce généralement pas à toucher
+                        un public un tant soit peu élargi. S'agissant ici de mettre à
+                        disposition un corpus de textes inédits, établi d'après une
+                        tradition abondante de témoins manuscrits, l'édition des cours
+                        de <persName>Desgodets</persName> offrait un intérêt tout
+                        particulier pour l'historien de l'art et l'historien du droit.
+                        Elle se devait de présenter toutes les qualités habituellement
+                        requises par une édition de haute tenue scientifique en termes
+                        de fiabilité, de solidité et de justification des partis pris.
+                        S'agissant d'un matériau entièrement neuf pour la recherche, il
+                        s'agissait également de faciliter son étude et de prendre en
+                        compte certaines particularités propres à des manuscrits
+                        architecturaux pour la consultation.</p>
                      <p>Questions ecdotiques habituelles en ce qui concerne l'établissement du texte
                         et sa normalisation</p>
                      <p>L'abondance des témoins</p>
@@ -970,20 +998,21 @@
                         texte s'est avérée plutôt difficile.</p>
                      <p>Il était néanmoins possible de se référer au guide de
                         transcription des textes anciens publié sous la direction de
-                        Bernard Barbiche et Monique Châtenet par l'Inventaire. Dans la
-                        mesure où ces indications sont relativement sommaires et datent
-                        des années 1990, celles-ci méritent une mise à jour et une
-                        révision de fonds en comble, notamment pour prendre acte de
-                        l'irruption des techniques d'édition électroniques, mais aussi
-                        de l'évolution de la doctrine. Il est probable que la
+                           <persName>Bernard Barbiche</persName> et <persName>Monique
+                           Châtenet</persName> par l'<orgName>Inventaire</orgName>.
+                        Dans la mesure où ces indications sont relativement sommaires
+                        et datent des années 1990, celles-ci méritent une mise à jour
+                        et une révision de fonds en comble, notamment pour prendre acte
+                        de l'irruption des techniques d'édition électroniques, mais
+                        aussi de l'évolution de la doctrine. Il est probable que la
                         publication annoncée, et et on l'espère prochaine, d'un manuel
-                        de l'École nationale des chartes concernant l'édition des
-                        textes de l'époque moderne viendra clarifier la situation.</p>
+                        de l'<orgName>École nationale des chartes</orgName> concernant
+                        l'édition des textes de l'époque moderne viendra clarifier la
+                        situation.</p>
                         <div>
                         <head>La transcription des manuscrits</head>
-                           <p>S'agissant d'éditer des textes dépourvus de traditions
-                           imprimée à partir de manuscrits, la transcription des
-                           manuscrits des Cours de <persName>Desgodets</persName>
+                           <p>S'agissant d'éditer des textes à partir de manuscrits
+                           dépourvus de tradition imprimée, leur transcription
                            constituait une étape cruciale du processus éditorial. Dès
                            le début du travail, un protocole de transcription a dû être
                            mis sur pied. En l'absence de recommandations récentes pour
@@ -1027,10 +1056,11 @@
                            respect de la tradition philologique paraissait permettre de
                            mieux comprendre les manuscrits et de mieux les situer les
                            uns par rapport aux autres. Aux consignes publiées dans
-                              <title>Guide</title> de Bernard Barbiche et Monique
-                           Châtenet{Barbiche}, le conseil scientifique ajoutait le
-                           respect strict des majuscules, réservant à l'éditeur le
-                           choix final sur la graphie à retenir.</p>
+                              <title>Guide</title> de <persName>Bernard
+                              Barbiche</persName> et <persName>Monique
+                              Châtenet</persName>{Barbiche}, le conseil scientifique
+                           ajoutait le respect strict des majuscules, réservant à
+                           l'éditeur le choix final sur la graphie à retenir.</p>
                         <p>Ce changement d'orientation intervenu dans les directives de
                            transcription n'a pas nécessairement facilité le travail de
                            transcription. Il a en partie impliqué la reprise du travail
@@ -1096,7 +1126,8 @@
                            on a choisi de se contenter d'éditer un témoin en lui
                            rapportant en note les variantes que présentaient les autres
                            états par rapport au texte de base comme le suggère le Guide
-                           de Bernard Barbiche et Monique Châtenet{Barbiche}. Cette
+                           de <persName>Bernard Barbiche</persName> et
+                              <persName>Monique Châtenet</persName>{Barbiche}. Cette
                            approche privilégie la source primaire mais il faut
                            également avoir conscience qu'elle présente plusieurs
                            inconvénients. D'abord, elle favorise l'intégration des
@@ -1117,20 +1148,77 @@
                            choix des aspects mis en avant par une édition.</p></div>
                            <div><head>Le choix du manuscrit maître</head>
                            <p>Ayant choisi l'approche conservatiste, il restait à
-                              déterminer les critères de choix du manuscrit maître. À
-                              cet égard <q>chaque texte, en fonction de son histoire
-                                 propre, impose un choix particulier.</q> dit
-                              Beugnot{Varloot 1981}. Les équipes éditoriales ont donc
-                              été laissées libre de proposer un manuscrit maître pour
-                              le cours qu'elles éditaient en justifiant de leur
-                              critères de choix d'après une grille établie dans le
-                              cadre du projet. Le choix du manuscrit maître était
-                              définitivement arrêté au terme d'une discussion au sein
-                              du Conseil scientifique.</p>
-                        <p />
-                              <p>Relever les critères différents appliqués selon les cours. </p>
-                              <p>lieu variant : Endroit d'un texte où se produit une
-                                 variante.</p>
+                           déterminer les critères de choix du manuscrit maître. À cet
+                           égard <q>chaque texte, en fonction de son histoire propre,
+                              impose un choix particulier.</q> dit
+                              <persName>Beugnot</persName>{Varloot 1981}. Les équipes
+                           éditoriales ont donc été laissées libre de proposer un
+                           manuscrit maître pour le cours qu'elles éditaient en
+                           justifiant de leur critères de choix d'après une grille
+                           établie dans le cadre du projet. Le choix du manuscrit
+                           maître était définitivement arrêté au terme d'une discussion
+                           au sein du Conseil scientifique.</p>
+                        <p>Au terme de la recherche, le cours sur les ordres de
+                              <persName>Desgodets</persName> est connu par neuf
+                           manuscrits, dont cinq accompagnés de planches. Huit de ces
+                           versions présentent un plan identique, l'autre est un texte
+                           autographe plutôt bref, composé antérieurement, et
+                           probablement présenté au roi à l'occasion de sa visite à
+                              l'<orgName>Académie royale d'architecture</orgName> le
+                              <date when="1719-08-02">2 août 1719</date> comme
+                           l'indique une inscription sur le manuscrit. Parmi les
+                           manuscrits, on relève une famille de manuscrits suédoise.
+                           Ces témoins présentent le même état du texte et ils
+                           commencent par un titre identique faisant référence au texte
+                           prononcé à partir du <date when="1724-11-13">13 novembre
+                              1724</date>. L'analyse laisse penser qu'ils sont issus
+                           d'un prototype commun{Carvais 2013@34-36}.</p>
+                        <p>L'équipe chargée de l'édition de ce cours a montré que si
+                           l'établissement des variantes s'était révélé important pour
+                           restituer ou clarifier le sens de certains passages,
+                           l'absence de variantes de fond rendait difficile
+                           l'établissement d'une hiérarchie entre les manuscrits.  Elle
+                           interprétait les nombreuses erreurs à des problèmes de
+                           dictée laissant penser qu'aucun des témoins conservés
+                           n'avait été copié directement sur l'archétype mais qu'ils
+                           dérivaient de prises de note durant le cours. Les erreurs de
+                           lecture pouvant s'expliquer par la mise au propre, ou des
+                           copies de copies. Le choix du manuscrit maître repose en
+                           conséquence sur la présence de planche, la complétude du
+                           texte, le fait qu'il soit copié par un scripteur français et
+                           sa bonne lisibilité.</p>
+                        <p>Pour le traité de la Commodités, seuls deux témoins avaient
+                           été identifiés. La collation des transcriptions à l'aide du
+                           logiciel Juxta ne faisait apparaître aucune variante notable
+                           mis à part quelques fautes de copie ou omissions.
+                           L'apparition, dans la version du <orgName>département des
+                              estampes de la Bibliothèque nationale de
+                           France</orgName>, de numéros rayés en haut de certaines
+                           planches correspondant à ceux du
+                              <orgName>Rijksmuseum</orgName>, pouvait laisser penser
+                           qu'il en dérivait, ou bien qu'ils étaient tous les deux des
+                           copies d'un même prototype. Le texte et les figures
+                           véritablement très proches, nous avons malgré tout choisi
+                           d'éditer le manuscrit français qui avait le mérite de
+                           constituer le pendant de celui des Ordres par ailleurs
+                           retenu pour l'édition.</p>
+                        <p>Le critère de datation ne permettait pas de discriminer
+                           clairement parmi les témoins identifiés pour le cours du
+                           toisé celui qui devait être privilégié. Néanmoins, certains
+                           des présentaient un chapitre supplémentaire dans la seconde
+                           section. Il a donc été privilégié un témoin comportant ce
+                           chapitre afin de disposer du texte le plus complet possible.
+                           Toutefois, il ne faut pas perdre de vue que les ajouts ont
+                           pu être inclus postérieurement à l'initiative d'un
+                           tiers.</p>
+                        <p>Pour les servitudes, les deux volumes manuscrits conservés à
+                           la <orgName>Bibliothèque du Sénat</orgName> sont les seuls
+                           témoins connus. Ces deux longs manuscrits ne sont pas
+                           comparables mais complémentaires, ils devaient cependant
+                           être rapportés au cours édité, après la mort de
+                              <persName>Desgodets</persName>, probablement par l'un de
+                           ses élèves, <persName>Martin Goupy</persName>, sous le titre
+                           de <title>Loix des bâtiments</title>.</p>
                            </div>
                            <div>
                               <head>Le traitement des variantes</head>
@@ -1165,16 +1253,17 @@
                                  comparaison d'un témoin d'un texte avec un
                                  autre.</quote>{Bourgain 2002@210}</p>
                         <p>Collationnement, leçon variante.</p>
+                        <p>lieu variant : Endroit d'un texte où se produit une
+                           variante.</p>
                            <p>Dans le cadre du projet d'ANR, il avait été initialement prévu d'utiliser le logiciel MEDITE. Problème de version OS.</p>
                            <p>Utilisation de Juxta. Plusieurs avantages bien adaptés à
                               notre contexte de production : multi-plateforme, facile
                               d'emploi, supporte le balisage XML-TEI envisagé.</p>
                            <p>Chercher à établir des traditions.</p>
                            <p>Variante : Divergence entre les différents exemplaires
-                              d'une même œuvre pour un endroit donné du texte. Les
-                              variantes peuvent consister en changements volontaires
-                              (on parle alors d'inetrpolations) ou en fautes,
-                              involontaires. </p>
+                           d'une même œuvre pour un endroit donné du texte. Les
+                           variantes peuvent consister en changements volontaires (on
+                           parle alors d'interpolation) ou en fautes, involontaires. </p>
                            <p><quote>lieu variant : Endroit d'un texte où se produit
                                  une variante. </quote>{Bourgain 2002@213}</p>
                            <p>
@@ -1186,21 +1275,21 @@
                            </p>
                            <p>
                               <quote>Prototype (synonyme : subarchétype) : Manuscrit
-                                 perdu ou subsistant) dont dérivent une partie
-                                 seulement des manuscrits subsistants, qui forment une
-                                 famille.</quote>
+                              perdu ou subsistant) dont dérivent une partie seulement
+                              des manuscrits subsistants, qui forment une
+                              famille.</quote>
                            </p>
                            <p><quote>Recension (lat. recensio) : Travail de
-                                 reconstruction d'un texte, par classement raisonné des
-                                 variantes, sous la forme du plus ancien état de la
-                                 tradition qui soit perceptibel à travers les leçons
-                                 des témoins subsistants. – Recension fermée ou
-                                 tradition fermée : tradition d'un texte qui se diffuse
-                                 selon les lois d'une généalogie normale, sans
-                                 contamination. – Recension ouverte ou tradition
-                                 ouverte : tradition d'un texte où les lois d ela
-                                 filiation des copies sont brouillées par la
-                                 contamination.</quote>{Bourgain 2002@213}</p>
+                              reconstruction d'un texte, par classement raisonné des
+                              variantes, sous la forme du plus ancien état de la
+                              tradition qui soit perceptible à travers les leçons des
+                              témoins subsistants. – Recension fermée ou tradition
+                              fermée : tradition d'un texte qui se diffuse selon les
+                              lois d'une généalogie normale, sans contamination. –
+                              Recension ouverte ou tradition ouverte : tradition d'un
+                              texte où les lois de la filiation des copies sont
+                              brouillées par la contamination.</quote>{Bourgain
+                           2002@213}</p>
                         </div>
                      
                   </div>
