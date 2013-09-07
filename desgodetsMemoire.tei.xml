@@ -925,6 +925,8 @@
                         <p>Expliquer pourquoi pour la commodité : nouveaux modèles.</p>
                      </div>
                   </div>
+               </div>
+               <div type="chapter">
                   <head>Le projet éditorial</head>
                   <div type="introduction">
                      <p>Au début du siècle, <persName>Henri Lemonnier</persName>
@@ -1304,7 +1306,7 @@
                            de <title>Loix des bâtiments</title>.</p>
                      </div>
                      <div>
-                        <head>Le traitement des variantes</head>
+                        <head>Le prise en compte des variantes</head>
                         <p>Le texte du manuscrit maître de chaque manuscrit devait
                            disposer d'un apparat critique informant sur les variantes
                            des différents témoins. Conformément aux conseils de
@@ -1315,86 +1317,56 @@
                      </div>
                   </div>
                   <div>
-                     <head>Les fonctionnalités offertes par l'édition critique</head>
+                     <head>La présentation de l'édition critique</head>
                      <p>La méthode d'édition critique bien établie, il convenait de
                         régler le problème pratique de la présentation de l'édition.
-                        Les choix déterminent ici les modalités de consultation du
-                        texte. Même si une édition numérique offre plus de souplesse
-                        que l'édition imprimée, elle n'en reste pas moins problématique
-                        sous cet aspect qui tient du parti-pris éditorial. Là encore,
-                        il n'existe pas de solution absolue en la matière, le meilleur
+                        Ces choix déterminaient les modalités de consultation du texte.
+                        Même si une édition numérique offre plus de souplesse qu'une
+                        édition imprimée, elle n'en reste pas moins problématique sous
+                        cet aspect qui tient du parti-pris éditorial. Là encore, il
+                        n'existe pas de solution absolue en la matière, le meilleur
                         dispositif étant celui qui sert le mieux le point de vue
                         éditorial adopté ou qui offre les meilleures conditions
                         d'accessibilité au texte. Avant de pouvoir établir un cahier
                         des charges fonctionnels, il fallait donc arrêter clairement ce
-                        que devait véhiculer l'édition d'un point de vue
-                        scientifique.</p>
+                        que devait véhiculer l'édition d'un point de vue scientifique.
+                        Les pré-requis pour l'édition que nous voulions produire
+                        étaient soit liés généralement au respect des conventions de
+                        l'édition scientifique, soit propres aux spécificités du corpus
+                        édité.</p>
                      <div>
-                        <head>Le respect des standards éditoriaux</head>
+                        <head>Le respect des conventions éditoriales et la présentation
+                           de l'apparat critique</head>
                         <p>La longue tradition de l'édition critique détermine en
                            grande partie ce qu'est en droit d'attendre un lecteur lors
-                           de la consultation. Cette tradition fixe un ensemble de
-                           prérequis qui qualifient l'édition. </p>
-                        <p>Éléments de repérage et de citabilité : Indiquer la
-                           pagination du texte de base. Numérotation marginale des
+                           de la consultation d'une édition. Elle fixe un ensemble de
+                           prérequis qui qualifient en grande partie l'édition. Au
+                           cours du temps, cette tradition a généré une grande grande
+                           richesse d'emplois de marques typographiques (barres,
+                           crochets, soufflets, etc.) pour signifier telle ou telle
+                           caractéristique matérielle mais celles-ci n'ont pas toujours
+                           la même signification à travers les éditions. Elle a
+                           également fixé un certain nombre d'habitudes pour donner des
+                           éléments de repérage et de citabilité, pour indiquer la
+                           pagination du texte de base, une numérotation marginale des
                            lignes, etc.</p>
-                        <p>Signifier telle ou telle caractéristique matérielle : à cet
-                           égard grande richesse d'emplois de marques typographiques,
-                           même si n'ont pas toujours à travers les éditions la même
-                           signification : barres, crochets, soufflets, etc.</p>
-                        <p />
+                        <p>L'utilisation du support numérique a donné l'occasion
+                           d'explorer de nouvelles formes de présentation de l'apparat
+                           critique. Sa malléabilité a notamment permis d'envisager de
+                           manière nouvelle la présentation des variantes puisqu'elle
+                           permet de proposer alternativement plusieurs vues sur un
+                           même texte, ou encore par exemple de proposer à bien moindre
+                           frais qu'avec l'imprimé des éditions dites
+                              <soCalled>hyper-diplomatiques</soCalled> qui présentent
+                           des <foreign xml:lang="lat">fac simili</foreign> en regard
+                           du texte édité. Il n'en reste pas moins qu'une bonne édition
+                           numérique se doit de respecter un certain nombre de
+                           standards éditoriaux en particulier pour permette une bonne
+                           citabilité ou une consultation aisée de l'apparat critique
+                           ou des notes de commentaire historique.</p>
                      </div>
                      <div>
-                        <head>Modalités de consultation</head>
-                        <div>
-                           <head>Lire le texte en regard des figures</head>
-                           <p>Les figures parties prenantes du discours</p>
-                           <p>S'agissant d'un cours d'architecture, nous avons vu à
-                              quel point les planches et figures tiennent une place
-                              importante dans l'intelligibilité du propos et sont à cet
-                              égard pour ainsi dire parties prenantes du texte. De
-                              surcroit, l'édition s'adressant principalement à des
-                              historiens de l'art, il s'agissait d'accorder une
-                              attention particulière à la consultation des images.</p>
-                           <p>Place du texte en regard des figures. Commentaire de
-                              figures relativement classique. Cf. Composition du
-                              premier traité des ordres.</p>
-                        </div>
-                        <div>
-                           <head>Comparaison des témoins</head>
-                           <p>Si pas une édition hyper-diplomatique au sens où ne donne
-                              pas directement accès aux fac-simili des différents
-                              témoins faute d'être assurés d'obtenir les droits de
-                              reproduction pour chaque manuscrit. L'édition devait,
-                              conformément aux vœux exprimés par le Conseil
-                              scientifique offrir au chercheur qui consulterait le site
-                              l'accès aux différents témoins conservés. Une telle
-                              présentation des versions permet à la fois de proposer à
-                              un public scientifique une lecture rapprochée (<foreign
-                                 xml:lang="eng">close reading</foreign>) de l'édition
-                              tout en justifiant les choix éditoriaux opérés dans le
-                              cours de l'édition afin de pallier l'absence de
-                              reproduction des originaux.</p>
-                           <p>Public scientifique, notion de close reading, lecture
-                              rapprochée.</p>
-                        </div>
-                        <div>
-                           <head>Comparaison des figures</head>
-                           <p>Le lecteur devait ainsi pouvoir disposer non seulement
-                              des figures en regard du texte, mais aussi, à l'instar
-                              même du texte, il devait pouvoir être en mesure de
-                              comparer les représentations des différents témoins.</p>
-                        </div>
-                        <div>
-                           <head>Recherche plein texte</head>
-                           <p>Quoique non prioritaire parmi les fonctionnalités
-                              envisagées, la mise en place d'une recherche plein texte
-                              semblait pertinente à des fin d'accès rapide au contenu
-                              des textes. Non trivial.</p>
-                        </div>
-                     </div>
-                     <div>
-                        <head>L'apparat critique et du commentaire historique</head>
+                        <head>L'apparat critique</head>
                         <p>Dans une édition critique d'un texte ancien, on appelle
                               <soCalled>apparat critique</soCalled> l'ensemble des
                            notes fournies par l'auteur de l'édition pour justifier des
@@ -1403,47 +1375,117 @@
                            édition a essentiellement une fonction descriptive. Il
                            concerne la description des particularités matérielles du
                            texte transcrit, des autres états du texte s'il en existe,
-                           par un relevé des leçons pour chaque passage. Au-delà de cet
-                           apparat, l'édition envisagée devait offrir au lecteur des
+                           par un relevé des leçons pour chaque passage.</p>
+                        <p>Il est d'usage de fournir les leçons variantes du texte au
+                           moyen de notes critiques habituellement numérotées
+                           alphabétiquement. Bien que l'édition numérique permette de
+                           les afficher d'une autre manière, il a été choisi de les
+                           présenter en note. N'ayant pas totalement renoncé à une
+                           édition imprimée, une telle présentation permettait
+                           notamment d'être la même que dans une version imprimée.
+                           D'autre part, cette solution correspondait assez bien au
+                           mode de production du texte qui comme nous le verrons a été
+                           traité par les auteurs de l'édition à partir d'un logiciel
+                           de traitement de texte.</p>
+                        <p>La lecture du texte ne présentant le plus souvent pas de
+                           difficultés très spécifiques, les autres aspects de
+                           l'apparat critique, comme l'indication des lacunes, des
+                           difficultés de lecture, ou des segments sémantiquement
+                           incorrects, etc., utilisent également une présentation
+                           typographique habituelle. Elle peut être enrichie par des
+                           artifices de présentation numérique (affichage au survol,
+                           etc.).</p>
+                     </div>
+                     <div>
+                        <head>Les notes de commentaire historique</head>
+                        <p>L'édition envisageait également d'offrir au lecteur des
                            notes de commentaire historique et une contextualisation du
                            Cours de Desgodets sous la forme de présentations à
-                           caractère historique. Une notice de présentation de??? </p>
-                        <div>
-                           <head>L'apparat critique</head>
-                           <p>Notes d'édition critique</p>
-                           <p><quote>Leçon : Ce que l'on peut lire dans un manuscrit à
-                                 un endroit donné. – Leçons variantes : Leçons
-                                 différentes présentées par le texte dans chacun des
-                                 témoins conservés. – Leçons rejetés : Leçons que
-                                 l'éditeur décide de ne pas accueillir dans le texte
-                                 définitif mais signale dans l'apparat
-                                 critique.</quote>{Bourgain 2002@213}</p>
-                           <p>Commentaire proprement dit, c'est-à-dire aux études
-                              introductives et aux notes explicatives. Place accordée
-                              variable selon les éditions.. </p>
-                           <p>Présentation de l'édition</p>
-                           <p>Notes de commentaire historique</p>
-                        </div>
-                        <div>
-                           <head>Glossaires et index</head>
-                           <p>Glossaires</p>
-                           <p><quote>Glossaire : Liste alphabétique des mots difficiles
-                                 d'un texte, avec proposition de traduction. Le
-                                 glossaire ne permet pas forcément de retrouver toutes
-                                 les occurrences d'un mot, il joue le rôle d'un
-                                 dictionnaire propre au texte.</quote>{Bourgain
-                              2002}</p>
-                           <p>Index rerum <quote>Index rerum : Table alphabétique des
-                                 notions que l'utilisateur peut souhaiter retrouver
-                                 facilement dans le texte.</quote>{Bourgain 2002}</p>
-                        </div>
-                        <div>
-                           <head>Système des appels dans le texte</head>
-                           <p>Pas déterminé manière dont affichage doit s'effectuer.
-                              Bas de page, etc. Manière de le rédiger. Manière de
-                              découper le passage qui concerne la variante. Omissions,
-                              additions, etc. Choix des abréviations, des sigles.</p>
-                        </div>
+                           caractère historique. La consultation de chaque cours était
+                           donc précédée d'une introduction générale portant tant sur
+                           l'édition que sur l'historique du cours. Par ailleurs un
+                           arsenal de notes de commentaires historique devait pouvoir
+                           venir compléter l'apparat critique. Ces appels de notes font
+                           l'objet d'une numérotation numérique.</p>
+                     </div>
+                     <div>
+                        <head>Glossaires et index</head>
+                        <p>Outre cet apparat critique et historique, nous avions le
+                           désir de fournir un glossaire des termes architecturaux et
+                           juridiques. C'est-à-dire une liste alphabétique des mots
+                           difficiles jouant le rôle d'un dictionnaire propre au texte
+                           pour favoriser sa compréhension{Bourgain 2002}. Outre les
+                           aspects de vulgarisation, un tel glossaire répondait aussi
+                           assez bien au caractère pluri-disciplinaire de l'édition
+                           pouvant à la fois intéresser les historiens de
+                           l'architecture et les historiens du droit.</p>
+                        <p>Outre ce glossaire, plusieurs index devait permettre de
+                           donner différents types d'accès aux textes. Outre les index
+                           patronymiques et toponymiques habituellement requis dans une
+                           édition critique, nous envisagions l'établissement d'un
+                           index des matières. De tels index devaient fournir des
+                           listes d’occurrences dans les textes classées par cours. </p>
+                     </div>
+                  </div>
+                  <div>
+                     <head>Les modalités de consultation</head>
+                     <p>De manière générale, les modalités de consultation des
+                        manuscrits que nous envisagions pour l'édition numérique devait
+                        privilégier l'étude des textes et de leurs figures.</p>
+                     <div>
+                        <head>La consultation des différents témoins manuscrits</head>
+                        <p>Faute d'être assurés d'obtenir les droits pour la
+                           publication de l'ensemble des reproductions des manuscrits,
+                           il ne pouvait s'agit de produire une édition
+                           hyper-diplomatique qui donne accès simultanément aux
+                           transcriptions et aux <foreign xml:lang="lat">fac
+                              simili</foreign> des différents témoins. En revanche,
+                           conformément au vœu exprimé par le conseil scientifique, il
+                           nous paraissait nécessaire d'offrir au lecteur une
+                           consultation des transcriptions des différents témoins. Au
+                           lieu de se contenter de les mettre à disposition sous forme
+                           de documents PDF, il nous paraissait plus judicieux
+                           d'autoriser le lecteur de les afficher, comme il le
+                           souhaitait, afin d'opérer lui-même la comparaison entre les
+                           témoins manuscrits. L'idée étant de lui proposer un contexte
+                           favorable à l'étude savante des manuscrits.</p>
+                     </div>
+                     <div>
+                        <head>Consultation des planches</head>
+                        <p>S'agissant d'un cours d'architecture, nous avons vu à quel
+                           point les planches et figures tiennent une place importante
+                           dans l'intelligibilité du propos et sont à cet égard, pour
+                           ainsi dire, parties prenantes du texte. De surcroit,
+                           l'édition s'adressant principalement à des historiens de
+                           l'art, il s'agissait donc d'accorder une attention
+                           particulière à la consultation des images. D'une part, pour
+                           l'intelligibilité du discours, il était nécessaire de
+                           pouvoir lire le texte en regard des planches. D'autre part,
+                           à fins de comparaison, nous voulions que le lecteur puisse
+                           également comparer les différentes versions des planches de
+                           même que le texte.</p>
+                     </div>
+                     <div>
+                        <head>Comparaison des figures</head>
+                        <p>Le lecteur devait ainsi pouvoir disposer non seulement des
+                           figures en regard du texte, mais aussi, à l'instar même du
+                           texte, il devait pouvoir être en mesure de comparer les
+                           représentations des différents témoins.</p>
+                     </div>
+                     <div>
+                        <head>Recherche plein texte</head>
+                        <p>Outre les index qui relèvent en grande partie de l'apparat
+                           critique, il s'agissait également de proposer au lecteur une
+                           recherche plein texte. La recherche dite plein texte est
+                           l'une des modalités du texte spécifiquement permise par le
+                           support numérique. Il nous paraissait donc difficile de nous
+                           en passer. Toutefois, pour être efficace, une telle
+                           recherche suppose un traitement particulier de la langue qui
+                           n'est pas sans présenter des difficultés ; a fortiori comme
+                           dans notre situation où le texte n'était pas modernisé. Si
+                           une telle fonctionnalité apparemment simple pour
+                           l'utilisateur nous paraissait nécessaire et attendue, sa
+                           mise en place efficace était loin d'être triviale.</p>
                      </div>
                   </div>
                </div>
@@ -2045,9 +2087,9 @@
                            ce point de vue un standard de fait qui justifie en grande
                            partie son adoption dans un projet scientifique comme
                            l'édition des cours de <persName>Desgodets</persName>.</p>
-                        <p>Large adoption de la TEI qui est censée remplir la promesse
-                           d'interopérabilité et de pérennisation. Considère que SGML
-                           puis XML adéquat pour exprimer les besoins les plus
+                        <p>Une large adoption de la TEI qui est censée remplir la
+                           promesse d'interopérabilité et de pérennisation. Considère
+                           que SGML puis XML adéquat pour exprimer les besoins les plus
                            généraux. Plusieurs avantages en termes de production et de
                            mise en forme ou encore pour tourner le texte en base de
                            données. La promesse des standards est de nous rendre la vie
