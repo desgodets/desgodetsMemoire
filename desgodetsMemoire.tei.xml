@@ -1732,7 +1732,6 @@
                            charges. Les réductions portaient notamment sur la
                            production d'un moteur de recherche plein-texte, et des
                            réserves sur la production d'un entrepôt OAI-PMH.</p>
-                        <p>Établissement du contrat</p>
                      </div>
                   </div>
                   <div>
@@ -1848,14 +1847,14 @@
                         <p>L'idée d'un balisage descriptif qui repose sur le fait de
                            marquer le contenu d'un texte par des éléments suggère une
                            représentation du texte qui correspond à ce qu'on a appelé
-                           un modèle d'éléments contenus hiérarchiquement imbriqués
-                           (OHCO, Ordered Hierarchical Content Objects en anglais).
-                           Dans une telle représentation du texte, les éléments
-                           contenus (paragraphes, citations, phrases, notes, etc.) sont
-                           présentés à l'intérieur d'une structure hiérarchique. La
-                           structure du texte est hiérarchique parce qu'ils résident
-                           les uns à l'intérieur des autres. Les objets reçoivent donc
-                           des relations linéaires. </p>
+                           un modèle d'<soCalled>éléments contenus hiérarchiquement
+                              imbriqués</soCalled> (OHCO, Ordered Hierarchical Content
+                           Objects en anglais). Dans une telle représentation du texte,
+                           les éléments contenus (paragraphes, citations, phrases,
+                           notes, etc.) sont présentés à l'intérieur d'une structure
+                           hiérarchique. La structure du texte est hiérarchique parce
+                           qu'ils résident les uns à l'intérieur des autres. Les objets
+                           reçoivent donc des relations linéaires. </p>
                         <p>Contrairement aux apparences, les logiciels de traitement de
                            texte qui mettent en forme les documents ne simplifient pas
                            le développement de documents en éliminant le besoin du
@@ -1916,15 +1915,15 @@
                            possibilité de traiter les éléments pour une transformation.
                            Le métalangage XML permet le développement de vocabulaires
                            descriptifs de balisages interopérables spécifiques à
-                           certains domaines. Il supporte une grammaire lisible par la
-                           machine, mais pas de sémantique. Ne peut donc seul spécifier
-                           formellement une sémantique. La large adoption de la
+                           certains domaines. Il offre une grammaire lisible par la
+                           machine, mais pas de sémantique. Il ne peut donc à lui seul
+                           spécifier formellement une sémantique. La large adoption de
                            vocabulaires XML spécialisés comme la TEI rendent disponible
                            une importante information sémantique, mais seulement sous
                            la forme d'une document en prose et de pratiques partagées.
                            (peut laisser désirer à certains une sémantique proprement
                            dite{Renear 2003}{Renear 2002}.) Si pas lisible par la
-                           machine, pb interopérabilité.La plupart des contenus des
+                           machine, pb interopérabilité. La plupart des contenus des
                            bibliothèques numériques aujourd'hui mis à disposition sur
                            le web sont encodés en utilisant un balisage XML. Comme nous
                            l'avons vu, XML propose une solution rigoureuse,
@@ -1933,87 +1932,97 @@
                      </div>
                      <div>
                         <head>Le projet de la Text Encoding Initiative</head>
-                        <p>La TEI fournit un vocabulaire qui permet de produire des
-                           modèles de textes que l'on peut utiliser à différentes
-                           fins.</p>
-                        <p><quote>1. The guidelines are intended to provide a standard
-                              format for data interchange in humanities research. 2.
-                              The guidelines are also intended to suggest principles
-                              for the encoding of texts in the same format. 3. The
-                              guidelines should a. define a recommended syntax for the
-                              format, b.define a metalanguage for the description of
-                              text-encoding schemes, c. describe the new format and
-                              representative existing schemes both in that metalanguage
-                              and in prose. 4. The guidelines should propose sets of
-                              coding conventions suited for various applications. 5.
-                              The guidelines should include a minimal set of
-                              conventions for encoding new texts in the format. 6. The
-                              guidelines are to be drafted by committees on a. text
-                              documentation b. text representation c. text
-                              interpretation and analysis d. metalanguage definition
-                              and description of existing and proposed schemes,
-                              coordinated by a steering committee of representatives of
-                              the principal sponsoring organizations. 7. Compatibility
-                              with existing standards will be maintained as far as
-                              possible. 8. A number of large text archives have agreed
-                              in principle to support the guidelines in their function
-                              as an interchange format. We encourage funding agencies
-                              to support development of tools to facilitate this
-                              interchange. 9. Conversion of existing machine-readable
-                              texts to the new format involves the translation of their
-                              conventions into the syntax of the new format. No
-                              requirements will be made for the addition of information
-                              not already coded in the texts.</quote><quote>The concern
-                              over conversion between formats led to the third
-                              Poughkeepsie Principle, which stressed that the TEI
-                              should develop a metalanguage for describing encoding
-                              schemes. The idea behind this principle was to provide a
-                              formal description of the mapping among schemes, in order
-                              to facilitate the conversion between schemes envisaged at
-                              the Vassar conference. Among the Poughkeepsie Principles,
-                              this is the only one which was explicitly dropped later
-                              on in the project.</quote><quote>The TEI made an early
-                              commitment to provide guidelines, rather than a standard,
-                              for encoding literary and linguistic materials. The goal
-                              was to specify encoding conventions that are coherent,
-                              easy to use, relatively comprehensive, and which provide
-                              ample mechanisms for user-defined extensions in order to
-                              suit individual needs.</quote><quote>The participants in
-                              the Vassar conference agreed unanimously that the TEI
-                              Guidelines should not only specify what the user should
-                              or could encode in a computer-readable text for various
-                              applications in humanities scholarship, but also how
-                              these features should be encoded---that is, a concrete
-                              syntax for the recommended and suggested tags.
-                              </quote><quote>SGML, which is a syntactic framework for
-                              developing tags sets rather than a tag set itself, was
-                              early adopted as the basis of the Association of American
-                              Publishers' standard for electronic manuscript markup,
-                              which had wide acceptance in the scholarly community.7 A
-                              survey of encoding problems at Queens University in 1986
-                              concluded that SGML offers a better basis for
-                              research-oriented text encoding than other schemes,8 in
-                              large part because of its orientation toward descriptive
-                              markup (markup which describes function rather than
-                              form--e.g., "emphasis" or "foreign word" rather than
-                              "italics").9 Since 1987, SGML has become widely adopted
-                              by government, industry, and academic groups world-wide.
-                              Thus the TEI Guidelines, by adopting SGML, have achieved
-                              de facto compatability with a large number of other
-                              encoding schemes in addition to that of the
-                              AAP.</quote><quote>The TEI Guidelines define a
-                              general-purpose encoding scheme which enables encoding
-                              any of these views. Further, it enables the simultaneous
-                              encoding of multiple views, which is important for both
-                              research and industrial text applications. For example,
-                              the scholar reconstructing the lexicon of an ancient
-                              language from surviving parchment fragments or an
-                              industrial application for document translation must
-                              constantly switch between the levels of physical and
-                              linguistic description; the historian or anthropologist
-                              testing a theory of social interactions or customs by an
-                              investigation of textual records relating to them must
-                              switch between linguistic and propositional
+                        <p>La Text Encoding Initiative (TEI) est un effort
+                           international pour unifier les pratiques d'encodage de texte
+                           dans le domaine académique. Elle fournit un vocabulaire XML
+                           qui permet de produire des modèles de textes que l'on peut
+                           utiliser à différentes fins notamment pour l'édition de
+                           sources primaires. Plus qu'un schéma générique, elle offre
+                           en fait un cadre de travail qui permet de traiter différents
+                           cas de figure. Ce cadre de travail se compose d'un
+                           vocabulaire, d'une documentation qui en fournit la
+                           sémantique en language naturel, et d'un ensemble de
+                           recommandations rassemblées sous l'intitulé de
+                              <title>Guidelines</title>. En ce sens, comme le relève
+                           Florence Clavaud dans son cours, il s'agit plutôt d'une
+                           sorte d'ontologie générique du texte.</p>
+                        <p>La Text Encoding Initiative est née d'un constat partagé au
+                           sein d'une communauté de chercheurs déjà engagés dans la
+                           production de texte numérique qu'ils manquaient se solutions
+                           pour faciliter l'échange de textes et d'information sur leur
+                           travail. En novembre 1987, une rencontre est organisée sous
+                           l'égide de l'<orgName>Association for Computers and the
+                              Humanities (ACH)</orgName> au Vassar College à
+                           Poughkeepsie avec une trentaine de représentants issus du
+                           monde des archives, des centres d'informatique appliquée aux
+                           sciences humaines, ou d'organisations professionnelles pour
+                           examiner à nouveau la question de la standardisation.
+                           S'accordant tous sur le besoin de pratiques communes, ces
+                           participants formulent une dizaine de principes
+                           directeurs{Ide 1995}. Ceux-ci mettaient notamment l'accent
+                           sur la conversion de formats et la nécessité de développer
+                           un métalangage pour des schémas d'encodage descriptifs.</p>
+                        <p>L'<orgName>ACH</orgName>, rapidement suivie dans son effort
+                           de standardisation par l'<orgName>Association for Literary
+                              and Linguistic Computing</orgName> et
+                              l'<orgName>Association for Computational
+                              Linguistics</orgName> formèrent ensemble la Text Encoding
+                           Initiative (TEI) afin de conduire cet effort de
+                           standardisation sous la forme d'un projet international
+                           multilingue pour développer des recommandations pour la
+                           préparation et l'échange de textes électroniques dans le
+                           domaine universitaire. Dès 1993, la TEI publiait une
+                           première version de ses <title>Guidelines for the Encoding
+                              and Interchange of Machine-Readable Texts</title>. Ce
+                           rapport proposait un ensemble de convention pour l'encodage
+                           de différent types de textes pour servir dans le domaine des
+                           sciences du langage ou des sciences humaines. Cette première
+                           publication constitue un jalons important car jamais
+                           précédemment les chercheurs n'avaient été capables de
+                           formuler un consensus sur les pratiques d'encodage.</p>
+                        <p>D'abord assises sur l'utilisation de la syntaxe SGML,
+                           certains membres de la TEI participèrent au développement de
+                           la spécification XML qu'elle a adoptée dès sa première
+                           publication en 1996. Par la suite, les
+                              <title>Guidelines</title> ont été étayées par l'apport
+                           d'autres spécialités pour prendre en charge une plus grande
+                           diversité de textes. On en est aujourd'hui à la 5<hi
+                              rend="superscript">e</hi> proposition numérotée P5.</p>
+                        <p><quote>The participants in the Vassar conference agreed
+                              unanimously that the TEI Guidelines should not only
+                              specify what the user should or could encode in a
+                              computer-readable text for various applications in
+                              humanities scholarship, but also how these features
+                              should be encoded---that is, a concrete syntax for the
+                              recommended and suggested tags. </quote><quote>SGML,
+                              which is a syntactic framework for developing tags sets
+                              rather than a tag set itself, was early adopted as the
+                              basis of the Association of American Publishers' standard
+                              for electronic manuscript markup, which had wide
+                              acceptance in the scholarly community.7 A survey of
+                              encoding problems at Queens University in 1986 concluded
+                              that SGML offers a better basis for research-oriented
+                              text encoding than other schemes,8 in large part because
+                              of its orientation toward descriptive markup (markup
+                              which describes function rather than form--e.g.,
+                              "emphasis" or "foreign word" rather than "italics").9
+                              Since 1987, SGML has become widely adopted by government,
+                              industry, and academic groups world-wide. Thus the TEI
+                              Guidelines, by adopting SGML, have achieved de facto
+                              compatability with a large number of other encoding
+                              schemes in addition to that of the AAP.</quote><quote>The
+                              TEI Guidelines define a general-purpose encoding scheme
+                              which enables encoding any of these views. Further, it
+                              enables the simultaneous encoding of multiple views,
+                              which is important for both research and industrial text
+                              applications. For example, the scholar reconstructing the
+                              lexicon of an ancient language from surviving parchment
+                              fragments or an industrial application for document
+                              translation must constantly switch between the levels of
+                              physical and linguistic description; the historian or
+                              anthropologist testing a theory of social interactions or
+                              customs by an investigation of textual records relating
+                              to them must switch between linguistic and propositional
                               perspectives.</quote>{Ide 1995}</p>
                         <p>Initiative scientifique pluridisciplinaire, 80’s.</p>
                         <p>But : établir des pratiques et des techniques favorisant le
@@ -2066,23 +2075,41 @@
                      <div>
                         <head>Un standard de fait pour la production de sources
                            primaires</head>
-                        <p>XML et standardisation. Édition structurée adoptant un tel
-                           format a l'avantage de permettre de tirer parti des
-                           puissants outils disponibles pour traiter des documents
-                           XML.</p>
-                        <p />
+                        <p>Rapidement la TEI a privilégié la publication de
+                           recommandations plutôt que celle d'un standard ou d'une
+                           norme. L'objectif était de spécifier des conventions
+                           d'encodage simples, faciles à employer, relativement
+                           compréhensible, et qui fournissent d'amples mécanismes
+                           d'extension afin de répondre à des besoins particuliers.{Ide
+                           1995} Cette modularité avec ses possibilités de
+                           personnalisation et d'extension seyait mieux à la recherche.
+                           Néanmoins, la TEI s'est rapidement imposée comme standard de
+                           fait pour l'encodage de textes numériques dans le domaine
+                           des sciences humaines. </p>
+                        <p>Plusieurs raisons expliquent en grande partie cette
+                           situation. D'une part, la TEI repose sur l'utilisation de
+                           syntaxes et de mécanismes XML standardisés par le W3C qui
+                           présentent de nombreuses garanties en termes
+                           d'interopérabilité et permet d'utiliser les outils puissants
+                           disponibles pour manipuler des arbres XML. D'autre part,
+                           l'importante généricité de la TEI lui permet de couvrir une
+                           grande gamme de besoin. Elle explique en grande partie
+                           l'importante pénétration de la TEI dans la communauté
+                           scientifique.  </p>
+                        <p>Édition structurée adoptant un tel format a l'avantage de
+                           permettre de tirer parti des puissants outils disponibles
+                           pour traiter des documents XML.</p>
                         <p>Noter également que n'est pas une norme au sens strict.
                            Choix délibéré, car un projet de recherche. Norme ISO un
                            moment adoptée se révélait trop contraignante.</p>
-                        <p>Volonté de couvrir l'ensemble des besoins. Généricité qui a
-                           pour pendant négatif la nécessité de personnaliser son
-                           schéma.</p>
                         <p>La TEI fournit ainsi, à l'aide d'un vocabulaire et d'une
                            infrastructure technique, un cadre de travail pour la
                            modélisation des textes. Dans la limite de leur
                            expressivité, de tels modèles peuvent être employés à telle
                            ou telle fins. </p>
-                        <p>Néanmoins, l'utilisation de la TEI suppose l'apprentissage
+                        <p>La volonté de la TEI de couvrir l'ensemble des besoins a
+                           pour pendant négatif la nécessité de personnaliser son
+                           schéma. Et l'utilisation de la TEI suppose l'apprentissage
                            de son vocabulaire. Cette difficulté d'accès ainsi que la
                            nécessité de manier des outils nouveaux reste un problème
                            qui n'est toujours pas complètement réglé. Cependant, la TEI
