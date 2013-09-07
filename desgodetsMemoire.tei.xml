@@ -1780,155 +1780,157 @@
                         serait en premier lieu une édition numérique en ligne, se
                         posait la question de l'encodage du texte. En effet, le rendu
                         d'une page web repose sur un balisage HTML. Toute présentation
-                        web de nos textes nécessitait donc a minima une opération
-                        d'encodage.</p>
-                     <p><title>Référentiel général d'interopérabilité</title> publié en
-                        2009 par le Direction générale de la modernisation de l'État
-                        qui recommande l'utilisation des technologies XML dans son
-                           <soCalled>Guide d'interopérabilité</soCalled> dans le cadre
-                        de l'administration en ligne, p. 26 Recommandation pour
-                        l'échange de documents structurés.</p>
-                     <p>Dialecte XML de la Text Encoding Initiative (TEI) qui s'est
-                        très largement imposée comme un standard de fait dans le
-                        domaine de l'édition numérique universitaire et pour la
-                        publication de sources primaires.</p>
-                     <p>Une démarche qui repose sur un balisage descriptif du
-                        texte.</p>
-                     <p>Tire partie de l'infrastructure technique offerte par XML.</p>
-                     <p>Mais pas prêt à l'emploi : l'encodage est une étape dans un
-                        processus global qui implique la définition d'un schéma dans
-                        lequel on déclare ses pratiques et la manière dont on va
-                        utiliser la TEI. Pour produire ce schéma et éventuellement un
-                        manuel d'encodage qui l'accompagne, il est nécessaire de
-                        comprendre sa source.</p>
-                     <p>L'encodage n'est pas une fin en soi, mais plutôt un moyen.</p>
-                     <p>L'utilisation d'un balisage descriptif</p>
-                     <p>Les trois opérations qui interviennent au cours du balisage
-                        sont les suivantes :<list>
-                           <item><hi rend="bold">reconnaissance des éléments</hi>,
-                              reconnaître que l'élément courant est un élément d'un
-                              certain type (paragraphe, citation en prose, note de bas
-                              de page, etc.)</item>
-                           <item><hi rend="bold">sélection des balises</hi>, déterminer
-                              le balisage qui s'applique au type d'élément
-                              reconnu</item>
-                           <item><hi rend="bold">réalisation du balisage</hi>, marquage
-                              de l'élément.</item>
-                        </list>Par rapport au marquage présentationnel ou procédural,
-                        cela suppose une réduction drastique des opérations à la simple
-                        reconnaissance des éléments. Par certains côtés, un tel
-                        traitement est plus proche du traitement en langue naturelle,
-                        même si le nom des éléments peut être arbitraire. {citation}
-                        Comme le relevaient dès 1987 dans leur publication {quid}, les
-                        logiciels de traitement de texte qui formatent les documents ne
-                        simplifient pas le développement de documents en éliminant le
-                        besoin du balisage ; le fait est devenu plus clair aujourd'hui
-                        avec l'adoption des formats XML par Microsoft Word et Open
-                        Office. De surcroît, le balisage requis pour ces principaux
-                        formats est plus consommateur de ressource sans atteindre la
-                        même expressivité. Ainsi, les dispositifs d'édition fondés sur
-                        un balisage descriptifs présentent pour résumer plusieurs
-                        avantages sur le balisage présentationnel :<list>
-                           <item><label n="1">1°</label> Le processus d'établissement
-                              du texte se trouve simplifié par la focalisation sur le
-                              contenu plutôt que sur le contrôle du programme ou de la
-                              présentation typographique de la copie (comme avec
-                              LaTex)</item>
-                           <item><label n="2">2°</label> Les problèmes de maintenance
-                              sont réduits à un nombre limité de problèmes indépendants
-                              du fichier proprement dit. L'actualisation des styles et
-                              la mise à jour s'en trouvent facilitées sans risque de
-                              corruption des documents.</item>
-                           <item><label n="3">3°</label> Enfin, elle fournit le
-                              meilleur standard pour l'industrie, ou dans le domaine
-                              culturel en termes de portabilité. Elle permet en effet
-                              le partage aisé des fichiers avec les collègues et
-                              réduit, à terme, les coûts de publication.</item>
-                        </list> Finalement, en balisant, l'auteur, ou l'éditeur,
-                        fournit l'information sémantique et pragmatique nécessaire pour
-                        produire des vues alternatives sur le document et une édition
-                        basée sur la structure.</p>
-                     <p>Balisage descriptif : langages conçus habituellement pour
-                        identifier explicitement la structure sémantique sous-jacente
-                        d'un document, indépendamment de tout traitement déterminé à
-                        l'avance{Renear 2003}.</p>
-                     <p>La question du balisage est fondamentale dans l'histoire de la
-                        numérisation des textes puisqu'elle détermine en grande partie
-                        les possibilités de traitement informatique du texte. Cf.
-                        l'Article séminal de Coombs, etc. On a l'habitude de distinguer
-                        plusieurs types principaux de balisages du texte : un balisage
-                        procédural, un balisage présentationnel, ou un balisage
-                        descriptif. Par ailleurs différents types possibles pour le
-                        balisage descriptif : balisage de la ponctuation, balisage de
-                        la présentation, balisage référentiel ou encore descriptif.
-                        Depuis quelques années, on a clairement établi l'intérêt d'un
-                        balisage descriptif sur un balisage présentationnel. Un tel
-                        balisage présente l'avantage notable de permettre de distinguer
-                        le contenu de la forme (c'est à dire du traitement). Cela
-                        autorise à la fois une meilleure maintenance, et une plus
-                        grande portabilité des artefacts numériques produits. On peut
-                        également relever un certain nombre d'autres avantages pour l'éditeur :<list>
-                           <item>la possibilité de partager des documents pour
-                              collaborer sans se préoccuper d'éventuelle
-                              incompatibilité</item>
-                           <item>le fait que la ressaisie du texte n'est pas
-                              nécessaire</item>
-                           <item>le gain de temps de production, et de coût de
-                              gestion</item>
-                           <item>la possibilité de réaliser plusieurs éditions
-                              successives, corrections, collection à partir d'un même
-                              fichier source, ou encore de produire plusieurs
-                              manifestations (présentations) du même texte</item>
-                           <item>la génération automatique de l'information
-                              bibliographique directement à partir du fichier source
-                              (qui réduit les erreurs et permet une citation aisée dans
-                              les bases bibliographiques)</item>
-                           <item>la possibilité d'inclure directement les documents
-                              dans une base de données en ligne poru la publication
-                              électronique et la recherche plein-texte</item>
-                        </list></p>
-                     <p>Le balisage du texte, s'il implique le déploiement d'une
-                        infrastructure technique peut-être moins confortable pour
-                        travailler, permet donc de se concentrer sur le contenu du
-                        texte plutôt que sur la présentation physique finale du
-                        document. Bien entendu, concernant l'édition de manuscrits
-                        historiques, ou de sources primaires, il pourra être nécessaire
-                        de traiter la matérialité physique du document. Néanmoins c'est
-                        avant tout l'édition du texte qui est ici privilégiée.</p>
-                     <p>L'idée d'un balisage descriptif qui repose sur le contenu et
-                        les éléments suggère une représentation du texte comme un
-                        modèle d'éléments contenus hiérarchiquement imbriqués (OHCO,
-                        Ordered Hierarchical Content Objects). Dans un tel modèle, les
-                        éléments contenus (paragraphes, citations, phrases, notes,
-                        etc.) sont présentés dans une structure hiérarchique. La
-                        structure du texte est hiérarchiques parce qu'ils résident l'un
-                        à l'intérieur des autres. Les objets reçoivent donc des
-                        relations linéaires. Dans une telle démarche, il convient en
-                        premier lieu de rendre la structure du texte explicite,
-                        c'est-à-dire de clarifier à la fois les relations hiérarchiques
-                        et séquentielles.</p>
-                     <p>Possibilité de traiter ces éléments marqués par des balises
-                        pour une transformation. Objets textuels éditoriaux identifiés
-                        par des balises. Explicitement délimité par des balises.</p>
-                     <p>Expliqué que lié à XML. Le métalangage XML permet le
-                        développement de vocabulaires descriptifs de balisages
-                        interopérables spécifiques à certains domaines. Supporte
-                        grammaire lisible par la machine, mais pas de sémantique. Ne
-                        peut donc seul spécifier formellement une sémantique. La large
-                        adoption de la vocabulaires XML spécialisés comme la TEI
-                        rendent disponible une importante information sémantique, mais
-                        seulement sous la forme d'une document en prose et de pratiques
-                        partagées. (peut laisser désirer à certains une sémantique
-                        proprement dite{Renear 2003}{Renear 2002}.) Si pas lisible par
-                        la machine, pb interopérabilité.</p>
+                        web de nos textes nécessitait donc <foreign xml:lang="lat">a
+                           minima</foreign> une opération d'encodage, au moins
+                        présentationnel. Dans son <title>Référentiel général
+                           d'interopérabilité</title> publié en 2009, la Direction
+                        générale de la modernisation de l'État recommande l'utilisation
+                        des technologies XML à des fins
+                        d'opérabilité{MinistreDuBudgetDes 2009@26}. Par ailleurs, le
+                        dialecte XML de la Text Encoding Initiative (TEI) s'est très
+                        largement imposé comme standard de fait dans le domaine de
+                        l'édition numérique à caractère scientifique ces dernières
+                        années, en particulier pour la publication des sources
+                        primaires. C'est donc assez naturellement que nous nous sommes
+                        orientés dans cette direction qui repose sur un balisage
+                        descriptif du texte tout en tirant partie de l'infrastructure
+                        technique offerte par XML.</p>
+                     <p>S'il apparaît rapidement qu'une démarche basée sur un encodage
+                        descriptif du texte comme avec la TEI est plus pertinente, la
+                        TEI n'offre cependant pas une solution prête à l'emploi.
+                        L'encodage est une étape dans un processus plus global qui
+                        implique tout d'abord la définition d'un schéma dans lequel on
+                        déclare ses pratiques et la manière dont on va utiliser la TEI.
+                        Pour produire un schéma de ce type et éventuellement un manuel
+                        d'encodage qui l'accompagne, il est nécessaire de bien
+                        comprendre sa source. Aussi faut-il comprendre l'encodage non
+                        pas comme une fin en soi, mais plutôt comme un moyen. </p>
                   </div>
                   <div>
-                     <head>Le choix de la TEI</head>
-                     <p>La plupart des contenus des bibliothèques numériques
-                        aujourd'hui mis à disposition sur le web sont encodés en
-                        utilisant un balisage XML. Comme nous l'avons vu, XML propose
-                        une solution rigoureuse, compréhensible par les machines, pour
-                        définir un langage de balisage descriptif.</p>
+                     <head>Le balisage du texte et le recours à la TEI</head>
+                     <div>
+                        <head>La notion de balisage descriptif</head>
+                        <p>Parce qu'elle détermine tous les traitements informatique
+                           qu'il est possible d'effectuer sur le texte, la question du
+                           balisage a historiquement constitué une question
+                           fondamentale dans l'histoire de l'informatique. Depuis
+                           l'article séminal de Coombs et ses collègues, on a pris
+                           l'habitude de distinguer plusieurs types de balisages :
+                           procédural, présentationnel, ou descriptif{Coombs 1987}. La
+                           supériorité du balisage descriptif sur les autres types de
+                           balisage du texte a clairement été établie depuis quelques
+                           années. Il présente l'avantage notable d'assurer une
+                           meilleure distinction entre le contenu de la forme (et donc
+                           de séparer les traitements). Cette distinction garantie une
+                           meilleure maintenance du texte encodé et une meilleure
+                           portabilité des artefacts numériques.</p>
+                        <p>La production d'un balisage descriptif consiste à identifier
+                           explicitement la structure sémantique sous-jacente d'un
+                           document, cela indépendamment de tout traitement déterminé à
+                           l'avance{Renear 2003}. Il s'agit distinguer explicitement à
+                           l'intérieur du texte différentes objets éditoriaux en les
+                           encadrant par des balises dont le nom peut être arbitraire.
+                           Ce faisant l'auteur d'un balisage fournit une information
+                           sémantique et pragmatique suffisante pour produire des vues
+                           alternatives sur le document ou bien une édition basée sur
+                           la structure du texte. Les trois opérations qui
+                           interviennent au cours du balisage sont donc les suivantes :<list>
+                              <item><hi rend="bold">reconnaissance des éléments</hi>,
+                                 reconnaître que l'élément courant est un élément d'un
+                                 certain type (paragraphe, citation en prose, note de
+                                 bas de page, etc.)</item>
+                              <item><hi rend="bold">sélection des balises</hi>,
+                                 déterminer le balisage qui s'applique au type
+                                 d'élément reconnu</item>
+                              <item><hi rend="bold">réalisation du balisage</hi>,
+                                 marquage de l'élément.</item>
+                           </list></p>
+                        <p>L'idée d'un balisage descriptif qui repose sur le fait de
+                           marquer le contenu d'un texte par des éléments suggère une
+                           représentation du texte qui correspond à ce qu'on a appelé
+                           un modèle d'éléments contenus hiérarchiquement imbriqués
+                           (OHCO, Ordered Hierarchical Content Objects en anglais).
+                           Dans une telle représentation du texte, les éléments
+                           contenus (paragraphes, citations, phrases, notes, etc.) sont
+                           présentés à l'intérieur d'une structure hiérarchique. La
+                           structure du texte est hiérarchique parce qu'ils résident
+                           les uns à l'intérieur des autres. Les objets reçoivent donc
+                           des relations linéaires. </p>
+                        <p>Contrairement aux apparences, les logiciels de traitement de
+                           texte qui mettent en forme les documents ne simplifient pas
+                           le développement de documents en éliminant le besoin du
+                           balisage. Ce fait est devenu plus clair aujourd'hui avec
+                           l'adoption des formats XML par Microsoft Word et Open
+                           Office. Mais le balisage requis pour ces principaux formats
+                           tout en étant plus consommateur de ressources n'atteint pas
+                           la même expressivité. Par ailleurs, les dispositifs
+                           d'édition fondés sur un balisage descriptifs présentent
+                           plusieurs avantages sur le balisage fondé sur la présentation :<list>
+                              <item><label n="1">1°</label> Le processus
+                                 d'établissement du texte se trouve simplifié par la
+                                 focalisation sur le contenu plutôt que sur le contrôle
+                                 du programme ou de la présentation typographique de la
+                                 copie (comme avec LaTex)</item>
+                              <item><label n="2">2°</label> Les problèmes de
+                                 maintenance sont réduits à un nombre limité de
+                                 problèmes indépendants du fichier proprement dit.
+                                 L'actualisation des styles et la mise à jour s'en
+                                 trouvent facilitées sans risque de corruption des
+                                 documents.</item>
+                              <item><label n="3">3°</label> Enfin, ils fournissent de
+                                 meilleurs standard pour l'industrie, ou dans le
+                                 domaine patrimonial et culturel en termes de
+                                 portabilité. Il permet en effet le partage aisé des
+                                 fichiers et réduit, à terme, les coûts de
+                                 publication.</item>
+                           </list></p>
+                        <p>Autrement dit, le balisage descriptif offre un certain
+                           nombre d'avantages pour l'éditeur. Outre qu'il permet de
+                           partager des documents pour collaborer sans se préoccuper
+                           d'éventuelle incompatibilités, il offre un gain de temps de
+                           production et de gestion en permettant la réalisation de
+                           plusieurs éditions successives à partir d'un même fichier
+                           source, ou de produire plusieurs manifestations
+                           (présentations) d'un même fichier. De surcroît, ce balisage
+                           permet généralement la génération automatique de
+                           l'information bibliographique directement à partir du
+                           fichier source (qui réduit les erreurs et permet une
+                           citation aisée dans les bases bibliographiques) ou d'inclure
+                           directement des documents dans des bases de données en ligne
+                           pour la publication et la recherche plein-texte.</p>
+                        <p>Même si la mise en place d'un balisage descriptif du texte,
+                           implique le déploiement d'une infrastructure technique
+                           sans-doute moins confortable pour travailler que
+                           l'utilisation de logiciels de traitement de texte, il faut
+                           relever qu'il permet de se concentrer sur le contenu du
+                           texte plutôt que sur la présentation physique finale du
+                           document. Bien entendu, concernant l'édition de manuscrits
+                           historiques, ou de sources primaires, il pourra être
+                           nécessaire de traiter la matérialité physique du document.
+                           Néanmoins c'est avant tout l'édition du texte qui est ici
+                           privilégiée.</p>
+                        <p>Dans une telle démarche, il convient en premier lieu de
+                           rendre la structure du texte explicite, c'est-à-dire de
+                           clarifier à la fois les relations hiérarchiques et
+                           séquentielles. La présence du balisage détermine la
+                           possibilité de traiter les éléments pour une transformation.
+                           Le métalangage XML permet le développement de vocabulaires
+                           descriptifs de balisages interopérables spécifiques à
+                           certains domaines. Il supporte une grammaire lisible par la
+                           machine, mais pas de sémantique. Ne peut donc seul spécifier
+                           formellement une sémantique. La large adoption de la
+                           vocabulaires XML spécialisés comme la TEI rendent disponible
+                           une importante information sémantique, mais seulement sous
+                           la forme d'une document en prose et de pratiques partagées.
+                           (peut laisser désirer à certains une sémantique proprement
+                           dite{Renear 2003}{Renear 2002}.) Si pas lisible par la
+                           machine, pb interopérabilité.La plupart des contenus des
+                           bibliothèques numériques aujourd'hui mis à disposition sur
+                           le web sont encodés en utilisant un balisage XML. Comme nous
+                           l'avons vu, XML propose une solution rigoureuse,
+                           compréhensible par les machines, pour définir un langage de
+                           balisage descriptif.???Revoir le passage</p>
+                     </div>
                      <div>
                         <head>Le projet de la Text Encoding Initiative</head>
                         <p>La TEI fournit un vocabulaire qui permet de produire des
