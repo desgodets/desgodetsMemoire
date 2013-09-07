@@ -1725,14 +1725,13 @@
                         <head>L'établissement du contrat</head>
                         <p>Le cahier des charges listait un certain nombre de fonctions
                            en option. Par ailleurs, dans son offre, le prestataire
-                           avait fait part de difficultés concernant certainnes
-                           fonctionnalités. Il a donc été nécessaire avant la
-                           contractualisation du avec le prestataire d'apporter un
-                           certain nombre d'adaptations au cahier des charges. Les
-                           réductions portaient notamment sur la production d'un moteur
-                           de recherche plein-texte, et il y a avait des réserves sur
-                           la production d'un entrepôt OAI-PMH.</p>
-                        <p>?? Revoir</p>
+                           retenu avait fait part de difficultés concernant la
+                           réalisation de certaines fonctionnalités. Il a donc été
+                           nécessaire avant la contractualisation avec le prestataire
+                           d'apporter un certain nombre d'adaptations au cahier des
+                           charges. Les réductions portaient notamment sur la
+                           production d'un moteur de recherche plein-texte, et des
+                           réserves sur la production d'un entrepôt OAI-PMH.</p>
                         <p>Établissement du contrat</p>
                      </div>
                   </div>
@@ -1741,22 +1740,36 @@
                      <div type="introduction">
                         <p>Le projet ayant nécessité une demande de prolongation
                            n'étant pas parvenue dans les temps à l'ANR, la passation du
-                           marché a été différée le temps d'optenir cette autorisation
+                           marché a été différée le temps d’obtenir cette autorisation
                            et l'assurance de disposer des crédits nécessaires pour
                            régler les prestataires. Cet accord n'est intervenu qu'en
                            décembre 2012 avec une échéance pour la livraison du projet
                            le 31 mai 2013.</p>
+                        <p>Un échéancier a été produit conjointement avec le
+                           prestataire et les équipes éditoriales pour répondre à ces
+                           délais. En pratique le calendrier n'a pas été complètement
+                           respecté. D'une part la production des textes de l'édition
+                           ne s'est pas faite toujours dans les délais fixés, d'autre
+                           part peu de renforts sont intervenus sur l'encodage et il
+                           nous a fallu privilégier le suivi de la réalisation de
+                           l'application web. Cela explique qu'une partie seulement des
+                           cours soit publiée en ligne. Une relecture complète du
+                           manuscrit de la commodité est nécessaire et en corpus avant
+                           l'intégration des notes. L'édition du texte des servitudes
+                           est encore en cours. Conformément à la demande des éditeurs,
+                           nous attendons également la relecture des différentes
+                           versions des témoins manuscrits avant leur publication.</p>
                      </div>
                      <div>
-                        <head>Production d'un échéancier</head>
-                     </div>
-                     <div>
-                        <head>Participation des membres à la planification</head>
-                     </div>
-                     <div>
-                        <head>Ajustements dans la planification</head>
-                        <p>évoquer la question des retards. Difficulté à évaluer le
-                           temps requis pour mener à bien tel ou tel travail</p>
+                        <p>Les différents retards éprouvés par le projet sont
+                           représentatifs des difficultés qu'il y a à évaluer
+                           précisément le temps de travail pour l'établissement de
+                           l'édition critique et de l'encodage des textes. Le suivi de
+                           la réalisation de l'application a également été très
+                           chronophage, d'autant que nous avons produit dans ce cadre
+                           plusieurs parties de l'application comme le traitement des
+                           références bibliographiques, celui des métadonnées et enfin
+                           la mise en place du moteur de recherche.</p>
                      </div>
                   </div>
                </div>
