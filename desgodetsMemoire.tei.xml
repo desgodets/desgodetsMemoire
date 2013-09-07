@@ -800,14 +800,15 @@
                         </div>
                         <div>
                            <head>Le cours des Commodités</head>
-                           <p><ref type="note" target="#m0005"><quote>Desgodets avait
-                                    donné une grande place aux ordres, mais dans la
-                                    seconde partie, la plus originale de tous les
-                                    traités d'architecture que nous connaissions et
-                                    qu'on pourrait utilement publier, il donna des
-                                    modèles de plans de palais, de châteaux, d'églises
-                                    paroissiales, conventuelles, d'hôtel de ville, de
-                                    marchés, etc.</quote></ref></p>
+                           <p><ref type="note" target="#m0005">
+                                 <quote>Desgodets avait donné une grande place aux
+                                    ordres, mais dans la seconde partie, la plus
+                                    originale de tous les traités d'architecture que
+                                    nous connaissions et qu'on pourrait utilement
+                                    publier, il donna des modèles de plans de palais,
+                                    de châteaux, d'églises paroissiales, conventuelles,
+                                    d'hôtel de ville, de marchés, etc.</quote>
+                              </ref></p>
                         </div>
                         <div>
                            <head>Le cours du Toisé</head>
@@ -896,22 +897,34 @@
                      </div>
                      <div>
                         <head>Spécificités liées à la nature du corpus</head>
-                        <p>Ordre : Si méthode du commentaire de figures relativement
-                           classique. Choix des matériaux auquel s’applique pas si
-                           commun pour les Commodités et le toisé.</p>
+                        <p>La place de l'image par rapport au texte constitue en
+                           revanche une caractéristique notable du corpus. Tout le
+                           propos des cours sur les ordres, la commodité, ou encore le
+                           toisé, est articulé autour de planches ou de figures même si
+                           tous les témoins n'en présentent pas. Cette forme du
+                           commentaire d'image, dont le manuscrit du Traité des ordre
+                           (O1) conservé à l'Institut de France est le représentant le
+                           plus caractéristique, est un cas de figure relativement
+                           classique pour les textes architecturaux. Les planches sont
+                           ainsi parties prenantes du discours architectural. L'édition
+                           nécessite d'y accorder une attention toute particulière car
+                           le texte peut parfois se révéler incompréhensible sans le
+                           recours aux planches.</p>
+                        <p>Matériellement les planches s'inscrivent de manière
+                           différente dans les manuscrits. Souvent réalisées sur un
+                           papier différent pour permettre la pose de lavis, elles
+                           peuvent constituer un ensemble séparé du texte, ou encore
+                           être rapportées à la fin du manuscrit. Dans d'autres cas,
+                           les planches ont été insérées en regard du texte au moment
+                           de la reliure. Les solutions adoptées pour l'édition devront
+                           donc tenir compte de cette diversité.</p>
+                        <p>Choix des matériaux auquel s’applique pas si commun pour les
+                           Commodités et le toisé.</p>
                         <p>Expliquer pourquoi pour le toisé : objet d’un savoir
                            technique et géométrique.</p>
                         <p>Expliquer pourquoi pour la commodité : nouveaux modèles.</p>
-                        <p>La place des figures dans le texte</p>
-                        <p>Conclure sur le fait que les figures sont parties prenantes
-                           du discours architectural et ne peuvent être clairement
-                           distinguer du texte. Cette particularité du corpus impose de
-                           lui accorder une attention particulière dans le cadre du
-                           processus d’édition et de numérisation.</p>
                      </div>
                   </div>
-               </div>
-               <div type="chapter" n="3">
                   <head>Le projet éditorial</head>
                   <div type="introduction">
                      <p>Au début du siècle, <persName>Henri Lemonnier</persName>
@@ -1296,8 +1309,8 @@
                            disposer d'un apparat critique informant sur les variantes
                            des différents témoins. Conformément aux conseils de
                            Barbiche, seules ont été retenues <q>les <hi rend="bold"
-                                 >variantes</hi> qui [avaient] une incidence sur le sens du
-                              texte, à l'exclusion des particularités purement
+                                 >variantes</hi> qui [avaient] une incidence sur le
+                              sens du texte, à l'exclusion des particularités purement
                               graphiques ou grammaticales</q>.{Barbiche}. </p>
                      </div>
                   </div>
