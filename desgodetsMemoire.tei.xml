@@ -148,26 +148,9 @@
                <p>Mes parents ont bien voulu me faire confiance et supporter très
                   concrètement, parce que financièrement, ces études parallèlement à
                   l'achèvement de ma thèse qui ne saurait plus tarder.</p>
-               <p>Mon ami Thomas dont le soutien et la compagnie éclaire mes jours.</p>
+               <p>Mon ami Thomas pour sa patience, et dont la douce compagnie éclaire
+                  mes jours.</p>
                <p />
-            </div>
-            <div xml:id="desgodetsMemoireFrontFr03" type="foreword">
-               <head>Avant-propos</head>
-               <p>Relever le <gi>lien</gi> direct entre ce projet et le fait que j’ai
-                  suivi la formation de l’<att>École</att> nationale des chartes.
-                  Finalement projet qui précède la formation et ce mémoire même qui ont
-                  été nécessités pour mener à bien ce projet.</p>
-               <p>Il convient de relever le double caractère de ce mémoire : témoigne
-                  d’un parcours scientifique et d’un besoin de formation, atteste mise
-                  en œuvre des savoirs acquis. Mais également, dans la mesure du
-                  possible, tentative de réflexion épistémologique sur le fait
-                  éditorial, le recours au modèle de la TEI, ou le travail collaboratif
-                  dans le contexte numérique. Aspects critiques. Notamment car projet
-                  numérique amenés à continuer d’évoluer.</p>
-               <p>Participe de la documentation du projet d’ANR qui a par ailleurs déjà
-                  fait l’objet d’un rapport. Mémoire de stage qui ne peut être
-                  considéré indépendamment de l’objet numérique réalisé que constitue
-                  le site web consultable en ligne.</p>
             </div>
             <div xml:id="desgodetsMemoireFrontFr04" type="introduction">
                <head>Introduction</head>
@@ -199,7 +182,6 @@
                      l'art.</p>
                </div>
                <div>
-                  <head>Histoire de l’art et DH</head>
                   <p>Déjà en 1968, Emmanuel Le Roy Ladurie, dans un article resté
                      célèbre, envisageait l'avènement d'un historien
                      programmeur{LeRoyLadurie 1968}. Ces réflexions étaient fortement
@@ -207,7 +189,7 @@
                      Annales. Le renouveau critique des années 80 aura tôt fait de les
                      balayer. Malgré une histoire relativement ancienne, ce n'est
                      finalement qu'assez tardivement que la question des rapports entre
-                     historien et programmeur réapparaît aujourd'hui{Ruiz 2011}.</p>
+                     historien et programmeur réapparaît aujourd'hui sur le devant de la scène{Ruiz 2011}.</p>
                   <p>La réflexion concernant l'utilisation des moyens informatiques en
                      histoire de l'art est également relativement ancienne. De 1983 à
                      1993, Jacques Thuillier alors enseignant au Collège de France,
@@ -259,53 +241,54 @@
                      l'université{WelgerBarboza 2002}. On pourrait évidemment nous
                      opposer pléthore de projets de constitution de bases de données
                      scientifiques à caractère documentaire produites depuis plusieurs
-                     décennies. Mais on ne peut pas vraiment dire que cela se soit
+                     décennies. Mais on ne peut pas vraiment dire que cela ait été 
                      accompagné de mutations profondes et réelles dans la manière
                      d'aborder tant les sources que la publication au sein de la
                      discipline.</p>
-                  <p>Ce constat n'est pas seulement national. La <orgName>fondation
-                        Kress</orgName> publiait l'année dernière un rapport sur
+                  <p>Ce constat n'est pas seulement national. L'année dernière, la
+                        <orgName>fondation Kress</orgName> publiait un rapport sur
                      l'histoire de l'art et les Digital humanities aux
                      États-Unis{Zorich 2012}. Dans la mesure où elles peuvent être
                      comparées, on reconnaît assez bien dans ce rapport la situation
-                     française. Rapport ambivalent aux outils numériques d'une part,
-                     manque d'institutions de recherche engagées sur le domaine d'autre
-                     part, et plus généralement des interrogations ou sur le fait
-                     qu'ils puissent bouleverser la discipline et ses méthodes. ??
-                     Revoir</p>
-                  <p><persName>Corinne Welger Barboza</persName></p>
+                     française : Un rapport ambivalent aux outils numériques
+                     omniprésents mais à l'égard desquels se manifeste une certaine
+                     méfiance part, le manque d'institutions de recherche engagées sur
+                     le domaine d'autre part, et plus généralement une forte perplexité
+                     quant au fait qu'ils puissent bouleverser la discipline et ses
+                     méthodes.</p>
                   <p>Pourtant, la question des digital humanities semble à l'ordre du
-                     jour en histoire de l'art. Le Getty a organisé une manifestation à
-                     ce sujet au printemps dernier et, il y a quelques mois, un numéro
-                     spécial de la revue <title>Virtual Resource</title> était consacré
-                     à la digital art history.</p>
-                  <p>Création il y a quelques années au sein de l'INHA d'une Unité
-                     mixte de recherche In-Visu.</p>
-                  <p>Aspect numériques dans l'ensemble des Labex qui touchent à
-                     l'histoire de l'art. PP, CAP, etc.</p>
-                  <p>Risque que ne soit qu'une mode, et que la vigueur de l'intérêt à
-                     l'égard du numérique soit d'abord motivé par la nécessité
-                     d'obtenir des financements. Cf. article DHer. Au risque de projets
-                     vains ou sans apport réels dans le domaine des DH.</p>
+                     jour en histoire de l'art. En début d'année, la revue
+                        <title>Visual Resource</title> consacrait un numéro spécial à
+                     la question{VisualResourcesAnInternational 2013}. Au printemps,
+                     c'était au tour du Getty Research Institute d'organiser une
+                     manifestation à ce sujet. En France, si ce n'est l'enseignement et
+                     les recherches dirigées par Corinne Welger Barboza depuis
+                     plusieurs années à l'université  Panthéon-Sorbonne, plusieurs
+                     signes ne trompent pas. L'INHA a été à l'origine de la création
+                     d'une unité de service consacrée à ces questions, InVisu. Et
+                     plusieurs Labex concernant l'histoire de l'art mettent en avant la
+                     question des méthodes et des outils numériques. L'engouement est
+                     donc réel, au risque d'être motivé par la recherche de
+                     financements.</p>
                </div>
                <div>
-                  <head>Donner des exemples :</head>
                   <p>En dehors des projets à caractère documentaire en histoire de
                      l'art mentionnés précédemment, force est de constater que la
                      plupart des projets d'envergure menés jusqu'à présent avec succès
-                     dans le domaine académique concernent l'édition des sources
+                     dans le domaine universitaire concernaient l'édition de sources
                      primaires. Certains de ces projets sont déjà relativement anciens
-                     et sans doute familier des historiens d'art comme The William
-                     Blake Archive (http://www.blakearchive.org/blake/), ou The
-                     Rossetti Archive (http://www. rossettiarchive.org). Plus
-                     récemment, on relève quelques projets d'édition de
-                     correspondance : The Correspondence of James McNeill Whistler
-                     (http://www. whistler.arts.gla.ac.uk/), la très belle édition
-                     Vincent van Gogh: The Letters (http://vangoghletters.org/vg/),
-                     celle de Delacroix, ou encore de publication d'archives comme The
-                     History of the Accademia di San Luca, c. 1590–1635
-                     (http://www.nga.gov/casva/ accademia/intro.shtm), and the Perseus
-                     Digital Library (http://www.perseus.tufts.edu/ hopper/). </p>
+                     et sans doute familier des historiens d'art, comme par exemple
+                        <title>The William Blake Archive</title>
+                     (http://www.blakearchive.org/blake/), ou <title>The Rossetti
+                        Archive</title> (http://www. rossettiarchive.org). Plus
+                     récemment, on relève plusieurs projets d'édition de
+                     correspondance : <title>The Correspondence of James McNeill
+                        Whistler</title> (http://www. whistler.arts.gla.ac.uk/), la
+                     très belle édition <title>Vincent van Gogh: The Letters</title>
+                     (http://vangoghletters.org/vg/), celle de Delacroix, ou encore des
+                     publications de documents d'archives comme avec <title>The History
+                        of the Accademia di San Luca</title>, c. 1590–1635
+                     (http://www.nga.gov/casva/ accademia/intro.shtm).</p>
                   <p>Tous ces projets se caractérisent par leur envergure mais aussi
                      par leur caractère collectif. Le numérique est à chaque fois
                      apparu comme le medium adapté pour la publication, même si dans
@@ -313,6 +296,23 @@
                      exclusif. Pourtant l'adoption d'un tel médium n'est neutre ni du
                      point de vue de la consultation des source ainsi mises à
                      disposition, ni des méthodes de travail pour leur élaboration.</p>
+               </div>
+               <div>
+                  <p>Relever le lien direct entre ce projet et le fait que j’ai
+                     suivi la formation de l’École nationale des chartes.
+                     Finalement projet qui précède la formation et ce mémoire même qui ont
+                     été nécessités pour mener à bien ce projet.</p>
+                  <p>Il convient de relever le double caractère de ce mémoire : témoigne
+                     d’un parcours scientifique et d’un besoin de formation, atteste mise
+                     en œuvre des savoirs acquis. Mais également, dans la mesure du
+                     possible, tentative de réflexion épistémologique sur le fait
+                     éditorial, le recours au modèle de la TEI, ou le travail collaboratif
+                     dans le contexte numérique. Aspects critiques. Notamment car projet
+                     numérique amenés à continuer d’évoluer.</p>
+                  <p>Participe de la documentation du projet d’ANR qui a par ailleurs déjà
+                     fait l’objet d’un rapport. Mémoire de stage qui ne peut être
+                     considéré indépendamment de l’objet numérique réalisé que constitue
+                     le site web consultable en ligne.</p>
                </div>
                <div>
                   <head>Problématique : Les enjeux liés à la production</head>
