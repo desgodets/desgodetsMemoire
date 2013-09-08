@@ -8,7 +8,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="notes"
     xml:id="desgodetsMemoireNotes">
     <head>Notes</head>
-    <note xml:id="m0001">
+    <note n="1" place="foot" xml:id="m0001">
         <p> À notre connaissance peu de projets en histoire de l’art moderne ou
             contemporaine ont bénéficié d’un financement de l’ANR. Citons notamment ici
             l’édition de la correspondance de Delacroix en 2006,
@@ -43,6 +43,24 @@
     </note>
     <note xml:id="m0010">
         <p>{IsidoreAccèsAux}</p>
+    </note>
+    <note xml:id="m0011" place="foot">
+        Entre
+            autres, voir Jean Guillaume (dir.), <hi rend="italic">Les
+                traités d’architecture de la Renaissance</hi>, Paris,
+            Picard, 1988 ; Jean-Michel Leniaud et Béatrice Bouvier
+            (dir.), <hi rend="italic">Les périodiques d’architecture,
+            </hi><hi rend="italic">XVIIIe - XXe siècles. Recherche
+                d’une méthode critique d’analyse</hi>, Études et
+            rencontres de l’École des chartes, 2001 ; des mêmes, <hi
+                rend="italic">Le livre d’architecture : édition,
+                représentation, bibliothèque</hi>, Études et rencontres
+            de l’École des chartes, 2002 ; Olga Medvedkova (dir.), <hi
+                rend="italic">Bibliothèques d’architectes. Architectural
+                Libraries</hi>, Paris/INHA, 2009 ; Jean-Philippe Garric,
+            Estelle Thibault, Emilie d’Orgeix (dir.), <hi rend="italic"
+                >Le livre et l’architecte</hi>, Bruxelles, Mardaga,
+            2011.
     </note>
     
 

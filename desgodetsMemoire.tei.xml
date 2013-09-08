@@ -400,50 +400,69 @@
                <div type="chapter" n="1">
                   <head>Le projet d’ANR Desgodets</head>
                   <div type="introduction">
-                     <p>Ne pouvant plus accéder directement aujourd'hui au savoir
-                        transmis oralement sur le chantier, l'écrit se révèle d'une
-                        importance cruciale pour mesurer le savoir de l'architecte. La
-                        place de l'écrit est également considérable dans la mise en
-                        ordre des savoirs qui préside au processus de
+                     <p>Plusieurs recherches consacrées ces dernières années aux écrits
+                        d'architecture et à la littérature technique témoignent d'un
+                        intérêt renouvelé à l'égard du savoir architectural<note
+                           place="foot">Entre autres, voir Jean GUILLAUME (dir.), Les
+                           traités d’architecture de la Renaissance, Paris, Picard,
+                           1988 ; Jean-Michel LENIAUD et Béatrice BOUVIER (dir.), Les
+                           périodiques d’architecture, XVIIIe - XXe siècles. Recherche
+                           d’une méthode critique d’analyse, Études et rencontres de
+                           l’École des chartes, 2001 ; des mêmes, Le livre
+                           d’architecture : édition, représentation, bibliothèque,
+                           Études et rencontres de l’École des chartes, 2002 ; Olga
+                           MEDVEDKOVA (dir.), Bibliothèques d’architectes.
+                           Architectural Libraries, Paris/INHA, 2009 ; Jean-Philippe
+                           GARRIC, Estelle Thibault, Emilie D’ORGEIX (dir.), Le livre
+                           et l’architecte, Bruxelles, Mardaga, 2011.</note>. Faute de
+                        pouvoir accéder directement au savoir transmis oralement sur le
+                        chantier, outre les traités d'architecture qui constituent un
+                        genre à part entière, les témoignages écrits sur l'enseignement
+                        de l'architecture présentent une importance cruciale pour
+                        l'historien afin de mesurer le savoir de l'architecte. Par
+                        ailleurs, la place de l'écrit a été considérable dans la mise
+                        en ordre des savoirs qui préside au processus de
                         professionnalisation dont le moment académique constitue un
                         jalon important.</p>
-                     <p>Mise en ordre des savoirs, réduction en art. Traités
-                        d’architecture, véritable genre littéraire à part entière.</p>
-                     <p>L'objectif principal du projet de recherche consistait à
-                        restituer, dans le cadre du savoir, le cours
+                     <p>L'objectif principal du projet d'ANR Desgodets consistait à
+                        restituer, dans le cadre du savoir architectural, le cours
                            d'<persName>Antoine Desgodets</persName>, architecte du roi,
-                        professeur à l'<orgName>Académie d'architecture</orgName> de
-                        1719 à 1728. De nombreuses copies manuscrites du cours étaient
-                        en effet conservées à travers les bibliothèques et institutions
-                        patrimoniales internationales. L'avantage principal de cette
-                        recherche était de réunir dans un même lieu, et de mettre à
-                        disposition des chercheurs, le corpus de ces écrits
-                        dispersés.</p>
-                     <p>Question de la théorie et de la pratique, qui dans le domaine
-                        de l'architecture trouve une résolution si particulière.</p>
-                     <p>Introduire sur l’intérêt renouvelé ces dernières années pour
-                        les écrits d’architecture (citer Guillaume, Garric, Bouvier,
-                        Medvedkova, etc.). Contexte des appels à projet corpus.
-                        Occasion de mettre à disposition tout un pan nouveau de la
-                        théorie architecturale.</p>
+                        professeur à l'<orgName>Académie d'architecture</orgName>
+                        <date from="1719" to="1728">de 1719 à 1728</date> dont de
+                        nombreuses copies manuscrites du cours étaient conservées à
+                        travers les bibliothèques et institutions patrimoniales
+                        internationales. L'avantage principal de cette recherche devait
+                        être, en réunissant dans un même lieu le corpus de ces écrits
+                        dispersés, de mettre à disposition des chercheurs tout un pan
+                        du savoir architectural qui n'était pas disponible jusqu'à
+                        présent. </p>
                   </div>
                   <div>
                      <head>Présentation du projet</head>
                      <p>L’édition des cours d’<persName>Antoine Desgodets</persName>
-                        est à compter <ref type="note" target="#m0001">au nombre des
+                        est à compter au nombre des
                            rares projets de recherche en histoire de l’art qui ont pu
                            bénéficier ces dernières années d’un financement de l’Agence
-                           Nationale de la Recherche (ANR)</ref>. D’abord proposé dans
+                           Nationale de la Recherche (ANR)<note place="foot">
+                              <p> À notre connaissance peu de projets en histoire de l’art moderne ou
+                                 contemporaine ont bénéficié d’un financement de l’ANR. Citons notamment ici
+                                 l’édition de la correspondance de Delacroix en 2006,
+                                 {CorrespondancesDeugèneDelacroix} ; M-Art sur le marché de l’art en 2007,
+                                 {AnrAgenceNationaleb} ; ou encore plus récemment le projet Artlas (ENS), ,
+                                 qui ont bénéficié d’un financement par l’ANR.</p>
+                           </note>. D’abord proposé dans
                         le cadre d’une recherche plus vaste sur la littérature
                         architecturale intitulé « Vitruviana », l’édition des cours de
                         l’architecte avait retenu l’attention des évaluateurs qui
                         avaient suggéré de le présenter séparément à un autre appel
-                        d’offre. <ref type="note" target="#m0002">Le projet, re-rédigé
+                        d’offre. Le projet, re-rédigé
                            par <persName>Robert Carvais</persName> en ce sens, a
                            finalement obtenu le financement de l’ANR à l’appel d’offre
                            du programme <title>Corpus et outils de la recherche en
                               sciences humaines et sociales</title> suivant, sous le n°
-                           ANR-07-CORP-017-01 en 2007</ref>.</p>
+                           ANR-07-CORP-017-01 en 2007<note place="foot">
+                              <p>{AnrAgenceNationale}</p>
+                           </note>.</p>
                      <p>Le projet de recherche proposait d’aborder la construction et
                         la normalisation du savoir architectural à la fin du XVII<hi
                            rend="superscript">e</hi> siècle à partir de l’édition du
@@ -453,35 +472,41 @@
                         <date from="1721" to="1728">entre 1721 et 1728</date>.
                         Plusieurs raisons justifiaient le choix de cette œuvre : D’une
                         part l’architecte était devenu professeur à l’<orgName>Académie
-                           d’architecture</orgName> en 1719, au cours de la Régence,
+                           d’architecture</orgName>
+                        <date when="1719">en 1719</date>, au cours de la Régence,
                         époque à laquelle on cherche à réformer les dogmes. D’autre
                         part, l’enseignement de l’architecte, par le choix de thèmes
                         nouveaux participait d’une réduction en art de la discipline
                         académique et constituait une des premières normalisation du
                         savoir architectural. Enfin, l’Œuvre scholastique de Desgodets
                         intervenait à un moment clef de la constitution de la
-                        légitimité professionnel de l’architecte par la prise en compte
-                        de la figure de l’expert comme intermédiaire entre l’architecte
-                        et l’amateur.</p>
-                     <p><ref type="note" target="#m0003">Pour toutes ces raisons, les
-                           cours d’Antoine Desgodets méritaient d’être reconstitués et
-                           livrés à la communauté scientifique comme un texte fondateur
-                           du statut de l’architecte moderne. Mais à la différence de
-                           celle de Vitruve ou de Blondel, l’œuvre scolastique de
-                           Desgodets ne connaissait pas d’édition <hi rend="italic"
-                              >princeps</hi>. Une équipe pluridisciplinaire a travaillé
-                           cinq ans pour rendre compte de toute la richesse de
-                           l’enseignement de d’Antoine Desgodets dans des directions
-                           jugées complémentaires : la théorie architecturale, la
-                           pratique du projet, son analyse économique et son approche
-                           juridique. Au final, un corpus de vingt-six manuscrits et
-                           sept ouvrages imprimés, soit trente-trois documents a été
-                           réuni et transcrit. Cinq manuscrits représentant quatre
-                           cours prononcés à l’Académie font l’objet d’une édition
-                           critique à laquelle sont rapportés les différents témoins
-                           conservés dans le cadre de leur tradition antérieure
-                           (sources) et dans celui de leur devenir (réception,
-                           publication, reprises par les suiveurs).</ref></p>
+                        légitimité professionnelle de l’architecte par la prise en
+                        compte de la figure de l’expert comme intermédiaire entre
+                        l’architecte et l’amateur.</p>
+                     <p>Pour toutes ces raisons, les cours d’<persName>Antoine
+                           Desgodets</persName> méritaient d’être reconstitués et
+                        livrés à la communauté scientifique comme un texte fondateur du
+                        statut de l’architecte moderne. Mais à la différence de celle
+                        de <persName>Vitruve</persName> ou des
+                           <persName>Blondel</persName>, l’œuvre scolastique de
+                           <persName>Desgodets</persName> ne connaissait pas d’édition
+                           <hi rend="italic">princeps</hi>. Une équipe
+                        pluridisciplinaire a travaillé cinq ans pour rendre compte de
+                        toute la richesse de l’enseignement de l'architecte dans des
+                        directions jugées complémentaires : la théorie architecturale,
+                        la pratique du projet, son analyse économique et son approche
+                        juridique. Au final, un corpus de vingt-six manuscrits et sept
+                        ouvrages imprimés, soit trente-trois documents a été réuni et
+                        transcrit. Cinq manuscrits représentant quatre cours prononcés
+                        à l’<orgName>Académie</orgName> font l’objet d’une édition
+                        critique à laquelle sont rapportés les différents témoins
+                        conservés dans le cadre de leur tradition antérieure (sources)
+                        et dans celui de leur devenir (réception, publication, reprises
+                        par les suiveurs)<note place="foot">
+                           <p> Nous reprenons ici en partie les termes du résumé du
+                              projet contenu dans le rapport du projet d’ANR à la
+                              rédaction duquel nous avons participé.</p>
+                        </note>.</p>
                   </div>
                   <div>
                      <head>L’équipe de recherche</head>
@@ -500,23 +525,25 @@
                         des transcripteurs ont eu la chance d'être directement associés
                         à l’équipe scientifique et de participer aux réunions de suivi.
                         À bien des égards, c'est ma participation à ce projet de
-                        recherche qui m’a conduit à participer à une première formation
+                        recherche qui m’a conduit à assister à une première formation
                         sur l'édition numérique et la Text Encoding Initiative
-                        organisée par le réseau Mutec à Lyon, puis à m’intéresser de
-                        plus près à la formation offerte par l’École des chartes dans
-                        le cadre de son master 2 « Technologies numériques appliquées à
-                        l’histoire » qui occasionne aujourd'hui de la rédaction de ce
-                        mémoire.</p>
-                     <p>Les transcriptions de chaque cours ont par la suite été
-                        confiées à des équipes d'éditeurs rassemblés pour l'occasion.
-                        Les transcripteurs qui le souhaitaient se sont répartis au sein
-                        de ces équipes en fonction de leurs sujets de prédilection. Ces
-                        éditeurs, disposant ou non d'une activité universitaire
-                        statutaire, travaillaient de manière volontaire et gracieuse
-                        sur le projet d'édition. Chaque équipe s'est organisée comme
-                        bon lui semblait sous la direction d'un responsable désigné par
-                        le responsable scientifique, qui constituait l'interlocuteur
-                        pour la coordination générale du travail.</p>
+                        organisée par le réseau Mutec à Lyon{Mutec}, puis à
+                        m’intéresser de plus près à la formation offerte par l’École
+                        des chartes dans le cadre de son master 2
+                           <soCalled>Technologies numériques appliquées à
+                           l’histoire</soCalled>  qui occasionne aujourd'hui de la
+                        rédaction de ce mémoire.</p>
+                     <p>L'édition critique de chaque cours à partir des transcriptions
+                        des témoins a par la suite été confié à des équipes d'éditeurs
+                        rassemblées pour l'occasion. Les transcripteurs qui le
+                        souhaitaient se sont répartis au sein de ces équipes en
+                        fonction de leurs sujets de prédilection. Ces éditeurs,
+                        disposant ou non d'une activité universitaire statutaire,
+                        travaillaient de manière volontaire et gracieuse sur le projet
+                        d'édition. Chaque équipe s'est organisée comme bon lui semblait
+                        sous la direction d'un responsable désigné par le directeur
+                        scientifique du projet qui constituait l'interlocuteur pour la
+                        coordination générale du travail.</p>
                      <cit>
                         <floatingText>
                            <body>
@@ -525,56 +552,66 @@
                                  <div>
                                     <head>Direction de projet</head>
                                     <list>
-                                       <item>Robert Carvais, DR CNRS, Centre de Théorie
-                                          et d’Analyse du Droit, UMR 7074 Directeur
-                                          scientifique du Projet « Desgodets »</item>
-                                       <item>Emmanuel Château, Doctorant en histoire de
-                                          l’art, Centre André Chastel, UMR 8150, Master
-                                          2 « Technologies numériques appliquées à
-                                          l’histoire », École nationale des chartes
-                                          Responsable du projet numérique</item>
+                                       <item><persName>Robert Carvais</persName>, DR
+                                          CNRS, Centre de Théorie et d’Analyse du
+                                          Droit, UMR 7074 Directeur scientifique du
+                                          Projet « Desgodets »</item>
+                                       <item><persName>Emmanuel Château</persName>,
+                                          Doctorant en histoire de l’art, Centre André
+                                          Chastel, UMR 8150, Master 2 « Technologies
+                                          numériques appliquées à l’histoire », École
+                                          nationale des chartes Responsable du projet
+                                          numérique</item>
                                     </list>
                                  </div>
                                  <div>
                                     <head>Équipe scientifique</head>
                                     <list>
-                                       <item>Joëlle Barreau, Docteur en histoire de
-                                          l’Art.</item>
-                                       <item>Basile Baudez, Maître conférences à
-                                          l’Université Paris-Sorbonne.</item>
-                                       <item>Anne Bondon, Maître assistante associée à
-                                          l’ENSA Paris-La Villette.</item>
-                                       <item>Robert Carvais, DR CNRS, Centre de Théorie
-                                          et d’Analyse du Droit, UMR 7074.</item>
-                                       <item>Pierre Caye, DR CNRS, Centre Jean Pépin,
-                                          UPR 76.</item>
-                                       <item>Emmanuel Château, Doctorant en histoire de
-                                          l’art, Centre André Chastel, UMR 8150. -
-                                          Guillaume Fonkenell, Conservateur du
-                                          Patrimoine, Louvres (Paris).</item>
-                                       <item>Béatrice Gaillard, Docteur en histoire de
-                                          l’art, Chargée d’étude documentaire, ENSA
-                                          Versailles.</item>
-                                       <item>Juliette Hernu-Bélaud, Chargée d’études et
+                                       <item><persName>Joëlle Barreau</persName>,
+                                          Docteur en histoire de l’Art.</item>
+                                       <item><persName>Basile Baudez</persName>, Maître
+                                          conférences à l’Université
+                                          Paris-Sorbonne.</item>
+                                       <item><persName>Anne Bondon</persName>, Maître
+                                          assistante associée à l’ENSA Paris-La
+                                          Villette.</item>
+                                       <item><persName>Robert Carvais</persName>, DR
+                                          CNRS, Centre de Théorie et d’Analyse du
+                                          Droit, UMR 7074.</item>
+                                       <item><persName>Pierre Caye</persName>, DR CNRS,
+                                          Centre Jean Pépin, UPR 76.</item>
+                                       <item><persName>Emmanuel Château</persName>,
+                                          Doctorant en histoire de l’art, Centre André
+                                          Chastel, UMR 8150. - Guillaume Fonkenell,
+                                          Conservateur du Patrimoine, Louvres
+                                          (Paris).</item>
+                                       <item><persName>Béatrice Gaillard</persName>,
+                                          Docteur en histoire de l’art, Chargée d’étude
+                                          documentaire, ENSA Versailles.</item>
+                                       <item><persName>Juliette
+                                          Hernu-Bélaud</persName>, Chargée d’études et
                                           de recherches à l’INHA, doctorante.</item>
-                                       <item>Frédérique Lemerle, DR CNRS, Centre
-                                          d’Etudes Supérieures de la Renaissance, UMR
-                                          7323.</item>
-                                       <item>Olga Medvedkova, CR CNRS, Centre André
-                                          Chastel, UMR 8150.</item>
-                                       <item>Linnéa Rollenhagen-Tilly, Docteur en
+                                       <item><persName>Frédérique Lemerle</persName>,
+                                          DR CNRS, Centre d’Etudes Supérieures de la
+                                          Renaissance, UMR 7323.</item>
+                                       <item><persName>Olga Medvedkova</persName>, CR
+                                          CNRS, Centre André Chastel, UMR 8150.</item>
+                                       <item><persName>Linnéa
+                                           Rollenhagen-Tilly</persName>, Docteur en
                                           histoire de l’art, Projet de recherche avec
                                           le Nationalmuseum de Stockholm
                                           (Suède).</item>
-                                       <item>Hélène Rousteau-Chambon, Professeur
+                                       <item><persName>Hélène
+                                           Rousteau-Chambon</persName>, Professeur
                                           d’histoire de l’art, Université de
                                           Nantes.</item>
-                                       <item>Joël Sakarovitch, Professeur, ENSA Paris
-                                          Malaquais.</item>
-                                       <item>Werner Szambien, DR CNRS, Centre André
-                                          Chastel, UMR 8150.</item>
-                                       <item>Dirk Van de Vijver, Associate Professor,
-                                          Utrecht University (Netherlands).</item>
+                                       <item><persName>Joël Sakarovitch</persName>,
+                                          Professeur, ENSA Paris Malaquais.</item>
+                                       <item><persName>Werner Szambien</persName>, DR
+                                          CNRS, Centre André Chastel, UMR 8150.</item>
+                                       <item><persName>Dirk Van de Vijver</persName>,
+                                          Associate Professor, Utrecht University
+                                          (Netherlands).</item>
                                     </list>
                                  </div>
                               </div>
@@ -586,27 +623,29 @@
                   <div>
                      <head>Fonctionnement de l’équipe scientifique</head>
                      <p>Pour l'assister dans la direction scientifique du projet,
-                        Robert Carvais, le projet disposait d'un Conseil scientifique.
-                        Ce conseil était principalement en charge de discuter et
-                        d'arrêter les grandes orientations scientifiques de la
-                        recherche. Composé de personnalités reconnues dans le domaine
-                        de l'histoire de l'art et de l'histoire du droit, ce conseil
-                        scientifique a été mobilisé de manière régulière aux étapes
-                        cruciales du projet. Ce Conseil scientifique a été réuni quatre
-                        fois au total dans le cours du projet. Un ordre du jour était
-                        fixé à l'avance, et chaque réunion faisait l'objet d'un
-                        compte-rendu dont nous nous sommes chargé.</p>
-                     <p>Compte-tenu de la difficulté à réunion l'ensemble des membres
+                           <persName>Robert Carvais</persName>, disposait d'un Conseil
+                        scientifique. Ce conseil était principalement en charge de
+                        discuter et d'arrêter les grandes orientations scientifiques de
+                        la recherche. Composé de personnalités reconnues dans le
+                        domaine de l'histoire de l'art et de l'histoire du droit, ce
+                        conseil scientifique a été mobilisé de manière régulière aux
+                        étapes cruciales du projet. Il a été réuni quatre fois au total
+                        dans le cours du projet. Un ordre du jour était fixé à
+                        l'avance, et chaque réunion faisait l'objet d'un compte-rendu.
+                        J'ai été chargé du secrétariat.</p>
+                     <p>Compte-tenu de la difficulté de réunir l'ensemble des membres
                         du Conseil scientifique, et pour faciliter le travail, des
                         réunions régulières, en plus petit comité, ont été organisées
-                        au gré des besoins. Nous avons également participé à l'ensemble
-                        de ces réunions. C'est dans ce cadre qu'ont été préparées la
+                        au gré des besoins. J'ai également participé à l'ensemble de
+                        ces réunions. C'est dans ce cadre qu'ont été préparées la
                         plupart des orientations concernant la production de
                         l'application web ainsi que certains choix éditoriaux avant
                         d'être soumis au Conseil scientifique. Tout au long du stage,
-                        j'ai par ailleurs été en contact direct et régulier avec Robert
-                        Carvais pour toutes les décisions à prendre.</p>
-                     <p>Comme tout projet faisant l’objet d’un financement par l’ANR,
+                        j'ai par ailleurs été en contact direct et régulier avec
+                           <persName>Robert Carvais</persName> pour toutes les
+                        décisions à prendre.</p>
+                     <p>Comme tout projet faisant l’objet d’un financement par
+                           l’<orgName>Agence Nationale de Recherche (ANR)</orgName>,
                         des bilans intermédiaires étaient prévus chaque année pour
                         rendre compte de l'emploi des fonds et de l'avancement du
                         travail.</p>
@@ -614,41 +653,44 @@
                   <div>
                      <head>Gestion administrative et financière</head>
                      <p>Mis en rapport avec l'importance numérique des sources à
-                        traiter, le financement était relativement faible même s'il
-                        représentait une somme importante dans le domaine de l'histoire
-                        de l'art. L'ANR subventionnait le projet de recherche sur
-                        quatre ans à hauteur de 103 000 euros. Somme globalement
-                        ventilée de la manière suivante : plus des trois quart de la
-                        dépense en salaires et rétributions, 14% pour le graphisme et
-                        le développement du site, 8 % en matériel, déplacements et
-                        dépenses diverses, enfin 2% en frais de reproduction.</p>
+                        traiter, on peut considérer que le financement du projet était
+                        relativement faible, même s'il représentait une somme
+                        importante dans le domaine de l'histoire de l'art.
+                           L'<orgName>ANR</orgName> subventionnait le projet de
+                        recherche sur quatre ans à hauteur de 103 000 euros. Somme
+                        globalement ventilée de la manière suivante : plus des trois
+                        quart de la dépense en salaires et rétributions, 14% pour le
+                        graphisme et le développement du site, 8 % en matériel,
+                        déplacements et dépenses diverses, enfin 2% en frais de
+                        reproduction.</p>
                      <p>Pour évaluer le coût réel total de la recherche, il serait
                         nécessaire d'ajouter à cette somme les rémunérations
-                        éventuelles des personnels scientifiques engagés sur la
-                        recherche, rémunérés ou non par leur institution pour y
-                        travailler. De surcroît, les sommes disponibles pour la
-                        réalisation de l'application étaient insuffisantes, et il
+                        éventuelles des personnels scientifiques engagés dans le
+                        travail d'édition, rémunérés ou non par leur institution. De
+                        surcroît, les sommes disponibles pour la réalisation de
+                        l'application se sont révélées en partie insuffisante, et il
                         aurait fallu disposer de plus d'argent si nous avions voulu
                         pouvoir faire numériser l'ensemble des manuscrits par des
-                        professionnels. Des négociations sont encore en cours pour
-                        obtenir la numérisation des manuscrits par les établissements
-                        de conservation.</p>
+                        professionnels. Des négociations sont encore actuellement en
+                        cours pour obtenir la numérisation des manuscrits par les
+                        établissements de conservation.</p>
                      <p>Du point de vue de la gestion, tant du point de vue des sommes
                         engagées que du nombre de personnes rémunérées, le projet
                         restait relativement modeste. Ainsi, la direction du projet n'a
                         pas nécessité la création d'un service administratif
                         spécifique, l'ensemble des tâches de gestion étant
-                        personnellement assurées par Robert Carvais qui se chargeait en
-                        même temps la direction scientifique. Les questions financières
-                        étaient quant à elles traitées directement par les services
-                        financiers de l'université Panthéon-Assas (Paris II) qui
-                        hébergeait administrativement le projet de recherche.</p>
+                        personnellement assurées par <persName>Robert
+                           Carvais</persName> qui se chargeait en même temps la
+                        direction scientifique. Les questions financières étaient quant
+                        à elles traitées directement par les services financiers de
+                           l'<orgName>Université Panthéon-Assas (Paris II)</orgName>
+                        qui hébergeait administrativement le projet de recherche.</p>
                   </div>
                   <div>
                      <head>Durée du projet</head>
-                     <p>Initialement financée sur une durée de quatre années courant du
-                        28 décembre 2007 au 28 décembre 2011, la recherche a nécessité
-                        une prolongation d'un peu plus d'une année. Diverses
+                     <p>Initialement financée sur une durée de quatre années, courant
+                        du 28 décembre 2007 au 28 décembre 2011, la recherche a
+                        nécessité une prolongation d'un peu plus d'une année. Diverses
                         difficultés intervenues dans le cours du projet permettent
                         d'expliquer ce retard. Le défaut d'accompagnement en amont de
                         la part de l'ANR quant à l'adoption de standards de publication
@@ -668,10 +710,10 @@
                         compétences dans le domaine de l'édition électronique. Le
                         manque d'expérience initiale a été compensé par la formation de
                         certains membres au cours du projet. De ce point de vue,
-                        l'enseignement dispensé au sein du Master 2 de l'École des
-                        chartes que j'ai eu la chance de suivre ces deux années a
-                        constitué une réelle opportunité pour l'achèvement du
-                        travail.</p>
+                        l'enseignement dispensé au sein du master 2 de l'<orgName>École
+                           nationale des chartes</orgName> que j'ai eu la chance de
+                        suivre au cours de ces deux années a constitué une réelle
+                        opportunité pour le bon achèvement du projet de recherche.</p>
                   </div>
                </div>
                <div type="chapter" n="2">
@@ -679,27 +721,24 @@
                   <div type="introduction">
                      <p>Si certains d'entre eux étaient bien identifiés, les cours de
                         Desgodets à l'<orgName>Académie royale d'architecture</orgName>
-                        restaient relativement peu connus des historiens faute d'avoir
-                        jamais été publiés. Mis à part ses lois des bâtiments qui
-                        dispose d'une riche tradition éditoriale, les trois autres
+                        restaient jusqu'à présent relativement peu connus des
+                        historiens, faute de n'avoir jamais été publiés. En effet, mis
+                        à part les <title>Lois des bâtiments</title> qui dispose d'une
+                        riche tradition éditoriale<note><persName>L'ouvrage qui paraît
+                              de manière posthume mis en ordre par
+                                 <persName>Goupil</persName>
+                              <date when="1748">en 1748</date> fera l'objet de
+                              nombreuses rééditions successives, <date from="1748"
+                                 to="1899">jusqu'au XIX<hi rend="superscript">e</hi>
+                                 siècle</date>.</persName></note>, les trois autres
                         cours de <persName>Desgodets</persName>, à la différence de
-                        nombre autres cours d'architecture, n'a jusqu'à présent fait
-                        l'objet d'aucune édition. L'acte d'édition ne peut ainsi
-                        bénéficier d'un siècle d'érudition issu de la tradition. Pas
-                        moins important et fondamental.</p>
-                     <p>Plusieurs contextes de numérisation. Programme de numérisation
-                        des établissements patrimoniaux et culturels à fin de mise à
-                        disposition des fonds ou de conservation. Numérisation à visées
-                        philologiques ou littéraires. Ici cas particulier d'un cours
-                        d'architecture et d'un projet interdisciplinaire histoire du
-                        droit et histoire de l'art. Pas travail sur la langue seulement
-                        mais mise à disposition d'un corpus de texte en partie inédits,
-                        jalon indispensable pour la compréhension de la constitution et
-                        la normalisation du savoir architecturale au siècle des
-                        lumières.</p>
-                     <p>Prendre en compte le caractère particulier des textes à éditer.
-                        Contexte de production, spécificité des témoins conservés qui
-                        impliqueront des choix éditoriaux spécifiques et adaptés.</p>
+                        plusieurs autres cours d'architecture tels ceux de
+                           <persName>François Blondel</persName> et de
+                           <persName>Jacques-François Blondel</persName>, n'avait
+                        jusqu'à présent fait l'objet d'aucune édition. L'acte
+                        d'édition, s'il ne pouvait pas bénéficier d'un siècle
+                        d'érudition issue d'une tradition éditoriale n'en était pas
+                        moins fondamental.</p>
                   </div>
                   <div>
                      <head>Les cours de Desgodets à l’Académie</head>
@@ -728,7 +767,9 @@
                                  enseignées deux jours de chaque semaine, afin qu'il
                                  s'y pust former un séminaire, pour ainsi dire, de
                                  jeunes Architectes. </quote>
-                              <bibl>{Blondel, Preface}</bibl>
+                              <note place="foot">
+                                 <p>{Blondel 1675}</p>
+                              </note>
                            </cit></p>
                         <p>À de nombreux égards, ce projet académique servait une
                            réforme plus large de l'architecture en améliorant les
@@ -736,7 +777,7 @@
                            le goût des commanditaires publics et privés. Outre les
                            conférences dirigées par <persName>François
                               Blondel</persName> jusqu'à sa mort <date when="1686">en
-                              1686</date>, qui revisitaient les grands traités
+                              1686</date>, qui revisitait les grands traités
                            d'architecture à travers un programme d'étude à long terme
                            de ce qui constituait le curriculum académique :
                               <persName>Palladio</persName>,
@@ -745,18 +786,19 @@
                            et <persName>Alberti</persName>, <persName>Philibert De
                               l'Orme</persName>, <persName>Jean Bullant</persName> et
                               <persName>Jacques Androuet du Cerceau</persName>,
-                           l'enseignement de Blondel à l'Académie se composait
-                           conformément au brevet royal de cours publics sur
-                           l'architecture et les mathématiques deux fois par semaine
-                           afin d'<q>enseigner les véritables règles aux jeunes gens
-                              qui se proposent d'embrasser la profession
+                           l'enseignement de <persName>Blondel</persName> à l'Académie
+                           se composait, conformément au brevet royal, de cours publics
+                           sur l'architecture et les mathématiques deux fois par
+                           semaine destinés à <q>enseigner les véritables règles aux
+                              jeunes gens qui se proposent d'embrasser la profession
                               d'architecture.</q></p>
                         <p>Ce furent vraisemblablement ces conférences qui formèrent le
                            contenu du <title>Cours d'architecture</title> dont la
-                           publication débute en <date when="1675"
-                           >1675</date>{présentation du cours Architectura}. N'ayant
-                           jamais eu jusqu'à cette époque de formation officielle en
-                           architecture même si les cours de
+                           publication débute en <date when="1675">1675</date><note
+                              place="foot">
+                              <p>{Gerbino 2010}</p>
+                           </note>. N'ayant jamais eu jusqu'à cette époque de formation
+                           officielle en architecture même si les cours de
                               <persName>Blondel</persName> pouvaient avoir un précédent
                            récent au travers de son enseignement comme professeur de
                            mathématiques au <orgName>Collège royal</orgName>. Les
@@ -764,42 +806,86 @@
                            du cours le <title>cursus mathematicus</title> en vogue
                            parmi les professeurs de mathématiques pendant tout le
                            siècle, mais il le mettent également en rapport avec le
-                           programme des conférences menées parallèlement{présentation
-                           du cours de Blondel Architectura}.</p>
-                        <p>Constitue prototype d'un enseignement constitué. Devait
-                           exercer une influence durable sur l'enseignement de
-                           l'Académie et les publications architecturales postérieures.
+                           programme des conférences menées parallèlement<note
+                              place="foot">
+                              <p>{Gerbino 2010}, {Sakarovitch 2011}</p>
+                           </note>.</p>
+                        <p>Le cours de <persName>Blondel</persName> constitue prototype
+                           d'un enseignement constitué. Il devait exercer une influence
+                           durable sur l'enseignement de l'<orgName>Académie</orgName>
+                           et les publications architecturales postérieures.
                               <persName>Philippe de La Hire</persName> allait par
                            exemple l'utiliser comme support de ses conférences à
                            l'Académie pendant plus de deux ans <date from="1696-07"
                               to="1698-10">de juillet 1696 à octobre 1698</date>, tout
                            comme ses successeurs pendant <date from="1700" to="1799"
                               >tout le XVIII<hi rend="superscript">e</hi>
-                           siècle</date>. <ref target="#m0008">Dans son mémoire
-                              d'habilitation à diriger des recherches, Hélène
-                              Rousteau-Chambon relève combien l'enseignement de
-                              l'architecture à l'Académie à cette époque, malgré des
-                              sources nombreuses, avait jusqu'à présent peu suscité
-                              l'intérêt de l'historiographie</ref>.</p>
-                        <p>Cadre de l'enseignement. Bibliothèques, locaux. </p>
-                        <p>Lettres patentes de 1717</p>
-                     </div>
-                     <div>
-                        <head>L’enseignement de Desgodets</head>
+                           siècle</date>. Dans son mémoire d'habilitation à diriger des
+                           recherches, <persName>Hélène Rousteau-Chambon</persName>
+                           relève combien l'enseignement de l'architecture à
+                              l'<orgName>Académie</orgName> à cette époque, malgré des
+                           sources nombreuses, avait jusqu'à présent peu suscité
+                           l'intérêt de l'historiographie<note place="foot">
+                              <p>{Sakarovitch 2011}</p>
+                           </note>.</p>
+                        <p>Redire ici ce qui est exposé dans ce travail ou ce qui a été
+                           produit dans le cadre de l'ANR Desgodets n'aurait pas grand
+                           intérêt. Nous nous contenterons donc de rappeler quelques
+                           faits historiques à même d'éclairer le contenu des
+                           manuscrits qui nous occupent.</p>
                         <div>
                            <head>Généralités sur l'enseignement de Desgodets</head>
-                           <p><date to="1730">1719 à 1730</date>, l'enseignement relève
-                              désormais des architectes après l'épisode <persName>de La
-                                 Hire</persName>.</p>
-                           <p>Assuré successivement par <persName>Antoine
+                           <p>Autorisé à suivre les cours de l'<orgName>Académie royale
+                                 d'architecture</orgName>
+                              <date>en 1662</date>, <persName>Antoine Desgodets
+                                 (1653-1728)</persName> est très tôt distingué par le
+                              roi pour avoir été employé dans les bâtiments du roi. En
+                              1674, l'architecte est nommé par
+                                 <persName>Colbert</persName> pour se rendre à
+                                 <placeName>Rome</placeName> pour relever les édifices
+                              antique. La publication <date when="1682">en 1682</date>
+                              du travail de son séjour de 16 mois à
+                                 <placeName>Rome</placeName> à mesurer les édifices
+                              antiques fera date.</p>
+                           <p><persName>Antoine Desgodets</persName> occupe le siège
+                              d'académicien de seconde classe occupé précédement par
+                                 <persName>François d'Orbay</persName>. Il est nommé
+                                 1<hi rend="superscript">ère</hi> classe <date
+                                 when="1718-05-31">le 31 mai 1718</date>, trois mois
+                              avant de devenir professeur <date when="1719">en
+                                 1719</date>. D'après les affiches des cours relevées
+                              par Hélène Rousteau-Chambon, au cours des neuf années que
+                              dure son enseignement et qu'il donnera jusqu'à sa mort,
+                              Desgodets aborde successivement les thématiques
+                              suivantes : <table>
+                                 <row>
+                                    <cell />
+                                    <cell>1721-1722</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Ordres</cell>
+                                    <cell>1724-1728</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Servitudes</cell>
+                                    <cell>1723-1725</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Traité de la commodité</cell>
+                                    <cell>1722-1728</cell>
+                                 </row>
+                              </table></p>
+                           <p> Avec Desgodets, et après l'épisode <persName>de La
+                                 Hire</persName>, l'enseignement de l'architecture
+                              revient à un architecte. <persName>Antoine
                                  Desgodets</persName> (<date from="1719" to="1728"
                                  >1719-1728</date>) et <persName>François
                                  Bruand</persName> (<date from="1728" to="1730"
-                                 >1728-1730</date>) qui enseignent à la fois la
-                                 <q>géométrie appliquée à l'architecture</q> et
-                              l'architecture proprement dite. Avant division de la
-                              chaire <date when="1730">en 1730</date>. cf. HRC</p>
-                           <p />
+                                 >1728-1730</date>) assurent en même temps
+                              l'enseignement de <q>la géométrie appliquée à
+                                 l'architecture</q> et de l'architecture proprement
+                              dite, cela avant la division de la chaire qui intervient
+                                 <date when="1730">en 1730</date>.</p>
                         </div>
                         <div>
                            <head>Le cours des Ordres</head>
@@ -807,15 +893,18 @@
                         </div>
                         <div>
                            <head>Le cours des Commodités</head>
-                           <p><ref type="note" target="#m0005">
-                                 <quote>Desgodets avait donné une grande place aux
-                                    ordres, mais dans la seconde partie, la plus
-                                    originale de tous les traités d'architecture que
-                                    nous connaissions et qu'on pourrait utilement
-                                    publier, il donna des modèles de plans de palais,
-                                    de châteaux, d'églises paroissiales, conventuelles,
-                                    d'hôtel de ville, de marchés, etc.</quote>
-                              </ref></p>
+                           <p>
+                              <quote>Desgodets avait donné une grande place aux ordres,
+                                 mais dans la seconde partie, la plus originale de tous
+                                 les traités d'architecture que nous connaissions et
+                                 qu'on pourrait utilement publier, il donna des modèles
+                                 de plans de palais, de châteaux, d'églises
+                                 paroissiales, conventuelles, d'hôtel de ville, de
+                                 marchés, etc.</quote>
+                              <note place="foot">
+                                 <p>Lemonnier, pp. 458-459</p>
+                              </note>
+                           </p>
                         </div>
                         <div>
                            <head>Le cours du Toisé</head>
@@ -1004,8 +1093,9 @@
                            entre, d'une part, le respect du texte à publier (dont on ne
                            doit en aucun cas moderniser la graphie) et, d'autre part,
                            le souci de le rendre aussi intelligible que possible pour
-                           un lecteur d'aujourd'hui.</quote><ref type="note"
-                           target="#m0004" /></p>
+                           un lecteur d'aujourd'hui.</quote><note place="foot">
+                              <p>{Barbiche}</p>
+                           </note></p>
                      <p>La production d'une édition critique de qualité exige donc
                         d'avoir bien défini sa destination. Cette question est
                         déterminante même si l'on ne renonce généralement pas à toucher
@@ -1025,6 +1115,20 @@
                         l'établissement du texte et sa normalisation</p>
                      <p>L'abondance des témoins</p>
                      <p>Spécificités d'une édition numérique (ou plus loin)</p>
+                     <p>??sorti de plus haut?? Plusieurs contextes de numérisation.
+                        Programme de numérisation des établissements patrimoniaux et
+                        culturels à fin de mise à disposition des fonds ou de
+                        conservation. Numérisation à visées philologiques ou
+                        littéraires. Ici cas particulier d'un cours d'architecture et
+                        d'un projet interdisciplinaire histoire du droit et histoire de
+                        l'art. Pas travail sur la langue seulement mais mise à
+                        disposition d'un corpus de texte en partie inédits, jalon
+                        indispensable pour la compréhension de la constitution et la
+                        normalisation du savoir architecturale au siècle des
+                        lumières.Prendre en compte le caractère particulier des textes
+                        à éditer. Contexte de production, spécificité des témoins
+                        conservés qui impliqueront des choix éditoriaux spécifiques et
+                        adaptés.</p>
                   </div>
                   <div>
                      <head>L’établissement du texte</head>
@@ -1065,10 +1169,11 @@
                            constituait une étape cruciale du processus éditorial. Dès
                            le début du travail, un protocole de transcription a dû être
                            mis sur pied. En l'absence de recommandations récentes pour
-                           l'édition des textes de l'époque moderne, c'est <ref
-                              type="note" target="#m0006">le travail publié par Bernard
+                           l'édition des textes de l'époque moderne, c'est le travail publié par Bernard
                               Barbiche et ses collègues dans la collection de
-                              l'Inventaire qui fait référence</ref>. L'équipe de
+                              l'Inventaire qui fait référence<note place="foot">
+                                 <p>{Barbiche}</p>
+                              </note>. L'équipe de
                            transcripteurs a donc formulé les premières propositions
                            concernant la transcription des manuscrits à partir de ces
                            indications. Toutefois, eût égard aux besoins particuliers
@@ -3661,10 +3766,12 @@
                            de produire un plan de site ou <foreign xml:lang="eng">site
                               map</foreign>, c'est-à-dire une représentation de
                            l'architecture du site listant les ressources proposées.
-                              <ref type="note" target="#m0009">Nous envisagions
+                              Nous envisagions
                               d'utiliser le protocole sitemaps, proposé par Google en
                               2005, du fait de sa simplicité et de sa large utilisation
-                              par les moteurs de recherche actuellement</ref>. C'est
+                              par les moteurs de recherche actuellement<note place="foot">
+                                 <p>{SitemapsOrg}</p>
+                              </note>. C'est
                            par ailleurs un format XML qui paraissait bien s'intégrer à
                            notre environnement.</p>
                         <p>Ce sitemap n'a finalement pas été produit lors de la
@@ -3674,8 +3781,9 @@
                            indexation accidentelle du site par le moteur de recherche
                            Google a confirmé cette impression. Toutefois, la production
                            d'un plan de site reste nécessaire notamment en vue d'un
-                           moissonnage du site web par <ref type="note" target="#m0010"
-                              >le moteur de recherche Isidore</ref>. Comme un sitemaps
+                           moissonnage du site web par le moteur de recherche Isidore<note place="foot">
+                              <p>{IsidoreAccèsAux}</p>
+                           </note>. Comme un sitemaps
                            se contente de répertorier les URL d'un site ainsi que les
                            métadonnées concernant chacune de ces pages (date de
                            dernière modification, fréquence de révision et importance
@@ -4429,30 +4537,6 @@
             <div xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" type="notes"
                xml:id="desgodetsMemoireNotes">
                <head>Notes</head>
-               <note xml:id="m0001">
-                  <p> À notre connaissance peu de projets en histoire de l’art moderne
-                     ou contemporaine ont bénéficié d’un financement de l’ANR. Citons
-                     notamment ici l’édition de la correspondance de Delacroix en 2006,
-                     {CorrespondancesDeugèneDelacroix} ; M-Art sur le marché de l’art
-                     en 2007, {AnrAgenceNationaleb} ; ou encore plus récemment le
-                     projet Artlas (ENS), , qui ont bénéficié d’un financement par
-                     l’ANR.</p>
-               </note>
-               <note xml:id="m0002">
-                  <p>{AnrAgenceNationale}</p>
-               </note>
-               <note xml:id="m0003">
-                  <p> Nous reprenons ici en partie les termes du résumé du projet
-                     contenu dans le rapport du projet d’ANR à la rédaction duquel nous
-                     avons participé.</p>
-               </note>
-               <note xml:id="m0004">
-                  <p>{Barbiche}</p>
-               </note>
-               <note xml:id="m0005">
-                  <p>{Barbiche}</p>
-               </note>
-
             </div>
          </div>
       </back>
