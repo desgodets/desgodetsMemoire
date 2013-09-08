@@ -3214,7 +3214,7 @@
                                        contiennent des contenus différents.</item>
                                  </list></p>
                               <p>La transformation ttmtChaines.xsl que nous avons mis
-                                 en place utilise l'élément <gi>xsl:analyse-sting</gi>
+                                 en place utilise l'élément xsl:analyse-sting
                                  pour parcourir le texte à l'intérieur des éléments
                                  issus du stylage de caractère réalisé avec le
                                  traitement de texte pour récupérer les différentes
@@ -3268,7 +3268,8 @@
                            </div>
                         </div>
                         <div>
-                           <head>Contrôle qualité et difficultés rencontrées</head>
+                           <head>Le contrôle qualité et les difficultés
+                              rencontrées</head>
                            <p>Sauf parfois l'introduction de marques de paragraphes
                               inutiles dans les titres, nous n'avons rencontré aucune
                               difficulté particulière pour récupérer la structure du
@@ -3315,7 +3316,6 @@
                               vérifier manuellement l'ensemble de la pagination et
                               parfois revenir au manuscrit pour traiter les
                               erreurs.</p>
-                           <p>Même si </p>
                         </div>
                      </div>
                      <div>
@@ -3341,58 +3341,117 @@
                            pseudo-balisage ne permettant pas de traiter complètement
                            tous les besoins, il a été nécessaire de revenir à la main
                            sur certains éléments. Si l'utilisation d'un modèle de
-                           document word pour préparer une édition critique XML-TEI ne
-                           constitue pas une approche idéale, c'est une méthode
-                           possible et efficace pour préparer l'édition moyennant un
-                           important travail de post-traitement.</p>
+                           document de traitement de texte pour préparer une édition
+                           critique XML-TEI ne constitue pas une approche idéale, c'est
+                           une méthode possible et efficace pour préparer l'édition
+                           moyennant un travail relativement important de
+                           post-traitement conduit par une personne disposant d'une
+                           bonne connaissance de la TEI.</p>
                      </div>
                   </div>
                </div>
                <div type="chapter" n="3">
-                  <head>La production de l’application</head>
+                  <head>Le suivi de la production de l’application</head>
+                  <div type="introduction" />
                   <div>
                      <head>Le cadre de travail avec les prestataires</head>
-                     <p>Réunions de lancement</p>
-                     <p>Travail à distance</p>
-                     <p>Recettage</p>
-                        <p>Ca travail issus de l’AMO, La méthode de travail avec le
-                           prestataire.</p>
-                        <p>Le suivi de la réalisation de l'application web nécessitait des
-                           contacts réguliers avec les prestataires de services. Plusieurs
-                           réunions physiques sont intervenues dans le cours du projet à
-                           intervalles réguliers. De telles réunions physiques étaient
-                           surtout nécessaires pour discuter des points problématiques </p>
-                        <p>Communication par mail : Validation des choix ergonomiques /
-                           problèmes rencontrés sur l’encodage.</p>
-                        <p>Réunion à distance régulières avec la développeuse web à l'aide du
-                           service de communication synchrone de Microsoft Skype. Ce service
-                           c'est notamment révélé très utile compte-tenu de la diversité des
-                           modalités de communications permises : chat, discussions de vive
-                           voix, visualisation de la présence de l'interlocuteur derrière son
-                           écran, conservation de la trace des échanges équivalente à des
-                           relevés de décisions. Il permettait par exemple de constater la
-                           présence de son interlocuteur derrière son écran et de le
-                           solliciter ponctuellement de manière rapide pour aplanir une
-                           difficulté ou résoudre un problème. </p>
+                     <p>Les prestataires externes à qui avait été confiée l'application
+                        avaient besoin d'interlocuteurs bien identifiés au sein du
+                        projet pour répondre aux différentes questions rencontrées dans
+                        le cours du projet. Nous avons assuré ce rôle sous le contrôle
+                        immédiat, et avec la participation active, de Robert Carvais à
+                        qui nous faisions valider les choix les plus importants. Le
+                        suivi de la réalisation de l'application a généré des contacts
+                        réguliers tant avec les prestataires qu'avec le responsable
+                        scientifique du projet mais aussi entre le prestataire pour la
+                        partie graphique et celui pour le développement web. De manière
+                        générale, les échanges ont surtout été menés à distance par le
+                        bais d'une communication par email et l'envoi de pièces
+                        jointes. Des réunions physiques ont été provoquées à
+                        intervalles réguliers pour trancher des questions importantes
+                        ou des difficultés particulières.</p>
+                     <p>Après communication d'échantillon de texte encodés et d'un
+                        premier schéma XML-TEI, l'organisation d'une première réunion
+                        au moment du lancement de la phase de réalisation a permis de
+                        passer en revue les différentes fonctionnalités attendues et de
+                        discuter de premières pistes de travail. Cette première réunion
+                        a donné lieu à la communication d'un premier jeu de maquettes
+                        graphiques et d'un maquette fonctionnelle web qui ont ensuite
+                        servie de base à la poursuite des discussions après validation
+                        des grandes orientations ergonomiques.</p>
+                        <p>Tout au long du développement web, nous avons fait un usage
+                        relativement étendu du service de communication synchrone de
+                        Microsoft Skype avec la développeuse web. Ce service c'est
+                        notamment révélé très utile compte-tenu de la diversité des
+                        modalités de communications qu'ils offrait : chat, discussions
+                        de vive voix, conservation de la trace des échanges équivalente
+                        à des relevés de décisions. Il permettait par exemple de
+                        constater la présence de son interlocuteur derrière son écran
+                        et de le solliciter ponctuellement de manière rapide pour
+                        aplanir une difficulté ou résoudre un problème.</p>
                   </div>
                   <div>
                      <head>La mission d'AMO</head>
                      <div>
-                        <head>De la bonne maîtrise du modèle</head>
-                        <p>Répondre rapidement aux questions</p>
-                        <p>Modèle qui détermine en grande partie l'utilisation</p>
+                        <head>De la connaissance du modèle XML-TEI</head>
+                        <p>Dans le cadre de la mission de suivi de réalisation, la
+                           maîtrise du modèle XML-TEI s'est révélée extrêmement utile
+                           afin de répondre directement, et de manière informée, aux
+                           questions soulevées par le prestataire sur certains choix
+                           d'encodage. Elle a également permis, lorsque cela était
+                           nécessaire, d'apporter des modifications marginales au
+                           modèle par exemple pour faciliter la production des
+                           transformation, en ajoutant par exemple des attributs pour
+                           distinguer le fichier édité des autres éléments du corpus,
+                           pour déterminer l'emplacement préférable pour présenter le
+                           tableau de tradition, etc.</p>
+                           <p>Outre les difficultés propres au langage XSLT, une des
+                           difficultés du projet pour le prestataires résidait dans la
+                           nécessité de se familiariser avec le vocabulaire et la
+                           logique de la TEI. Une part importante du travail de suivi
+                           de la réalisation de l'application web a consisté à
+                           documenter ou expliquer certains aspects de la modélisation
+                           TEI. De ce point de vue, la documentation rédigée sous la
+                           forme d'un guide d'encodage, même si elle n'était pas
+                           complète, s'est révélée relativement précieuse et
+                           complémentaire de la documentation produite automatiquement
+                           par la TEI. On a utilisé le même document pour renseigner
+                           les traitements attendus des différents éléments dans
+                           l'application. Plusieurs versions de ce document ont été
+                           élaborées en cours de projet afin de tenir compte des
+                           décisions arrêtées en cours de réalisation. La version
+                           finale de ce document est fournie en annexe.</p>
                      </div>
                      <div>
                         <head>De l'utilité d'une double compétence</head>
-                        <p>Expression des choix scientifiques / traduction
-                           technique</p>
-                        <p>Anticipation des problèmes</p>
-                        <p>Respect des standards</p>
+                        <p>Nous pensons que le fait de disposer d'une double
+                           compétence, à la fois technique et scientifique, a permis
+                           d'opérer en amont certains choix de modélisation qui ont
+                           largement facilité la transformation des fichiers. Si les
+                           choix d'encodage relèvent de l'enregistrement scientifique
+                           des phénomènes constatés sur le manuscrit, il est possible
+                           de discriminer entre plusieurs manières possibles d'encoder
+                           un même phénomène en ayant en tête le traitement ultérieur
+                           du fichier.</p>
+                        <p>Lorsque le prestataire rencontrait des difficultés, cette
+                           double compétence a également permis de discuter en toute
+                           connaissance de cause des différentes solutions possibles
+                           avec le prestataire. Dans bien des cas, cette double
+                           compétence a permis d'aplanir des difficultés ou de
+                           fluidifier les rapports avec le prestataire lorsque celui-ci
+                           rencontrait de réelles difficultés techniques. D'un autre
+                           côté, cette double culture permettait de mesurer les
+                           conséquences de certains choix en matière de respect des
+                           standards par exemple.</p>
                      </div>
                   </div>
                   <div>
                      <head>Infrastructure technique et hébergement de
                         l’application</head>
+                     <p>L'hébergement de l'application et l'infrastructure technique
+                        ont été mis à disposition par le très grand équipement Adonis
+                        (TGIR Adonis) aujourd'hui HumaNum. À cet effet, ce dernier nous
+                        a fourni </p>
                      <div>
                         <head>Options de développement</head>
                         <div>
