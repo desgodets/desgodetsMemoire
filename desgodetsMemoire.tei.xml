@@ -1493,26 +1493,36 @@
             <div xml:id="desgodetsMemoireBodyFr02" type="part" n="2">
                <head>La mission d'assistance à la maîtrise d’ouvrage</head>
                <div type="introduction">
-                  <p>Définition de la l'assistance à la maîtrise d'ouvrage. Ambiguïté
-                     entre domaine informatique et architectural.</p>
-                  <p>Expliquer que l'on a été finalement associé à chacune des phases
-                     du projet. En amont, lors de la définition des besoins et des
-                     fonctionnalités, au cours du projet dans la production des textes
-                     et de l'encodage, enfin en aval pour assurer le suivi de la
-                     réalisation de l'application et son recettage.</p>
-                  <p>Mobilisation d'une double compétence. Capacité à parler les deux
-                     langues, celle habituelle du chercheur pour comprendre les
-                     besoins, celle du techniciens pour être capables de les exprimer
-                     de manière compréhensible et opérationnelle.</p>
-                  <p>Missions maîtrise d'ouvrage à la fois dans la définition des
-                     fonctionnalités et l'identification des standards auxquels
-                     répondre ou sur lesquels s'appuyer.</p>
-                  <p>Partie directement opérationnelle en matière de production du
-                     dispositif de travail technique. Opération de modélisation qui
-                     relève, nous le verrons, directement de l'approche scientifique
-                     des sources.</p>
-                  <p>Enfin, suivi de la réalisation de l'application et dialogues avec
-                     le prestataire toute au long de la phase de production.</p>
+                  <p>Après avoir participé comme transcripteur au projet de recherche
+                     et avoir été inclus dans l'équipe scientifique, nous sommes
+                     intervenus dans le cours du projet avec une mission d'assistance à
+                     la maîtrise d'ouvrage. Une telle mission consiste à assister le
+                     porteur d'un projet dans la réalisation d'un produit. Le stage qui
+                     donne lieu à ce mémoire a directement porté sur le suivi de
+                     réalisation de l'application web et la production et le contrôle
+                     de qualité des textes en documents XML-TEI. Mais, ayant été
+                     associé en amont à chacune des phases du travail, nous sommes en
+                     mesure de rendre compte ici de toutes les phases du projet. Nous
+                     avons ainsi participé à la production du cahier des charges
+                     fonctionnels, suivi la consultation et le choix des prestataires,
+                     puis défini une modélisation XML-TEI adaptée au projet. Plus
+                     directement dans le cadre de ce stage, nous nous sommes chargés de
+                     l'importation des textes édités avec un logiciel de traitement de
+                     texte et du suivi de la conception et de la réalisation de
+                     l'application web.</p>
+                  <p>Chacune de ces interventions a mobilisé une une double
+                     compétence ; en quelque sorte, une capacité à parler deux langues.
+                     La langue habituelle du chercheur pour comprendre les besoins,
+                     mais aussi celle du technicien pour être capable de les exprimer
+                     de manière compréhensible et opérationnelle. De telles compétences
+                     sont mobilisées d'abord, au moment de la définition des
+                     fonctionnalités futures de l'application et de l’identification
+                     des standards. Ensuite, il s'agit d'exprimer de manière technique
+                     des considérations scientifiques lors de la modélisation XML-TEI.
+                     Enfin, lors de la production de l'application web et des textes
+                     sources, les connaissances techniques associées à une bonne
+                     maîtrise du modèle se sont souvent révélées très utiles pour
+                     trancher les difficultés rencontrées, ou les contourner.</p>
                </div>
                <div>
                   <head>Cadre du travail</head>
