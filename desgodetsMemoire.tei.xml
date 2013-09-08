@@ -1972,15 +1972,15 @@
                         <p>Alors qu'elle était d'abord fondée sur l'utilisation de la
                            syntaxe SGML, la TEI a adopté XML dès la première
                            publication de sa spécification en 1996, certains membres de
-                           la TEI ayant participé à son développement. Par la suite,
-                           les <title>Guidelines</title> ont été étayées par l'apport
-                           d'autres spécialités pour prendre en charge une plus grande
-                           diversité de textes. On en est aujourd'hui à la 5<hi
-                              rend="superscript">e</hi> proposition numérotée P5, et
-                           elle est organisée autour d'un consortium et une importante
-                           communauté d'utilisateurs. Conçue un modèle générique de
-                           structuration et de sémantisation des textes, la TEI
-                           présente de nombreux avantages. On relève notamment : <list>
+                           la TEI avaient en effet participé à son développement. Par
+                           la suite, les <title>Guidelines</title> ont été étayées par
+                           l'apport d'autres spécialités pour prendre en charge une
+                           plus grande diversité de textes. On en est aujourd'hui à la
+                              5<hi rend="superscript">e</hi> proposition numérotée P5,
+                           et elle est organisée autour d'un consortium et une
+                           importante communauté d'utilisateurs. Conçue un modèle
+                           générique de structuration et de sémantisation des textes,
+                           la TEI présente de nombreux avantages. On relève notamment : <list>
                               <item>sa modularité et sa flexibilité</item>
                               <item>son expressivité (niveau de granularité)</item>
                               <item>qu'il s'agit d'un standard reconnu
@@ -2185,35 +2185,150 @@
                               en rapport, et le <hi rend="italic">schéma TEI</hi>
                                  (<foreign xml:lang="eng">TEI schema</foreign>) qui
                               définit un ensemble de règles et de contraintes
-                              syntactiques. {Guidelines 23.3}</quote>
-                        </p>
-                        <p>La Text Encoding Initiative fournit ainsi un grand nombre de
-                           balises dans lesquelles il est possible de puiser pour
-                           modéliser son texte. Personne ne les utilise toutes dans le
-                           cadre d'un projet. En d'autres termes, on doit construire
-                           des représentation du texte source qui reflètent les
-                           phénomènes que l'on observe d'un point de vue structurel,
-                           sémantique ou linguistique, et que l'on va modéliser d'après
-                           la manière dont on espère les exploiter par la suite. À cet
-                           égard, la modélisation XML-TEI est une opération intrinsèque
-                           au processus éditorial et qui a directement trait au
-                           caractère scientifique de l'édition numérique. Il s'agit bel
-                           et bien de produire un artefact orienté.</p>
+                              syntactiques. {Guidelines 23.3}</quote></p>
                      </div>
                      <div>
-                        <head>Explicitation des choix de modélisation</head>
-                        <div>
-                           <head>Structuration du texte</head>
+                        <head>Les partis-pris de modélisation</head>
+                        <div type="introduction">
+                           <p>La Text Encoding Initiative fournit donc un grand nombre
+                              de balises dans lesquelles il est possible de puiser pour
+                              modéliser son texte. Personne ne les utilise toutes dans
+                              le cadre d'un projet. En d'autres termes, on doit
+                              construire des représentation du texte source qui
+                              reflètent les phénomènes que l'on observe d'un point de
+                              vue structurel, sémantique ou linguistique, et que l'on
+                              va modéliser d'après la manière dont on espère les
+                              exploiter par la suite. À cet égard, la modélisation
+                              XML-TEI est une opération intrinsèque au processus
+                              éditorial et qui a directement trait au caractère
+                              scientifique de l'édition numérique. Puisqu'il s'agit bel
+                              et bien de produire un artefact orienté.</p>
                         </div>
                         <div>
-                           <head>Inscription du texte sur le support</head>
+                           <head>La macrostructure du texte et inscription sur le
+                              support</head>
+                           <div>
+                              <head>La macrostructure du texte</head>
+                              <p>Les manuscrits que nous avions à traiter présentaient
+                                 généralement une structure textuelle relativement
+                                 commune qui pouvait facilement être prise en charge à
+                                 l'aide des éléments structurels offerts par la TEI. Il
+                                 a systématiquement été établi une division tripartite
+                                 dans l'édition avec les éléments <gi>front</gi> pour
+                                 les parties liminaires, <gi>body</gi> pour le corps de
+                                 texte et <gi>back</gi> pour les paries postérieures. À
+                                 l'intérieur de ces différentes parties,
+                                    <gi>titlePage</gi> avec ses composants permettait
+                                 de prendre en charge les pages de titre, et une
+                                 combinaison des éléments <gi>div</gi>, <gi>p</gi>,
+                                    <gi>list</gi> et tous ses composants, ainsi que
+                                    <gi>seg</gi> a paru adaptée et suffisante pour
+                                 traiter presque tous les cas de figure. Un système de
+                                 typage des divisions a toutefois été établi pour
+                                 préciser cette macrostructure en utilisant l'attribut
+                                    <att>type</att>.</p>
+                              <p>Les manuscrits des servitudes présentaient quant à eux
+                                 un cas de figure moins courant. S'agissant pour l'un
+                                 d'un recueil de coutumes, pour l'autre d'un
+                                 commentaire sur la coutume de Paris, les deux textes
+                                 citaient abondamment d'autres textes. L'emploi d'un
+                                 élément floatingText nous est apparu pertinent pour
+                                 traiter ces citations car il a l'avantage de permettre
+                                 de conserver la structure originale de ces textes.</p>
+                           </div>
+                           <div>
+                              <head>L'inscription du texte sur le support</head>
+                              <p>Les manuscrits pris en charge étant souvent des copies au
+                                 propre, l'emploi des éléments fournis par le module
+                                 spécialisé de la TEI consacré à la transcription des
+                                 manuscrits <ident type="module">transcr</ident> suffisait
+                                 très largement à couvrir nos besoins. Il s'est trouvé
+                                 utilement complété par le module <ident type="module"
+                                    >certainty</ident> pour les difficultés de lectures ou
+                                 la résolution des abréviation.</p>
+                           </div>
                         </div>
                         <div>
-                           <head>Définition d’une nomenclature (id uniques,
-                              etc.)</head>
+                           <head>La définition d’une nomenclature pour le corpus (id
+                              uniques, etc.)</head>
                         </div>
                         <div>
-                           <head>Ménager la comparaison</head>
+                           <head>L'alignement du textes et les images pour ménager leur
+                              comparaison</head>
+                           <p>Les <title>Guidelines</title> proposent trois trois
+                              approches pour aligner des passages textuels lorsque l'on
+                              établit une édition critique :<list>
+                                 <label>la méthode de localisation référencée :</label>
+                                 <item>où les entrées d'apparat critique sont liées aux
+                                    blocs de texte identifiés qui contiennent les
+                                    lemmes respectifs</item>
+                                 <label>la méthode d'attachement à double point</label>
+                                 <item>où les entrées d'apparat critique sont liées à
+                                    des ponts de départ et de fin identifiées dans un
+                                    texte</item>
+                                 <label>la méthode de segmentation parallèle.</label>
+                                 <item>où les entrées d'apparat critique son encodées
+                                    au moyen d'une transcription du texte connu
+                                    invariable et de tous les témoins.</item>
+                              </list></p>
+                           <p>La méthode par segmentation parallèle est le plus
+                              couramment utilisée lors de l'encodage de sources en
+                              XML-TEI pour comparer des témoins. Cette méthode
+                              correspond également à une méthode de travail pour
+                              l'établissement du texte. Pour notre projet, nous avons
+                              retenu la première approche, celle par localisation
+                              référencée, afin de nous faciliter le travail car les
+                              manuscrits ont déjà été transcrits séparément et nous
+                              n'éditons en réalité qu'un témoin du texte de manière
+                              critique pour chaque cours, en nous contentant de
+                              signaler en note les variantes significatives des autres
+                              témoins du texte. Il s'agit donc simplement de trouver
+                              une solution pour proposer au lecteur un alignement
+                              visuel des différents témoins de la tradition du
+                              texte.</p>
+                           <p>Bien qu'elle eût été plus satisfaisante, la méthode de
+                              segmentation parallèle aurait représenté un travail plus
+                              considérable si nous avions voulu fournir toutes les
+                              variantes des témoins, surtout pour des textes où nous
+                              avons jusqu'à 15 témoins. Une telle méthode s'intégrait
+                              par ailleurs assez mal dans notre flux de production.
+                              D'une part, seules les variantes jugées significatives
+                              étaient rapportées au manuscrit maître édité, ce qui ne
+                              permettait pas de reconstituer les différents témoins
+                              intégralement. D'autre part, il n'était guère possible
+                              d'automatiser l'importation des variantes à partir d'un
+                              document de traitement de texte. Nous nous sommes donc
+                              contenter d'un récolement manuel des différents témoins
+                              pour permettre leur alignement.</p>
+                           <p>L'alignement des témoins nécessitait la détermination
+                              d'identifiants uniques pour chacun des segments textuels
+                              à traiter. Ceux-ci sont numérotés de manière systématique
+                              en fonction de leur position dans la hiérarchie textuelle
+                              (éléments div, p, seg, list, item, etc.). Un fichier
+                              externe permet d'enregistrer le travail d'alignement des
+                              témoins en utilisant l'élément TEI <gi>linkGrp</gi> et
+                              une série d'élément <gi>link</gi>. Le même mécanisme est
+                              utilisé pour aligner les figures entre les différents
+                              témoins. L'utilisation d'identifiants uniques rassemble
+                              plusieurs avantages, elle permet</p>
+                           <p>ils sont presque identiques hormis le début de
+                              l'identifiant qui renvoie au numéro d'ordre du manuscrit
+                              concerné dans le corpus. Le fait d'avoir recours à des
+                              identifiants uniques permet d'identifier précisément, à
+                              l'exclusion de toute autre, une unité textuelle ou un
+                              passage dans l'un des manuscrit. C'est donc une bonne
+                              pratique notamment pour la citabilité. Comme on utilise
+                              ici l'attribut global de XML xml:id, qui doit
+                              nécessairement être unique dans un fichier XML, il y a un
+                              contrôle d'unicité (ce contrôle s'applique à l'ensemble
+                              du corpus car il est compris dans une arborescence de
+                              fichiers XML). Enfin, le fait d'utiliser des identifiants
+                              uniques, a surtout l'avantage de permettre de traiter les
+                              regroupements de paragraphes, les interversions, les
+                              ajouts, indépendamment du manuscrit édité (et donc par la
+                              suite éventuellement d'éditer toutes les variantes du
+                              texte ou le réemploi des sources XML-TEI dans d'autres
+                              projets).</p>
                         </div>
                         <div>
                            <head>Traitement de l’arsenal critique</head>
@@ -2249,10 +2364,11 @@
                         <div>
                            <head>Définition d’une arborescence de fichier</head>
                         </div>
-                        <div>
-                           <head>Production et personnalisation du schéma
-                              RelaxNG</head>
-                           <p>Dès l'origine la TEI a été conçue pour être employée
+                     </div>
+                     <div>
+                           <head>La production du schéma RelaxNG</head>
+                           <div type="introduction">
+                              <p>Dès l'origine la TEI a été conçue pour être employée
                               comme un ensemble de briques qui permettent de construire
                               des schémas spécifiques pour un projet donné. Dans cet
                               esprit, la TEI propose un vocabulaire pour décrire les
@@ -2282,7 +2398,7 @@
                               schéma. Le processus d'élaboration du modèle est donc un
                               processus incrémentiel, et le schéma n'est pas d'emblée
                               figé dans le marbre.
-                              <!--TODO améliorer la rédaction.--></p>
+                              <!--TODO améliorer la rédaction.--></p></div>
                            <div>
                               <head>L'infrastructure de la TEI et la
                                  personnalisation</head>
@@ -2681,7 +2797,6 @@
                                  de Roma un ensemble d'attributs pour tout élément
                                  membre de la classe...</p>
                               <p>exemple de code</p>
-                              <p />
                            </div>
                            <div>
                               <head>Personnalisation manuelle du schéma</head>
@@ -2780,9 +2895,10 @@
                                  pertinentes.</p>
                            </div>
                         </div>
-                     </div>
                      <div>
                         <head>Tests d’encodage et ajustements</head>
+                        <p>Plusieurs tests d'encodage ont été nécessaires afin de
+                           valider ou d'infirmer les choix initiaux. Certaines </p>
                      </div>
                   </div>
                   <div>
@@ -2796,22 +2912,23 @@
                         scientifique de l'intervention éditoriale, il aurait sans doute
                         été préférable que l'ensemble des équipes éditoriales soient
                         formées à la TEI. Pour diverses raisons, notamment liées au
-                        fait que les éditeurs travaillaient en grande partie sur une
-                        base volontaire, il n'a pas été possible comme nous l'avions un
-                        moment envisagé de former des volontaires à l'encodage. Seule
-                        un des éditeurs a en partie été formée, mais son intervention
-                        est restée relativement limitée.</p>
+                        fait que les éditeurs travaillaient de manière volontaire sur
+                        le projet en sus d'autres activités, il n'a pas été possible
+                        comme nous l'avions un moment envisagé de former un certain
+                        nombre d'éditeurs à l'encodage. Seule l'un d'entre eux a en
+                        partie été formée, mais son intervention sur l'encodage est
+                        restée relativement limitée.</p>
                      <p>Rapidement, nous nous sommes orientés vers une approche
                         intermédiaire relativement classique consistant à pré-encoder
                         en utilisant un modèle de document de traitement de texte en
                         vue d'une importation automatisée en XML-TEI. Une telle
-                        solution présentait l'avantage de maintenir les éditeurs dans
-                        leur cadre de travail habituel afin de faciliter l'avancement
-                        de l'édition. Cependant l'expressivité d'un modèle de document
-                        de traitement de texte et de la TEI n'étant pas la même, une
-                        telle approche ne va pas sans poser quelques difficultés ou
-                        inconvénients dont nous voudrions maintenant rendre compte en
-                        évaluant l'approche retenue.</p>
+                        solution présentait l'avantage de maintenir les auteurs de
+                        l'édition dans leur cadre de travail habituel afin de faciliter
+                        l'avancement de l'édition. Cependant l'expressivité d'un modèle
+                        de document de traitement de texte et de la TEI n'étant pas
+                        équivalente, une telle approche n'allait pas sans poser
+                        quelques difficultés ou inconvénients dont nous voudrions
+                        maintenant rendre compte en évaluant l'approche retenue.</p>
                      <div>
                         <head>L'utilisation d'un logiciel de traitement de texte</head>
                         <p>Comme nous l'avons vu précédemment, les choix qui
@@ -2839,72 +2956,153 @@
                            par la modélisation.</p>
                         <p>De par leur utilisation généralisée, on oublie souvent que
                            les logiciels de traitement de texte dits
-                              <soCalled>WYSIWIG</soCalled> (What You See Is What You
-                           Get) présentent également un certain regard sur le texte.
-                           S'ils donnent l'impression d'éditer le document imprimé
-                           final, loin d'être des instruments neutres, ils présentent
-                           en réalité un modèle de consultation et d'édition du texte
-                           relativement contraignant. Lorsque l'on manie la TEI, il
-                           n'est pas difficile de percevoir combien celle-ci offre une
-                           plus grande expressivité. Un grand nombre de phénomènes
-                           textuels que l'on peut marquer simplement avec la TEI ne
-                           sont pas facilement traitables avec un traitement de texte.
-                           Si l'encodage n'est qu'un moyen, ce défaut d'expressivité ne
-                           va pas sans poser problème.</p>
-                        <p>Peut s'avérer utile de produire une interface de travail
-                           dépourvue de balises pour les éditeurs. Possibilité
-                           d'utiliser le mode auteur d'Oxygen. Mais avantage de
-                           travailler à partir du cadre de travail des auteurs
-                           mêmes.</p>
-                        <p>Mise en place d'un modèle de document de traitement de texte
-                           (en l'espère Microsoft Word parce qu'il était le plus
-                           utilisé au sein de l'équipe éditoriale) en vue d'une
-                           importation automatisée. Distance entre le modèle d'édition
-                           que suggère une telle interface d'édition et l'expressivité
-                           réelle du modèle XML-TEI utilisée qui a nécessité certains
-                           ajustement dont nous allons ici également rendre compte.</p>
+                              <soCalled>WYSIWIG</soCalled>  présentent également un
+                           certain regard sur le texte. S'ils donnent l'impression
+                           d'éditer le document imprimé final, loin d'être des
+                           instruments neutres, ils présentent en réalité un modèle de
+                           consultation et d'édition du texte relativement
+                           contraignant. Lorsque l'on manie la TEI, il n'est pas
+                           difficile de percevoir combien celle-ci offre une plus
+                           grande expressivité. Un grand nombre de phénomènes textuels
+                           que l'on peut marquer simplement avec la TEI ne sont pas
+                           facilement traitables avec un traitement de texte. Si
+                           l'encodage n'est qu'un moyen, ce défaut d'expressivité ne va
+                           pas sans poser problème.</p>
+                        <p>Il aurait possible de proposer aux auteurs de l'édition de
+                           travailler avec le mode auteur d'Oxygen. Une telle solution
+                           présentait l'avantage de concilier à la fois un
+                           environnement de type <soCalled>WYSIWIG</soCalled> et
+                           d'offrir toute l'expressivité de la TEI. Toutefois, elle
+                           impliquait un changement d'habitude de travail,
+                           l'apprentissage et l'installation d'un nouveau logiciel, et
+                           malgré tout un minimum de connaissances de la TEI par les
+                           éditeurs. Hormis avec deux des membres de l'équipe, il n'a
+                           pas été possible de mettre en place une telle solution. Nous
+                           sommes donc partis du cadre de travail même des auteurs de
+                           l'édition en utilisant un modèle de document de traitement
+                           de texte (en l'espère Microsoft Word parce qu'il était le
+                           logiciel le plus généralement utilisé au sein des équipes
+                           éditoriales) en vue d'une importation automatisée. La
+                           distance entre ce que permet ce modèle de document et les
+                           règles formulées et l'expressivité réelle du modèle XML-TEI
+                           utilisé a nécessité certains ajustement dont nous allons
+                           également ici rendre compte.</p>
                      </div>
                      <div>
-                        <head>La production de directives pour les éditeurs</head>
+                        <head>L'établissement de directives pour les auteurs de
+                           l'édition</head>
                         <div>
                            <head>La définition des règles</head>
-                           <p />
+                           <p>La méthodologie de production des textes retenue
+                              impliquait en fait la préparation d'une langage de
+                              pseudo-balises qui puisse servir de base à
+                              l'automatisation de la conversion. Des règles de
+                              présentation assez précises ont donc été formalisées et
+                              soumises aux auteurs de l'édition sous la forme d'un
+                                 <title>Guide de pré-encodage</title> qui est fourni en
+                              annexe.</p>
+                           <p>Puisqu'il s'agissait d'établir une correspondance entre
+                              ce que l'on souhaitait traiter avec la TEI et ce
+                              pseudo-balisage, la préparation d'un tel guide supposait
+                              au préalable d'avoir une idée claire sur l'encodage
+                              attendu en sortie. La rédaction du Guide de pré-encodage
+                              s'est donc déroulée parallèlement à celle du Guide
+                              d'encodage afin de faciliter le travail de mise en
+                              correspondance. On s'est appuyé lorsque s'était possible
+                              sur l'utilisation des styles de document de traitement de
+                              texte, ceux-ci sont en effet assez facilement
+                              récupérables au moyen d'une transformation XSLT. Deux
+                              types styles sont disponibles dans les logiciels de
+                              traitement de texte, les styles de paragraphes et les
+                              styles de caractères. Leur combinaison pouvait permettre
+                              de traiter en même temps plusieurs phénomènes comme par
+                              exemple la présence d'un titre et le marquage d'un terme
+                              technique.</p>
+                           <p>L'expressivité des styles de traitement de texte est
+                              cependant limitée lorsqu'il s'agit de fournir une version
+                              alternative du texte ou une correction. Par ailleurs,
+                              nous n'avons pas réussi à récupérer proprement les
+                              entrées d'indexation marquées avec Microsoft Word. Pour
+                              traiter ces cas de figures, nous avons donc défini une
+                              syntaxe permettant d'insérer dans le texte cette
+                              information. Cette notation constitue en réalité une
+                              forme de balisage du texte. Du point de vue du
+                              traitement, elle était conçue de sorte qu'on puisse
+                              aisément automatiser la récupération à l'aide
+                              d'expressions régulières.</p>
                         </div>
                         <div>
-                           <head>Réunions de travail</head>
-                           <p>Validation du principe d'un <soCalled>stylage</soCalled>
-                              des documents à l'aide d'un logiciel de traitement de
-                              texte en vue d'automatiser la récupération au moins de la
-                              structure des textes édités, mais également de tester
-                              l'utilisation d'une syntaxe régulière dans le corps de
-                              l'édition pour faciliter les rechercher remplacer et
-                              préparer l'encodage.</p>
-                           <p>Citer exemples d'utilisation. Montrer qu'il s'agit d'une
-                              pratique assez habituelle.</p>
-                           <p>L'objectif restait relativement modeste puisqu'on ne
-                              prévoyait pas de chaîne de conversion totalement
-                              automatisées. Néanmoins une telle démarche nécessitait en
-                              premier lieu l'adhésion de l'équipe éditoriale et la
-                              rédaction d'un guide de pré-encodage à leur attention. La
-                              formalisation d'un tel guide ne pouvait intervenir sans
-                              avoir mené au préalable une réflexion sur le modèle
-                              d'encodage XML-TEI puisqu'il s'agissait en réalité de
-                              proposer un certain nombre de pseudos balises destinées à
-                              être converties en XML-TEI.</p>
-                           <p>Réunion de présentation d'une première version du guide
-                              juin 2012.</p>
-                        </div>
-                        <div>
-                           <head>Compréhension des enjeux</head>
+                           <head>Présentation des règles aux auteurs de l'édition et
+                              compréhension des enjeux</head>
+                           <p>Une telle démarche nécessitait en premier lieu l'adhésion
+                              des auteurs de l'édition. Afin de s'assurer de
+                              l'acceptabilité des consignes formulées et de leur bonne
+                              utilisation, celles-ci ont donc au préalable été soumises
+                              aux équipes éditoriales en juin 2012. Un premier retour
+                              des auteurs de l'édition a permis d'expliciter certaines
+                              règles lorsque cela était nécessaire ou de les enrichir à
+                              l'aide d'exemples. Si les éditeurs ont accepté de bonne
+                              grâce ces consignes d'édition, nous ne sommes pas
+                              totalement persuadé que leur signification ait été bien
+                              comprise. Ainsi, certains auteurs n'ont réellement pris
+                              la mesure de leur utilité des indications apportées qu'en
+                              visionnant la version web de l'édition.</p>
                         </div>
                         <div>
                            <head>Les problèmes d’interprétation des règles</head>
+                           <p>Faute d'une bonne compréhension des enjeux, la
+                              consistance du pré-encodage a été relativement variable.
+                              Les inconsistances, ou la liberté prise avec les règles,
+                              n'ont pas toujours facilité l'importation des textes en
+                              TEI. Mais globalement, les consignes ont été mieux suivi
+                              que nous nous y attendions et les auteurs se sont montrés
+                              de très bonne volonté. Le respect des consignes a
+                              généralement permis la récupération du travail effectué,
+                              sauf quelques corrections manuelles qui se sont parfois
+                              révélées indispensables.</p>
                         </div>
                      </div>
                      <div>
                         <head>L'importation des textes pré-encodés</head>
+                        <p>En déterminant les directives pour le pré-encodage, notre
+                           objectif restait relativement modeste puisqu'il s'agissait
+                           avant tout de pouvoir récupérer la structure des textes
+                           édités. Le reste des indications était destiné à facilité
+                           les opérations de rechercher/remplacer et on ne prévoyait
+                           pas de chaîne de conversion totalement automatisée. Malgré
+                           quelques difficultés, les choix de pré-encodage se sont
+                           révélés relativement efficaces pour être traités
+                           automatiquement. L'importation des textes pré-encodés a été
+                           conduite au moyen de feuilles de transformation XSLT en
+                           s'appuyant sur les feuilles de style TEI développées par
+                           Sebastian Rahtz{TeicStylesheets}. Une série d'outils
+                           complémentaires a été développée en XSLT pour sérialiser les
+                           traitements et préparer les textes de l'édition.</p>
                         <div>
                            <head>Choix d’automatisation</head>
+                           <p>La transformation d'un document de traitement de texte en
+                              un document XML-TEI a grandement été facilitée par
+                              l'adoption de la syntaxe XML pour les formats de
+                              documents de traitement de texte. Un document au format
+                              docx est en réalité un dossier compressé qui comporte
+                              plusieurs répertoires et fichiers dont un fichier
+                              content.xml qui contient le texte du document et des
+                              indications de mise en forme. Dès lors, il est
+                              relativement aisé de transformer ce fichier XML en un
+                              autre fichier XML d'une syntaxe différente en employant
+                              le langage de programmation XSLT.</p>
+                           <p>Les feuilles de styles TEI développées par Sebastian
+                              Rahtz (<title>XSL stylesheets for TEI XML</title>) sont
+                              un ensemble de transformation XSLT 2.0 destinées à la
+                              TEI. On peut à l'aide de ces feuilles de style réaliser
+                              la transformation d'un document TEI vers différents
+                              formats, HTML, LaTex, etc., ou encore transformer
+                              d'autres documents en des documents TEI. Les
+                              transformations sont personnalisables soit en leur
+                              passant des paramètres soit en faisant appel aux
+                              transformations en les incluant dans un autre fichier et
+                              en surchargeant les règles (utilisation d'un <foreign
+                                 xml:lang="eng">wrapper</foreign>).</p>
                         </div>
                         <div>
                            <head>Création des feuilles de style d’importation</head>
