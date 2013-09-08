@@ -3133,8 +3133,10 @@
                         <div>
                            <head>La création des feuilles de style pour
                               l'importation</head>
-                           <p>La récupération des segments textuels marqués avec
-                              l'utilisation de style dans le logciel de traitement de
+                           <div>
+                              <head>La récupération de la macro-structure du document</head>
+                              <p>La récupération des segments textuels marqués avec
+                              l'utilisation de style dans le logiciel de traitement de
                               texte ne posait guère de problème puisqu'il suffisait de
                               manipuler un élément XML déjà présent dans le document.
                               En dehors de la structure du texte déjà prise en charge
@@ -3142,7 +3144,35 @@
                               occuper des styles de caractères que nous avions définis
                               dans le modèle de document word pour marquer les entrées
                               d'index et les termes techniques.</p>
-                           <p>Afin de faciliter le travail d'importation, nous avions
+                              <p>Comme les notes sont gérées dans un fichier séparé, on
+                                 utilise la transformation notes.xsl pour préparer le
+                                 fichier de notes. Cette transformation emploie
+                                 plusieurs modes pour réalisés plusieurs traitements
+                                 successifs. Un premier traitement génère à la place
+                                 d'éléments <gi>divGen</gi> plusieurs éléments <gi>div</gi> qui
+                                 regroupent les différents types de notes en les
+                                 numérotant. Puis un second remplace les notes dans le
+                                 texte par un élément <gi>ref</gi>.</p></div>
+                           <div>
+                              <head>La récupération de la liste des figures (figures.xsl)</head>
+                              <p>Les auteurs de l'édition légendaient ou décrivaient
+                                 les figures à part dans un tableau dont le modèle leur
+                                 avait été communiqué par avance. La récupération du
+                                 contenu de ce tableau n'a posé aucune difficulté.
+                                 Après transformation du document de traitement de
+                                 texte en document XML, nous avons utilisé une simple
+                                 feuille de style navigante pour récupérer les données
+                                 selon la structure voulue.</p>
+                              <p>Il aurait peut-être été possible d'utiliser le même
+                                 processus pour récupérer les informations descriptives
+                                 sur les manuscrits et composer l'en-tête du fichier TEI. Mais
+                                 compte-tenu du caractère crucial des métadonnées
+                                 présentées dans l'en-tête, on a préféré remplir
+                                 manuellement les informations afin d'en unifier la présentation.</p>
+                           </div>
+                           <div>
+                              <head>L'utilisation d'expressions régulières</head>
+                              <p>Afin de faciliter le travail d'importation, nous avions
                               demandé aux auteurs de l'édition, outre le stylage de
                               cette portion de texte, nous avions demandé aux auteurs
                               de l'édition de fournir une entrée normalisée et, pour
@@ -3161,24 +3191,160 @@
                               compte-tenu de leur puissance. Elles sont par ailleurs
                               particulièrement utiles pour traiter des données
                               textuelles non structurées.</p>
-                           <p>Les expression</p>
+                              <p>Comme XSLT est fait pour manipuler des documents XML
+                                 et que les documents XML sont du texte, l'utilisation
+                                 d'expressions régulières avec XSLT peut s'avérer
+                                 particulièrement utiles. Avec la version 2 du langage
+                                 et XPath 2.0, les regex sont supportées par trois
+                                 nouvelles fonctions : matches(), replace() et
+                                 tokenize(). On peut également en tirer parti avec
+                                 l'élément xsl:analyze-string et ses deux éléments
+                                 optionnels xsl:matching-string et
+                                 xsl:non-matching-string. En pratique les expressions
+                                 régulières sont souvent employées dans les situations
+                                 suivantes : <list>
+                                    <item>pour le balisage lorsque l'on a besoin de
+                                       convertir du texte en XML, elles permettent
+                                       d'identifier des motifs dans le document source
+                                       et de le remplacer par des balises, par exemple
+                                       si l'on veut placer du texte entre guillemets
+                                       dans un élément <gi>p</gi> en TEI</item>
+                                    <item>lors de transformations XML quand les
+                                       contenus sont balisés de la même manière mais
+                                       contiennent des contenus différents.</item>
+                                 </list></p>
+                              <p>La transformation ttmtChaines.xsl que nous avons mis
+                                 en place utilise l'élément <gi>xsl:analyse-sting</gi>
+                                 pour parcourir le texte à l'intérieur des éléments
+                                 issus du stylage de caractère réalisé avec le
+                                 traitement de texte pour récupérer les différentes
+                                 parties de la chaîne de caractère et les traiter. En
+                                 créant les éléments <gi>term</gi>, <gi>persName</gi>,
+                                 ou <gi>placeName</gi>, on crée un attribut
+                                    <att>target</att> qui pointe vers un identifiant en
+                                 notation camelback. Cet identifiant est composé grâce
+                                 à une fonction qui elle même analyse la chaîne de
+                                 caractère qui lui est fournie en entrée.</p>
+                              <p>On extrait ensuite les entités nommées du fichier avec
+                                 getEntities.xsl pour préparer l'index. C'est
+                                 manuellement que l'on décide si la cible créée doit
+                                 être conservée ou remplacée. L'automatisation fondée
+                                 sur l'extraction de la forme régularisée du terme ou
+                                 de l'entité, ne permet en effet pas de prendre en
+                                 compte les pluriels ou les cas complexes.</p>
+                              </div>
+                           <div><head>La numérotation automatique des segments textuels
+                              (autonum.xsl)</head>
+                           <p>Comme nous l'avons expliqué plus haut, la numérotation
+                              des segments textuels était basé sur un système déterminé
+                              par leur position dans l'arborescence TEI. Cette
+                              numérotation a été produite automatiquement à l'aide
+                              d'une transformation XSLT basée sur la récursion. La
+                              transformation prend ainsi l'identifiant du témoin
+                              manuscrit comme paramètre puis compose un identifiant en
+                              navigant dans l'arbre du document XML. La transformation
+                              s'appuie sur des variables pour composer cet identifiant,
+                              elle utilise par ailleurs les fonctions de numérotation
+                              offertes par XSLT.</p></div>
+                           <div>
+                              <head>La numérotation automatique des pages et des folios
+                                 (pagination.xsl)</head>
+                              <p>Les indications de foliotage ou de pagination avaient
+                                 été prises en notes au cours de la transcription entre
+                                 crochets. Cette feuille de style utilise l'élément
+                                 XSLT 2.0 analyse-string afin de localiser ces marques
+                                 de pagination dans le texte et leur appliquer un
+                                 traitement différent selon qu'il s'agit d'une
+                                 pagination ou d'une foliotation. Elle génère les
+                                 éléments <gi>pb</gi> et <gi>fw</gi> correspondants
+                                 avec leurs attributs. Comme XSLT est un langage
+                                 fonctionnel dépourvu d'effet de bord, il n'est pas
+                                 possible d'utiliser l'incrémentation d'une variable
+                                 dans une boucle pour traiter la numérotation de ces
+                                 identifiants. Il nous a donc fallu déterminer une
+                                 règle fonctionnelle pour les produire. Cette règle
+                                 utilise la fonction mathématique du modulo pour
+                                 numéroter une page sur deux. </p>
+                           </div>
                         </div>
                         <div>
                            <head>Contrôle qualité et difficultés rencontrées</head>
-                           <p></p>
+                           <p>Sauf parfois l'introduction de marques de paragraphes
+                              inutiles dans les titres, nous n'avons rencontré aucune
+                              difficulté particulière pour récupérer la structure du
+                              texte. L'utilisation d'un modèle de document de
+                              traitement de texte pour traiter la macrostructure d'un
+                              document ou un double appareil de note se révèle
+                              relativement bien adapté. En revanche, les irrégularités
+                              dans le corpus n'ont pas permis de typer automatiquement
+                              ces divisions et cette opération a dû être réalisée
+                              manuellement. Elle aurait cependant pu être configurée
+                              spécifiquement pour chaque cours disposant de la même
+                              structure générale. Les manuscrits du toisé présentaient
+                              des paragraphes numérotés. Nous n'avons pas eu le temps
+                              de produire une transformation basée sur des expressions
+                              régulières pour modifier la structure du texte en
+                              répondant à tous les cas de figure. La mise au point
+                              d'une telle transformation, même si elle est assez
+                              complexe, pourra s'avérer utile compte-tenu du nombre de
+                              divisions à créer et du nombre de témoins.</p>
+                           <p>Lors de l'importation, plusieurs types de problèmes ont
+                              été rencontré concernant l'application des consignes.
+                              Ceux-ci concernaient des oublis, un mauvais
+                              positionnement du style de caractère provoquant un
+                              problème dans la transformation. Afin de s'assurer de la
+                              qualité de la transformation réalisée, il a souvent été
+                              nécessaire de mettre en place un dispositif de contrôle
+                              qualité s'appuyant sur l'emploie d'expressions XPath afin
+                              de compter le nombre d'éléments à traiter et de vérifier
+                              le résultat de la transformation. L'utilisation de ces
+                              expressions régulière donne une idée de l'ampleur du
+                              travail : pour le seul manuscrit des ordres ce n'est pas
+                              moins de 9098 éléments balisés qui ont été passés en
+                              revue pour les seuls éléments renvoyant au glossaire
+                              technique. Sur ces entrées, une centaine d'erreurs a du
+                              être corrigée, soit une proportion relativement minime.
+                              La normalisation des entrées a en revanche été plus
+                              chronophage.</p>
+                           <p>La création automatique des éléments de pagination et de
+                              foliotage s'est révélée très efficace. Cependant elle
+                              posait des problèmes assez importants lorsque des marques
+                              de pagination avaient été oubliées ou lors d'erreurs dans
+                              la numérotation portée sur le manuscrits. Cette
+                              information étant cruciale pour la citabilité, il a fallu
+                              vérifier manuellement l'ensemble de la pagination et
+                              parfois revenir au manuscrit pour traiter les
+                              erreurs.</p>
+                           <p>Même si </p>
                         </div>
                      </div>
                      <div>
                         <head>Évaluation de l’approche</head>
-                        <div>
-                           <head>Problèmes non identifiés</head>
-                        </div>
-                        <div>
-                           <head>Évaluation de la qualité des fichiers produits</head>
-                        </div>
-                        <div>
-                           <head>Les différences d’expressivité</head>
-                        </div>
+                        <p>Bien que l'importation automatique des documents de
+                           traitement de texte ne se soit pas avérées dépourvue
+                           d'écueil ou de difficultés, l'utilisation de transformation
+                           XSLT s'est révélée être une solution particulièrement
+                           efficace compte-tenu de l'importance du balisage à
+                           effectuer. Sans cette automatisation, il n'aurait pas été
+                           possible de traiter manuellement l'ensemble des fichiers.
+                           Une telle automatisation nécessite cependant un contrôle
+                           qualité relativement serré, c'est pour cette raison que nous
+                           avons notamment renoncé à produire une chaîne de production
+                           continue. Il nous a en effet paru plus sûr de procéder par
+                           étape en contrôlant à chaque fois le résultat de la
+                           transformation. Une telle approche permettait également de
+                           corriger au cas par cas les différents problèmes de respect
+                           des consignes. Toutefois, rapportées au nombre d'éléments
+                           marqués, et malgré plusieurs inconsistances entre les
+                           fichiers, on a été relativement surpris par la qualité du
+                           travail effectué. Par ailleurs, l'expressivité du
+                           pseudo-balisage ne permettant pas de traiter complètement
+                           tous les besoins, il a été nécessaire de revenir à la main
+                           sur certains éléments. Si l'utilisation d'un modèle de
+                           document word pour préparer une édition critique XML-TEI ne
+                           constitue pas une approche idéale, c'est une méthode
+                           possible et efficace pour préparer l'édition moyennant un
+                           important travail de post-traitement.</p>
                      </div>
                   </div>
                </div>
