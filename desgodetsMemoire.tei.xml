@@ -875,7 +875,7 @@
                                     <cell>1722-1728</cell>
                                  </row>
                               </table></p>
-                           <p> Avec Desgodets, et après l'épisode <persName>de La
+                           <p>Avec Desgodets, et après l'épisode <persName>de La
                                  Hire</persName>, l'enseignement de l'architecture
                               revient à un architecte. <persName>Antoine
                                  Desgodets</persName> (<date from="1719" to="1728"
@@ -885,11 +885,37 @@
                               l'enseignement de <q>la géométrie appliquée à
                                  l'architecture</q> et de l'architecture proprement
                               dite, cela avant la division de la chaire qui intervient
-                                 <date when="1730">en 1730</date>.</p>
+                                 <date when="1730">en 1730</date>. <table>
+                                 <row>
+                                    <cell>Dessein et perspective</cell>
+                                    <cell>1727-1728</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Coupe des pierres</cell>
+                                    <cell>1727-1728</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Toisé</cell>
+                                    <cell>1724, 1726-1728</cell>
+                                 </row>
+                              </table></p>
+                           <p>On peut remarquer que l'enseignement de Desgodets est
+                              principalement centré sur l'architecture. S'il aborde la
+                              géométrie, le cours l'aborde dans sa dimension pratique
+                              pour l'architecte.</p>
+                           <p>En pratique, l'étude des affiches des cours montre que
+                              l'architecte pouvait aborder plusieurs sujets la même
+                              année, de même un même cours pouvait se succéder sur
+                              plusieurs années.</p>
                         </div>
                         <div>
                            <head>Le cours des Ordres</head>
-                           <p />
+                           <p>Le sujet du cours sur les ordres est un sujet
+                              relativement classique dans le domaine de l'enseignement
+                              architectural. Ayant mesuré les édifices antiques de
+                              Rome, l'architecte était tout indiqué pour proposer un
+                              tel cours qui lui offre l'occasion de formuler une
+                              théorie sur la question.</p>
                         </div>
                         <div>
                            <head>Le cours des Commodités</head>
@@ -945,6 +971,12 @@
                            prenaient la forme d'une dictée. À l'appui, il cite le
                            manuscrit de <sic>Pinart</sic> conservé au département des
                            estampes de la Bibliothèque nationale de France.</p>
+                        <p>D'après les lettres patentes de 1717, les élèves de
+                           l'Académie devaient suivre une formation pendant trois ans.
+                           Lorsque des nouveaux élèves n'avaient pu assister au début
+                           des leçons, ils avaient al possibilité de recopier, ce qui
+                           permet de supposer que les cours étaient laissés à
+                           disposition par les professeurs.</p>
                         <p>Copies manuscrites d'un prononcé oral. Copies ou prises de
                            notes (sans doute copie comme peut le déduire de la mise au
                            propre).</p>
@@ -1014,11 +1046,12 @@
                            les planches ont été insérées en regard du texte au moment
                            de la reliure. Les solutions adoptées pour l'édition devront
                            donc tenir compte de cette diversité.</p>
-                        <p>Choix des matériaux auquel s’applique pas si commun pour les
-                           Commodités et le toisé.</p>
-                        <p>Expliquer pourquoi pour le toisé : objet d’un savoir
+                        <p>??Choix des matériaux auquel s’applique pas si commun pour
+                           les Commodités et le toisé.</p>
+                        <p>??Expliquer pourquoi pour le toisé : objet d’un savoir
                            technique et géométrique.</p>
-                        <p>Expliquer pourquoi pour la commodité : nouveaux modèles.</p>
+                        <p>??Expliquer pourquoi pour la commodité : nouveaux
+                           modèles.</p>
                      </div>
                   </div>
                </div>
@@ -1071,7 +1104,7 @@
                            couches et états successifs du texte ; l'édition "variorum",
                            qui donne le texte accompagné, outre l'apparat normal des
                            variantes, de toutes les solutions des éditeurs
-                           précédents.</quote>{Bourgain 2002}.</p>
+                           précédents.</quote><note place="foot"><p>{Bourgain 2002}</p></note>.</p>
                      <p>Même si le domaine de l'édition scientifique a connu de
                         profonds changements au cours de ces dernières années avec
                         l'irruption du numérique, les opérations de bases de toute
@@ -1134,9 +1167,9 @@
                      <head>L’établissement du texte</head>
                      <p>Comme le relevait déjà Jean Varloot en 1980, <q>l'édition de
                            textes français moderne est un domaine qui est loin d'être
-                           l'objet de lois ou d'usages admis par tous</q>{Varloot
-                        1981}. Malgré les efforts des érudits du <date from="1800"
-                           to="1899">XIXe siècle</date> et la création d'importantes
+                           l'objet de lois ou d'usages admis par tous</q><note place="foot"><p>{Varloot
+                        1981}</p></note>. Malgré les efforts des érudits du <date from="1800"
+                           to="1899">XIX<hi rend="superscript">e</hi> siècle</date> et la création d'importantes
                         collections scientifiques, ou plusieurs grandes entreprises
                         d'œuvres complètes, il subsiste une grande variabilité dans les
                         conceptions et surtout dans les pratiques. En outre, par
@@ -1144,7 +1177,7 @@
                            sources documentaires, ont généralement tardé, en France
                            particulièrement, à intégrer une interrogation de méthode
                            sur les implications de leur
-                        travail</q>{ConseilsPourLéditionDes 2001}. En l'absence de
+                        travail</q><note place="foot"><p>{ConseilsPourLéditionDes 2001}</p></note>. En l'absence de
                         règles clairement établies et partagées dans la communauté
                         scientifique, la définition d'un protocole de transcription du
                         texte s'est avérée plutôt difficile.</p>
@@ -1152,7 +1185,7 @@
                         transcription des textes anciens publié sous la direction de
                            <persName>Bernard Barbiche</persName> et <persName>Monique
                            Châtenet</persName> par
-                        l'<orgName>Inventaire</orgName>{Barbiche 1993}. Dans la mesure
+                        l'<orgName>Inventaire</orgName><note place="foot"><p>{Barbiche 1993}</p></note>. Dans la mesure
                         où ces indications sont relativement sommaires et datent des
                         années 1990, celles-ci méritent une mise à jour et une révision
                         de fonds en comble, notamment pour prendre acte de l'irruption
@@ -1171,9 +1204,7 @@
                            mis sur pied. En l'absence de recommandations récentes pour
                            l'édition des textes de l'époque moderne, c'est le travail publié par Bernard
                               Barbiche et ses collègues dans la collection de
-                              l'Inventaire qui fait référence<note place="foot">
-                                 <p>{Barbiche}</p>
-                              </note>. L'équipe de
+                              l'Inventaire qui fait référence<note place="foot"><p>{Barbiche 1993}</p></note>. L'équipe de
                            transcripteurs a donc formulé les premières propositions
                            concernant la transcription des manuscrits à partir de ces
                            indications. Toutefois, eût égard aux besoins particuliers
@@ -1244,19 +1275,19 @@
                            témoins les uns par rapport aux autres. Cette opération
                            consiste à comparer le texte des différents manuscrits en
                            repérant les leçons variantes en chaque lieu variant des
-                           témoins du texte{Bourgain 2002@210}. Le projet initial
+                           témoins du texte<note place="foot"><p>{Bourgain 2002@210}</p></note>. Le projet initial
                            prévoyait l'utilisation d'un logiciel développé par
                               l'<orgName>Institut des textes et manuscrits modernes
                               (ITEM)</orgName> pour les études de génétique
-                           textuelle{Item}. Ce logiciel, EDITE MEDITE, posait des
+                           textuelle<note place="foot"><p>{Item}</p></note>. Ce logiciel, EDITE MEDITE, posait des
                            problèmes de versions de système d'exploitation pour pouvoir
                            être installé sur l'ensemble des postes de travail des
                            membres des équipes d'édition. Une autre solution logicielle
                            a donc été recherchée.</p>
                         <p>Plusieurs logiciels ont été identifiés comme pouvant
                            répondre au besoin du projet : l'outil Unix Diff,
-                           Versionning-Machine{VersioningMachine}, CollateX{Collatex},
-                           ou encore Juxta{JuxtaCollationSoftwareFor}. Après plusieurs
+                           Versionning-Machine{VersioningMachine}, CollateX<note place="foot"><p>{Collatex}</p></note>,
+                           ou encore Juxta<note place="foot"><p>{JuxtaCollationSoftwareFor}</p></note>. Après plusieurs
                            tests, il nous avons retenu le logiciel Juxta qui nous
                            paraissait à la fois le plus flexible et le plus simple
                            d'emploi. Le logiciel était multiplate-forme et son
@@ -1291,7 +1322,7 @@
                            d'approches plus conservatistes inspirées de
                               <persName>Joseph Bédier</persName> et qui consistent à
                            choisir un manuscrit de base en le corrigeant le moins
-                           possible{Bourgain 2002@212-213}.</p>
+                           possible<note place="foot"><p>{Bourgain 2002@212-213}</p></note>.</p>
                         <p>C'est l'approche conservatiste qui a le plus de faveur
                            aujourd'hui en France pour l'édition de sources
                            documentaires. Celle-ci, plus respectueuse de la source,
@@ -1301,8 +1332,8 @@
                            plusieurs années, et donc leur contenu étant susceptible
                            d'avoir varié au cours du temps, la production d'une édition
                            composite pouvait être défendue malgré l'interdit formulé
-                           par <persName>Pierre-Georges Castex</persName>{Varloot
-                           1981}.</p>
+                           par <persName>Pierre-Georges Castex</persName><note place="foot"><p>{Varloot
+                           1981}</p></note>.</p>
                         <p>Bien sûr, il aurait été vain de prétendre rétablir le texte
                            princeps de chacun des cours à partir d'une critique
                            textuelle des différents témoins conservés. La
@@ -1310,7 +1341,7 @@
                            paraissait peu praticable compte-tenu de la proximité des
                            témoins et l'absence de certitude quant à l'existence d'un
                            prototype unique. En revanche, l'approche dite
-                              <soCalled>éclectique</soCalled> , ou tout du moins celle
+                              <soCalled>éclectique</soCalled>, ou tout du moins celle
                            de l'<soCalled>édition de référence</soCalled>, consistant à
                            choisir les variantes semblant supérieures d'un point de vue
                            interne parmi les différents manuscrits, pouvait avoir le
@@ -1322,7 +1353,7 @@
                            rapportant en note les variantes que présentaient les autres
                            états par rapport au texte de base comme le suggère le Guide
                            de <persName>Bernard Barbiche</persName> et
-                              <persName>Monique Châtenet</persName>{Barbiche}. Cette
+                           <persName>Monique Châtenet</persName><note place="foot"><p>{Barbiche 1993}</p></note>. Cette
                            approche privilégie la source primaire mais il faut
                            également avoir conscience qu'elle présente plusieurs
                            inconvénients. D'abord, elle favorise l'intégration des
@@ -1348,7 +1379,8 @@
                            déterminer les critères de choix du manuscrit maître. À cet
                            égard <q>chaque texte, en fonction de son histoire propre,
                               impose un choix particulier.</q> dit
-                              <persName>Beugnot</persName>{Varloot 1981}. Les équipes
+                           <persName>Beugnot</persName><note place="foot"><p>{Varloot
+                              1981}</p></note>. Les équipes
                            éditoriales ont donc été laissées libre de proposer un
                            manuscrit maître pour le cours qu'elles éditaient en
                            justifiant de leur critères de choix d'après une grille
@@ -1369,7 +1401,7 @@
                            commencent par un titre identique faisant référence au texte
                            prononcé à partir du <date when="1724-11-13">13 novembre
                               1724</date>. L'analyse laisse penser qu'ils sont issus
-                           d'un prototype commun{Carvais 2013@34-36}.</p>
+                           d'un prototype commun<note place="foot"><p>{Carvais 2013@34-36}</p></note>.</p>
                         <p>L'équipe chargée de l'édition de ce cours a montré que si
                            l'établissement des variantes s'était révélé important pour
                            restituer ou clarifier le sens de certains passages,
@@ -1425,7 +1457,7 @@
                            Barbiche, seules ont été retenues <q>les <hi rend="bold"
                                  >variantes</hi> qui [avaient] une incidence sur le
                               sens du texte, à l'exclusion des particularités purement
-                              graphiques ou grammaticales</q>.{Barbiche}. </p>
+                              graphiques ou grammaticales.</q><note place="foot"><p>{Barbiche 1993}</p></note></p>
                      </div>
                   </div>
                   <div>
@@ -1567,7 +1599,7 @@
                         <p>S'agissant d'un cours d'architecture, nous avons vu à quel
                            point les planches et figures tiennent une place importante
                            dans l'intelligibilité du propos et sont à cet égard, pour
-                           ainsi dire, parties prenantes du texte. De surcroit,
+                           ainsi dire, parties prenantes du texte. De surcroît,
                            l'édition s'adressant principalement à des historiens de
                            l'art, il s'agissait donc d'accorder une attention
                            particulière à la consultation des images. D'une part, pour
@@ -1675,7 +1707,7 @@
                         le prestataire. Le <soCalled>cahier des charges fonctionnel
                            (CDCF)</soCalled> est un document formulant le besoin, au
                         moyen de fonctions détaillant les services rendus par le
-                        produit et les contraintes auxquelles il est soumis{Wikipédia}.
+                        produit et les contraintes auxquelles il est soumis<note place="foot"><p>{Wikipédia}</p></note>.
                         Il permet de présenter le problème dans son ensemble, et
                         d'expliciter les besoins du client en favorisant le dialogue
                         pour obtenir du prestataire la conception et la réalisation la
@@ -1705,10 +1737,10 @@
                         nous avions connaissance. Cet état de l'art nous a permis
                         d'identifier certaines fonctionnalités toujours proposées, mais
                         également des dispositifs de consultations plus ou moins
-                        adaptés à notre corpus. À cet égard, plusieurs listes de
-                        publications numériques disponibles sur le web ainsi que la
+                        adaptés à notre corpus. À cet égard, diverses listes de
+                        publications numériques disponibles sur le web<note place="foot"><p>{PhilologieÀVenir}, {Franzini}, {ScholarlyDigitalEditionsAn}</p></note> ainsi que la
                         fréquentation du séminaire organisé par <persName>Aurélien
-                           Berra</persName> à l'EHESS sur l'édition électronique nous
+                           Berra</persName> à l'EHESS sur l'édition électronique<note place="foot"><p>{PhilologieÀVenirTextes}</p></note> nous
                         ont été très précieuses.</p>
                      <p>Par ailleurs, il faut veiller à n'oublier aucun aspect
                         fonctionnel car c'est en grande partie sur la base de ce cahier
@@ -1741,7 +1773,7 @@
                            les pouvoirs adjudicateurs publics et des opérateurs
                            économiques publics ou privés pour répondre aux besoins de
                            l'administration en matière de travaux, de fournitures ou de
-                           services{Legifrance}. La procédure à mettre en œuvre pour le
+                           services<note place="foot"><p>{Legifrance}</p></note>. La procédure à mettre en œuvre pour le
                            marché est définie en fonction du montant de la dépense et
                            de la nature du marché aux articles 26 à 30 du <title>Code
                               des marchés publics</title>. En dessous d'une valeur
@@ -1757,7 +1789,7 @@
                            notamment à l'adjudicateur de négocier avec les candidats
                            ayant présenté une offre, <q>cette négociation pouvant
                               porter sur tous les éléments de l'offre, notamment sur le
-                              prix</q>{Legifrance\Article 28\}. N'ayant pas la
+                              prix</q><note place="foot"><p>{Legifrance\Article 28\}</p></note>. N'ayant pas la
                            certitude d'obtenir des offres complètement satisfaisantes,
                            une telle procédure avait la souplesse requise pour notre
                            projet. Comme nous allons le voir, celle-ci a autorisé une
@@ -1782,14 +1814,14 @@
                               contracter systématiquement avec un même prestataire
                               lorsqu'il existe une pluralité d'offres potentielles
                               susceptibles de répondre au besoin.
-                                 <bibl>{Legifrance\Article 28, modifié en
-                              2011\}</bibl></quote>Selon l'article 35, entre
+                                 <bibl><note place="foot"><p>{Legifrance\Article 28, modifié en
+                              2011\}</p></note></bibl></quote>Selon l'article 35, entre
                            15 000 euros HT et 90 000 euros HT, l'adjudicateur peut
                            choisir librement les modalités de publicité adaptées en
                            fonction des caractéristiques du marché, notamment le
                            montant et la nature des travaux, des fournitures ou des
                            services en cause. Comme la dépense envisagée ne devait pas
-                           dépasser 15 000 €, et être dans tous les cas inférieure à
+                           dépasser 15 000 euros, et être dans tous les cas inférieure à
                            90 000 euros, compte-tenu de la complexité de la prestation,
                            le cadre réglementaire n'était pas très contraignant en ce
                            qui concerne notre projet.</p>
@@ -1841,9 +1873,9 @@
                            n'étant pas parvenue dans les temps à l'ANR, la passation du
                            marché a été différée le temps d’obtenir cette autorisation
                            et l'assurance de disposer des crédits nécessaires pour
-                           régler les prestataires. Cet accord n'est intervenu qu'en
-                           décembre 2012 avec une échéance pour la livraison du projet
-                           le 31 mai 2013.</p>
+                           régler les prestataires. Cet accord n'est intervenu qu'<date when="2012-12">en
+                           décembre 2012</date> avec une échéance pour la livraison du projet
+                           le <date when="2013-01-31">31 mai 2013</date>.</p>
                         <p>Un échéancier a été produit conjointement avec le
                            prestataire et les équipes éditoriales pour répondre à ces
                            délais. En pratique le calendrier n'a pas été complètement
@@ -1885,7 +1917,7 @@
                            d'interopérabilité</title> publié en 2009, la Direction
                         générale de la modernisation de l'État recommande l'utilisation
                         des technologies XML à des fins
-                        d'opérabilité{MinistreDuBudgetDes 2009@26}. Par ailleurs, le
+                        d'opérabilité<note place="foot"><p>{MinistreDuBudgetDes 2009@26}</p></note>. Par ailleurs, le
                         dialecte XML de la Text Encoding Initiative (TEI) s'est très
                         largement imposé comme standard de fait dans le domaine de
                         l'édition numérique à caractère scientifique ces dernières
@@ -1915,7 +1947,7 @@
                            l'histoire de l'informatique. Depuis l'article séminal de
                            Coombs et ses collègues, on a pris l'habitude de distinguer
                            plusieurs types de balisages : procédural, présentationnel,
-                           ou descriptif{Coombs 1987}. La supériorité du balisage
+                           ou descriptif<note place="foot"><p>{Coombs 1987}</p></note>. La supériorité du balisage
                            descriptif sur les autres types de balisage du texte a
                            clairement été établie depuis quelques années. Un tel
                            balisage présente l'avantage notable d'assurer une meilleure
@@ -1926,7 +1958,7 @@
                         <p>La production d'un balisage descriptif consiste à identifier
                            explicitement la structure sémantique sous-jacente d'un
                            document, cela indépendamment de tout traitement déterminé à
-                           l'avance{Renear 2003}. Il s'agit distinguer explicitement à
+                           l'avance<note place="foot"><p>{Renear 2003}</p></note>. Il s'agit distinguer explicitement à
                            l'intérieur du texte différentes objets éditoriaux en les
                            encadrant par des balises dont le nom peut être arbitraire.
                            Ce faisant l'auteur d'un balisage fournit une information
@@ -2214,11 +2246,11 @@
                         <p>Dès 2002, <persName>Buzetti</persName> a avancé que la
                            structure arborescente n'était pas suffisamment expressive
                            pour rendre compte de toute la complexité d'un
-                           texte{Buzzetti 2002}, et en 2010
+                           texte<note place="foot"><p>{Buzzetti 2002}</p></note>, et en 2010
                               <persName>Schmidt</persName> a considéré que la TEI
                            constituait un mauvais modèle du texte car elle imposait des
-                           interprétations éditoriales sur le texte lui-même{Schmidt
-                           2010}. La TEI peut parfois se révéler en partie inadéquate
+                           interprétations éditoriales sur le texte lui-même<note place="foot"><p>{Schmidt
+                           2010}</p></note>. La TEI peut parfois se révéler en partie inadéquate
                            pour traiter par exemple la structure du discours ou la
                            sémantique du texte. Son modèle impose souvent de traiter
                            séparément l'encodage du texte et son inscription sur le
@@ -2257,7 +2289,7 @@
                            l'encodeur dans la structuration de l'information. Elle
                            consiste en un ensemble de préconisations qui doivent être
                            adaptées aux spécificités inhérentes à chaque projet
-                           éditorial. Comme le relève Florence Clavaud, <q>cette
+                           éditorial. Comme le relève <persName>Florence Clavaud</persName>, <q>cette
                               modularité qui garantie la flexibilité du modèle et sa
                               généralité,  peut parfois dérouter l'encodeur
                               inexpérimenté ou le confronter à des choix
@@ -2296,7 +2328,7 @@
                               en rapport, et le <hi rend="italic">schéma TEI</hi>
                                  (<foreign xml:lang="eng">TEI schema</foreign>) qui
                               définit un ensemble de règles et de contraintes
-                              syntactiques.{Guidelines 23.3}</quote></p>
+                              syntactiques.<note place="foot"><p>{Guidelines 23.3}</p></note></quote></p>
                      </div>
                      <div>
                         <head>Les partis-pris de modélisation</head>
@@ -2381,7 +2413,7 @@
                               <p>Afin de permettre une édition séparée des fichiers de
                                  chacun des témoins manuscrits, ceux-ci ont été traités
                                  de manière séparée en utilisant le standard du W3C
-                                 Xinclude{Marsh 2006}. En appliquant la même norme, on
+                                 Xinclude<note place="foot"><p>{Marsh 2006}</p></note>. En appliquant la même norme, on
                                  a traité séparément certaines section du fichier dans
                                  un répertoire séparé intitulé divs.</p>
                               <p>Dès lors que l'on employait cette structure pour
@@ -3257,7 +3289,7 @@
                               et apporter les corrections éventuellement nécessaires.
                               Aussi, nous en pratique plutôt utilisé le service de
                               conversion de fichier mis en place par le consortium TEI,
-                              OxGarage{Oxgarage}, afin de récupérer un premier fichier
+                              OxGarage<note place="foot"><p>{Oxgarage}</p></note>, afin de récupérer un premier fichier
                               XML-TEI que l'on a ensuite raffiné en lui appliquant
                               plusieurs transformations successives en fonction des cas
                               de figure.</p>
