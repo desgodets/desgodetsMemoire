@@ -1797,7 +1797,7 @@
                      <head>Le balisage du texte et le recours à la TEI</head>
                      <div>
                         <head>La notion de balisage descriptif</head>
-                        <p>Parce qu'il détermine tous les traitements informatique
+                        <p>Parce qu'il détermine tous les traitements informatiques
                            qu'il est possible d'effectuer sur le texte, le balisage a
                            historiquement constitué une question fondamentale dans
                            l'histoire de l'informatique. Depuis l'article séminal de
@@ -2046,26 +2046,25 @@
                            scientifique comme l'édition des cours de
                               <persName>Desgodets</persName>.</p>
                         <p>À de nombreux égards, une large adoption de la TEI est
-                           censée remplir une promesse d'interopérabilité et de
+                           censée répondre à un désir d'interopérabilité et de
                            pérennisation. La promesse des standards est de nous rendre
                            la vie plus aisée : TEI, XML, Unicode ont le potentiel de
                            faciliter l'échange et la réutilisation des documents, c'est
                            la raison pour laquelle on y a recours. Cependant, par sa
-                           généricité même avec la possibilité de faire des choix, ou
-                           même de l'étendre en fonction des besoins, la nature
-                           profonde de la TEI explique en grande partie les difficultés
-                           que l'on peut rencontrer lorsqu'il s'agit de rassembler des
+                           généricité même, la nature profonde de la TEI qui nécessite
+                           d'opérer des choix, ou permet d'être étendue en fonction des
+                           besoins, explique en grande partie les difficultés que l'on
+                           peut rencontrer lorsqu'il s'agit de rassembler des
                            collections de documents en termes de compatibilité. Il ne
                            suffit pas que les textes soient tous encodés en TEI pour
-                           qu'ils soient véritablement interopérables. Cela est lié au
-                           fait que chaque document est représentatif du modèle que se
-                           fait l'éditeur du texte. La compatibilité ne peut être
-                           atteinte que si plusieurs documents suivent le même ensemble
-                           de conventions.</p>
+                           qu'ils soient véritablement interopérables. Chaque document
+                           est représentatif du modèle que se fait l'éditeur du texte.
+                           La compatibilité ne peut être atteinte que si plusieurs
+                           documents suivent le même ensemble de conventions.</p>
                      </div>
                      <div>
                         <head>Un certain point de vue sur le texte</head>
-                        <p>Il convient de garder à l'esprit que n'importe quelle
+                        <p>Il convient donc de garder à l'esprit que n'importe quelle
                            représentation numérique d'un texte constitue <foreign
                               xml:lang="lat">ipso facto</foreign> une modélisation, au
                            sens où un modèle est une réduction de la réalité. Même
@@ -2994,7 +2993,7 @@
                         <div>
                            <head>La définition des règles</head>
                            <p>La méthodologie de production des textes retenue
-                              impliquait en fait la préparation d'une langage de
+                              impliquait en réalité la préparation d'un langage de
                               pseudo-balises qui puisse servir de base à
                               l'automatisation de la conversion. Des règles de
                               présentation assez précises ont donc été formalisées et
@@ -3018,18 +3017,18 @@
                               de traiter en même temps plusieurs phénomènes comme par
                               exemple la présence d'un titre et le marquage d'un terme
                               technique.</p>
-                           <p>L'expressivité des styles de traitement de texte est
+                           <p>L'expressivité des styles de traitement de texte s'avère
                               cependant limitée lorsqu'il s'agit de fournir une version
-                              alternative du texte ou une correction. Par ailleurs,
-                              nous n'avons pas réussi à récupérer proprement les
-                              entrées d'indexation marquées avec Microsoft Word. Pour
-                              traiter ces cas de figures, nous avons donc défini une
-                              syntaxe permettant d'insérer dans le texte cette
-                              information. Cette notation constitue en réalité une
-                              forme de balisage du texte. Du point de vue du
-                              traitement, elle était conçue de sorte qu'on puisse
-                              aisément automatiser la récupération à l'aide
-                              d'expressions régulières.</p>
+                              alternative du texte, une correspondance, ou une
+                              correction. Par ailleurs, nous n'avons pas réussi à
+                              récupérer proprement les entrées d'indexation marquées
+                              avec Microsoft Word. Pour traiter ces différents cas de
+                              figures, nous avons donc défini une syntaxe permettant
+                              d'insérer cette information dans le texte. Cette notation
+                              constitue en réalité une forme de balisage du texte. Du
+                              point de vue du traitement, elle était conçue de sorte
+                              qu'on puisse aisément automatiser la récupération à
+                              l'aide d'expressions régulières.</p>
                         </div>
                         <div>
                            <head>Présentation des règles aux auteurs de l'édition et
@@ -3045,21 +3044,22 @@
                               grâce ces consignes d'édition, nous ne sommes pas
                               totalement persuadé que leur signification ait été bien
                               comprise. Ainsi, certains auteurs n'ont réellement pris
-                              la mesure de leur utilité des indications apportées qu'en
-                              visionnant la version web de l'édition.</p>
+                              la mesure de l'utilité de leur travail qu'en visionnant
+                              la version web de l'édition.</p>
                         </div>
                         <div>
                            <head>Les problèmes d’interprétation des règles</head>
-                           <p>Faute d'une bonne compréhension des enjeux, la
-                              consistance du pré-encodage a été relativement variable.
-                              Les inconsistances, ou la liberté prise avec les règles,
+                           <p>Faute d'une bonne compréhension des enjeux, la qualité du
+                              pré-encodage a été relativement variable. Les
+                              inconsistances, ou la liberté prise avec les règles,
                               n'ont pas toujours facilité l'importation des textes en
-                              TEI. Mais globalement, les consignes ont été mieux suivi
-                              que nous nous y attendions et les auteurs se sont montrés
-                              de très bonne volonté. Le respect des consignes a
-                              généralement permis la récupération du travail effectué,
-                              sauf quelques corrections manuelles qui se sont parfois
-                              révélées indispensables.</p>
+                              TEI. Mais globalement, les consignes ont été mieux
+                              suivies que nous nous y attendions, et les auteurs de
+                              l'édition ont fait preuve d'une très bonne volonté.
+                              Ainsi, le respect des consignes a généralement permis la
+                              récupération du travail effectué, sauf quelques
+                              corrections manuelles qui se sont parfois révélées
+                              indispensables.</p>
                         </div>
                      </div>
                      <div>
@@ -3067,11 +3067,11 @@
                         <p>En déterminant les directives pour le pré-encodage, notre
                            objectif restait relativement modeste puisqu'il s'agissait
                            avant tout de pouvoir récupérer la structure des textes
-                           édités. Le reste des indications était destiné à facilité
+                           édités. Le reste des indications était destiné à faciliter
                            les opérations de rechercher/remplacer et on ne prévoyait
                            pas de chaîne de conversion totalement automatisée. Malgré
                            quelques difficultés, les choix de pré-encodage se sont
-                           révélés relativement efficaces pour être traités
+                           révélés suffisamment efficaces pour être traités
                            automatiquement. L'importation des textes pré-encodés a été
                            conduite au moyen de feuilles de transformation XSLT en
                            s'appuyant sur les feuilles de style TEI développées par
@@ -3079,7 +3079,7 @@
                            complémentaires a été développée en XSLT pour sérialiser les
                            traitements et préparer les textes de l'édition.</p>
                         <div>
-                           <head>Choix d’automatisation</head>
+                           <head>Les choix d’automatisation</head>
                            <p>La transformation d'un document de traitement de texte en
                               un document XML-TEI a grandement été facilitée par
                               l'adoption de la syntaxe XML pour les formats de
@@ -3089,8 +3089,10 @@
                               content.xml qui contient le texte du document et des
                               indications de mise en forme. Dès lors, il est
                               relativement aisé de transformer ce fichier XML en un
-                              autre fichier XML d'une syntaxe différente en employant
-                              le langage de programmation XSLT.</p>
+                              autre fichier XML dans une syntaxe différente en
+                              employant le langage de programmation XSLT dont c'est la
+                              destination.</p>
+                           <p>?? schéma</p>
                            <p>Les feuilles de styles TEI développées par Sebastian
                               Rahtz (<title>XSL stylesheets for TEI XML</title>) sont
                               un ensemble de transformation XSLT 2.0 destinées à la
@@ -3102,13 +3104,68 @@
                               passant des paramètres soit en faisant appel aux
                               transformations en les incluant dans un autre fichier et
                               en surchargeant les règles (utilisation d'un <foreign
-                                 xml:lang="eng">wrapper</foreign>).</p>
+                                 xml:lang="eng">wrapper</foreign>). Nous avions d'abord
+                              envisagé d'utiliser ce mécanisme pour réaliser une
+                              transformation personnalisée des fichiers Word.</p>
+                           <p>Après plusieurs essais, nous avons renoncé à cette
+                              approche. En partie à cause de l'inconsistance du
+                              pré-encodage, il nous est rapidement paru plus commode de
+                              travailler de manière incrémentielle sur les fichiers
+                              afin de pouvoir contrôler plus finement la transformation
+                              et apporter les corrections éventuellement nécessaires.
+                              Aussi, nous en pratique plutôt utilisé le service de
+                              conversion de fichier mis en place par le consortium TEI,
+                              OxGarage{Oxgarage}, afin de récupérer un premier fichier
+                              XML-TEI que l'on a ensuite raffiné en lui appliquant
+                              plusieurs transformations successives en fonction des cas
+                              de figure.</p>
+                           <p>Ce n'est donc pas une chaîne de traitement complètement
+                              automatisée qui a été mise en place. Faute de temps, il
+                              n'a malheureusement pas été possible de reprendre les
+                              feuilles de styles que nous avions écrites pour les
+                              réunir en une seule transformation qui puisse venir
+                              surcharger les transformations de Sebastian Rahtz. La
+                              quantité de fichiers à traiter cinq au total, et leurs
+                              différences, n'était pas suffisante pour justifier cet
+                              effort même si cela aurait été plus satisfaisant
+                              intellectuellement.</p>
                         </div>
                         <div>
-                           <head>Création des feuilles de style d’importation</head>
+                           <head>La création des feuilles de style pour
+                              l'importation</head>
+                           <p>La récupération des segments textuels marqués avec
+                              l'utilisation de style dans le logciel de traitement de
+                              texte ne posait guère de problème puisqu'il suffisait de
+                              manipuler un élément XML déjà présent dans le document.
+                              En dehors de la structure du texte déjà prise en charge
+                              par les feuilles de style TEI, il nous restait à nous
+                              occuper des styles de caractères que nous avions définis
+                              dans le modèle de document word pour marquer les entrées
+                              d'index et les termes techniques.</p>
+                           <p>Afin de faciliter le travail d'importation, nous avions
+                              demandé aux auteurs de l'édition, outre le stylage de
+                              cette portion de texte, nous avions demandé aux auteurs
+                              de l'édition de fournir une entrée normalisée et, pour
+                              les index patronymique et toponymique, un identifiant
+                              pérenne dans le catalogue de la bibliothèque nationale de
+                              France. La récupération de ces informations nécessitait
+                              l'utilisation d'une expression régulière. Une expression
+                              régulière, ou regex (<foreign xml:lang="eng">regular
+                                 expression</foreign>), ou encore expression
+                              rationnelle, désigne une chaîne de caractères que l'on
+                              appelle parfois un motif (<foreign xml:lang="eng"
+                                 >pattern</foreign>) et qui décrit un ensemble de
+                              chaînes de caractères selon une syntaxe
+                              donnée{Wikipédiaa}. Celles-ci sont souvent utilisées en
+                              informatique dans la manipulation et le contrôle de texte
+                              compte-tenu de leur puissance. Elles sont par ailleurs
+                              particulièrement utiles pour traiter des données
+                              textuelles non structurées.</p>
+                           <p>Les expression</p>
                         </div>
                         <div>
                            <head>Contrôle qualité et difficultés rencontrées</head>
+                           <p></p>
                         </div>
                      </div>
                      <div>
