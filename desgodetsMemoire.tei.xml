@@ -1797,20 +1797,20 @@
                      <head>Le balisage du texte et le recours à la TEI</head>
                      <div>
                         <head>La notion de balisage descriptif</head>
-                        <p>Parce qu'elle détermine tous les traitements informatique
-                           qu'il est possible d'effectuer sur le texte, la question du
-                           balisage a historiquement constitué une question
-                           fondamentale dans l'histoire de l'informatique. Depuis
-                           l'article séminal de Coombs et ses collègues, on a pris
-                           l'habitude de distinguer plusieurs types de balisages :
-                           procédural, présentationnel, ou descriptif{Coombs 1987}. La
-                           supériorité du balisage descriptif sur les autres types de
-                           balisage du texte a clairement été établie depuis quelques
-                           années. Il présente l'avantage notable d'assurer une
-                           meilleure distinction entre le contenu de la forme (et donc
-                           de séparer les traitements). Cette distinction garantie une
-                           meilleure maintenance du texte encodé et une meilleure
-                           portabilité des artefacts numériques.</p>
+                        <p>Parce qu'il détermine tous les traitements informatique
+                           qu'il est possible d'effectuer sur le texte, le balisage a
+                           historiquement constitué une question fondamentale dans
+                           l'histoire de l'informatique. Depuis l'article séminal de
+                           Coombs et ses collègues, on a pris l'habitude de distinguer
+                           plusieurs types de balisages : procédural, présentationnel,
+                           ou descriptif{Coombs 1987}. La supériorité du balisage
+                           descriptif sur les autres types de balisage du texte a
+                           clairement été établie depuis quelques années. Un tel
+                           balisage présente l'avantage notable d'assurer une meilleure
+                           distinction entre le contenu de la forme (et donc de séparer
+                           les traitements). Cette distinction garantie une meilleure
+                           maintenance du texte encodé et une meilleure portabilité des
+                           artefacts numériques.</p>
                         <p>La production d'un balisage descriptif consiste à identifier
                            explicitement la structure sémantique sous-jacente d'un
                            document, cela indépendamment de tout traitement déterminé à
@@ -1846,29 +1846,31 @@
                         <p>Contrairement aux apparences, les logiciels de traitement de
                            texte qui mettent en forme les documents ne simplifient pas
                            le développement de documents en éliminant le besoin du
-                           balisage. Ce fait est devenu plus clair aujourd'hui avec
-                           l'adoption des formats XML par Microsoft Word et Open
-                           Office. Mais le balisage requis pour ces principaux formats
-                           tout en étant plus consommateur de ressources n'atteint pas
-                           la même expressivité. Par ailleurs, les dispositifs
-                           d'édition fondés sur un balisage descriptifs présentent
-                           plusieurs avantages sur le balisage fondé sur la présentation :<list>
+                           balisage. Ce fait est devenu relativement clair aujourd'hui
+                           avec l'adoption des formats XML par Microsoft Word et Open
+                           Office. Mais comme nous le verrons, le balisage requis pour
+                           ces principaux formats, tout en étant plus consommateur de
+                           ressources, n'atteint pas la même expressivité. Par
+                           ailleurs, les dispositifs d'édition fondés sur un balisage
+                           descriptif présentent plusieurs avantages sur le balisage
+                           fondé sur la présentation comme LaTex :<list>
                               <item><label n="1">1°</label> Le processus
                                  d'établissement du texte se trouve simplifié par la
                                  focalisation sur le contenu plutôt que sur le contrôle
-                                 du programme ou de la présentation typographique de la
-                                 copie (comme avec LaTex)</item>
-                              <item><label n="2">2°</label> Les problèmes de
+                                 du programme (dans le cas d'un balisage procédural) ou
+                                 de la présentation typographique de la copie (comme
+                                 avec LaTex)</item>
+                              <item><label n="2">2°</label> Les questions de
                                  maintenance sont réduits à un nombre limité de
                                  problèmes indépendants du fichier proprement dit.
                                  L'actualisation des styles et la mise à jour s'en
                                  trouvent facilitées sans risque de corruption des
                                  documents.</item>
-                              <item><label n="3">3°</label> Enfin, ils fournissent de
-                                 meilleurs standard pour l'industrie, ou dans le
-                                 domaine patrimonial et culturel en termes de
-                                 portabilité. Il permet en effet le partage aisé des
-                                 fichiers et réduit, à terme, les coûts de
+                              <item><label n="3">3°</label> Enfin, il fournissent de
+                                 meilleurs standard dans le domaine patrimonial et
+                                 culturel, ou pour l'industrie, en termes de
+                                 portabilité. Ils permettent en effet le partage aisé
+                                 des fichiers et réduisent, à terme, les coûts de
                                  publication.</item>
                            </list></p>
                         <p>Autrement dit, le balisage descriptif offre un certain
@@ -1895,28 +1897,27 @@
                            historiques, ou de sources primaires, il pourra être
                            nécessaire de traiter la matérialité physique du document.
                            Néanmoins c'est avant tout l'édition du texte qui est ici
-                           privilégiée.</p>
-                        <p>Dans une telle démarche, il convient en premier lieu de
-                           rendre la structure du texte explicite, c'est-à-dire de
-                           clarifier à la fois les relations hiérarchiques et
+                           privilégiée. Dans une telle démarche, il convient en premier
+                           lieu de rendre la structure du texte explicite, c'est-à-dire
+                           de clarifier à la fois les relations hiérarchiques et
                            séquentielles. La présence du balisage détermine la
-                           possibilité de traiter les éléments pour une transformation.
-                           Le métalangage XML permet le développement de vocabulaires
-                           descriptifs de balisages interopérables spécifiques à
-                           certains domaines. Il offre une grammaire lisible par la
-                           machine, mais pas de sémantique. Il ne peut donc à lui seul
-                           spécifier formellement une sémantique. La large adoption de
-                           vocabulaires XML spécialisés comme la TEI rendent disponible
-                           une importante information sémantique, mais seulement sous
-                           la forme d'une document en prose et de pratiques partagées.
-                           (peut laisser désirer à certains une sémantique proprement
-                           dite{Renear 2003}{Renear 2002}.) Si pas lisible par la
-                           machine, pb interopérabilité. La plupart des contenus des
-                           bibliothèques numériques aujourd'hui mis à disposition sur
-                           le web sont encodés en utilisant un balisage XML. Comme nous
-                           l'avons vu, XML propose une solution rigoureuse,
-                           compréhensible par les machines, pour définir un langage de
-                           balisage descriptif.???Revoir le passage</p>
+                           possibilité de traiter les éléments pour une transformation. </p>
+                        <p>Le métalangage informatique XML (Extensible Markup Language)
+                           permet le développement de vocabulaires descriptifs de
+                           balisages interopérables spécifiques à certains
+                           domaines{Bray 2008}. Son modèle de contenu arborescent est
+                           précisément conforme au modèle OHCO. S'il offre une
+                           grammaire lisible par la machine, il ne présente pas une
+                           réelle sémantique et ne peut donc à lui seul spécifier
+                           formellement une sémantique. XML propose simplement une
+                           solution rigoureuse, compréhensible par les machines, pour
+                           définir un langage de balisage descriptif. La plupart des
+                           contenus des bibliothèques numériques aujourd'hui mis à
+                           disposition sur le web sont encodés en utilisant un balisage
+                           XML. La large adoption de vocabulaires XML spécialisés comme
+                           la TEI rendent disponible une importante information
+                           sémantique, mais seulement sous la forme d'une document en
+                           prose et de pratiques partagées.</p>
                      </div>
                      <div>
                         <head>Le projet de la Text Encoding Initiative</head>
@@ -1929,7 +1930,7 @@
                            en fait un cadre de travail qui permet de traiter différents
                            cas de figure. Ce cadre de travail se compose d'un
                            vocabulaire, d'une documentation qui en fournit la
-                           sémantique en language naturel, et d'un ensemble de
+                           sémantique en langage naturel, et d'un ensemble de
                            recommandations rassemblées sous l'intitulé de
                               <title>Guidelines</title>. En ce sens, comme le relève
                            Florence Clavaud dans son cours, il s'agit plutôt d'une
@@ -1965,84 +1966,44 @@
                            rapport proposait un ensemble de convention pour l'encodage
                            de différent types de textes pour servir dans le domaine des
                            sciences du langage ou des sciences humaines. Cette première
-                           publication constitue un jalons important car jamais
+                           publication constitue un jalon important car jamais
                            précédemment les chercheurs n'avaient été capables de
                            formuler un consensus sur les pratiques d'encodage.</p>
-                        <p>D'abord assises sur l'utilisation de la syntaxe SGML,
-                           certains membres de la TEI participèrent au développement de
-                           la spécification XML qu'elle a adoptée dès sa première
-                           publication en 1996. Par la suite, les
-                              <title>Guidelines</title> ont été étayées par l'apport
+                        <p>Alors qu'elle était d'abord fondée sur l'utilisation de la
+                           syntaxe SGML, la TEI a adopté XML dès la première
+                           publication de sa spécification en 1996, certains membres de
+                           la TEI ayant participé à son développement. Par la suite,
+                           les <title>Guidelines</title> ont été étayées par l'apport
                            d'autres spécialités pour prendre en charge une plus grande
                            diversité de textes. On en est aujourd'hui à la 5<hi
-                              rend="superscript">e</hi> proposition numérotée P5.</p>
-                        <p><quote>The participants in the Vassar conference agreed
-                              unanimously that the TEI Guidelines should not only
-                              specify what the user should or could encode in a
-                              computer-readable text for various applications in
-                              humanities scholarship, but also how these features
-                              should be encoded---that is, a concrete syntax for the
-                              recommended and suggested tags. </quote><quote>SGML,
-                              which is a syntactic framework for developing tags sets
-                              rather than a tag set itself, was early adopted as the
-                              basis of the Association of American Publishers' standard
-                              for electronic manuscript markup, which had wide
-                              acceptance in the scholarly community.7 A survey of
-                              encoding problems at Queens University in 1986 concluded
-                              that SGML offers a better basis for research-oriented
-                              text encoding than other schemes,8 in large part because
-                              of its orientation toward descriptive markup (markup
-                              which describes function rather than form--e.g.,
-                              "emphasis" or "foreign word" rather than "italics").9
-                              Since 1987, SGML has become widely adopted by government,
-                              industry, and academic groups world-wide. Thus the TEI
-                              Guidelines, by adopting SGML, have achieved de facto
-                              compatability with a large number of other encoding
-                              schemes in addition to that of the AAP.</quote><quote>The
-                              TEI Guidelines define a general-purpose encoding scheme
-                              which enables encoding any of these views. Further, it
-                              enables the simultaneous encoding of multiple views,
-                              which is important for both research and industrial text
-                              applications. For example, the scholar reconstructing the
-                              lexicon of an ancient language from surviving parchment
-                              fragments or an industrial application for document
-                              translation must constantly switch between the levels of
-                              physical and linguistic description; the historian or
-                              anthropologist testing a theory of social interactions or
-                              customs by an investigation of textual records relating
-                              to them must switch between linguistic and propositional
-                              perspectives.</quote>{Ide 1995}</p>
-                        <p>Initiative scientifique pluridisciplinaire, 80’s.</p>
-                        <p>But : établir des pratiques et des techniques favorisant le
-                           partage des sources textuelles dans le domaine des
-                           humanités.</p>
-                        <p>Concevoir un modèle générique de structuration et de
-                           sémantisation des textes.</p>
-                        <p>Consortium TEI, gouvernance, etc.</p>
-                        <p>Utilisation du méta-langage informatique <hi rend="italic"
-                              >Extensible Markup Language </hi>(XML)</p>
-                        <p>Conçue pour baliser n’importe que type de document, la TEI
-                           s’apparente à une « ontologie du texte » FC</p>
-                        <p>Avantages de la TEI : <list>
-                              <item>modularité et flexibilité</item>
-                              <item>expressivité (niveau de granularité)</item>
-                              <item>standard reconnu internationalement
-                                 (interopérabilité, pérennité)</item>
-                              <item>propriété intrinsèque au modèle XML, séparation
-                                 présentation et contenu. Possibilité de générer
-                                 plusieurs formats de sortie à partir de la même
-                                 source</item>
-                              <item>édition électronique (croisement sources,
-                                 fac-similés, hyperliens, etc.)</item>
-                              <item>modulation de l’affichage et accessibilité, aspects
-                                 économiques</item>
+                              rend="superscript">e</hi> proposition numérotée P5, et
+                           elle est organisée autour d'un consortium et une importante
+                           communauté d'utilisateurs. Conçue un modèle générique de
+                           structuration et de sémantisation des textes, la TEI
+                           présente de nombreux avantages. On relève notamment : <list>
+                              <item>sa modularité et sa flexibilité</item>
+                              <item>son expressivité (niveau de granularité)</item>
+                              <item>qu'il s'agit d'un standard reconnu
+                                 internationalement (interopérabilité,
+                                 pérennité)</item>
+                              <item>qu'elle dispose des propriété intrinsèque au modèle
+                                 XML, séparation présentation et contenu. Possibilité
+                                 de générer plusieurs formats de sortie à partir de la
+                                 même source</item>
+                              <item>son adaptation à l'édition électronique (croisement
+                                 sources, fac-similés, hyperliens, etc.)</item>
+                              <item>les possibilités de modulation de l’affichage et
+                                 d'accessibilité, ses aspects économiques</item>
                            </list></p>
-                        <p>Implantation dans la communauté scientifique. Son
-                           implantation en France, et dans le domaine des sciences
-                           historiques et de l’histoire de l’art et de l’architecture
-                           en particulier. Projets historiques (histoire des sciences,
-                           US), et Histoire de l’art (cf. Getty) Nicole Dufournaud en
-                           France </p>
+                        <p>Outre le fait qu'elle soit rapidement apparue comme un
+                           standard de fait pour la publication de textes numériques en
+                           sciences humaines, ce sont ces qualités qui explique sa
+                           large implantation dans la communauté scientifique. Elle
+                           sert de format à de nombreux projets d'envergure
+                           internationale (Blake archive, Perseus, Rosetti, etc.).
+                           Plusieurs projet français de grande envergure utilisent
+                           également la TEI dans le domaine des sciences historiques
+                           (BVH, Thélème, ENS Lyon, etc.). ??Liens</p>
                         <p>TEI que l'on peut concevoir comme un cadre de travail
                            technique, un framework, qui accompagne l'éditeur ou
                            l'encodeur dans la structuration de l'information. (cf. FC
@@ -2203,6 +2164,22 @@
                   <div>
                      <head>La modélisation XML-TEI</head>
                      <div type="introduction">
+                        <p>La TEI peut se concevoir comme un cadre de travail
+                           technique, un framework, qui accompagne l'éditeur ou
+                           l'encodeur dans la structuration de l'information. Elle
+                           consiste en un ensemble de préconisations qui doivent être
+                           adaptées aux spécificités inhérentes à chaque projet
+                           éditorial. Comme le relève Florence Clavaud, cette
+                           modularité qui garantie la flexibilité du modèle et sa
+                           généralité mais peut parfois dérouter l'encodeur
+                           inexpérimenté ou le confronter à des choix difficiles. La
+                           définition des solutions d'encodage implique d'opérer des
+                           choix entre plusieurs solutions admissibles en en saisissant
+                           bien tous les tenants et les aboutissants. Elle implique un
+                           aller-retour continuel entre les sources textuelles à
+                           traiter et la documentation de la TEI (les
+                              <title>Guidelines</title>) afin de réévaluer les
+                           solutions d'encodage envisagées.</p>
                         <p>Besoin de personnalisation d'une part parce que le texte est
                            souvent un objet hétérogène et d'autre part car l'encodeur
                            ou l'éditeur peut avoir des objectifs différents.</p>
