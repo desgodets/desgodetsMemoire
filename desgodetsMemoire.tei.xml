@@ -173,13 +173,13 @@
                      plus troublant que la généralisation de l'informatique personnelle
                      à laquelle on a assisté ces trois dernières décennies aurait pu
                      permettre d'envisager de manière nouvelle et bien plus efficace
-                     l'important effort de publications de sources primaires conduit
+                     l'important effort de publication de sources primaires conduit
                      depuis plusieurs siècles. Au-delà de la publication de ces seules
                      sources, c'est l'ensemble de la communication scientifique et des
                      modalités de productions des savoirs qui se trouve depuis quelques
-                     années déjà bouleversée par l’irruption des technologies
-                     numériques. Les conséquences de ce bouleversement tardent pourtant
-                     à être actées dans la plupart des disciplines historiques.</p>
+                     années bouleversé par l’irruption des technologies numériques. Les
+                     conséquences de ce bouleversement tardent pourtant à être actées
+                     dans la plupart des disciplines historiques.</p>
                   <p>Prenant comme objet même l'observation et l'accompagnement de ces
                      transformations, le courant des <soCalled>Digital
                         humanities</soCalled> est parfois présenté comme une
@@ -205,12 +205,12 @@
                   <p>La réflexion concernant l'utilisation des moyens informatiques en
                      histoire de l'art est également relativement ancienne. De 1983 à
                      1993, Jacques Thuillier alors enseignant au Collège de France,
-                     anime et fait paraître une lettre d'information consacrée à
+                     animait et fit paraître une lettre d'information consacrée à
                      l'informatique et à l'histoire de l'art, l'<title>HAMI (Histoire
                         de l'art et moyens informatiques)</title>. Dans son premier
                      éditorial, Jacques Thuillier expliquait un certain retard dans
                      l'intérêt porté par la discipline à l'informatique par ses
-                     caractéristiques propres. Mais il lui présidait un riche
+                     caractéristiques propres. Mais il lui prédisait un riche
                         avenir :<quote>La situation s'est modifiée rapidement.
                         L'informatique s'est développée en capacité et en flexibilité
                         d'une manière prodigieuse, et désormais elle est en mesure de
@@ -233,7 +233,7 @@
                      discipline dans le domaine documentaire y figurent déjà presque
                      tous : iconclass, thesauri du Getty, systèmes descriptifs de
                      l'Inventaire, etc.</p>
-                  <p>C'est un constat amer que formule <persName>Jacques
+                  <p>Pourtant c'est un constat amer que formule <persName>Jacques
                         Thuillier</persName> en 1992 dans la <title>Revue de
                         l'art</title> au terme de plus d'une décennie
                      d'expérimentation : <q>[...] Que cette constatation soit ressentie
@@ -245,7 +245,7 @@
                      résidant dans l'émiettement des projets et de mettre le doigt sur
                      les divergences d'objectifs entre les institutions patrimoniales
                      et le secteur académique.</p>
-                  <p>Une opposition qui caractérise encore bien aujourd'hui en France
+                  <p>Cette opposition qui caractérise encore bien aujourd'hui en France
                      la situation. Si les institutions patrimoniales et culturelles ont
                      été pressées ces dernières années par des politiques
                      internationales à publier leurs collections sous forme numérique,
@@ -260,12 +260,13 @@
                   <p>Ce constat n'est pas seulement national. La <orgName>fondation
                         Kress</orgName> publiait l'année dernière un rapport sur
                      l'histoire de l'art et les Digital humanities aux
-                     États-Unis{Zorich 2012}. Dans où elles peuvent être comparées, on
-                     reconnaît assez bien dans ce rapport la situation française.
-                     Rapport ambivalent aux outils numériques d'une part, manque
-                     d'institutions de recherche engagés sur le domaine d'autre part,
-                     et plus généralement des interrogations ou sur le fait qu'ils
-                     puissent bouleverser la discipline et ses méthodes. ?? Revoir</p>
+                     États-Unis{Zorich 2012}. Dans la mesure où elles peuvent être
+                     comparées, on reconnaît assez bien dans ce rapport la situation
+                     française. Rapport ambivalent aux outils numériques d'une part,
+                     manque d'institutions de recherche engagées sur le domaine d'autre
+                     part, et plus généralement des interrogations ou sur le fait
+                     qu'ils puissent bouleverser la discipline et ses méthodes. ??
+                     Revoir</p>
                   <p><persName>Corinne Welger Barboza</persName></p>
                   <p>Pourtant, la question des digital humanities semble à l'ordre du
                      jour en histoire de l'art. Le Getty a organisé une manifestation à
@@ -2184,7 +2185,7 @@
                               en rapport, et le <hi rend="italic">schéma TEI</hi>
                                  (<foreign xml:lang="eng">TEI schema</foreign>) qui
                               définit un ensemble de règles et de contraintes
-                              syntactiques. {Guidelines 23.3}</quote></p>
+                              syntactiques.{Guidelines 23.3}</quote></p>
                      </div>
                      <div>
                         <head>Les partis-pris de modélisation</head>
@@ -2250,84 +2251,116 @@
                         <div>
                            <head>La définition d’une nomenclature pour le corpus (id
                               uniques, etc.)</head>
-                        </div>
-                        <div>
-                           <head>L'alignement du textes et les images pour ménager leur
-                              comparaison</head>
-                           <p>Les <title>Guidelines</title> proposent trois trois
-                              approches pour aligner des passages textuels lorsque l'on
-                              établit une édition critique :<list>
-                                 <label>la méthode de localisation référencée :</label>
-                                 <item>où les entrées d'apparat critique sont liées aux
-                                    blocs de texte identifiés qui contiennent les
-                                    lemmes respectifs</item>
-                                 <label>la méthode d'attachement à double point</label>
-                                 <item>où les entrées d'apparat critique sont liées à
-                                    des ponts de départ et de fin identifiées dans un
-                                    texte</item>
-                                 <label>la méthode de segmentation parallèle.</label>
-                                 <item>où les entrées d'apparat critique son encodées
-                                    au moyen d'une transcription du texte connu
-                                    invariable et de tous les témoins.</item>
-                              </list></p>
-                           <p>La méthode par segmentation parallèle est le plus
-                              couramment utilisée lors de l'encodage de sources en
-                              XML-TEI pour comparer des témoins. Cette méthode
-                              correspond également à une méthode de travail pour
-                              l'établissement du texte. Pour notre projet, nous avons
-                              retenu la première approche, celle par localisation
-                              référencée, afin de nous faciliter le travail car les
-                              manuscrits ont déjà été transcrits séparément et nous
-                              n'éditons en réalité qu'un témoin du texte de manière
-                              critique pour chaque cours, en nous contentant de
-                              signaler en note les variantes significatives des autres
-                              témoins du texte. Il s'agit donc simplement de trouver
-                              une solution pour proposer au lecteur un alignement
-                              visuel des différents témoins de la tradition du
-                              texte.</p>
-                           <p>Bien qu'elle eût été plus satisfaisante, la méthode de
-                              segmentation parallèle aurait représenté un travail plus
-                              considérable si nous avions voulu fournir toutes les
-                              variantes des témoins, surtout pour des textes où nous
-                              avons jusqu'à 15 témoins. Une telle méthode s'intégrait
-                              par ailleurs assez mal dans notre flux de production.
-                              D'une part, seules les variantes jugées significatives
-                              étaient rapportées au manuscrit maître édité, ce qui ne
-                              permettait pas de reconstituer les différents témoins
-                              intégralement. D'autre part, il n'était guère possible
-                              d'automatiser l'importation des variantes à partir d'un
-                              document de traitement de texte. Nous nous sommes donc
-                              contenter d'un récolement manuel des différents témoins
-                              pour permettre leur alignement.</p>
-                           <p>L'alignement des témoins nécessitait la détermination
-                              d'identifiants uniques pour chacun des segments textuels
-                              à traiter. Ceux-ci sont numérotés de manière systématique
-                              en fonction de leur position dans la hiérarchie textuelle
-                              (éléments div, p, seg, list, item, etc.). Un fichier
-                              externe permet d'enregistrer le travail d'alignement des
-                              témoins en utilisant l'élément TEI <gi>linkGrp</gi> et
-                              une série d'élément <gi>link</gi>. Le même mécanisme est
-                              utilisé pour aligner les figures entre les différents
-                              témoins. L'utilisation d'identifiants uniques rassemble
-                              plusieurs avantages, elle permet</p>
-                           <p>ils sont presque identiques hormis le début de
-                              l'identifiant qui renvoie au numéro d'ordre du manuscrit
-                              concerné dans le corpus. Le fait d'avoir recours à des
-                              identifiants uniques permet d'identifier précisément, à
-                              l'exclusion de toute autre, une unité textuelle ou un
-                              passage dans l'un des manuscrit. C'est donc une bonne
-                              pratique notamment pour la citabilité. Comme on utilise
-                              ici l'attribut global de XML xml:id, qui doit
-                              nécessairement être unique dans un fichier XML, il y a un
-                              contrôle d'unicité (ce contrôle s'applique à l'ensemble
-                              du corpus car il est compris dans une arborescence de
-                              fichiers XML). Enfin, le fait d'utiliser des identifiants
-                              uniques, a surtout l'avantage de permettre de traiter les
-                              regroupements de paragraphes, les interversions, les
-                              ajouts, indépendamment du manuscrit édité (et donc par la
-                              suite éventuellement d'éditer toutes les variantes du
-                              texte ou le réemploi des sources XML-TEI dans d'autres
-                              projets).</p>
+                           <p>Si le traitement de la macrostructure du texte ou de
+                              l'inscription du texte sur le support ne présentaient pas
+                              de problèmes particuliers, la principale difficulté posée
+                              par les documents à traiter résidait dans les solutions à
+                              mettre en œuvre afin d'organiser les différents éléments
+                              du corpus.</p>
+                           <div>
+                              <head>Définition d’une arborescence de fichier</head>
+                              <p>L'édition concernait la production de quatre cours qui
+                                 constituaient ensemble le corpus des cours d'Antoine
+                                 Desgodets. Du point de vue de la TEI, dès lors que
+                                 chacun des témoins manuscrits était traité dans un
+                                 fichier séparé, il paraissait logique de réunir chaque
+                                 cours au sein d'un corpus. Pour ce faire nous avons
+                                 utilisé l'une des structures proposées par la TEI avec
+                                 l'utilisation de l'élément <gi>teiCorpus</gi>.</p>
+                              <p>Afin de permettre une édition séparée des fichiers de
+                                 chacun des témoins manuscrits, ceux-ci ont été traités
+                                 de manière séparée en utilisant le standard du W3C
+                                 Xinclude{Marsh 2006}. En appliquant la même norme, on
+                                 a traité séparément certaines section du fichier dans
+                                 un répertoire séparé intitulé divs.</p>
+                              <p>Dès lors que l'on employait cette structure pour
+                                 chacun des cours, il a paru logique d'adopter la même
+                                 structure pour l'ensemble du corpus des cours de
+                                 Desgodets. Cette configuration a par la suite été
+                                 étendue à l'ensemble des parties éditoriales du site
+                                 web pour plus de facilité pour le développement.</p>
+                           </div>
+                           <div>
+                              <head>La production d'une nomenclature</head>
+                           </div>
+                           <div>
+                              <head>L'alignement du textes et les images pour ménager leur
+                                 comparaison</head>
+                              <p>Les <title>Guidelines</title> proposent trois trois
+                                 approches pour aligner des passages textuels lorsque l'on
+                                 établit une édition critique :<list>
+                                    <label>la méthode de localisation référencée :</label>
+                                    <item>où les entrées d'apparat critique sont liées aux
+                                       blocs de texte identifiés qui contiennent les
+                                       lemmes respectifs</item>
+                                    <label>la méthode d'attachement à double point</label>
+                                    <item>où les entrées d'apparat critique sont liées à
+                                       des ponts de départ et de fin identifiées dans un
+                                       texte</item>
+                                    <label>la méthode de segmentation parallèle.</label>
+                                    <item>où les entrées d'apparat critique son encodées
+                                       au moyen d'une transcription du texte connu
+                                       invariable et de tous les témoins.</item>
+                                 </list></p>
+                              <p>La méthode par segmentation parallèle est le plus
+                                 couramment utilisée lors de l'encodage de sources en
+                                 XML-TEI pour comparer des témoins. Cette méthode
+                                 correspond également à une méthode de travail pour
+                                 l'établissement du texte. Pour notre projet, nous avons
+                                 retenu la première approche, celle par localisation
+                                 référencée, afin de nous faciliter le travail car les
+                                 manuscrits ont déjà été transcrits séparément et nous
+                                 n'éditons en réalité qu'un témoin du texte de manière
+                                 critique pour chaque cours, en nous contentant de
+                                 signaler en note les variantes significatives des autres
+                                 témoins du texte. Il s'agit donc simplement de trouver
+                                 une solution pour proposer au lecteur un alignement
+                                 visuel des différents témoins de la tradition du
+                                 texte.</p>
+                              <p>Bien qu'elle eût été plus satisfaisante, la méthode de
+                                 segmentation parallèle aurait représenté un travail plus
+                                 considérable si nous avions voulu fournir toutes les
+                                 variantes des témoins, surtout pour des textes où nous
+                                 avons jusqu'à 15 témoins. Une telle méthode s'intégrait
+                                 par ailleurs assez mal dans notre flux de production.
+                                 D'une part, seules les variantes jugées significatives
+                                 étaient rapportées au manuscrit maître édité, ce qui ne
+                                 permettait pas de reconstituer les différents témoins
+                                 intégralement. D'autre part, il n'était guère possible
+                                 d'automatiser l'importation des variantes à partir d'un
+                                 document de traitement de texte. Nous nous sommes donc
+                                 contenter d'un récolement manuel des différents témoins
+                                 pour permettre leur alignement.</p>
+                              <p>L'alignement des témoins nécessitait la détermination
+                                 d'identifiants uniques pour chacun des segments textuels
+                                 à traiter. Ceux-ci sont numérotés de manière systématique
+                                 en fonction de leur position dans la hiérarchie textuelle
+                                 (éléments div, p, seg, list, item, etc.). Un fichier
+                                 externe permet d'enregistrer le travail d'alignement des
+                                 témoins en utilisant l'élément TEI <gi>linkGrp</gi> et
+                                 une série d'élément <gi>link</gi>. Le même mécanisme est
+                                 utilisé pour aligner les figures entre les différents
+                                 témoins. L'utilisation d'identifiants uniques rassemble
+                                 plusieurs avantages, elle permet</p>
+                              <p>ils sont presque identiques hormis le début de
+                                 l'identifiant qui renvoie au numéro d'ordre du manuscrit
+                                 concerné dans le corpus. Le fait d'avoir recours à des
+                                 identifiants uniques permet d'identifier précisément, à
+                                 l'exclusion de toute autre, une unité textuelle ou un
+                                 passage dans l'un des manuscrit. C'est donc une bonne
+                                 pratique notamment pour la citabilité. Comme on utilise
+                                 ici l'attribut global de XML xml:id, qui doit
+                                 nécessairement être unique dans un fichier XML, il y a un
+                                 contrôle d'unicité (ce contrôle s'applique à l'ensemble
+                                 du corpus car il est compris dans une arborescence de
+                                 fichiers XML). Enfin, le fait d'utiliser des identifiants
+                                 uniques, a surtout l'avantage de permettre de traiter les
+                                 regroupements de paragraphes, les interversions, les
+                                 ajouts, indépendamment du manuscrit édité (et donc par la
+                                 suite éventuellement d'éditer toutes les variantes du
+                                 texte ou le réemploi des sources XML-TEI dans d'autres
+                                 projets).</p>
+                           </div>
                         </div>
                         <div>
                            <head>Traitement de l’arsenal critique</head>
@@ -2337,6 +2370,7 @@
                            <div>
                               <head>Notes d’édition critique et de commentaire
                                  historique</head>
+                              <p>Notes traitées </p>
                            </div>
                            <div>
                               <head>Identification des manuscrits et production des
@@ -2359,9 +2393,6 @@
                                  pour déterminer les endroits où l'insertion du langage
                                  "étranger" est permise. </p>
                            </div>
-                        </div>
-                        <div>
-                           <head>Définition d’une arborescence de fichier</head>
                         </div>
                      </div>
                      <div>
@@ -3369,16 +3400,17 @@
                         bais d'une communication par email et l'envoi de pièces
                         jointes. Des réunions physiques ont été provoquées à
                         intervalles réguliers pour trancher des questions importantes
-                        ou des difficultés particulières.</p>
+                        ou des difficultés particulières. Chaque réunion a fait l'objet
+                        de la production d'un compte rendu.</p>
                      <p>Après communication d'échantillon de texte encodés et d'un
                         premier schéma XML-TEI, l'organisation d'une première réunion
                         au moment du lancement de la phase de réalisation a permis de
                         passer en revue les différentes fonctionnalités attendues et de
                         discuter de premières pistes de travail. Cette première réunion
                         a donné lieu à la communication d'un premier jeu de maquettes
-                        graphiques et d'un maquette fonctionnelle web qui ont ensuite
-                        servie de base à la poursuite des discussions après validation
-                        des grandes orientations ergonomiques.</p>
+                        graphiques et d'une maquette fonctionnelle de l'application web
+                        qui ont ensuite servi de base à la poursuite des discussions,
+                        après validation des grandes orientations ergonomiques.</p>
                         <p>Tout au long du développement web, nous avons fait un usage
                         relativement étendu du service de communication synchrone de
                         Microsoft Skype avec la développeuse web. Ce service c'est
@@ -3451,7 +3483,7 @@
                      <p>L'hébergement de l'application et l'infrastructure technique
                         ont été mis à disposition par le très grand équipement Adonis
                         (TGIR Adonis) aujourd'hui HumaNum. À cet effet, ce dernier nous
-                        a fourni </p>
+                        a fourni un serveur Apache hébergeant le site web </p>
                      <div>
                         <head>Options de développement</head>
                         <div>
@@ -3548,7 +3580,6 @@
                         simplifier et rationaliser l'interface utilisateur. De ce point
                         de vue, l'apport du prestataire externe a été notable dans la
                         mise au point d'une solution efficace.</p>
-                     <p />
                      <p>La développeuse web était associée au travail avec la
                         graphiste. </p>
                   </div>
@@ -4332,7 +4363,20 @@
                      mimeType="image/jpeg" />
                </figure>-->
             </div>
-            <div xml:id="desgodetsMemoireBackFr05" type="appendix">
+            <div xml:id="desgodetsMemoireBackFr05" type="colophon">
+               <head>Colophon</head>
+               <p>Ce mémoire a été entièrement rédigé en XML-TEI avec une
+                  personnalisation CSS du mode auteur de l'éditeur Oxygen.
+                  Soigneusement versionné par le service Github, il a été branché entre
+                  le 3<hi rend="superscript">e</hi> et le 18<hi rend="superscript"
+                     >e</hi> arrondissement de Paris, si ce n'est pas amour de la TEI,
+                  au moins pour la beauté du geste et à fins d'expérimentation. La
+                  gestion des références bibliographiques a été assurée par le logiciel
+                  Sente. La transformation du fichier source, prise en charge par les
+                  feuilles de transformation TEI de Sebastian Rahtz, a permis de
+                  produire le document qui a été mis en forme.</p>
+            </div>
+            <div xml:id="desgodetsMemoireBackFr06" type="appendix">
                <head>Annexes (papier)</head>
                <div>
                   <head>Site internet</head>
@@ -4353,7 +4397,7 @@
                   <head>Propositions de partenariats</head>
                </div>
             </div>
-            <div xml:id="desgodetsMemoireBackFr06" type="appendix">
+            <div xml:id="desgodetsMemoireBackFr07" type="appendix">
                <head>Fichiers informatiques (sur Github)</head>
                <div>
                   <head>Arborescence de fichiers</head>
