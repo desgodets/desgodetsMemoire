@@ -1198,7 +1198,7 @@
                               <p>{Barbiche 1993}</p>
                            </note>. L'équipe de transcripteurs a donc formulé les
                            premières propositions concernant la transcription des
-                           manuscrits à partir de ces indications. Toutefois, eût égard
+                           manuscrits à partir de ces indications. Toutefois, eu égard
                            aux besoins particuliers du projet ayant trait à la
                            comparaison des divers témoins, une modernisation de
                            l'orthographe des textes a dans un premier temps été
@@ -1658,7 +1658,7 @@
                      éditoriales dans le domaine de l'édition scientifique et d'offrir
                      un cadre le plus approprié possible à l'étude des témoins
                      manuscrits. Enfin, une telle édition devait être adaptée au
-                     caractère particulier des textes architecturaux, notamment eût
+                     caractère particulier des textes architecturaux, notamment eu
                      égard au rapport à l'image.</p>
                </div>
             </div>
@@ -1670,31 +1670,31 @@
                      intervenus dans le cours du projet avec une mission d'assistance à
                      la maîtrise d'ouvrage. Une telle mission consiste à assister le
                      porteur d'un projet dans la réalisation d'un produit. Le stage qui
-                     donne lieu à ce mémoire a directement porté sur le suivi de
+                     donne lieu à ce mémoire a directement porté sur le suivi de la
                      réalisation de l'application web et la production et le contrôle
-                     de qualité des textes en documents XML-TEI. Mais, ayant été
-                     associé en amont à chacune des phases du travail, nous sommes en
-                     mesure de rendre compte ici de toutes les phases du projet. Nous
-                     avons ainsi participé à la production du cahier des charges
-                     fonctionnels, suivi la consultation et le choix des prestataires,
-                     puis défini une modélisation XML-TEI adaptée au projet. Plus
-                     directement dans le cadre de ce stage, nous nous sommes chargés de
-                     l'importation des textes édités avec un logiciel de traitement de
-                     texte et du suivi de la conception et de la réalisation de
-                     l'application web.</p>
-                  <p>Chacune de ces interventions a mobilisé une une double
-                     compétence ; en quelque sorte, une capacité à parler deux langues.
-                     La langue habituelle du chercheur pour comprendre les besoins,
-                     mais aussi celle du technicien pour être capable de les exprimer
-                     de manière compréhensible et opérationnelle. De telles compétences
-                     sont mobilisées d'abord, au moment de la définition des
-                     fonctionnalités futures de l'application et de l’identification
-                     des standards. Ensuite, il s'agit d'exprimer de manière technique
-                     des considérations scientifiques lors de la modélisation XML-TEI.
+                     de qualité des documents XML-TEI. Mais, ayant été associé en amont
+                     à chacune des phases du travail, nous sommes en mesure de rendre
+                     compte ici de toutes les étapes du projet. Nous avons ainsi
+                     participé à la production du cahier des charges fonctionnel, suivi
+                     la consultation et le choix des prestataires, puis défini une
+                     modélisation XML-TEI adaptée au projet. Plus directement dans le
+                     cadre de ce stage, nous nous sommes chargés de l'importation des
+                     textes édités avec un logiciel de traitement de texte et du suivi
+                     de la conception et de la réalisation de l'application web.</p>
+                  <p>Chacune de ces interventions a mobilisé une double compétence ; en
+                     quelque sorte, une capacité à parler deux langues. La langue
+                     habituelle du chercheur pour comprendre les besoins, mais aussi
+                     celle du technicien pour être capable de les exprimer de manière
+                     compréhensible et opérationnelle. C'est cette double compétence
+                     qui est mobilisée lorsqu'il s'agit de définir les contours et et
+                     les fonctionnalités futures de l'application.  De même lorsqu'il
+                     s'agit d'exprimer sous une forme relativement technique des
+                     considérations scientifiques lors de la modélisation XML-TEI.
                      Enfin, lors de la production de l'application web et des textes
-                     sources, les connaissances techniques associées à une bonne
-                     maîtrise du modèle se sont souvent révélées très utiles pour
-                     trancher les difficultés rencontrées, ou les contourner.</p>
+                     sources proprement dits, les connaissances techniques associées à
+                     une bonne maîtrise du modèle se sont souvent révélées très utiles
+                     pour trancher les difficultés rencontrées, ou bien les
+                     contourner.</p>
                </div>
                <div type="chapter" n="1">
                   <head>L'Établissement d'un cahier des charges, le choix d'un
@@ -1702,17 +1702,17 @@
                   <p>La publication en ligne des Cours de Desgodets sur un site web
                      exigeait la mobilisation de certaines compétences artistiques et
                      techniques dont l'équipe était dépourvue. Il a donc été choisi de
-                     faire appel à un prestataire pour produire l'application web. Une
-                     telle décision impliquait une définition claire des besoins et des
-                     fonctionnalités attendues sous la forme d'un cahier des charges
-                     qui puisse servir de base à un appel d'offre et à l'établissement
-                     du contrat. Nous rendons compte ici de ces diverses opérations et
-                     des ajustements qui sont intervenus à cette occasion dans la
-                     définition du projet. Loin d'être triviales, ces diverses
-                     opérations constituent des étapes cruciales dans la conduite de
-                     projet. Elle déterminent non seulement le produit fini, elles
-                     peuvent également avoir des conséquences légales et financières
-                     importantes.</p>
+                     faire appel à un prestataire pour produire le site web devant
+                     accueillir l'édition numérique. Une telle décision impliquait une
+                     définition claire des besoins et des fonctionnalités attendues
+                     sous la forme d'un cahier des charges qui puisse servir de base à
+                     un appel d'offre et à l'établissement du contrat. Nous rendons
+                     compte ici de ces diverses opérations et des ajustements qui sont
+                     intervenus à cette occasion dans la définition du projet. Loin
+                     d'être triviales, ces diverses opérations constituent des étapes
+                     cruciales dans la conduite de projet. Elle déterminent non
+                     seulement le produit fini, mais  peuvent également avoir des
+                     conséquences légales et financières importantes.</p>
                   <div>
                      <head>La définition des besoins et l'établissement du cahier des
                         charges</head>
@@ -1724,8 +1724,8 @@
                         également contenir des indications concernant les modalités de
                         réalisation, ses délais, la conduite du projet et les étapes de
                         validation. C'est une pièce essentielle dans le cadre d'une
-                        procédure d'appel d'offre car c'est sur la base de ce cahier
-                        des charges que le prestataire va formuler son offre.</p>
+                        procédure de marché car c'est sur la base de ce cahier des
+                        charges que le prestataire va formuler son offre.</p>
                      <p>Le but d'un projet étant d'abord de satisfaire un besoin, aussi
                         est-il nécessaire d'exprimer clairement les objectifs à
                         atteindre afin d'éviter tout malentendu avec le prestataire. Au
@@ -1746,7 +1746,7 @@
                         des solutions techniques particulières, d'autre part de laisser
                         une relative latitude aux prestataires dans leur proposition
                         afin de pouvoir comparer les solutions proposées. Une telle
-                        distinction avait également le mérite de bien distinguer les
+                        distinction avait également le mérite de bien séparer les
                         aspects qui relevaient de la responsabilité du prestataire de
                         celle du commanditaire.</p>
                      <p>La production d'un cahier des charges fonctionnel nécessite de
@@ -1760,16 +1760,20 @@
                         savoirs divers aussi bien techniques que scientifiques.</p>
                      <p>La rédaction d'un tel cahier des charges suppose d'avoir établi
                         une bonne analyse fonctionnelle des besoins. Dans une phase
-                        préliminaire, nous avons pris le temps d'établir de manière
+                        préliminaire, nous avons pris le temps de formuler de manière
                         informelle un état de l'art des éditions électroniques dont
-                        nous avions connaissance. Cet état de l'art nous a permis
+                        nous avions connaissance. Ce repérage nous a permis
                         d'identifier certaines fonctionnalités toujours proposées, mais
-                        également des dispositifs de consultations plus ou moins
-                        adaptés à notre corpus. À cet égard, diverses listes de
-                        publications numériques disponibles sur le web<note place="foot"><p>{PhilologieÀVenir}, {Franzini}, {ScholarlyDigitalEditionsAn}</p></note> ainsi que la
-                        fréquentation du séminaire organisé par <persName>Aurélien
-                           Berra</persName> à l'EHESS sur l'édition électronique<note place="foot"><p>{PhilologieÀVenirTextes}</p></note> nous
-                        ont été très précieuses.</p>
+                        également des dispositifs de consultation plus ou moins adaptés
+                        à notre corpus. À cet égard, diverses listes de publications
+                        numériques disponibles sur le web<note place="foot">
+                           <p>{PhilologieÀVenir}, {Franzini},
+                              {ScholarlyDigitalEditionsAn}</p>
+                        </note> ainsi que la fréquentation du séminaire organisé par
+                           <persName>Aurélien Berra</persName> à l'EHESS sur l'édition
+                           électronique<note place="foot">
+                           <p>{PhilologieÀVenirTextes}</p>
+                        </note> nous ont été très précieuses.</p>
                      <p>Par ailleurs, il faut veiller à n'oublier aucun aspect
                         fonctionnel car c'est en grande partie sur la base de ce cahier
                         des charges fonctionnel que sera établi le marché avec le
@@ -1801,15 +1805,17 @@
                            les pouvoirs adjudicateurs publics et des opérateurs
                            économiques publics ou privés pour répondre aux besoins de
                            l'administration en matière de travaux, de fournitures ou de
-                           services<note place="foot"><p>{Legifrance}</p></note>. La procédure à mettre en œuvre pour le
-                           marché est définie en fonction du montant de la dépense et
-                           de la nature du marché aux articles 26 à 30 du <title>Code
-                              des marchés publics</title>. En dessous d'une valeur
-                           estimée de 130 000 euros les marchés de services peuvent
-                           faire l'objet d'une <soCalled>procédure adaptée</soCalled>.
-                           Compte-tenu des sommes disponibles, la réalisation de
-                           l'application web de l'édition électronique des cours de
-                           Desgodets entrait dans ce cas de figure.</p>
+                              services<note place="foot">
+                              <p>{Legifrance}</p>
+                           </note>. La procédure à mettre en œuvre pour le marché est
+                           définie en fonction du montant de la dépense et de la nature
+                           du marché aux articles 26 à 30 du <title>Code des marchés
+                              publics</title>. En dessous d'une valeur estimée de
+                           130 000 euros, les marchés de services peuvent faire l'objet
+                           d'une <soCalled>procédure adaptée</soCalled>. Compte-tenu
+                           des sommes disponibles, la réalisation de l'application web
+                           de l'édition électronique des cours de Desgodets entrait
+                           dans ce cas de figure.</p>
                         <p>La <soCalled>procédure adaptée</soCalled> est moins rigide
                            que la <soCalled>procédure formalisée</soCalled> qui
                            nécessite l'établissement de documents contractuels
@@ -1824,8 +1830,8 @@
                            redéfinition des objectifs sur la base du cahier des charges
                            en fonction de l'offre du prestataire.</p>
                         <p>Les II et III de l'article 28 du Code des marchés publics
-                           fixe également les conditions de publicité et de mise en
-                              concurrence :<quote>II. - Le pouvoir adjudicateur peut
+                           fixent également les conditions de publicité et de mise en
+                           concurrence : <quote>II. - Le pouvoir adjudicateur peut
                               décider que le marché sera passé sans publicité ni mise
                               en concurrence préalables dans les situations décrites au
                               II de l'article 35 ou lorsque ces formalités sont
@@ -1841,94 +1847,102 @@
                               une bonne utilisation des deniers publics et à ne pas
                               contracter systématiquement avec un même prestataire
                               lorsqu'il existe une pluralité d'offres potentielles
-                              susceptibles de répondre au besoin.
-                                 <bibl><note place="foot"><p>{Legifrance\Article 28, modifié en
-                              2011\}</p></note></bibl></quote>Selon l'article 35, entre
-                           15 000 euros HT et 90 000 euros HT, l'adjudicateur peut
-                           choisir librement les modalités de publicité adaptées en
-                           fonction des caractéristiques du marché, notamment le
-                           montant et la nature des travaux, des fournitures ou des
-                           services en cause. Comme la dépense envisagée ne devait pas
-                           dépasser 15 000 euros, et être dans tous les cas inférieure à
+                              susceptibles de répondre au besoin. <bibl>
+                                 <note place="foot">
+                                    <p>{Legifrance\Article 28, modifié en 2011\}</p>
+                                 </note>
+                              </bibl></quote>Selon l'article 35, entre 15 000 euros HT
+                           et 90 000 euros HT, l'adjudicateur peut choisir librement
+                           les modalités de publicité adaptées en fonction des
+                           caractéristiques du marché, notamment le montant et la
+                           nature des travaux, des fournitures ou des services en
+                           cause. Comme la dépense envisagée ne devait pas dépasser
+                           15 000 euros, et être dans tous les cas inférieure à
                            90 000 euros, compte-tenu de la complexité de la prestation,
                            le cadre réglementaire n'était pas très contraignant en ce
                            qui concerne notre projet.</p>
                      </div>
                      <div>
                         <head>La sélection des partenaires</head>
-                        <p>La production de l'application consistant à publier des
-                           sources XML-TEI sur le web, il s'est avéré relativement
-                           difficile d'identifier des prestataires en mesure de
-                           répondre au marché. Le réseau de la TEI français a été
-                           largement sollicité afin d'identifier des entreprises
-                           compétences. Le Cahier des charges a relativement bien
-                           circulé dans la communauté des digital humanities si l'on en
-                           juge par les prises de contact. Il a souvent été nécessaire
-                           de rencontrer les entreprises afin de préciser ou
-                           d'expliciter le cahier des charges. Plusieurs prestataires
-                           sollicités ont décliné l'offre compte-tenu de sa
-                           complexité.</p>
+                        <p>S'agissant de publier des sources XML-TEI sur le web, il
+                           s'est avéré relativement difficile d'identifier des
+                           prestataires en mesure de répondre au marché. Le réseau de
+                           la TEI français a largement été sollicité afin d'identifier
+                           des entreprises compétences. Le cahier des charges a
+                           relativement bien circulé dans la communauté des digital
+                           humanities si l'on en juge par les prises de contact
+                           réalisées. Il a souvent été nécessaire de rencontrer les
+                           entreprises afin de préciser ou d'expliciter le cahier des
+                           charges. Plusieurs prestataires sollicités ont décliné
+                           l'offre compte-tenu de sa complexité et du manque
+                           d'expérience dans le domaine.</p>
                         <p>Passé le délai de réception des candidatures et des offres,
                            seulement trois prestataires nous ont soumis une
                            proposition. Après examen de ces candidatures, la première
-                           était inadéquate eut égard aux attentes du projet. La
+                           était inadéquate étant donné les attentes du projet. La
                            seconde proposition, de loin la plus pertinente et la plus
                            étayée dépassait considérablement les moyens disponibles
                            même en renonçant à une grande partie des fonctionnalités.
-                           La troisième, même si moins pertinente et présentant moins
-                           de références, était dans le budget alloué même si elle
-                           était plus risqué. Compte-tenu du contexte budgétaire de
-                           l'opération, et après négociations avec les prestataires,
-                           c'est celle qui a finalement été retenue.</p>
+                           La troisième, même si moins pertinente que la précédente et
+                           présentant moins de références, entrait dans le budget
+                           alloué même si elle était plus risquée. Compte-tenu du
+                           contexte budgétaire de l'opération, et après négociations
+                           avec les prestataires, c'est cette dernière proposition qui
+                           a finalement été retenue.</p>
                      </div>
                      <div>
                         <head>L'établissement du contrat</head>
                         <p>Le cahier des charges listait un certain nombre de fonctions
-                           en option. Par ailleurs, dans son offre, le prestataire
-                           retenu avait fait part de difficultés concernant la
+                           optionnelles. Par ailleurs, dans son offre, le prestataire
+                           choisi avait fait part de difficultés concernant la
                            réalisation de certaines fonctionnalités. Il a donc été
-                           nécessaire avant la contractualisation avec le prestataire
-                           d'apporter un certain nombre d'adaptations au cahier des
-                           charges. Les réductions portaient notamment sur la
-                           production d'un moteur de recherche plein-texte, et des
-                           réserves sur la production d'un entrepôt OAI-PMH.</p>
+                           nécessaire avant la contractualisation d'apporter un certain
+                           nombre d'adaptations au cahier des charges. Les réductions
+                           portaient notamment sur la production d'un moteur de
+                           recherche plein-texte, et des réserves avaient été soulevées
+                           quant à la production d'un entrepôt OAI-PMH.</p>
                      </div>
                   </div>
                   <div>
                      <head>Planification</head>
                      <div type="introduction">
-                        <p>Le projet ayant nécessité une demande de prolongation
-                           n'étant pas parvenue dans les temps à l'ANR, la passation du
-                           marché a été différée le temps d’obtenir cette autorisation
-                           et l'assurance de disposer des crédits nécessaires pour
-                           régler les prestataires. Cet accord n'est intervenu qu'<date when="2012-12">en
-                           décembre 2012</date> avec une échéance pour la livraison du projet
-                           le <date when="2013-01-31">31 mai 2013</date>.</p>
+                        <p>Alors que le projet nécessitait une demande de prolongation,
+                           celle-ci n'avait pas été adressée dans les délais
+                           nécessaires à l'ANR. La passation du marché a été différée
+                           le temps d’obtenir cette autorisation et l'assurance de
+                           disposer des crédits nécessaires pour régler les
+                           prestataires. Cet accord n'est intervenu qu'<date
+                              when="2012-12">en décembre 2012</date> avec une échéance
+                           pour la livraison du projet le <date when="2013-01-31">31
+                              mai 2013</date>.</p>
                         <p>Un échéancier a été produit conjointement avec le
                            prestataire et les équipes éditoriales pour répondre à ces
                            délais. En pratique le calendrier n'a pas été complètement
                            respecté. D'une part la production des textes de l'édition
-                           ne s'est pas faite toujours dans les délais fixés, d'autre
-                           part peu de renforts sont intervenus sur l'encodage et il
-                           nous a fallu privilégier le suivi de la réalisation de
-                           l'application web. Cela explique qu'une partie seulement des
-                           cours soit publiée en ligne. Une relecture complète du
-                           manuscrit de la commodité est nécessaire et en corpus avant
+                           ne s'est pas toujours faite dans les temps impartis, d'autre
+                           part contrairement à ce qui était prévu, peu de renforts
+                           sont intervenus sur l'encodage et il nous a fallu
+                           privilégier le suivi de la réalisation de l'application web.
+                           Cela explique qu'une partie seulement des cours soit publiée
+                           en ligne pour le moment. Une relecture complète du manuscrit
+                           de la commodité est par exemple nécessaire avant
                            l'intégration des notes. L'édition du texte des servitudes
-                           est encore en cours. Conformément à la demande des éditeurs,
-                           nous attendons également la relecture des différentes
-                           versions des témoins manuscrits avant leur publication.</p>
+                           est encore en cours. Conformément à la demande des auteurs
+                           de l'édition et des transcripteurs, nous attendons également
+                           la relecture des différentes versions des témoins manuscrits
+                           avant leur publication sur le site.</p>
                      </div>
                      <div>
                         <p>Les différents retards éprouvés par le projet sont
-                           représentatifs des difficultés qu'il y a à évaluer
-                           précisément le temps de travail pour l'établissement de
-                           l'édition critique et de l'encodage des textes. Le suivi de
-                           la réalisation de l'application a également été très
-                           chronophage, d'autant que nous avons produit dans ce cadre
+                           représentatifs des difficultés concernant l'évaluation
+                           précise du temps de travail pour l'établissement d'une
+                           édition critique et de l'encodage des textes. Le suivi de la
+                           réalisation de l'application a également été très
+                           chronophage, ceci d'autant plus que nous avons produit
                            plusieurs parties de l'application comme le traitement des
                            références bibliographiques, celui des métadonnées et enfin
-                           la mise en place du moteur de recherche.</p>
+                           l'installation et la configuration du moteur de
+                           recherche.</p>
                      </div>
                   </div>
                </div>
@@ -1944,26 +1958,29 @@
                         présentationnel. Dans son <title>Référentiel général
                            d'interopérabilité</title> publié en 2009, la Direction
                         générale de la modernisation de l'État recommande l'utilisation
-                        des technologies XML à des fins
-                        d'opérabilité<note place="foot"><p>{MinistreDuBudgetDes 2009@26}</p></note>. Par ailleurs, le
-                        dialecte XML de la Text Encoding Initiative (TEI) s'est très
-                        largement imposé comme standard de fait dans le domaine de
-                        l'édition numérique à caractère scientifique ces dernières
-                        années, en particulier pour la publication des sources
-                        primaires. C'est donc assez naturellement que nous nous sommes
-                        orientés dans cette direction qui repose sur un balisage
-                        descriptif du texte tout en tirant partie de l'infrastructure
-                        technique offerte par XML.</p>
+                        des technologies XML à des fins d'interopérabilité et de
+                        pérennisation de l'information<note place="foot">
+                           <p>{MinistreDuBudgetDes 2009@26}</p>
+                        </note>. Par ailleurs, le dialecte XML de la Text Encoding
+                        Initiative (TEI) s'est très largement imposé comme standard de
+                        fait dans le domaine de l'édition numérique à caractère
+                        scientifique ces dernières années, en particulier pour la
+                        publication des sources primaires. C'est donc assez
+                        naturellement que nous nous sommes orientés dans cette
+                        direction qui repose sur un balisage descriptif du texte tout
+                        en tirant partie de l'infrastructure technique offerte par
+                        XML.</p>
                      <p>S'il apparaît rapidement qu'une démarche basée sur un encodage
                         descriptif du texte comme avec la TEI est plus pertinente, la
                         TEI n'offre cependant pas une solution prête à l'emploi.
                         L'encodage est une étape dans un processus plus global qui
                         implique tout d'abord la définition d'un schéma dans lequel on
                         déclare ses pratiques et la manière dont on va utiliser la TEI.
-                        Pour produire un schéma de ce type et éventuellement un manuel
+                        Pour produire un schéma de ce type, et éventuellement le manuel
                         d'encodage qui l'accompagne, il est nécessaire de bien
-                        comprendre sa source. Aussi faut-il comprendre l'encodage non
-                        pas comme une fin en soi, mais plutôt comme un moyen. </p>
+                        comprendre sa source. Aussi faut-il envisager l'encodage non
+                        pas comme une fin en soi, mais plutôt comme un moyen de
+                        travailler et étudier le matériau textuel. </p>
                   </div>
                   <div>
                      <head>Le balisage du texte et le recours à la TEI</head>
@@ -1986,14 +2003,16 @@
                         <p>La production d'un balisage descriptif consiste à identifier
                            explicitement la structure sémantique sous-jacente d'un
                            document, cela indépendamment de tout traitement déterminé à
-                           l'avance<note place="foot"><p>{Renear 2003}</p></note>. Il s'agit distinguer explicitement à
-                           l'intérieur du texte différentes objets éditoriaux en les
-                           encadrant par des balises dont le nom peut être arbitraire.
-                           Ce faisant l'auteur d'un balisage fournit une information
-                           sémantique et pragmatique suffisante pour produire des vues
-                           alternatives sur le document ou bien une édition basée sur
-                           la structure du texte. Les trois opérations qui
-                           interviennent au cours du balisage sont donc les suivantes :<list>
+                              l'avance<note place="foot">
+                              <p>{Renear 2003}</p>
+                           </note>. Il s'agit de distinguer explicitement à l'intérieur
+                           du texte différentes objets éditoriaux en les encadrant par
+                           des balises dont le nom peut être arbitraire. Ce faisant
+                           l'auteur d'un balisage fournit une information sémantique et
+                           pragmatique suffisante pour produire des vues alternatives
+                           sur le document ou bien une édition basée sur la structure
+                           du texte. Les trois opérations qui interviennent au cours du
+                           balisage sont donc les suivantes :<list>
                               <item><hi rend="bold">reconnaissance des éléments</hi>,
                                  reconnaître que l'élément courant est un élément d'un
                                  certain type (paragraphe, citation en prose, note de
