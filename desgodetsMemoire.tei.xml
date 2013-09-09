@@ -1046,7 +1046,7 @@
                            révéler incompréhensible sans le recours aux planches.
                            Matériellement les planches apparaissent différemment à
                            l'intérieur des différents témoins manuscrits. Souvent
-                           réalisées sur un papier différent pour permettre la pose de
+                           réalisées sur un papier plus grand et qui permet la pose de
                            lavis, elles peuvent constituer un ensemble séparé du texte,
                            ou encore être rapportées à la fin du manuscrit. Dans
                            d'autres cas, les planches ont été insérées en regard du
@@ -1060,16 +1060,17 @@
                   <div type="introduction">
                      <p>Au début du siècle, <persName>Henri Lemonnier</persName>
                         envisageait déjà l'édition du cours de
-                           <persName>Desgodets</persName> sur la Commodité. ??citation.
-                           <persName>Jean-Marie Pérouse de Montclos</persName>
-                        envisageait à nouveau une telle édition dans les années 80,
-                        mais sans suite. L'originalité du sujet de ce cours explique en
-                        grande partie qu'il ait focalisé l'attention. Pourtant, ce
-                        cours s'inscrit dans un ensemble plus large. Il constitue
-                        d'abord la suite d'un premier cours sur les ordres qui comme
-                        nous l'avons vu se révèle plus intéressant que son titre ne le
-                        laissait paraître. Par ailleurs, l'enseignement plus technique
-                        de <persName>Desgodets</persName> sur le Toisé ou les
+                           <persName>Desgodets</persName> sur la Commodité.
+                           <persName>Jean-Marie Pérouse de Montclos</persName> avait
+                        repris à son compte l'idée d'une telle édition dans les années
+                        80, mais le projet était resté sans suite. L'originalité
+                        immédiate du sujet de ce cours explique en grande partie qu'il
+                        ait focalisé l'attention. Pourtant, ce cours s'inscrit dans un
+                        ensemble plus large. Il constitue d'abord la suite d'un premier
+                        cours sur les ordres qui comme nous l'avons vu se révèle plus
+                        intéressant que son titre pouvait le laisser paraître. Par
+                        ailleurs, l'enseignement plus technique de
+                           <persName>Desgodets</persName> sur le Toisé ou les
                         Servitudes donne un relief et une cohérence tout à fait
                         particulière à l'ensemble de son enseignement. Mis à part celui
                         sur les Lois des bâtiments qui fut publié <foreign
@@ -1077,11 +1078,12 @@
                         autres cours de <persName>Desgodets</persName> sont restés
                         jusqu'à nous jours inédits. Pourtant, le nombre de copies
                         conservées suffit à attester de leur importance dans la culture
-                        architecturale du <date from="1700" to="1799">XVIIIe
-                           siècle</date>. De ce point de vue, la publication d'une
-                        édition critique des cours de <persName>Desgodets</persName>
-                        avait le mérite de faire entrer dans l'histoire de l'art tout
-                        un pan inédit de la théorie architecturale.</p>
+                        architecturale du <date from="1700" to="1799">XVIII<hi
+                              rend="superscript">e</hi> siècle</date>. De ce point de
+                        vue, la publication d'une édition critique des cours de
+                           <persName>Desgodets</persName> avait le mérite de faire
+                        entrer dans l'histoire de l'art tout un pan inédit de la
+                        théorie architecturale.</p>
                      <p>On parle d'<soCalled>édition critique</soCalled>, ou
                            d'<soCalled>édition scientifique</soCalled> l'adjectif dans
                         appellation venant en désigner le caractère savant, au sens où
@@ -1089,8 +1091,8 @@
                         dont sont procurés les états, versions, variantes et leçons. De
                         ce point de vue l'édition critique constitue selon la
                         définition du manuel de l'<orgName>École nationale des
-                           chartes</orgName> sur l'édition des textes médiévaux
-                           un :<quote>Essai de reconstitution d'un texte, pour lequel
+                           chartes</orgName> sur l'édition des textes médiévaux un :
+                           <quote>Essai de reconstitution d'un texte, pour lequel
                            l'éditeur pèse chacun des mots du texte en se servant de
                            tous les moyens de jugement dont il dispose. Cas
                            particuliers : l'édition imitative ou diplomatique qui
@@ -1104,10 +1106,12 @@
                            couches et états successifs du texte ; l'édition "variorum",
                            qui donne le texte accompagné, outre l'apparat normal des
                            variantes, de toutes les solutions des éditeurs
-                           précédents.</quote><note place="foot"><p>{Bourgain 2002}</p></note>.</p>
+                           précédents.</quote><note place="foot">
+                           <p>{Bourgain 2002}</p>
+                        </note>.</p>
                      <p>Même si le domaine de l'édition scientifique a connu de
                         profonds changements au cours de ces dernières années avec
-                        l'irruption du numérique, les opérations de bases de toute
+                        l'irruption du numérique, les opérations à la base de toute
                         édition critique sont toutefois restées pour l'essentiel
                         identiques. La tâche principale de l'éditeur est de produire un
                         texte fiable et consistant, avec des partis-pris éditoriaux
@@ -1126,9 +1130,7 @@
                            entre, d'une part, le respect du texte à publier (dont on ne
                            doit en aucun cas moderniser la graphie) et, d'autre part,
                            le souci de le rendre aussi intelligible que possible pour
-                           un lecteur d'aujourd'hui.</quote><note place="foot">
-                              <p>{Barbiche}</p>
-                           </note></p>
+                           un lecteur d'aujourd'hui.</quote><note place="foot"><p>{Barbiche 1993}</p></note></p>
                      <p>La production d'une édition critique de qualité exige donc
                         d'avoir bien défini sa destination. Cette question est
                         déterminante même si l'on ne renonce généralement pas à toucher
@@ -1144,24 +1146,10 @@
                         s'agissait également de faciliter son étude et de prendre en
                         compte certaines particularités propres à des manuscrits
                         architecturaux pour la consultation.</p>
-                     <p>Questions ecdotiques habituelles en ce qui concerne
-                        l'établissement du texte et sa normalisation</p>
-                     <p>L'abondance des témoins</p>
-                     <p>Spécificités d'une édition numérique (ou plus loin)</p>
-                     <p>??sorti de plus haut?? Plusieurs contextes de numérisation.
-                        Programme de numérisation des établissements patrimoniaux et
-                        culturels à fin de mise à disposition des fonds ou de
-                        conservation. Numérisation à visées philologiques ou
-                        littéraires. Ici cas particulier d'un cours d'architecture et
-                        d'un projet interdisciplinaire histoire du droit et histoire de
-                        l'art. Pas travail sur la langue seulement mais mise à
-                        disposition d'un corpus de texte en partie inédits, jalon
-                        indispensable pour la compréhension de la constitution et la
-                        normalisation du savoir architecturale au siècle des
-                        lumières.Prendre en compte le caractère particulier des textes
-                        à éditer. Contexte de production, spécificité des témoins
-                        conservés qui impliqueront des choix éditoriaux spécifiques et
-                        adaptés.</p>
+                     <p>Nous examinerons successivement les questions habituellement
+                        posées par l'établissement du texte et ses différents témoins.
+                        Puis nous aborderons la méthode d'édition retenue pour ce
+                        corpus.</p>
                   </div>
                   <div>
                      <head>L’établissement du texte</head>
@@ -1202,15 +1190,19 @@
                            constituait une étape cruciale du processus éditorial. Dès
                            le début du travail, un protocole de transcription a dû être
                            mis sur pied. En l'absence de recommandations récentes pour
-                           l'édition des textes de l'époque moderne, c'est le travail publié par Bernard
-                              Barbiche et ses collègues dans la collection de
-                              l'Inventaire qui fait référence<note place="foot"><p>{Barbiche 1993}</p></note>. L'équipe de
-                           transcripteurs a donc formulé les premières propositions
-                           concernant la transcription des manuscrits à partir de ces
-                           indications. Toutefois, eût égard aux besoins particuliers
-                           du projet ayant trait à la comparaison des divers témoins,
-                           une modernisation de l'orthographe des textes a été proposée
-                           sauf à conserver la graphie originale des termes
+                           l'édition des textes de l'époque moderne, c'est le travail
+                           publié par <persName>Bernard Barbiche</persName> et ses
+                           collègues dans la collection de
+                              l'<orgName>Inventaire</orgName> qui fait référence<note
+                              place="foot">
+                              <p>{Barbiche 1993}</p>
+                           </note>. L'équipe de transcripteurs a donc formulé les
+                           premières propositions concernant la transcription des
+                           manuscrits à partir de ces indications. Toutefois, eût égard
+                           aux besoins particuliers du projet ayant trait à la
+                           comparaison des divers témoins, une modernisation de
+                           l'orthographe des textes a dans un premier temps été
+                           proposée sauf à conserver la graphie originale des termes
                            architecturaux et juridiques, ou les particularités
                            significatives.</p>
                         <p>Cette liberté avait été envisagée dans la mesure où aucun
@@ -1219,42 +1211,43 @@
                            permettaient d'étayer l'établissement du texte, et que la
                            graphie des manuscrits ne présentait très généralement aucun
                            intérêt du point de vue de la compréhension et de la
-                           signification. Une telle attitude est admise pour l'édition
-                           des textes littéraires postérieurs à 1600 et surtout à
-                           1700{Varloot 1981}. La normalisation des transcriptions
-                           paraissait surtout fournir une solution pour réduire le
-                           bruit lors de l'étude des variantes à l'aide du logiciel
-                           MEDITE comme elle était prévue au début du projet. En outre,
-                           elle permettait de se focaliser uniquement sur les variantes
-                           significatives entre les témoins tout en permettant de
-                           produire un texte modernisé plus facilement accessible pour
-                           le lecteur contemporain.</p>
+                           signification. Une telle attitude semblait admise pour
+                           l'édition des textes littéraires postérieurs à 1600 et
+                           surtout à 1700<note><persName>{Varloot
+                              1981}</persName></note>. La normalisation des
+                           transcriptions paraissait surtout fournir une solution pour
+                           réduire le bruit lors de l'étude des variantes à l'aide du
+                           logiciel MEDITE comme elle était prévue au début du projet.
+                           En outre, elle permettait de se focaliser uniquement sur les
+                           variantes significatives entre les témoins tout en
+                           permettant de produire un texte modernisé plus facilement
+                           accessible pour le lecteur contemporain.</p>
                         <p>Une telle solution n'a pas reçue l'approbation du Conseil
                            scientifique du projet. Au contraire, les membres de ce
                            conseil ont défendu une transcription la plus diplomatique
                            possible, allant même au-delà des pratiques actuellement
-                           promue par l'École nationale des chartes pour les textes
-                           médiévaux. Il s'agissait d'une transcription la plus fidèle
-                           possible du manuscrit, où la graphie est généralement
-                           scrupuleusement respectée, améliorée seulement pour la
-                           ponctuation et l'accentuation. Une telle position de strict
-                           respect de la tradition philologique paraissait permettre de
-                           mieux comprendre les manuscrits et de mieux les situer les
-                           uns par rapport aux autres. Aux consignes publiées dans
-                              <title>Guide</title> de <persName>Bernard
+                           promue par l'<orgName>École nationale des chartes</orgName>
+                           pour les textes médiévaux. Il s'agissait d'une transcription
+                           la plus fidèle possible du manuscrit, où la graphie est
+                           généralement scrupuleusement respectée, améliorée seulement
+                           pour la ponctuation et l'accentuation. Une telle position de
+                           strict respect de la tradition philologique paraissait
+                           permettre de mieux comprendre les manuscrits et de mieux les
+                           situer les uns par rapport aux autres. Aux consignes
+                           publiées dans <title>Guide</title> de <persName>Bernard
                               Barbiche</persName> et <persName>Monique
-                              Châtenet</persName>{Barbiche}, le conseil scientifique
+                                 Châtenet</persName><note place="foot"><p>{Barbiche 1993}</p></note>, le conseil scientifique
                            ajoutait le respect strict des majuscules, réservant à
                            l'éditeur le choix final sur la graphie à retenir.</p>
                         <p>Ce changement d'orientation intervenu dans les directives de
                            transcription n'a pas nécessairement facilité le travail de
-                           transcription. Il a en partie impliqué la reprise du travail
-                           déjà effectué mais aussi généré un surcroît de travail en
-                           matière de relecture des transcriptions des différents
-                           témoins que le Conseil scientifique souhaitait mettre à
-                           disposition (cette relecture n'est pas encore à ce jour tout
-                           à fait achevée). En outre, la modernisation restait
-                           nécessaire pour la comparaison. Il a donc été décidé
+                           transcription. Il a en partie impliqué la reprise de ce qui
+                           avait déjà été effectué mais aussi généré un surcroît de
+                           travail en matière de relecture des transcriptions des
+                           différents témoins que le Conseil scientifique souhaitait
+                           mettre à disposition (cette relecture n'est pas encore à ce
+                           jour tout à fait achevée). En outre, la modernisation
+                           restait nécessaire pour la comparaison. Il a donc été décidé
                            d'opérer deux types de transcription : d'une part une
                            transcription diplomatique, d'autre part une version
                            modernisée.</p>
@@ -1271,36 +1264,44 @@
                      <div>
                         <head>La collation et la comparaison des témoins</head>
                         <p>Une fois les manuscrits transcrits, une collation des
-                           témoins était nécessaire afin de mieux caractériser les
-                           témoins les uns par rapport aux autres. Cette opération
-                           consiste à comparer le texte des différents manuscrits en
-                           repérant les leçons variantes en chaque lieu variant des
-                           témoins du texte<note place="foot"><p>{Bourgain 2002@210}</p></note>. Le projet initial
-                           prévoyait l'utilisation d'un logiciel développé par
-                              l'<orgName>Institut des textes et manuscrits modernes
-                              (ITEM)</orgName> pour les études de génétique
-                           textuelle<note place="foot"><p>{Item}</p></note>. Ce logiciel, EDITE MEDITE, posait des
-                           problèmes de versions de système d'exploitation pour pouvoir
-                           être installé sur l'ensemble des postes de travail des
-                           membres des équipes d'édition. Une autre solution logicielle
-                           a donc été recherchée.</p>
+                           témoins était nécessaire afin de mieux les caractériser les
+                           uns par rapport aux autres. Cette opération consiste à
+                           comparer le texte des différents manuscrits en repérant les
+                           leçons variantes en chaque lieu variant des témoins du
+                              texte<note place="foot">
+                              <p>{Bourgain 2002@210}</p>
+                           </note>. Le projet initial prévoyait l'utilisation d'un
+                           logiciel développé par l'<orgName>Institut des textes et
+                              manuscrits modernes (ITEM)</orgName> pour les études de
+                           génétique textuelle<note place="foot">
+                              <p>{Item}</p>
+                           </note>. Ce logiciel, EDITE MEDITE, posait des problèmes de
+                           versions de système d'exploitation pour pouvoir être
+                           installé sur l'ensemble des postes de travail des membres
+                           des équipes d'édition. Une autre solution logicielle a donc
+                           été recherchée.</p>
                         <p>Plusieurs logiciels ont été identifiés comme pouvant
                            répondre au besoin du projet : l'outil Unix Diff,
-                           Versionning-Machine{VersioningMachine}, CollateX<note place="foot"><p>{Collatex}</p></note>,
-                           ou encore Juxta<note place="foot"><p>{JuxtaCollationSoftwareFor}</p></note>. Après plusieurs
-                           tests, il nous avons retenu le logiciel Juxta qui nous
-                           paraissait à la fois le plus flexible et le plus simple
-                           d'emploi. Le logiciel était multiplate-forme et son
-                           interface graphique permettait d'aligner facilement le texte
-                           et de localiser aisément les lieux variants dans le texte.
-                           Par ailleurs, il était à la fois possible de l'utiliser avec
-                           des fichiers texte ou des fichiers XML-TEI ce qui était bien
-                           adapté à notre contexte de production.</p>
+                              Versionning-Machine<note place="foot">
+                              <p>{VersioningMachine}</p>
+                           </note>, CollateX<note place="foot">
+                              <p>{Collatex}</p>
+                           </note>, ou encore Juxta<note place="foot">
+                              <p>{JuxtaCollationSoftwareFor}</p>
+                           </note>. Après plusieurs tests, nous avons retenu le
+                           logiciel Juxta qui nous paraissait à la fois le plus
+                           flexible et le plus simple d'emploi. Le logiciel était
+                           multiplate-forme et son interface graphique permettait
+                           d'aligner facilement le texte et de localiser aisément les
+                           lieux variants dans le texte. Par ailleurs, il était à la
+                           fois possible de l'utiliser avec des fichiers texte ou des
+                           fichiers XML-TEI ce qui était bien adapté à notre contexte
+                           de production.</p>
                         <p>Dans la pluspart des cas il a été relativement difficile
                            d'établir des familles de tradition parmi les manuscrits ou
                            de déterminer des prototypes. Les témoins étaient
                            généralement peu divergents et présentaient peu de variantes
-                           de fonds laissant supposer des interpolations. Néanmoins
+                           de fond laissant supposer des interpolations. Néanmoins,
                            certains témoins contenaient des passages absents dans
                            d'autres manuscrits dont la présence pouvait être le fait de
                            gloses du transcripteur ou d'une modification du cours donné
@@ -1315,25 +1316,29 @@
                            manuscrits conservés pour chacun des cours, l'établissement
                            du texte de l'édition critique était problématique.
                            Plusieurs traditions éditoriales s'affrontent dans le
-                           domaine de l'ecdotique pour les textes anciens. On distingue
-                           habituellement les approches reconstructionnistes, inspirées
-                           de <persName>Karl Lachmann</persName>, qui consistent à
-                           reconstruire l'aspect d'un texte à partir de ses témoins,
-                           d'approches plus conservatistes inspirées de
+                           domaine de l'ecdotique pour les textes anciens. On a
+                           l'habitude de distinguer les approches reconstructionnistes,
+                           inspirées de <persName>Karl Lachmann</persName>, qui
+                           consistent à reconstruire l'aspect d'un texte à partir de
+                           ses témoins, d'approches plus conservatistes inspirées de
                               <persName>Joseph Bédier</persName> et qui consistent à
                            choisir un manuscrit de base en le corrigeant le moins
-                           possible<note place="foot"><p>{Bourgain 2002@212-213}</p></note>.</p>
+                              possible<note place="foot">
+                              <p>{Bourgain 2002@212-213}</p>
+                           </note>.</p>
                         <p>C'est l'approche conservatiste qui a le plus de faveur
                            aujourd'hui en France pour l'édition de sources
-                           documentaires. Celle-ci, plus respectueuse de la source,
-                           évite de produire un texte qui n'a jamais existé. Néanmoins,
-                           en présence d'un grand nombre de témoins, pour l'essentiel
-                           identiques, les cours ayant souvent été prononcés pendant
-                           plusieurs années, et donc leur contenu étant susceptible
-                           d'avoir varié au cours du temps, la production d'une édition
-                           composite pouvait être défendue malgré l'interdit formulé
-                           par <persName>Pierre-Georges Castex</persName><note place="foot"><p>{Varloot
-                           1981}</p></note>.</p>
+                           documentaires. Celle-ci est plus respectueuse de la source
+                           et évite de produire un texte qui n'a jamais existé.
+                           Néanmoins, en présence d'un grand nombre de témoins, pour
+                           l'essentiel identiques, les cours ayant souvent été
+                           prononcés pendant plusieurs années, et donc leur contenu
+                           étant susceptible d'avoir varié au cours du temps, la
+                           production d'une édition composite pouvait être défendue
+                           malgré l'interdit formulé par <persName>Pierre-Georges
+                              Castex</persName><note place="foot">
+                              <p>{Varloot 1981}</p>
+                           </note>.</p>
                         <p>Bien sûr, il aurait été vain de prétendre rétablir le texte
                            princeps de chacun des cours à partir d'une critique
                            textuelle des différents témoins conservés. La
@@ -1346,22 +1351,23 @@
                            choisir les variantes semblant supérieures d'un point de vue
                            interne parmi les différents manuscrits, pouvait avoir le
                            mérite de rendre compte plus fidèlement, et plus
-                           complètement, du contenu réel de l'enseignement d'Antoine
-                           Desgodets.</p>
+                           complètement, du contenu réel de l'enseignement
+                              d'<persName>Antoine Desgodets</persName>.</p>
                         <p>Disposant de plusieurs états du texte autres que l'original,
                            on a choisi de se contenter d'éditer un témoin en lui
                            rapportant en note les variantes que présentaient les autres
                            états par rapport au texte de base comme le suggère le Guide
                            de <persName>Bernard Barbiche</persName> et
-                           <persName>Monique Châtenet</persName><note place="foot"><p>{Barbiche 1993}</p></note>. Cette
-                           approche privilégie la source primaire mais il faut
-                           également avoir conscience qu'elle présente plusieurs
-                           inconvénients. D'abord, elle favorise l'intégration des
-                           fautes du copiste, telles que les interpolations ou
-                           l'intégration d'éventuelles gloses. Ensuite elle ne permet
-                           pas de rendre compte directement dans le corps de texte de
-                           passages éventuellement manquants dans la version du
-                           manuscrit de base.</p>
+                              <persName>Monique Châtenet</persName><note place="foot">
+                              <p>{Barbiche 1993}</p>
+                           </note>. Comme on l'a dit, cette approche privilégie la
+                           source primaire mais il faut également avoir conscience
+                           qu'elle présente plusieurs inconvénients. D'abord, elle
+                           favorise l'intégration des fautes du copiste, telles que les
+                           interpolations ou l'intégration d'éventuelles gloses.
+                           Ensuite elle ne permet pas de rendre compte directement dans
+                           le corps du texte de passages éventuellement manquants dans
+                           la version du manuscrit de base.</p>
                         <p>Il n'existe certainement pas, en matière d'édition critique,
                            d'approche idéale qui satisfasse tous les cas de figure.
                            D'une certaine façon, ces débats sont en partie devenus
@@ -1379,14 +1385,14 @@
                            déterminer les critères de choix du manuscrit maître. À cet
                            égard <q>chaque texte, en fonction de son histoire propre,
                               impose un choix particulier.</q> dit
-                           <persName>Beugnot</persName><note place="foot"><p>{Varloot
-                              1981}</p></note>. Les équipes
-                           éditoriales ont donc été laissées libre de proposer un
-                           manuscrit maître pour le cours qu'elles éditaient en
-                           justifiant de leur critères de choix d'après une grille
-                           établie dans le cadre du projet. Le choix du manuscrit
-                           maître était définitivement arrêté au terme d'une discussion
-                           au sein du Conseil scientifique.</p>
+                              <persName>Beugnot</persName><note place="foot">
+                              <p>{Varloot 1981}</p>
+                           </note>. Les équipes éditoriales ont donc été laissées libre
+                           de proposer un manuscrit maître pour le cours qu'elles
+                           éditaient en justifiant de leur critères de choix d'après
+                           une grille établie dans le cadre du projet. Le choix du
+                           manuscrit maître était définitivement arrêté à l'issue d'une
+                           discussion au sein du Conseil scientifique.</p>
                         <p>Au terme de la recherche, le cours sur les ordres de
                               <persName>Desgodets</persName> est connu par neuf
                            manuscrits, dont cinq accompagnés de planches. Huit de ces
@@ -1395,13 +1401,15 @@
                            probablement présenté au roi à l'occasion de sa visite à
                               l'<orgName>Académie royale d'architecture</orgName> le
                               <date when="1719-08-02">2 août 1719</date> comme
-                           l'indique une inscription sur le manuscrit. Parmi les
-                           manuscrits, on relève une famille de manuscrits suédoise.
-                           Ces témoins présentent le même état du texte et ils
+                           l'indique une inscription apportée sur le manuscrit. Parmi
+                           les témoins, on relève une famille de manuscrits suédoise.
+                           Tous ces témoins présentent le même état du texte et ils
                            commencent par un titre identique faisant référence au texte
                            prononcé à partir du <date when="1724-11-13">13 novembre
-                              1724</date>. L'analyse laisse penser qu'ils sont issus
-                           d'un prototype commun<note place="foot"><p>{Carvais 2013@34-36}</p></note>.</p>
+                              1724</date>. L'analyse laisse donc penser qu'ils sont
+                           issus d'un prototype commun<note place="foot">
+                              <p>{Carvais 2013@34-36}</p>
+                           </note>.</p>
                         <p>L'équipe chargée de l'édition de ce cours a montré que si
                            l'établissement des variantes s'était révélé important pour
                            restituer ou clarifier le sens de certains passages,
@@ -1413,9 +1421,9 @@
                            dérivaient de prises de note durant le cours. Les erreurs de
                            lecture pouvant s'expliquer par la mise au propre, ou des
                            copies de copies. Le choix du manuscrit maître repose en
-                           conséquence sur la présence de planche, la complétude du
-                           texte, le fait qu'il soit copié par un scripteur français et
-                           sa bonne lisibilité.</p>
+                           conséquence à la fois sur la présence de planches, la
+                           complétude du texte, le fait qu'il soit copié par un
+                           scripteur français, et sa bonne lisibilité.</p>
                         <p>Pour le traité de la Commodités, seuls deux témoins avaient
                            été identifiés. La collation des transcriptions à l'aide du
                            logiciel Juxta ne faisait apparaître aucune variante notable
@@ -1434,12 +1442,12 @@
                         <p>Le critère de datation ne permettait pas de discriminer
                            clairement parmi les témoins identifiés pour le cours du
                            toisé celui qui devait être privilégié. Néanmoins, certains
-                           des présentaient un chapitre supplémentaire dans la seconde
-                           section. Il a donc été privilégié un témoin comportant ce
-                           chapitre afin de disposer du texte le plus complet possible.
-                           Toutefois, il ne faut pas perdre de vue que les ajouts ont
-                           pu être inclus postérieurement à l'initiative d'un
-                           tiers.</p>
+                           d'entre eux présentaient un chapitre supplémentaire dans la
+                           seconde section. Il a donc été privilégié un témoin
+                           comportant ce chapitre afin de disposer du texte le plus
+                           complet possible. Toutefois, il ne faut pas perdre de vue
+                           que ces ajouts ont pu être inclus postérieurement à
+                           l'initiative d'un tiers.</p>
                         <p>Pour les servitudes, les deux volumes manuscrits conservés à
                            la <orgName>Bibliothèque du Sénat</orgName> sont les seuls
                            témoins connus. Ces deux longs manuscrits ne sont pas
@@ -1475,7 +1483,7 @@
                         des charges fonctionnels, il fallait donc arrêter clairement ce
                         que devait véhiculer l'édition d'un point de vue scientifique.
                         Les pré-requis pour l'édition que nous voulions produire
-                        étaient soit liés généralement au respect des conventions de
+                        étaient soit généralement liés au respect des conventions de
                         l'édition scientifique, soit propres aux spécificités du corpus
                         édité.</p>
                      <div>
@@ -1485,13 +1493,13 @@
                            grande partie ce qu'est en droit d'attendre un lecteur lors
                            de la consultation d'une édition. Elle fixe un ensemble de
                            prérequis qui qualifient en grande partie l'édition. Au
-                           cours du temps, cette tradition a généré une grande grande
-                           richesse d'emplois de marques typographiques (barres,
-                           crochets, soufflets, etc.) pour signifier telle ou telle
-                           caractéristique matérielle mais celles-ci n'ont pas toujours
-                           la même signification à travers les éditions. Elle a
-                           également fixé un certain nombre d'habitudes pour donner des
-                           éléments de repérage et de citabilité, pour indiquer la
+                           cours du temps, cette tradition a généré une grande richesse
+                           dans l'emploi des marques typographiques (barres, crochets,
+                           soufflets, etc.) pour signifier telle ou telle
+                           caractéristique matérielle, mais celles-ci n'ont pas
+                           toujours la même signification à travers les éditions. Elle
+                           a également fixé un certain nombre d'habitudes pour donner
+                           des éléments de repérage et de citabilité, pour indiquer la
                            pagination du texte de base, une numérotation marginale des
                            lignes, etc.</p>
                         <p>L'utilisation du support numérique a donné l'occasion
@@ -1505,9 +1513,10 @@
                            des <foreign xml:lang="lat">fac simili</foreign> en regard
                            du texte édité. Il n'en reste pas moins qu'une bonne édition
                            numérique se doit de respecter un certain nombre de
-                           standards éditoriaux en particulier pour permette une bonne
-                           citabilité ou une consultation aisée de l'apparat critique
-                           ou des notes de commentaire historique.</p>
+                           standards éditoriaux en particulier pour faciliter la
+                           citation ou rendre la consultation de l'apparat critique ou
+                           des notes de commentaire historique la plus aisée
+                           possible.</p>
                      </div>
                      <div>
                         <head>L'apparat critique</head>
@@ -1518,39 +1527,40 @@
                            particularités de la source. L'apparat critique d'une
                            édition a essentiellement une fonction descriptive. Il
                            concerne la description des particularités matérielles du
-                           texte transcrit, des autres états du texte s'il en existe,
-                           par un relevé des leçons pour chaque passage.</p>
+                           texte transcrit, et celle des autres états du texte s'il en
+                           existe par un relevé des leçons pour chaque passage.</p>
                         <p>Il est d'usage de fournir les leçons variantes du texte au
                            moyen de notes critiques habituellement numérotées
                            alphabétiquement. Bien que l'édition numérique permette de
                            les afficher d'une autre manière, il a été choisi de les
                            présenter en note. N'ayant pas totalement renoncé à une
                            édition imprimée, une telle présentation permettait
-                           notamment d'être la même que dans une version imprimée.
-                           D'autre part, cette solution correspondait assez bien au
-                           mode de production du texte qui comme nous le verrons a été
-                           traité par les auteurs de l'édition à partir d'un logiciel
-                           de traitement de texte.</p>
+                           notamment d'être identique dans les deux versions. D'autre
+                           part, cette solution correspondait assez bien au mode de
+                           production du texte qui, comme nous le verrons plus loin, a
+                           été traité par les auteurs de l'édition critique à partir
+                           d'un logiciel de traitement de texte.</p>
                         <p>La lecture du texte ne présentant le plus souvent pas de
                            difficultés très spécifiques, les autres aspects de
                            l'apparat critique, comme l'indication des lacunes, des
                            difficultés de lecture, ou des segments sémantiquement
                            incorrects, etc., utilisent également une présentation
-                           typographique habituelle. Elle peut être enrichie par des
-                           artifices de présentation numérique (affichage au survol,
-                           etc.).</p>
+                           typographique conventionnelle. Néanmoins, elle peut être
+                           enrichie par des artifices de présentation que permet le
+                           numérique tels que l'affichage au survol, etc.</p>
                      </div>
                      <div>
                         <head>Les notes de commentaire historique</head>
                         <p>L'édition envisageait également d'offrir au lecteur des
-                           notes de commentaire historique et une contextualisation du
-                           Cours de Desgodets sous la forme de présentations à
-                           caractère historique. La consultation de chaque cours était
+                           notes de commentaire historique et une contextualisation de
+                           l'enseignement de Desgodets sous la forme de présentations à
+                           caractère historique. La consultation de chaque cours est
                            donc précédée d'une introduction générale portant tant sur
-                           l'édition que sur l'historique du cours. Par ailleurs un
-                           arsenal de notes de commentaires historique devait pouvoir
-                           venir compléter l'apparat critique. Ces appels de notes font
-                           l'objet d'une numérotation numérique.</p>
+                           l'édition que sur l'historique du cours présenté. Par
+                           ailleurs, un arsenal de notes de commentaires historique
+                           devait pouvoir venir compléter l'apparat critique. Comme il
+                           est d'usage, ces appels de notes font l'objet d'une
+                           numérotation numérique.</p>
                      </div>
                      <div>
                         <head>Glossaires et index</head>
@@ -1558,80 +1568,98 @@
                            désir de fournir un glossaire des termes architecturaux et
                            juridiques. C'est-à-dire une liste alphabétique des mots
                            difficiles jouant le rôle d'un dictionnaire propre au texte
-                           pour favoriser sa compréhension{Bourgain 2002}. Outre les
-                           aspects de vulgarisation, un tel glossaire répondait aussi
-                           assez bien au caractère pluri-disciplinaire de l'édition
-                           pouvant à la fois intéresser les historiens de
-                           l'architecture et les historiens du droit.</p>
-                        <p>Outre ce glossaire, plusieurs index devait permettre de
-                           donner différents types d'accès aux textes. Outre les index
-                           patronymiques et toponymiques habituellement requis dans une
-                           édition critique, nous envisagions l'établissement d'un
-                           index des matières. De tels index devaient fournir des
-                           listes d’occurrences dans les textes classées par cours. </p>
+                           pour favoriser sa compréhension<note place="foot">
+                              <p>{Bourgain 2002}</p>
+                           </note>. En dehors des aspects de vulgarisation, un tel
+                           glossaire répondait aussi assez bien au caractère
+                           pluri-disciplinaire de l'édition pouvant à la fois
+                           intéresser les historiens de l'architecture et les
+                           historiens du droit.</p>
+                        <p>Plusieurs index permettent également d'offrir différents
+                           types d'accès aux textes. En plus des index patronymiques et
+                           toponymiques habituellement requis dans une édition
+                           critique, nous envisagions l'établissement d'un index des
+                           matières. De tels index devaient fournir des listes
+                           d’occurrences dans les textes classées par cours. </p>
                      </div>
                   </div>
                   <div>
                      <head>Les modalités de consultation</head>
-                     <p>De manière générale, les modalités de consultation des
-                        manuscrits que nous envisagions pour l'édition numérique devait
-                        privilégier l'étude des textes et de leurs figures.</p>
+                     <p>S'agissant de mettre à disposition des chercheurs un matériau
+                        entièrement neuf, de manière générale, les modalités de
+                        consultation des manuscrits que nous envisagions pour l'édition
+                        numérique devaient privilégier l'étude des textes et de leurs
+                        figures.</p>
                      <div>
                         <head>La consultation des différents témoins manuscrits</head>
                         <p>Faute d'être assurés d'obtenir les droits pour la
                            publication de l'ensemble des reproductions des manuscrits,
-                           il ne pouvait s'agit de produire une édition
-                           hyper-diplomatique qui donne accès simultanément aux
-                           transcriptions et aux <foreign xml:lang="lat">fac
-                              simili</foreign> des différents témoins. En revanche,
-                           conformément au vœu exprimé par le conseil scientifique, il
-                           nous paraissait nécessaire d'offrir au lecteur une
-                           consultation des transcriptions des différents témoins. Au
-                           lieu de se contenter de les mettre à disposition sous forme
-                           de documents PDF, il nous paraissait plus judicieux
-                           d'autoriser le lecteur de les afficher, comme il le
-                           souhaitait, afin d'opérer lui-même la comparaison entre les
-                           témoins manuscrits. L'idée étant de lui proposer un contexte
-                           favorable à l'étude savante des manuscrits.</p>
+                           il n'était pas possible de produire une édition
+                              <soCalled>hyper-diplomatique</soCalled> qui offre un
+                           accès simultané aux transcriptions et aux <foreign
+                              xml:lang="lat">fac simili</foreign> des différents
+                           témoins. En revanche, conformément au vœu exprimé par le
+                           Conseil scientifique, il a paru nécessaire d'offrir au
+                           lecteur une consultation des transcriptions des différents
+                           témoins. Au lieu de se contenter de les mettre à disposition
+                           sous forme de documents au format pdf, il nous paraissait
+                           plus judicieux d'autoriser le lecteur de les afficher, comme
+                           il le souhaitait, afin d'opérer lui-même la comparaison
+                           entre les témoins manuscrits. L'idée étant de lui proposer
+                           un contexte favorable pour une lecture rapprochée du corpus
+                           et de ses différents témoins.</p>
                      </div>
                      <div>
-                        <head>Consultation des planches</head>
+                        <head>La consultation des planches</head>
                         <p>S'agissant d'un cours d'architecture, nous avons vu à quel
                            point les planches et figures tiennent une place importante
                            dans l'intelligibilité du propos et sont à cet égard, pour
                            ainsi dire, parties prenantes du texte. De surcroît,
                            l'édition s'adressant principalement à des historiens de
-                           l'art, il s'agissait donc d'accorder une attention
-                           particulière à la consultation des images. D'une part, pour
-                           l'intelligibilité du discours, il était nécessaire de
-                           pouvoir lire le texte en regard des planches. D'autre part,
-                           à fins de comparaison, nous voulions que le lecteur puisse
-                           également comparer les différentes versions des planches de
-                           même que le texte.</p>
+                           l'art, une attention particulière devait être accordée à la
+                           consultation des images. D'une part, pour l'intelligibilité
+                           du discours, il était nécessaire de pouvoir lire le texte en
+                           regard des planches. D'autre part, à fins de comparaison,
+                           nous voulions que le lecteur puisse également comparer les
+                           différentes versions des planches de même que le texte.</p>
                      </div>
                      <div>
-                        <head>Comparaison des figures</head>
+                        <head>La comparaison des figures</head>
                         <p>Le lecteur devait ainsi pouvoir disposer non seulement des
                            figures en regard du texte, mais aussi, à l'instar même du
                            texte, il devait pouvoir être en mesure de comparer les
                            représentations des différents témoins.</p>
                      </div>
                      <div>
-                        <head>Recherche plein texte</head>
+                        <head>La recherche plein texte</head>
                         <p>Outre les index qui relèvent en grande partie de l'apparat
                            critique, il s'agissait également de proposer au lecteur une
-                           recherche plein texte. La recherche dite plein texte est
-                           l'une des modalités du texte spécifiquement permise par le
-                           support numérique. Il nous paraissait donc difficile de nous
-                           en passer. Toutefois, pour être efficace, une telle
-                           recherche suppose un traitement particulier de la langue qui
-                           n'est pas sans présenter des difficultés ; a fortiori comme
-                           dans notre situation où le texte n'était pas modernisé. Si
-                           une telle fonctionnalité apparemment simple pour
-                           l'utilisateur nous paraissait nécessaire et attendue, sa
-                           mise en place efficace était loin d'être triviale.</p>
+                           recherche plein texte. La recherche dite <soCalled>plein
+                              texte</soCalled> est l'une des modalités de consultation
+                           du texte spécifiquement permise par le support numérique. Il
+                           nous paraissait donc difficile de nous en passer. Toutefois,
+                           pour être efficace, une telle recherche suppose un
+                           traitement particulier de la langue qui n'est pas sans
+                           présenter quelques difficultés ; a fortiori comme dans notre
+                           situation où le texte n'était pas modernisé. Si une telle
+                           fonctionnalité apparemment simple pour l'utilisateur nous
+                           paraissait nécessaire et attendue, sa mise en place efficace
+                           était loin d'être triviale.</p>
                      </div>
                   </div>
+               </div>
+               <div>
+                  <p>Le projet d'ANR Desgodets débouchait donc sur la réalisation d'une
+                     ambitieuse édition du corpus des cours de l'architecte à
+                        l'<orgName>Académie royale d'architecture</orgName>. Parce
+                     qu'il s'agissait de publier des textes jamais édités précédemment,
+                     qu'elle fut numérique ou papier, la production d'une telle édition
+                     critique se devait de respecter un certain nombre de conventions
+                     éditoriales dans le domaine de l'édition scientifique et d'offrir
+                     un cadre le plus approprié possible à l'étude des témoins
+                     manuscrits. Enfin, une telle édition devait être adaptée au
+                     caractère particulier des textes architecturaux, notamment eût
+                     égard au rapport à l'image.</p>
                </div>
             </div>
             <div xml:id="desgodetsMemoireBodyFr02" type="part" n="2">
