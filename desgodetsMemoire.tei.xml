@@ -4196,24 +4196,25 @@
                            pu être résolus de manière adéquate.</p>
                      </div>
                      <div>
-                        <head>Différences entre l'édition électronique et l'édition
+                        <head>Les différences entre l'édition électronique et l'édition
                            imprimée</head>
                         <p>L’édition électronique possède de nombreux avantages
                            pratiques sur l’édition imprimée. D’abord, elle est de loin
                            moins coûteuse à produire et peut être directement mise à
                            disposition d’un très grand nombre de lecteurs. Surtout elle
                            rend possible des recherches textuelle et permet d’accéder
-                           rapidement aux informations qu'elles contiennent.</p>
-                        <p>À cet égard, l'utilisation de l'hypertextualité rend
+                           rapidement aux informations qu'elles contiennent en
+                           utilisant l'hypertextualité.</p>
+                        <p>À cet égard, l'utilisation de l'hypertexte rend
                            particulièrement maniable toute l'information para-textuelle
-                           qui peut accompagner l'édition. Les index électroniques, les
-                           listes d’occurrences s'ils existent dans le format papier
-                           sont bien moins maniables qu'avec le numérique. De surcroît,
-                           l'édition électronique permet d'envisager des traitements
-                           automatisés qui présentent un réel gain de temps dans
-                           l'établissement de telles modalités d'accès au contenu. Elle
-                           permet également une visualisation plus contextuelle des
-                           entités.</p>
+                           qui peut accompagner l'édition. Les index électroniques, et
+                           les listes d’occurrences s'ils existent aussi dans le format
+                           papier sont bien moins maniables qu'avec le numérique. De
+                           surcroît, l'édition électronique permet d'envisager des
+                           traitements automatisés qui présentent un réel gain de temps
+                           dans l'établissement de telles modalités d'accès au contenu.
+                           Elle permet également de produire une visualisation plus
+                           contextuelle des entités.</p>
                         <p>L'édition numérique se caractérise également par la
                            possibilité de permettre des enrichissements interactifs de
                            l'édition. Dans le cas de la publication des cours de
@@ -4224,21 +4225,20 @@
                            l'hypertextualité déjà mentionnée rend également les
                            éditions beaucoup plus dynamiques en permettant une
                            navigation aisée dans les contenus.</p>
-                        <p>Avait envisagé un temps la production d'un matériel
-                           iconographique d'accompagnement auquel a renoncé. Besoin de
-                           réflexion sur la manière de l'intégrer.</p>
-                        <p>Complémentarité des modes de recherche. Possibilité de faire
-                           des recherches dynamiques sur le contenu.</p>
-                        <p />
-                        <p>« Content tagging »</p>
-                        <p>Séparation de la source et du commentaire</p>
-                        <p>Sémantisation</p>
-                        <p>Possibilité de signer les interventions. Plusieurs points de
-                           vue sur le texte. Conserver la possibilité au lecteur de
-                           consulter les différents états du texte, sans privilège du
-                           choix opéré par l’éditeur.</p>
+                        <p>On avait un temps envisagé la production d'un matériel
+                           iconographique d'accompagnement dans le cadre de l'édition
+                           des cours de Desgodets avant d'y renoncer faute de solution
+                           satisfaisante pour intégrer ce contenu. Néanmoins, le
+                           numérique permet d'enrichir de contenus iconographiques
+                           pratiquement sans limite.</p>
+                        <p>La séparation de la source du commentaire que permet de
+                           balisage de contenu autorise la signature des interventions.
+                           Jusqu'à autoriser la production d'un texte social. Il est
+                           ainsi possible de proposer plusieurs points de vue sur le
+                           texte. Le lecteur conserve ainsi la possibilité de consulter
+                           les différents états du texte sans privilège du choix opéré
+                           par l'éditeur.</p>
                         <p>Honnêteté, transparence</p>
-                        <p />
                         <p>Pas de texte définitif</p>
                         <p>Un support labile. Améliorations possibles et enrichissement
                            aisé. Plutôt concevoir le travail comme un travail en cours.
@@ -4260,7 +4260,7 @@
                            des supports.</p>
                      </div>
                      <div>
-                        <head>Accessibilité</head>
+                        <head>L'accessibilité</head>
                         <p>Dans sa présentation <title>A Bag of Words</title>, à
                            l'occasion de ???, Edward Vanhoutte soulevait la question de
                            ce que pourrait être une édition numérique et ce qu'elle est
