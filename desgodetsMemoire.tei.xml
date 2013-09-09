@@ -3608,29 +3608,30 @@
                      <head>Le cadre de travail avec les prestataires</head>
                      <p>Les prestataires externes à qui avait été confiée l'application
                         avaient besoin d'interlocuteurs bien identifiés au sein du
-                        projet pour répondre aux différentes questions rencontrées dans
-                        le cours du projet. Nous avons assuré ce rôle sous le contrôle
-                        immédiat, et avec la participation active, de <persName>Robert Carvais</persName> à
-                        qui nous faisions valider les choix les plus importants. Le
-                        suivi de la réalisation de l'application a généré des contacts
-                        réguliers tant avec les prestataires qu'avec le responsable
-                        scientifique du projet mais aussi entre le prestataire pour la
-                        partie graphique et celui pour le développement web. De manière
-                        générale, les échanges ont surtout été menés à distance par le
-                        bais d'une communication par email et l'envoi de pièces
-                        jointes. Des réunions physiques ont été provoquées à
+                        projet pour répondre aux différentes questions rencontrées au
+                        cours du travail. Nous avons assuré ce rôle sous le contrôle
+                        immédiat, et avec la participation active, de <persName>Robert
+                           Carvais</persName> à qui nous faisions valider les choix les
+                        plus importants. Le suivi de la réalisation de l'application a
+                        généré des contacts réguliers tant avec les prestataires
+                        qu'avec le responsable scientifique du projet mais aussi entre
+                        les prestataires pour la partie graphique et ergonomique. De
+                        manière générale, les échanges ont surtout été menés à distance
+                        par le bais d'une communication par courriel et l'envoi de
+                        pièces jointes. Des réunions physiques ont été provoquées à
                         intervalles réguliers pour trancher des questions importantes
                         ou des difficultés particulières. Chaque réunion a fait l'objet
-                        de la production d'un compte rendu.</p>
-                     <p>Après communication d'échantillon de texte encodés et d'un
+                        d'un compte rendu écrit.</p>
+                     <p>Après communication d'échantillon de textes encodés et d'un
                         premier schéma XML-TEI, l'organisation d'une première réunion
                         au moment du lancement de la phase de réalisation a permis de
                         passer en revue les différentes fonctionnalités attendues et de
-                        discuter de premières pistes de travail. Cette première réunion
-                        a donné lieu à la communication d'un premier jeu de maquettes
-                        graphiques et d'une maquette fonctionnelle de l'application web
-                        qui ont ensuite servi de base à la poursuite des discussions,
-                        après validation des grandes orientations ergonomiques.</p>
+                        discuter des premières pistes de travail. Cette première
+                        réunion a donné lieu à la communication d'un premier jeu de
+                        maquettes graphiques et d'une maquette fonctionnelle de
+                        l'application web qui ont ensuite servi de base à la poursuite
+                        des discussions, après validation des grandes orientations
+                        ergonomiques.</p>
                         <p>Tout au long du développement web, nous avons fait un usage
                         relativement étendu du service de communication synchrone de
                         Microsoft Skype avec la développeuse web. Ce service c'est
