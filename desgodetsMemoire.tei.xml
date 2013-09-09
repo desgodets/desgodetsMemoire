@@ -4573,7 +4573,25 @@
          <div xml:id="desgodetsMemoireBackFr" xml:lang="fr">
             <div xml:id="desgodetsMemoireBackFr01" type="conclusion">
                <head>Conclusion</head>
-               <p>S'il </p>
+               <p>L'édition critique du corpus cours de Desgodets était un projet
+                  collectif de grande ampleur qui mobilisant des savoirs divers :
+                  historiens d'art, historiens du droit, spécialistes des textes.
+                  L'adoption de la TEI pour la réalisation de l'édition critique a
+                  fortement structuré   l'ensemble du projet en fournissant à la fois
+                  un cadre de travail technique et une méthode pour penser l'édition
+                  des textes. Sa mise en œuvre, tout comme son utilisation pour la
+                  production de l'application web de consultation, impliquait de
+                  disposer d'une double compétence de chercheur et de technicien. Ce
+                  double regard s'est révélé à la fois nécessaire pour jouer un rôle de
+                  passeur entre les différents intervenants qui ont concouru à mener à
+                  bien l'édition des cours d'une part, et ceux qui ont conçu et élaboré
+                  leur publication dans une application web. C'est cette perspective
+                  qui a également permis en grande partie de formuler des choix
+                  relativement ambitieux en matière de production d'une application de
+                  consultation à même de servir au mieux l'étude des textes en tirant
+                  le plus possible parti des possibilités offertes aujourd'hui par le
+                  medium numérique.</p>
+               <p />
             </div>
             <!-- générer une bibliographie -->
             <divGen n="desgodetsMemoireBackFr02" type="sommaire">
