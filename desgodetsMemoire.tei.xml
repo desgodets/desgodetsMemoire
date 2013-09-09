@@ -3698,7 +3698,7 @@
                            standards par exemple.</p>
                      </div>
                   </div>
-                  <div>
+                  <!--<div>
                      <head>Infrastructure technique et hébergement de
                         l’application</head>
                      <p>L'hébergement de l'application et l'infrastructure technique
@@ -3754,7 +3754,23 @@
                            </div>
                         </div>
                      </div>
-                  </div>
+                  </div>-->
+               </div>
+               <div>
+                  <p>Des diverses tâches assurées dans le cadre de la mission
+                     d'assistance à la maîtrise d'ouvrage, la production du schéma
+                     XML-TEI a tenu un rôle central. Parce que ce modèle conditionne
+                     l'ensemble des traitements qui peuvent ensuite être réalisés sur
+                     les fichiers, c'est en réalité au cours de cette étape du projet
+                     qu'un grand nombre des fonctionnalités de l'application web ont
+                     été déterminées. Bien entendu, cette modélisation découlait
+                     directement de l'analyse fonctionnelle des besoins formulée au
+                     moment de la définition du cahier des charges. Mais une telle
+                     analyse découlait en réalité avant tout d'une bonne connaissance
+                     du texte. À cet égard, on peut dire que la TEI peut être
+                     considérée comme un ensemble de moyens permettant l'analyse et le
+                     traitement du texte. Ils serait donc erroné de cantonner cette
+                     partie du travail à une fonction purement technique.</p>
                </div>
             </div>
             <div xml:id="desgodetsMemoireBodyFr03" type="part" n="3">
