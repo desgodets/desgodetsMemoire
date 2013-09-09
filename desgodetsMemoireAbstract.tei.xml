@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/desgodetsSchemaTEI.rnc"
+                           type="application/relax-ng-compact-syntax"
+                           schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- 
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+     fichier du mémoire de master 2
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+-->
+<!-- TODO : remplacer le faux-texte -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <!-- mentions de titre et de responsabilité -->
+         <titleStmt>
+            <title xml:lang="fre" type="main">L'édition critique des cours d’Antoine Desgodets à l’Académie royale d’architectureUn exemple d'édition de sources primaires en histoire de l’architecture</title>
+            <title xml:lang="fre" type="main">Un exemple d'édition électronique de sources primaires en histoire de l’architecture</title>
+            <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
+            <principal>
+               <persName xml:id="EC">
+                  <forename>Emmanuel</forename>
+                  <surname>Chateau</surname>
+                  <affiliation>
+                     <orgName>École nationale des chartes</orgName>
+                  </affiliation>
+               </persName>
+            </principal>
+            <!-- mentions de responsabilité secondaires -->
+            <respStmt>
+               <resp key="prg">modélisation XML-TEI</resp>
+               <persName ref="#EC">
+                  <forename>Emmanuel</forename>
+                  <surname>Château</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp key="mrk">encodage</resp>
+               <persName ref="#EC">
+                  <forename>Emmanuel</forename>
+                  <surname>Château</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <!-- mention d'édition -->
+         <editionStmt>
+            <edition n="1">première édition électronique, <date when="2013">2013</date>
+            </edition>
+         </editionStmt>
+         <extent><!-- taille du fichier en octet --></extent>
+         <!-- information sur la publication électronique -->
+         <publicationStmt>
+            <date when="2013">2013</date>
+            <!-- voir si on attribue un DOI ou un identifiant ARK aux fichiers édités -->
+            <idno>desgodetsMemoire</idno>
+            <!-- responsable de la publication -->
+            <availability status="restricted" xml:id="desgodetsMemoireLicenceTxt">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
+                  <p>Cette œuvre est mise à disposition selon les termes
+                     de la Licence Creative Commons Attribution - Pas
+                     d’Utilisation Commerciale - Partage dans les Mêmes
+                     Conditions 3.0 France.</p>
+                  <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title xml:lang="fre" type="main">Les cours de Desgodets</title>
+            <title xml:lang="fre" type="sub">une édition électronique</title>
+            <idno>http://www.desgodets.net</idno>
+         </seriesStmt>
+         <!-- ajout d'un élément pour DC.description -->
+         <notesStmt>
+            <note xml:lang="fre" type="abstract">Texte de description pour DC.description</note>
+            <note xml:lang="eng" type="abstract">Texte de description en anglais pour DC.description</note>
+         </notesStmt>
+         <!-- description de la source -->
+         <sourceDesc>
+            <p xml:id="desgodetsMemoire">Texte original : le texte a été créé sous forme
+               électronique</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <!-- description du projet éditorial -->
+         <projectDesc>
+            <p>Ce mémoire a été rédigé dans le cadre du master 2 de l'école des chartes
+               « Technologies numériques appliquées à l'histoire ». Il rend compte d'un
+               stage professionnel réalisé dans le cadre de l'édition des cours de
+               Desgodets. L’édition des cours de Desgodets fait partie d’un programme
+               de recherche sur la formalisation du savoir architectural au XVII<hi rend="superscript">e</hi> siècle.</p>
+         </projectDesc>
+         <!-- déclaration des principes éditoriaux -->
+         <editorialDecl>
+            <stdVals>
+               <p>On utilise...</p>
+            </stdVals>
+            <quotation>
+               <p>Les citations dans le texte sont encodées soit au moyen d’un élément quote,
+                  soit au moyen d’un élément...</p>
+            </quotation>
+         </editorialDecl>
+      </encodingDesc>
+      <!-- présentation du profil de fichier -->
+      <profileDesc>
+         <creation>Le texte été produit avec le logiciel Oxygen</creation>
+         <langUsage>
+            <language ident="fre" usage="100">Français</language>
+            <!-- TODO Noter et évaluer le pourcentage d'autres langues dans le document avec @usage (valeurs numériques) -->
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2013-06-01" who="#EC">première version du fichier</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front xml:id="desgodetsMemoireFront">
+         <titlePage xml:id="desgodetsMemoireFront00" xml:lang="fr">
+            <docTitle>
+               <titlePart type="main">L'édition critique des cours d’<persName>Antoine
+                  Desgodets</persName> à l’Académie royale
+                  d’architecture (Résumé)</titlePart>
+               <titlePart type="sub">Un exemple d'édition électronique de sources primaires en histoire de l’architecture</titlePart>
+            </docTitle>
+            <docAuthor>Emmanuel Château</docAuthor>
+            <docDate>année universitaire 2012-2013</docDate>
+            <docEdition>version 0</docEdition>
+         </titlePage>
+      </front>
+      <body>
+         <div xml:id="desgodetsMemoireAbsractBodyFr" xml:lang="fr">
+            <div xml:id="desgodetsMemoireAbstactBodyFr01" type="abstract">
+               <head>Résumé</head>
+               <p>Le projet d'ANR Desgodets abordait la construction et la
+                  normalisation du savoir architectural à la fin du XVII<hi
+                     rend="superscript">e</hi> et au début du XVIII<hi
+                     rend="superscript">e</hi> siècle à partir d'une première édition
+                  critique du corpus des cours d'Antoine Desgodets à l'Académie royale
+                  d'architecture. </p>
+               <p>Prononcés de 1721 à 1728, les cours de Desgodets constituent un jalon
+                  important dans l'élaboration et la normalisation du savoir
+                  architectural à l'époque classique.  Établie à partir de l'ensemble
+                  des témoins manuscrits identifiés à ce jour à traver les monde, c'est
+                  tout un pan inédit du savoir architectural qui est offert à l'étude
+                  des chercheurs à travers cette édition critique.</p>
+               <p>Le rédacteur du mémoire a eu la chance d'être associé à chacune des
+                  étapes de ce projet d'envergure, depuis l'élaboration du cahier des
+                  charges, jusqu'au suivi de la réalisation, en passant pas la
+                  modélisation XML-TEI. Plus particulièrement, ce mémoire rend compte
+                  d'une mission d'assistance à la maîtrise d'ouvrage dans le cadre de
+                  cette édition numérique en histoire de l'architecture qui doit être
+                  replacée dans le contexte des digital humanities.</p>
+               <p>Mots-clefs :</p>
+               <p>édition critique – édition numérique – XML-TEI – site web – histoire
+                  de l'architecture – histoire du droit</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -13,8 +13,8 @@
       <fileDesc>
          <!-- mentions de titre et de responsabilité -->
          <titleStmt>
-            <title xml:lang="fre" type="main">L'édition électronique de sources primaires en histoire de l’architecture</title>
-            <title xml:lang="fre" type="sub">La publication des cours d’Antoine Desgodets à l’Académie royale d’architectureUn exemple d'édition de sources primaires en histoire de l’architecture</title>
+            <title xml:lang="fre" type="main">L'édition critique des cours d’Antoine Desgodets à l’Académie royale d’architectureUn exemple d'édition de sources primaires en histoire de l’architecture</title>
+            <title xml:lang="fre" type="main">Un exemple d'édition électronique de sources primaires en histoire de l’architecture</title>
             <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
             <principal>
                <persName xml:id="EC">
@@ -115,11 +115,10 @@
       <front xml:id="desgodetsMemoireFront">
          <titlePage xml:id="desgodetsMemoireFront00" xml:lang="fr">
             <docTitle>
-               <titlePart type="main">L'édition électronique de sources primaires en
-                  histoire de l’architecture</titlePart>
-               <titlePart type="sub">La publication des cours d’<persName>Antoine
+               <titlePart type="main">L'édition critique des cours d’<persName>Antoine
                      Desgodets</persName> à l’Académie royale
                   d’architecture</titlePart>
+               <titlePart type="sub">Un exemple d'édition électronique de sources primaires en histoire de l’architecture</titlePart>
             </docTitle>
             <docAuthor>Emmanuel Château</docAuthor>
             <docDate>année universitaire 2012-2013</docDate>
@@ -137,14 +136,14 @@
                   Je lui suis gré de m'avoir tout d'abord recruté au sein de l'équipe
                   de transcripteurs, mais aussi de nous avoir immédiatement associés à
                   l'équipe scientifique du projet. Je le remercie également de m'avoir
-                  offert cette merveilleuse occasion de mener à bien avec lui cette
-                  première réalisation informatique à caractère scientifique.</p>
+                  offert cette merveilleuse occasion de mener à bien avec lui ma
+                  première réalisation informatique dans le domaine scientifique.</p>
                <p>Je voudrais également remercier ici Madame Florence Clavaud qui a
                   bien voulu diriger ce travail. L'exigence et la rigueur de son
-                  enseignement, tout comme son enthousiasme marquerons je pense
-                  durablement ma carrière scientifique. Elle a su à la fois conforter
-                  et canaliser chez moi la flamme que j'entretenais à l'égard des
-                  technologies numériques.</p>
+                  enseignement, tout comme son enthousiasme marqueront je pense
+                  durablement ma future carrière scientifique. Elle a su à la fois
+                  conforter et canaliser chez moi la flamme que j'entretenais à l'égard
+                  des technologies numériques.</p>
                <p>Mes parents ont bien voulu me faire confiance et supporter très
                   concrètement, parce que financièrement, ces études parallèlement à
                   l'achèvement de ma thèse qui ne saurait plus tarder.</p>
@@ -172,33 +171,35 @@
                   <p>Prenant comme objet même l'observation et l'accompagnement de ces
                      transformations, le courant des <soCalled>Digital
                         humanities</soCalled> est parfois présenté comme une
-                        <soCalled>trans-discipline</soCalled>{ThatcampParis2010},
-                     d'aucuns l'abordent comme une science auxiliaire de l'histoire. Si
-                     cette dynamique transdisciplinaire est riche d'échanges et très
-                     favorable à la réflexivité, il nous semble tout à la fois
-                     nécessaire et pertinent d'affronter la question <q>de ce que font
-                        ces outils numérique</q> au sein-même des disciplines ; en
-                     l'espèce dans le domaine de l'histoire et de l'histoire de
-                     l'art.</p>
+                        <soCalled>trans-discipline</soCalled><note place="foot">
+                        <p>{ThatcampParis2010}</p>
+                     </note>, d'aucuns l'abordent comme une science auxiliaire de
+                     l'histoire. Si cette dynamique transdisciplinaire est riche
+                     d'échanges et très favorable au développement d'une réflexivité,
+                     il nous semble tout à la fois nécessaire et pertinent d'affronter
+                     la question <q>de ce que font ces outils numérique</q> au
+                     sein-même des disciplines ; en l'espèce dans le domaine de
+                     l'histoire et de l'histoire de l'art.</p>
                </div>
                <div>
                   <p>Déjà en 1968, Emmanuel Le Roy Ladurie, dans un article resté
                      célèbre, envisageait l'avènement d'un historien
-                     programmeur{LeRoyLadurie 1968}. Ces réflexions étaient fortement
+                     programmeur<note place="foot"><p>{LeRoyLadurie 1968}</p></note>. Ces réflexions étaient fortement
                      marquées du sceau de l'histoire quantitative issue de l'école des
                      Annales. Le renouveau critique des années 80 aura tôt fait de les
                      balayer. Malgré une histoire relativement ancienne, ce n'est
                      finalement qu'assez tardivement que la question des rapports entre
-                     historien et programmeur réapparaît aujourd'hui sur le devant de la scène{Ruiz 2011}.</p>
+                     historien et programmeur réapparaît aujourd'hui sur le devant de la scène<note place="foot"><p>{Ruiz 2011}</p></note>.</p>
                   <p>La réflexion concernant l'utilisation des moyens informatiques en
-                     histoire de l'art est également relativement ancienne. De 1983 à
-                     1993, Jacques Thuillier alors enseignant au Collège de France,
-                     animait et fit paraître une lettre d'information consacrée à
-                     l'informatique et à l'histoire de l'art, l'<title>HAMI (Histoire
-                        de l'art et moyens informatiques)</title>. Dans son premier
-                     éditorial, Jacques Thuillier expliquait un certain retard dans
-                     l'intérêt porté par la discipline à l'informatique par ses
-                     caractéristiques propres. Mais il lui prédisait un riche
+                     histoire de l'art est également relativement ancienne. <date from="1983" to="1993">De
+                        1983 à 1993</date>, <persName>Jacques Thuillier</persName>
+                     alors enseignant au Collège de France, animait et fit paraître une
+                     lettre d'information consacrée à l'informatique et à l'histoire de
+                     l'art, l'<title>HAMI (Histoire de l'art et moyens
+                        informatiques)</title>. Dans son premier éditorial,
+                        <persName>Jacques Thuillier</persName> expliquait un certain
+                     retard dans l'intérêt porté par la discipline à l'informatique par
+                     ses caractéristiques propres. Mais il lui prédisait un riche
                         avenir :<quote>La situation s'est modifiée rapidement.
                         L'informatique s'est développée en capacité et en flexibilité
                         d'une manière prodigieuse, et désormais elle est en mesure de
@@ -215,20 +216,20 @@
                      avait suscité à Pise l'organisation d'un grand colloque qui avait
                      connu un succès enthousiaste. Un second Colloque s'était tenu à
                      Pise en 1984 avec la publication d'un <title>Census</title> qui
-                     témoigne de l'abondance des projets en cours{\162 projets contre
-                     41 en 1978, \ Corti 1984}. D'ailleurs, il est remarquable que la
-                     plupart des projets qui structurent encore aujourd'hui la
-                     discipline dans le domaine documentaire y figurent déjà presque
-                     tous : iconclass, thesauri du Getty, systèmes descriptifs de
-                     l'Inventaire, etc.</p>
+                     témoigne de l'abondance des projets en cours<note place="foot"
+                        ><p>{\162 projets contre 41 en 1978, \ Corti 1984}</p></note>.
+                     D'ailleurs, il est remarquable que la plupart des projets qui
+                     structurent encore aujourd'hui la discipline dans le domaine
+                     documentaire y figurent déjà presque tous : iconclass, thesauri du
+                     Getty, systèmes descriptifs de l'Inventaire, etc.</p>
                   <p>Pourtant c'est un constat amer que formule <persName>Jacques
                         Thuillier</persName> en 1992 dans la <title>Revue de
                         l'art</title> au terme de plus d'une décennie
                      d'expérimentation : <q>[...] Que cette constatation soit ressentie
                         ou non comme humiliante, il faut bien ajouter : l'échec n'est
                         pas à mettre au compte de l'informatique, mais des historiens
-                        d'art, qui n'ont pas sur tirer parti d'elle.</q> {Thuillier
-                     1992} Cet échec est pour lui le signe d'une sclérose de la
+                        d'art, qui n'ont pas sur tirer parti d'elle.</q><note place="foot"><p>{Thuillier
+                     1992}</p></note> Cet échec est pour lui le signe d'une sclérose de la
                      discipline. Toutefois, il ne manque pas de souligner les périls
                      résidant dans l'émiettement des projets et de mettre le doigt sur
                      les divergences d'objectifs entre les institutions patrimoniales
@@ -238,7 +239,7 @@
                      été pressées ces dernières années par des politiques
                      internationales à publier leurs collections sous forme numérique,
                      une telle dynamique ne s'est pas retrouvée à
-                     l'université{WelgerBarboza 2002}. On pourrait évidemment nous
+                     l'université<note place="foot"><p>{WelgerBarboza 2002}</p></note>. On pourrait évidemment nous
                      opposer pléthore de projets de constitution de bases de données
                      scientifiques à caractère documentaire produites depuis plusieurs
                      décennies. Mais on ne peut pas vraiment dire que cela ait été 
@@ -248,7 +249,7 @@
                   <p>Ce constat n'est pas seulement national. L'année dernière, la
                         <orgName>fondation Kress</orgName> publiait un rapport sur
                      l'histoire de l'art et les Digital humanities aux
-                     États-Unis{Zorich 2012}. Dans la mesure où elles peuvent être
+                     États-Unis<note place="foot"><p>{Zorich 2012}</p></note>. Dans la mesure où elles peuvent être
                      comparées, on reconnaît assez bien dans ce rapport la situation
                      française : Un rapport ambivalent aux outils numériques
                      omniprésents mais à l'égard desquels se manifeste une certaine
@@ -259,13 +260,13 @@
                   <p>Pourtant, la question des digital humanities semble à l'ordre du
                      jour en histoire de l'art. En début d'année, la revue
                         <title>Visual Resource</title> consacrait un numéro spécial à
-                     la question{VisualResourcesAnInternational 2013}. Au printemps,
+                     la question<note place="foot"><p>{VisualResourcesAnInternational 2013}</p></note>. Au printemps,
                      c'était au tour du Getty Research Institute d'organiser une
                      manifestation à ce sujet. En France, si ce n'est l'enseignement et
-                     les recherches dirigées par Corinne Welger Barboza depuis
+                     les recherches dirigées par <persName>Corinne Welger Barboza</persName> depuis
                      plusieurs années à l'université  Panthéon-Sorbonne, plusieurs
-                     signes ne trompent pas. L'INHA a été à l'origine de la création
-                     d'une unité de service consacrée à ces questions, InVisu. Et
+                     signes ne trompent pas. L'<orgName>INHA</orgName> a été à l'origine de la création
+                     d'une unité de service consacrée à ces questions, <orgName>InVisu</orgName>. Et
                      plusieurs Labex concernant l'histoire de l'art mettent en avant la
                      question des méthodes et des outils numériques. L'engouement est
                      donc réel, au risque d'être motivé par la recherche de
@@ -359,7 +360,7 @@
                         et leur numérisation en mode texte, l'enrichissement d'édition
                         anciennes, ou enfin la publication de textes inédits sous forme
                         numérique seulement ou parallèle à leur édition
-                        imprimée{Guyotjeannin 2010}.</p>
+                        imprimée<note place="foot"><p>{Guyotjeannin 2010}</p></note>.</p>
                      <p>Le changement de l’environnement de travail et ses
                         conséquences</p>
                      <p>Passage du support analogie au numérique relativement
@@ -403,18 +404,18 @@
                      <p>Plusieurs recherches consacrées ces dernières années aux écrits
                         d'architecture et à la littérature technique témoignent d'un
                         intérêt renouvelé à l'égard du savoir architectural<note
-                           place="foot">Entre autres, voir Jean GUILLAUME (dir.), Les
+                           place="foot"><p>Entre autres, voir Jean Guillaume (dir.), Les
                            traités d’architecture de la Renaissance, Paris, Picard,
-                           1988 ; Jean-Michel LENIAUD et Béatrice BOUVIER (dir.), Les
-                           périodiques d’architecture, XVIIIe - XXe siècles. Recherche
+                           1988 ; Jean-Michel Leniaud et Béatrice Bouvier (dir.), Les
+                           périodiques d’architecture, XVIII<hi rend="superscript">e</hi> - XX<hi rend="superscript">e</hi> siècles. Recherche
                            d’une méthode critique d’analyse, Études et rencontres de
                            l’École des chartes, 2001 ; des mêmes, Le livre
                            d’architecture : édition, représentation, bibliothèque,
                            Études et rencontres de l’École des chartes, 2002 ; Olga
-                           MEDVEDKOVA (dir.), Bibliothèques d’architectes.
+                           Medvedkova (dir.), Bibliothèques d’architectes.
                            Architectural Libraries, Paris/INHA, 2009 ; Jean-Philippe
-                           GARRIC, Estelle Thibault, Emilie D’ORGEIX (dir.), Le livre
-                           et l’architecte, Bruxelles, Mardaga, 2011.</note>. Faute de
+                           Garric, Estelle Thibault, Emilie d’Orgeix (dir.), Le livre
+                           et l’architecte, Bruxelles, Mardaga, 2011.</p></note>. Faute de
                         pouvoir accéder directement au savoir transmis oralement sur le
                         chantier, outre les traités d'architecture qui constituent un
                         genre à part entière, les témoignages écrits sur l'enseignement
@@ -4605,7 +4606,7 @@
             </div>
             <div xml:id="desgodetsMemoireBackFr05" type="colophon">
                <head>Colophon</head>
-               <p>Ce mémoire a été entièrement rédigé en XML-TEI avec une
+               <p>Ce mémoire a été entièrement rédigé en XML-TEI à l'aide d'une
                   personnalisation CSS du mode auteur de l'éditeur Oxygen.
                   Soigneusement versionné par le service Github, il a été branché entre
                   le 3<hi rend="superscript">e</hi> et le 18<hi rend="superscript"
