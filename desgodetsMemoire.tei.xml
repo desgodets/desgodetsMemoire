@@ -2013,14 +2013,14 @@
                            sur le document ou bien une édition basée sur la structure
                            du texte. Les trois opérations qui interviennent au cours du
                            balisage sont donc les suivantes :<list>
-                              <item><hi rend="bold">reconnaissance des éléments</hi>,
-                                 reconnaître que l'élément courant est un élément d'un
-                                 certain type (paragraphe, citation en prose, note de
-                                 bas de page, etc.)</item>
-                              <item><hi rend="bold">sélection des balises</hi>,
+                              <item><hi rend="bold">la reconnaissance des
+                                 éléments</hi>, reconnaître que l'élément courant est
+                                 un élément d'un certain type (paragraphe, citation en
+                                 prose, note de bas de page, etc.)</item>
+                              <item><hi rend="bold">la sélection des balises</hi>,
                                  déterminer le balisage qui s'applique au type
                                  d'élément reconnu</item>
-                              <item><hi rend="bold">réalisation du balisage</hi>,
+                              <item><hi rend="bold">la réalisation du balisage</hi>,
                                  marquage de l'élément.</item>
                            </list></p>
                         <p>L'idée d'un balisage descriptif qui repose sur le fait de
@@ -2028,23 +2028,23 @@
                            représentation du texte qui correspond à ce qu'on a appelé
                            un modèle d'<soCalled>éléments contenus hiérarchiquement
                               imbriqués</soCalled> (OHCO, Ordered Hierarchical Content
-                           Objects en anglais). Dans une telle représentation du texte,
-                           les éléments contenus (paragraphes, citations, phrases,
-                           notes, etc.) sont présentés à l'intérieur d'une structure
-                           hiérarchique. La structure du texte est hiérarchique parce
-                           qu'ils résident les uns à l'intérieur des autres. Les objets
-                           reçoivent donc des relations linéaires. </p>
+                           Objects, en anglais). Dans une telle représentation du
+                           texte, les éléments contenus (paragraphes, citations,
+                           phrases, notes, etc.) sont présentés à l'intérieur d'une
+                           structure hiérarchique. La structure du texte est
+                           hiérarchique parce qu'ils résident les uns à l'intérieur des
+                           autres. Les objets reçoivent donc des relations linéaires. </p>
                         <p>Contrairement aux apparences, les logiciels de traitement de
                            texte qui mettent en forme les documents ne simplifient pas
-                           le développement de documents en éliminant le besoin du
-                           balisage. Ce fait est devenu relativement clair aujourd'hui
-                           avec l'adoption des formats XML par Microsoft Word et Open
-                           Office. Mais comme nous le verrons, le balisage requis pour
-                           ces principaux formats, tout en étant plus consommateur de
-                           ressources, n'atteint pas la même expressivité. Par
-                           ailleurs, les dispositifs d'édition fondés sur un balisage
-                           descriptif présentent plusieurs avantages sur le balisage
-                           fondé sur la présentation comme LaTex :<list>
+                           la production de documents en éliminant le besoin du
+                           balisage. D'une certainne manière cela est devenu plus clair
+                           clair aujourd'hui avec l'adoption des formats XML par
+                           Microsoft Word et Open Office. Mais, le balisage requis pour
+                           ces formats, tout en étant plus consommateur de ressources,
+                           n'atteint pas la même expressivité qu'un simple balisage
+                           descriptif. Par ailleurs, les dispositifs d'édition fondés
+                           sur un balisage descriptif présentent plusieurs avantages
+                           sur le balisage fondé sur la présentation comme LaTex :<list>
                               <item><label n="1">1°</label> Le processus
                                  d'établissement du texte se trouve simplifié par la
                                  focalisation sur le contenu plutôt que sur le contrôle
@@ -2052,14 +2052,14 @@
                                  de la présentation typographique de la copie (comme
                                  avec LaTex)</item>
                               <item><label n="2">2°</label> Les questions de
-                                 maintenance sont réduits à un nombre limité de
-                                 problèmes indépendants du fichier proprement dit.
+                                 maintenance sont réduites à un nombre limité de
+                                 problèmes indépendantes du fichier proprement dit.
                                  L'actualisation des styles et la mise à jour s'en
                                  trouvent facilitées sans risque de corruption des
                                  documents.</item>
                               <item><label n="3">3°</label> Enfin, il fournissent de
                                  meilleurs standard dans le domaine patrimonial et
-                                 culturel, ou pour l'industrie, en termes de
+                                 culturel, ou pour l'industrie, du point de vue de la
                                  portabilité. Ils permettent en effet le partage aisé
                                  des fichiers et réduisent, à terme, les coûts de
                                  publication.</item>
@@ -2072,7 +2072,7 @@
                            plusieurs éditions successives à partir d'un même fichier
                            source, ou de produire plusieurs manifestations
                            (présentations) d'un même fichier. De surcroît, ce balisage
-                           permet généralement la génération automatique de
+                           permet le plus souvent la génération automatique de
                            l'information bibliographique directement à partir du
                            fichier source (qui réduit les erreurs et permet une
                            citation aisée dans les bases bibliographiques) ou d'inclure
@@ -2091,24 +2091,26 @@
                            privilégiée. Dans une telle démarche, il convient en premier
                            lieu de rendre la structure du texte explicite, c'est-à-dire
                            de clarifier à la fois les relations hiérarchiques et
-                           séquentielles. La présence du balisage détermine la
+                           séquentielles. Et la présence du balisage détermine la
                            possibilité de traiter les éléments pour une transformation. </p>
                         <p>Le métalangage informatique XML (Extensible Markup Language)
                            permet le développement de vocabulaires descriptifs de
                            balisages interopérables spécifiques à certains
-                           domaines{Bray 2008}. Son modèle de contenu arborescent est
-                           précisément conforme au modèle OHCO. S'il offre une
-                           grammaire lisible par la machine, il ne présente pas une
-                           réelle sémantique et ne peut donc à lui seul spécifier
-                           formellement une sémantique. XML propose simplement une
-                           solution rigoureuse, compréhensible par les machines, pour
-                           définir un langage de balisage descriptif. La plupart des
-                           contenus des bibliothèques numériques aujourd'hui mis à
-                           disposition sur le web sont encodés en utilisant un balisage
-                           XML. La large adoption de vocabulaires XML spécialisés comme
-                           la TEI rendent disponible une importante information
-                           sémantique, mais seulement sous la forme d'une document en
-                           prose et de pratiques partagées.</p>
+                              domaines<note place="foot">
+                              <p>{Bray 2008}</p>
+                           </note>. Son modèle de contenu arborescent est précisément
+                           conforme au modèle OHCO. S'il offre une grammaire lisible
+                           par la machine, il ne présente pas une réelle sémantique et
+                           ne peut donc à lui seul spécifier formellement une
+                           sémantique. XML propose simplement une solution rigoureuse,
+                           compréhensible par les machines, pour définir un langage de
+                           balisage descriptif. La plupart des contenus des
+                           bibliothèques numériques aujourd'hui mis à disposition sur
+                           le web sont encodés en utilisant un balisage XML. La large
+                           adoption de vocabulaires XML spécialisés comme la TEI
+                           rendent disponible une importante information sémantique,
+                           mais seulement sous la forme d'une documentation en prose et
+                           de pratiques partagées.</p>
                      </div>
                      <div>
                         <head>Le projet de la Text Encoding Initiative</head>
@@ -2124,13 +2126,14 @@
                            sémantique en langage naturel, et d'un ensemble de
                            recommandations rassemblées sous l'intitulé de
                               <title>Guidelines</title>. En ce sens, comme le relève
-                           Florence Clavaud dans son cours, il s'agit plutôt d'une
-                           sorte d'ontologie générique du texte.</p>
+                              <persName>Florence Clavaud</persName> dans son cours, il
+                           s'agit plutôt d'une sorte d'<q>ontologie générique du
+                              texte</q>.</p>
                         <p>La Text Encoding Initiative est née d'un constat partagé au
                            sein d'une communauté de chercheurs déjà engagés dans la
                            production de texte numérique qu'ils manquaient se solutions
                            pour faciliter l'échange de textes et d'information sur leur
-                           travail. En novembre 1987, une rencontre est organisée sous
+                           travail. En novembre 1987, une rencontre fut organisée sous
                            l'égide de l'<orgName>Association for Computers and the
                               Humanities (ACH)</orgName> au Vassar College à
                            Poughkeepsie avec une trentaine de représentants issus du
@@ -2138,37 +2141,38 @@
                            sciences humaines, ou d'organisations professionnelles pour
                            examiner à nouveau la question de la standardisation.
                            S'accordant tous sur le besoin de pratiques communes, ces
-                           participants formulent une dizaine de principes
-                           directeurs{Ide 1995}. Ceux-ci mettaient notamment l'accent
-                           sur la conversion de formats et la nécessité de développer
-                           un métalangage pour des schémas d'encodage descriptifs.</p>
+                           participants formulèrent une dizaine de principes
+                              directeurs<note place="foot"><p>{Ide 1995}</p></note>. Ceux-ci
+                           mettaient notamment l'accent sur la conversion de formats et
+                           la nécessité de développer un métalangage pour des schémas
+                           d'encodage descriptifs.</p>
                         <p>L'<orgName>ACH</orgName>, rapidement suivie dans son effort
                            de standardisation par l'<orgName>Association for Literary
                               and Linguistic Computing</orgName> et
                               l'<orgName>Association for Computational
                               Linguistics</orgName> formèrent ensemble la Text Encoding
-                           Initiative (TEI) afin de conduire cet effort de
-                           standardisation sous la forme d'un projet international
-                           multilingue pour développer des recommandations pour la
-                           préparation et l'échange de textes électroniques dans le
-                           domaine universitaire. Dès 1993, la TEI publiait une
-                           première version de ses <title>Guidelines for the Encoding
-                              and Interchange of Machine-Readable Texts</title>. Ce
-                           rapport proposait un ensemble de convention pour l'encodage
-                           de différent types de textes pour servir dans le domaine des
-                           sciences du langage ou des sciences humaines. Cette première
-                           publication constitue un jalon important car jamais
-                           précédemment les chercheurs n'avaient été capables de
-                           formuler un consensus sur les pratiques d'encodage.</p>
-                        <p>Alors qu'elle était d'abord fondée sur l'utilisation de la
-                           syntaxe SGML, la TEI a adopté XML dès la première
+                           Initiative (TEI) afin de conduire le projet sous une forme
+                           internationale et multilingue et développer des
+                           recommandations pour la préparation et l'échange de textes
+                           électroniques dans le domaine universitaire. Dès 1993, la
+                           TEI publiait une première version de ses <title>Guidelines
+                              for the Encoding and Interchange of Machine-Readable
+                              Texts</title>. Ce rapport proposait un ensemble de
+                           convention pour l'encodage de différent types de textes pour
+                           servir dans le domaine des sciences du langage ou des
+                           sciences humaines. Cette première publication constitue un
+                           jalon important car jamais précédemment les chercheurs
+                           n'avaient été capables de formuler un consensus sur les
+                           pratiques d'encodage.</p>
+                        <p>Alors qu'elle avait d'abord été fondée sur l'utilisation de
+                           la syntaxe SGML, la TEI a adopté XML dès la première
                            publication de sa spécification en 1996, certains membres de
                            la TEI avaient en effet participé à son développement. Par
                            la suite, les <title>Guidelines</title> ont été étayées par
                            l'apport d'autres spécialités pour prendre en charge une
                            plus grande diversité de textes. On en est aujourd'hui à la
                               5<hi rend="superscript">e</hi> proposition numérotée P5,
-                           et elle est organisée autour d'un consortium et une
+                           et elle est organisée autour d'un consortium et d'une
                            importante communauté d'utilisateurs. Conçue un modèle
                            générique de structuration et de sémantisation des textes,
                            la TEI présente de nombreux avantages. On relève notamment : <list>
@@ -2177,24 +2181,30 @@
                               <item>qu'il s'agit d'un standard reconnu
                                  internationalement (interopérabilité,
                                  pérennité)</item>
-                              <item>qu'elle dispose des propriété intrinsèque au modèle
-                                 XML, séparation présentation et contenu. Possibilité
-                                 de générer plusieurs formats de sortie à partir de la
-                                 même source</item>
+                              <item>qu'elle dispose des propriétés intrinsèques au
+                                 modèle XML, séparation entre la présentation et le
+                                 contenu, possibilité de générer plusieurs formats de
+                                 sortie à partir de la même source</item>
                               <item>son adaptation à l'édition électronique (croisement
-                                 sources, fac-similés, hyperliens, etc.)</item>
+                                 de sources, <foreign xml:lang="lat">fac
+                                    simili</foreign>, hyperliens, etc.)</item>
                               <item>les possibilités de modulation de l’affichage et
                                  d'accessibilité, ses aspects économiques</item>
                            </list></p>
-                        <p>Outre le fait qu'elle soit rapidement apparue comme un
+                        <p>En dehors du fait qu'elle soit rapidement apparue comme un
                            standard de fait pour la publication de textes numériques en
-                           sciences humaines, ce sont ces qualités qui explique sa
-                           large implantation dans la communauté scientifique. Elle
-                           sert de format à de nombreux projets d'envergure
-                           internationale (Blake archive, Perseus, Rosetti, etc.).
-                           Plusieurs projet français de grande envergure utilisent
-                           également la TEI dans le domaine des sciences historiques
-                           (BVH, Thélème, ENS Lyon, etc.). ??Liens</p>
+                           sciences humaines, ce sont ces qualités qui explique la
+                           large implantation de la TEI dans la communauté
+                           scientifique. Elle sert de format à de nombreux projets
+                           d'envergure internationale (Blake archive<note place="foot">
+                              <p>{TheWilliamBlakeArchive}</p>
+                           </note>, Perseus<note place="foot"><p>{PerseusDigitalLibrary}</p></note>,
+                           Rosetti<note place="foot"><p>{RossettiArchive}</p></note>, etc.). Plusieurs projet français
+                           de grande envergure utilisent également la TEI dans le
+                           domaine des sciences historiques
+                           (BVH<note place="foot"><p>{LesBibliothèquesVirtuellesHumanistes}</p></note>,
+                           Élec<note place="foot"><p>{ÉditionsEnLigneDe}</p></note>, le portail Telma<note place="foot"><p>{PortailTelma}</p></note>, ENS
+                           Lyon<note place="foot"><p>{Hyperdonat}</p></note>, etc.).</p>
                      </div>
                      <div>
                         <head>Un standard de fait pour la production de sources
@@ -2203,9 +2213,11 @@
                            recommandations plutôt que celle d'un standard ou d'une
                            norme. L'objectif était de spécifier des conventions
                            d'encodage simples, faciles à employer, relativement
-                           compréhensible, et qui fournissent d'amples mécanismes
-                           d'extension afin de répondre à des besoins particuliers.{Ide
-                           1995} Cette modularité avec ses possibilités de
+                           compréhensibles, et qui fournissent d'amples mécanismes
+                           d'extension afin de pouvoir répondre à des besoins
+                              particuliers.<note place="foot">
+                              <p>{Ide 1995}</p>
+                           </note> Cette modularité avec ses possibilités de
                            personnalisation et d'extension seyait mieux à la recherche.
                            Néanmoins, la TEI s'est rapidement imposée comme standard de
                            fait pour l'encodage de textes numériques dans le domaine
@@ -2216,31 +2228,31 @@
                            d'interopérabilité et permettent d'utiliser les outils
                            puissants disponibles pour manipuler des arbres XML. D'autre
                            part, l'importante généricité de la TEI lui permet de
-                           couvrir une grande gamme de besoin. Cela explique en grande
-                           partie son importante pénétration de la TEI dans la
-                           communauté scientifique. </p>
+                           couvrir une grande gamme de besoins. Cela explique en grande
+                           partie l'importante pénétration de la TEI dans la communauté
+                           scientifique. </p>
                         <p>La TEI fournit ainsi, à l'aide d'un vocabulaire et d'une
                            infrastructure technique, un cadre de travail pour la
                            modélisation des textes. Dans la limite de leur
-                           expressivité, de tels modèles peuvent être employés à telle
-                           ou telle fins. La volonté de la TEI de couvrir l'ensemble
+                           expressivité, de tels modèles peuvent être employés à telles
+                           ou telles fins. La volonté de la TEI de couvrir l'ensemble
                            des besoins a pour pendant négatif la nécessité de
                            personnaliser son schéma. Et l'utilisation de la TEI suppose
-                           l'apprentissage de son vocabulaire. Cette difficulté d'accès
-                           ainsi que la nécessité de manier des outils nouveaux reste
-                           un problème qui n'est toujours pas complètement réglé.
-                           Cependant, la TEI a largement été adoptée aujourd'hui dans
-                           le secteur académique pour la publication de sources
-                           primaires ou l'édition numérique. On peut affirmer qu'elle
-                           constitue de ce point de vue un standard de fait qui
-                           justifie en grande partie son adoption dans un projet
-                           scientifique comme l'édition des cours de
-                              <persName>Desgodets</persName>.</p>
-                        <p>À de nombreux égards, une large adoption de la TEI est
-                           censée répondre à un désir d'interopérabilité et de
-                           pérennisation. La promesse des standards est de nous rendre
-                           la vie plus aisée : TEI, XML, Unicode ont le potentiel de
-                           faciliter l'échange et la réutilisation des documents, c'est
+                           l'apprentissage de son vocabulaire. Cette difficulté
+                           d'accès, ainsi que la nécessité de manier des outils
+                           nouveaux, reste un problème qui n'est toujours pas
+                           complètement réglé. Cependant, la TEI a largement été
+                           adoptée aujourd'hui dans le secteur académique pour la
+                           publication de sources primaires ou l'édition numérique. On
+                           peut affirmer qu'elle constitue de ce point de vue un
+                           standard de fait qui justifie en grande partie son
+                           utilisation dans un projet scientifique comme l'édition des
+                           cours de <persName>Desgodets</persName>.</p>
+                        <p>À de nombreux égards, le large emploi de la TEI est censé
+                           répondre à un désir d'interopérabilité et de pérennisation.
+                           La promesse des standards est de nous rendre la vie plus
+                           aisée : TEI, XML, Unicode ont le potentiel de faciliter
+                           l'échange et la réutilisation des documents, c'est notamment
                            la raison pour laquelle on y a recours. Cependant, par sa
                            généricité même, la nature profonde de la TEI qui nécessite
                            d'opérer des choix, ou permet d'être étendue en fonction des
@@ -2281,23 +2293,26 @@
                            Plusieurs paragraphes peuvent être réunis dans une division
                               <gi>div</gi>. À l'intérieur d'un paragraphe, on peut
                            marquer un nom de personne ou de lieu à l'aide d'éléments
-                           persName ou placeName. Une telle configuration est très
-                           commode pour le traitement (<foreign xml:lang="eng"
-                              >processing</foreign>), puisqu'il est relativement
-                           trivial de transformer un élément TEI <gi>div</gi> ou
-                              <gi>p</gi> en l'élément HTML correspondant, ou persName
-                           en un hyperlien qui pointe vers les informations concernant
-                           la personne désignée. Cependant, cela signifie également que
-                           les capacités de modélisation de la TEI sont celles
-                           déterminées par XML.</p>
+                              <gi>persName</gi> ou <gi>placeName</gi>. Une telle
+                           configuration est très commode pour le traitement (<foreign
+                              xml:lang="eng">processing</foreign>), puisqu'il est
+                           relativement trivial de transformer un élément TEI
+                              <gi>div</gi> ou <gi>p</gi> en l'élément HTML
+                           correspondant, ou encore <gi>persName</gi> en un hyperlien qui pointe
+                           vers les informations concernant la personne désignée.
+                           Cependant, cela signifie également que les capacités de
+                           modélisation de la TEI sont celles déterminées par XML.</p>
                         <p>Dès 2002, <persName>Buzetti</persName> a avancé que la
                            structure arborescente n'était pas suffisamment expressive
-                           pour rendre compte de toute la complexité d'un
-                           texte<note place="foot"><p>{Buzzetti 2002}</p></note>, et en 2010
-                              <persName>Schmidt</persName> a considéré que la TEI
-                           constituait un mauvais modèle du texte car elle imposait des
-                           interprétations éditoriales sur le texte lui-même<note place="foot"><p>{Schmidt
-                           2010}</p></note>. La TEI peut parfois se révéler en partie inadéquate
+                           pour rendre compte de toute la complexité d'un texte<note
+                              place="foot">
+                              <p>{Buzzetti 2002}</p>
+                           </note>, et en 2010 <persName>Schmidt</persName> a considéré
+                           que la TEI constituait un mauvais modèle du texte car elle
+                           imposait des interprétations éditoriales sur le texte
+                              lui-même<note place="foot">
+                              <p>{Schmidt 2010}</p>
+                           </note>. La TEI peut parfois se révéler en partie inadéquate
                            pour traiter par exemple la structure du discours ou la
                            sémantique du texte. Son modèle impose souvent de traiter
                            séparément l'encodage du texte et son inscription sur le
@@ -2306,46 +2321,49 @@
                            qu'imparfait, tout à fait acceptable et suffisant dans la
                            plupart des cas pour le travail académique ou universitaire.
                            Elle constitue d'autant plus une solution qu'elle permet
-                           l'utilisation des puissants outils XML disponibles.</p>
-                        <p>C'est ici la question du texte et des différentes lectures
-                           que l'on peut en avoir qui est soulevée. Est-ce que le texte
-                           peut exister indépendamment de son apparat critique. Dans de
-                           nombreux cas, il n'y a pas de texte proprement dit mais
-                           seulement une multiplicité de lectures. Or, la lecture
-                           constitue de fait un exercice interprétatif, la TEI présente
-                           ici au moins l'avantage de son honnête dans le fait qu'elle
-                           met en avant, et au centre, les interventions éditoriales là
-                           où elles sont le plus manifestes. Il s'agit donc d'être
-                           conscient qu'en adoptant ce qui constitue aujourd'hui un
-                           standard de fait dans le domaine académique avec tous ses
-                           avantages, il convient en même temps de faire le deuil d'un
-                           modèle véritablement générique qui répondrait à toutes les
-                           situations. Chaque modélisation du texte mise en œuvre à
-                           l'échelle d'un projet traduit d'abord un point de vue sur
-                           les textes. C'est une certaine lecture du texte qui est
-                           proposée au lecteur par l'éditeur, et une telle lecture
-                           traduit avant tout les préoccupations et les questionnements
-                           à l'œuvre au moment de l'acte d'édition.</p>
+                           l'utilisation de puissants outils XML.</p>
+                        <p>C'est ici en réalité la question du texte et des différentes
+                           lectures que l'on peut en avoir qui est soulevée<note
+                              place="foot">
+                              <p>{Hayles 2004}</p>
+                           </note>. Est-ce que le texte peut exister indépendamment de
+                           son apparat critique. Dans de nombreux cas, il n'y a pas de
+                           texte proprement dit mais seulement une multiplicité de
+                           lectures. Or, la lecture constitue de fait un exercice
+                           interprétatif, la TEI présente ici au moins l'avantage de
+                           son honnêté dans le fait qu'elle met en avant, et au centre,
+                           les interventions éditoriales là où elles sont le plus
+                           manifestes. Il s'agit donc d'être conscient qu'en adoptant
+                           ce qui constitue aujourd'hui un standard de fait dans le
+                           domaine académique avec tous ses avantages, il convient en
+                           même temps de faire le deuil d'un modèle véritablement
+                           générique qui répondrait à toutes les situations. Chaque
+                           modélisation du texte mise en œuvre à l'échelle d'un projet
+                           traduit d'abord un point de vue sur les textes. C'est une
+                           certaine lecture du texte qui est proposée au lecteur par
+                           l'éditeur, et une telle lecture traduit avant tout les
+                           préoccupations et les questionnements à l'œuvre au moment de
+                           l'acte d'édition.</p>
                      </div>
                   </div>
                   <div>
                      <head>La modélisation XML-TEI</head>
                      <div type="introduction">
-                        <p>La TEI peut se concevoir comme un cadre de travail
+                        <p>La TEI peut donc se concevoir comme un cadre de travail
                            technique, un framework, qui accompagne l'éditeur ou
                            l'encodeur dans la structuration de l'information. Elle
                            consiste en un ensemble de préconisations qui doivent être
                            adaptées aux spécificités inhérentes à chaque projet
-                           éditorial. Comme le relève <persName>Florence Clavaud</persName>, <q>cette
-                              modularité qui garantie la flexibilité du modèle et sa
-                              généralité,  peut parfois dérouter l'encodeur
-                              inexpérimenté ou le confronter à des choix
-                           difficiles</q>. La définition des solutions d'encodage
-                           implique d'opérer des choix entre plusieurs solutions
-                           admissibles en en saisissant bien tous les tenants et les
-                           aboutissants. Elle implique un aller-retour continuel entre
-                           les sources textuelles à traiter et la documentation de la
-                           TEI afin de réévaluer les solutions d'encodage
+                           éditorial. Comme le relève <persName>Florence
+                              Clavaud</persName>, <q>cette modularité qui garantie la
+                              flexibilité du modèle et sa généralité, peut parfois
+                              dérouter l'encodeur inexpérimenté ou le confronter à des
+                              choix difficiles</q>. La définition des solutions
+                           d'encodage implique d'opérer des choix entre plusieurs
+                           solutions admissibles en en saisissant bien tous les tenants
+                           et les aboutissants. Elle implique un aller-retour continuel
+                           entre les sources textuelles à traiter et la documentation
+                           de la TEI afin de réévaluer les solutions d'encodage
                            envisagées.</p>
                         <p>Ce besoin de personnalisation s'explique, d'une part parce
                            que le texte est souvent un objet hétérogène, et d'autre
@@ -2356,10 +2374,10 @@
                            oral ne seront sans doute pas les mêmes que ceux requis pour
                            le traitement diplomatique. On n'abordera pas un ensemble de
                            textes composites ou un corpus de la même manière que des
-                           textes isolés. Ces différents cas figure expliquent le
-                           besoin de métadonnées spécialisées pour décrire les
+                           textes isolés. Ces différents cas de figure expliquent assez
+                           bien le besoin de métadonnées spécialisées pour décrire les
                            contenus.</p>
-                        <p>Ce que propose la TEI c'est un ensemble de mécanisme pour
+                        <p>Ce que propose la TEI c'est un ensemble de mécanismes pour
                            les traiter. <quote>Formellement parlant, les
                                  <title>Guidelines</title> fournissent à la fois des
                               règles syntactiques sur la manière dont des éléments et
@@ -2375,222 +2393,17 @@
                               en rapport, et le <hi rend="italic">schéma TEI</hi>
                                  (<foreign xml:lang="eng">TEI schema</foreign>) qui
                               définit un ensemble de règles et de contraintes
-                              syntactiques.<note place="foot"><p>{Guidelines 23.3}</p></note></quote></p>
+                                 syntactiques.<note place="foot">
+                                 <p>{SperbergMcqueen 2013\, 23.3\}</p>
+                              </note></quote></p>
                      </div>
                      <div>
-                        <head>Les partis-pris de modélisation</head>
-                        <div type="introduction">
-                           <p>La Text Encoding Initiative fournit donc un grand nombre
-                              de balises dans lesquelles il est possible de puiser pour
-                              modéliser son texte. Personne ne les utilise toutes dans
-                              le cadre d'un projet. En d'autres termes, on doit
-                              construire des représentation du texte source qui
-                              reflètent les phénomènes que l'on observe d'un point de
-                              vue structurel, sémantique ou linguistique, et que l'on
-                              va modéliser d'après la manière dont on espère les
-                              exploiter par la suite. À cet égard, la modélisation
-                              XML-TEI est une opération intrinsèque au processus
-                              éditorial et qui a directement trait au caractère
-                              scientifique de l'édition numérique. Puisqu'il s'agit bel
-                              et bien de produire un artefact orienté.</p>
-                        </div>
+                        <head>L'infrastructure de la TEI et la personnalisation</head>
                         <div>
-                           <head>La macrostructure du texte et inscription sur le
-                              support</head>
-                           <div>
-                              <head>La macrostructure du texte</head>
-                              <p>Les manuscrits que nous avions à traiter présentaient
-                                 généralement une structure textuelle relativement
-                                 commune qui pouvait facilement être prise en charge à
-                                 l'aide des éléments structurels offerts par la TEI. Il
-                                 a systématiquement été établi une division tripartite
-                                 dans l'édition avec les éléments <gi>front</gi> pour
-                                 les parties liminaires, <gi>body</gi> pour le corps de
-                                 texte et <gi>back</gi> pour les paries postérieures. À
-                                 l'intérieur de ces différentes parties,
-                                    <gi>titlePage</gi> avec ses composants permettait
-                                 de prendre en charge les pages de titre, et une
-                                 combinaison des éléments <gi>div</gi>, <gi>p</gi>,
-                                    <gi>list</gi> et tous ses composants, ainsi que
-                                    <gi>seg</gi> a paru adaptée et suffisante pour
-                                 traiter presque tous les cas de figure. Un système de
-                                 typage des divisions a toutefois été établi pour
-                                 préciser cette macrostructure en utilisant l'attribut
-                                    <att>type</att>.</p>
-                              <p>Les manuscrits des servitudes présentaient quant à eux
-                                 un cas de figure moins courant. S'agissant pour l'un
-                                 d'un recueil de coutumes, pour l'autre d'un
-                                 commentaire sur la coutume de Paris, les deux textes
-                                 citaient abondamment d'autres textes. L'emploi d'un
-                                 élément floatingText nous est apparu pertinent pour
-                                 traiter ces citations car il a l'avantage de permettre
-                                 de conserver la structure originale de ces textes.</p>
-                           </div>
-                           <div>
-                              <head>L'inscription du texte sur le support</head>
-                              <p>Les manuscrits pris en charge étant souvent des copies au
-                                 propre, l'emploi des éléments fournis par le module
-                                 spécialisé de la TEI consacré à la transcription des
-                                 manuscrits <ident type="module">transcr</ident> suffisait
-                                 très largement à couvrir nos besoins. Il s'est trouvé
-                                 utilement complété par le module <ident type="module"
-                                    >certainty</ident> pour les difficultés de lectures ou
-                                 la résolution des abréviation.</p>
-                           </div>
-                        </div>
-                        <div>
-                           <head>La définition d’une nomenclature pour le corpus (id
-                              uniques, etc.)</head>
-                           <p>Si le traitement de la macrostructure du texte ou de
-                              l'inscription du texte sur le support ne présentaient pas
-                              de problèmes particuliers, la principale difficulté posée
-                              par les documents à traiter résidait dans les solutions à
-                              mettre en œuvre afin d'organiser les différents éléments
-                              du corpus.</p>
-                           <div>
-                              <head>Définition d’une arborescence de fichier</head>
-                              <p>L'édition concernait la production de quatre cours qui
-                                 constituaient ensemble le corpus des cours d'Antoine
-                                 Desgodets. Du point de vue de la TEI, dès lors que
-                                 chacun des témoins manuscrits était traité dans un
-                                 fichier séparé, il paraissait logique de réunir chaque
-                                 cours au sein d'un corpus. Pour ce faire nous avons
-                                 utilisé l'une des structures proposées par la TEI avec
-                                 l'utilisation de l'élément <gi>teiCorpus</gi>.</p>
-                              <p>Afin de permettre une édition séparée des fichiers de
-                                 chacun des témoins manuscrits, ceux-ci ont été traités
-                                 de manière séparée en utilisant le standard du W3C
-                                 Xinclude<note place="foot"><p>{Marsh 2006}</p></note>. En appliquant la même norme, on
-                                 a traité séparément certaines section du fichier dans
-                                 un répertoire séparé intitulé divs.</p>
-                              <p>Dès lors que l'on employait cette structure pour
-                                 chacun des cours, il a paru logique d'adopter la même
-                                 structure pour l'ensemble du corpus des cours de
-                                 Desgodets. Cette configuration a par la suite été
-                                 étendue à l'ensemble des parties éditoriales du site
-                                 web pour plus de facilité pour le développement.</p>
-                           </div>
-                           <div>
-                              <head>La production d'une nomenclature</head>
-                           </div>
-                           <div>
-                              <head>L'alignement du textes et les images pour ménager leur
-                                 comparaison</head>
-                              <p>Les <title>Guidelines</title> proposent trois trois
-                                 approches pour aligner des passages textuels lorsque l'on
-                                 établit une édition critique :<list>
-                                    <label>la méthode de localisation référencée :</label>
-                                    <item>où les entrées d'apparat critique sont liées aux
-                                       blocs de texte identifiés qui contiennent les
-                                       lemmes respectifs</item>
-                                    <label>la méthode d'attachement à double point</label>
-                                    <item>où les entrées d'apparat critique sont liées à
-                                       des ponts de départ et de fin identifiées dans un
-                                       texte</item>
-                                    <label>la méthode de segmentation parallèle.</label>
-                                    <item>où les entrées d'apparat critique son encodées
-                                       au moyen d'une transcription du texte connu
-                                       invariable et de tous les témoins.</item>
-                                 </list></p>
-                              <p>La méthode par segmentation parallèle est le plus
-                                 couramment utilisée lors de l'encodage de sources en
-                                 XML-TEI pour comparer des témoins. Cette méthode
-                                 correspond également à une méthode de travail pour
-                                 l'établissement du texte. Pour notre projet, nous avons
-                                 retenu la première approche, celle par localisation
-                                 référencée, afin de nous faciliter le travail car les
-                                 manuscrits ont déjà été transcrits séparément et nous
-                                 n'éditons en réalité qu'un témoin du texte de manière
-                                 critique pour chaque cours, en nous contentant de
-                                 signaler en note les variantes significatives des autres
-                                 témoins du texte. Il s'agit donc simplement de trouver
-                                 une solution pour proposer au lecteur un alignement
-                                 visuel des différents témoins de la tradition du
-                                 texte.</p>
-                              <p>Bien qu'elle eût été plus satisfaisante, la méthode de
-                                 segmentation parallèle aurait représenté un travail plus
-                                 considérable si nous avions voulu fournir toutes les
-                                 variantes des témoins, surtout pour des textes où nous
-                                 avons jusqu'à 15 témoins. Une telle méthode s'intégrait
-                                 par ailleurs assez mal dans notre flux de production.
-                                 D'une part, seules les variantes jugées significatives
-                                 étaient rapportées au manuscrit maître édité, ce qui ne
-                                 permettait pas de reconstituer les différents témoins
-                                 intégralement. D'autre part, il n'était guère possible
-                                 d'automatiser l'importation des variantes à partir d'un
-                                 document de traitement de texte. Nous nous sommes donc
-                                 contenter d'un récolement manuel des différents témoins
-                                 pour permettre leur alignement.</p>
-                              <p>L'alignement des témoins nécessitait la détermination
-                                 d'identifiants uniques pour chacun des segments textuels
-                                 à traiter. Ceux-ci sont numérotés de manière systématique
-                                 en fonction de leur position dans la hiérarchie textuelle
-                                 (éléments div, p, seg, list, item, etc.). Un fichier
-                                 externe permet d'enregistrer le travail d'alignement des
-                                 témoins en utilisant l'élément TEI <gi>linkGrp</gi> et
-                                 une série d'élément <gi>link</gi>. Le même mécanisme est
-                                 utilisé pour aligner les figures entre les différents
-                                 témoins. L'utilisation d'identifiants uniques rassemble
-                                 plusieurs avantages, elle permet</p>
-                              <p>ils sont presque identiques hormis le début de
-                                 l'identifiant qui renvoie au numéro d'ordre du manuscrit
-                                 concerné dans le corpus. Le fait d'avoir recours à des
-                                 identifiants uniques permet d'identifier précisément, à
-                                 l'exclusion de toute autre, une unité textuelle ou un
-                                 passage dans l'un des manuscrit. C'est donc une bonne
-                                 pratique notamment pour la citabilité. Comme on utilise
-                                 ici l'attribut global de XML xml:id, qui doit
-                                 nécessairement être unique dans un fichier XML, il y a un
-                                 contrôle d'unicité (ce contrôle s'applique à l'ensemble
-                                 du corpus car il est compris dans une arborescence de
-                                 fichiers XML). Enfin, le fait d'utiliser des identifiants
-                                 uniques, a surtout l'avantage de permettre de traiter les
-                                 regroupements de paragraphes, les interversions, les
-                                 ajouts, indépendamment du manuscrit édité (et donc par la
-                                 suite éventuellement d'éditer toutes les variantes du
-                                 texte ou le réemploi des sources XML-TEI dans d'autres
-                                 projets).</p>
-                           </div>
-                        </div>
-                        <div>
-                           <head>Traitement de l’arsenal critique</head>
-                           <div>
-                              <head>Indexation</head>
-                           </div>
-                           <div>
-                              <head>Notes d’édition critique et de commentaire
-                                 historique</head>
-                              <p>Notes traitées </p>
-                           </div>
-                           <div>
-                              <head>Identification des manuscrits et production des
-                                 métadonnées</head>
-                              <p>http://codicologia.irht.cnrs.fr</p>
-                              <p>Production des métadonnées sur les images</p>
-                              <p>La TEI a été conçue pour traiter la plupart des textes
-                                 littéraires. Elle ne présent pas décrire d'autres
-                                 langages descriptifs spécialisés comme ceux conçus
-                                 pour la chimie, le vocabulaire technique, etc.</p>
-                              <p>Il est cependant possible de concevoir des documents
-                                 composites en mixant des matériaux tirés de champs
-                                 différents. En l'espère vocabulaire de métadonnées.
-                                 Dès lors que l'ensemble des éléments TEI sont placés
-                                 dans leur espace de nom, il est possible d'écrire un
-                                 document qui intercale des balises TEI et des balises
-                                 d'un autre espace de nom. Pour valider un tel document
-                                 contre un schéma, il est possible de valider
-                                 séparément les deux langages, ou personnaliser la TEI
-                                 pour déterminer les endroits où l'insertion du langage
-                                 "étranger" est permise. </p>
-                           </div>
-                        </div>
-                     </div>
-                     <div>
-                           <head>La production du schéma RelaxNG</head>
-                           <div type="introduction">
-                              <p>Dès l'origine la TEI a été conçue pour être employée
-                              comme un ensemble de briques qui permettent de construire
-                              des schémas spécifiques pour un projet donné. Dans cet
+                           <head>La production d'un schéma</head>
+                           <p>Dès l'origine la TEI a été conçue pour être employée
+                              comme un ensemble de briques permettant de construire des
+                              schémas spécifiques pour un projet donné. Dans cet
                               esprit, la TEI propose un vocabulaire pour décrire les
                               textes sans préjuger de ce que les textes pourraient
                               contenir. Aussi est-il important de comprendre que la TEI
@@ -2604,183 +2417,55 @@
                               possible de contrôler la production d'un document dans un
                               éditeur XML ou encore de valider son contenu en
                               l'associant à un schéma qui peut être rédigé dans divers
-                              formats. Un schéma constitue donc à la fois une manière
-                              de représenter le modèle de contenu des documents traités
-                              et de contrôler leur structure ou leur contenu d'un point
-                              de vue technique.</p>
+                              formats (RelaxNG, W3C XML schema, etc.). Un schéma
+                              constitue donc à la fois une manière de représenter le
+                              modèle de contenu des documents traités et de contrôler
+                              leur structure ou leur contenu d'un point de vue
+                              technique.</p>
                            <p>La définition du schéma s'opère au moyen d'aller-retour
                               continus avec les sources textuelles que l'on souhaite
-                              traiter. Elle a d'abord été effectuée à partir d'un
-                              échantillon jugé suffisamment représentatif du corpus.
-                              Enfin, lors du passage à l'échelle, pour corriger
-                              quelques choix s'avérant inappropriés ou bien encore pour
-                              encore renforcer le contrôle par l'intermédiaire du
-                              schéma. Le processus d'élaboration du modèle est donc un
-                              processus incrémentiel, et le schéma n'est pas d'emblée
-                              figé dans le marbre.
-                              <!--TODO améliorer la rédaction.--></p></div>
-                           <div>
-                              <head>L'infrastructure de la TEI et la
-                                 personnalisation</head>
-                              <p>L'architecture de la TEI permet de construire un
-                                 schéma en combinant comme de besoin des déclarations
-                                 d'éléments et d'attributs. Chaque élément est
-                                 documenté par un élément de spécification adéquat et
-                                 dispose d'un identifiant unique dans le système. Pour
-                                 pour de facilité, ces spécifications sont groupées
-                                 dans des modules distincts qui peuvent être combinés
-                                 entre eux. Chaque module détermine un certain nombre
-                                 d'éléments spécifiques qui peuvent également
-                                 renseigner des classes particulières. Toutes les
-                                 classes sont disponibles globalement, indépendamment
-                                 des modules dans lesquelles elles sont déclarées.
-                                 Lorsque c'est possible, les modèles de contenus sont
-                                 définis en termes de classes (<foreign xml:lang="eng"
-                                    >classes</foreign>), les modules peuvent également
-                                 déclarer certains motifs particuliers (<foreign
-                                    xml:lang="eng">patterns</foreign>). [[revoir
-                                 fin]]</p>
-                              <p>Il est possible de personnaliser la TEI en supprimant
-                                 des modules un certain nombre d'éléments qui ne
-                                 seraient pas nécessaires pour le traitement de ses
-                                 documents ou en modifiant ces classes. Ce faisant, on
-                                 peut restreindre la manière de traiter certains
-                                 phénomènes, ou encore, limiter les attributs
-                                 disponibles sur un élément, et définir pour ces
-                                 attributs des listes de valeurs ouvertes ou fermées.
-                                 Au besoin, on peut également modifier le nom des
-                                 éléments par exemple pour l'internationalisation ou
-                                 ajouter des éléments, ce qui n'a pas été retenu dans
-                                 le cadre de notre projet.</p>
-                              <p>Les <title>Guidelines</title> décrivent trois manières
-                                 de personnaliser (<foreign xml:lang="eng"
-                                    >customizing</foreign>) la TEI :<list>
-                                    <item><label>1°</label> Rédiger une spécification
-                                       de haut niveau pour une représentation en TEI et
-                                       générer un schéma <foreign xml:lang="lat">ad
-                                          hoc</foreign> ;</item>
-                                    <item><label n="2">2°</label> Utiliser les modules
-                                       de la TEI et spécifier dans ces sous-ensembles
-                                       quels fonctionnalités l'on souhaite
-                                       activer ;</item>
-                                    <item><label>3°</label> Utiliser les modules
-                                       Relax NG, et rédiger un schéma
-                                       d'enveloppe.???</item>
-                                 </list> L'approche que nous avons relève de la
-                                 première solution.</p>
-                              <p>On distingue habituellement les modifications dites
-                                 propres, des non propres en fonction de leur
-                                 conformité (<foreign xml:lang="eng"
-                                    >conformance</foreign>) à la TEI, sachant que
-                                 celle-ci peut faire l'objet d'extension.</p>
-                              <p>Lister et présenter ici les éléments de
-                                 l'infrastructure TEI (modules, classes de modèle,
-                                 classes d'attribut, macro). Le format ODD.</p>
-                           </div>
-                           <div>
-                              <head>La rédaction d'une spécification formelle</head>
-                              <p>Il est recommandé de personnaliser la TEI au moyen
-                                 d'une spécification formelle. L'utilisation de cette
-                                 approche de haut niveau telle qu'ODD présente
-                                 plusieurs avantages : Elle est d'abord indépendante
-                                 des types de schémas utilisés. Elle permet de
-                                 travailler avec les balises habituelles de la TEI.
-                                 Elle autorise l'utilisation des classes mis en place
-                                 par la TEI. Enfin, l'utilitaire Roma génère un simple
-                                 fichier portable que l'on peut utiliser pour partager
-                                 son schéma.</p>
-                              <p>Formalisme pour exprimer la sémantique d'un
-                                 vocabulaire. Schémas, etc. fournissent des mécanismes
-                                 pour spécifier la syntaxe d'un vocabulaire, mais
-                                 besoin de mécanisme comparacbles pour exprimer la
-                                 sémantique de ces vocabulaires.</p>
-                           </div>
-                           <div>
-                              <head>Le format ODD</head>
-                              <p>L'ensemble de la TEI est rédigée dans un format source
-                                 intitulé <soCalled>ODD</soCalled> (<soCalled>One
-                                    Document Does it All</soCalled>) qui inclue les
-                                 fragments de schéma, la documentation en prose et la
-                                 documentation de référence des
-                                    <title>Guidelines</title> dans un seul document.
-                                 Une spécification ODD est un document XML-TEI habituel
-                                 qui emploie le module <ident type="module"
-                                    >tagdocs</ident>. Lequel module fournit une série
-                                 d'éléments employés pour spécifier un nouveau schéma,
-                                 ou des modifications apportées à la structure des
-                                 éléments TEI pour générer automatiquement un schéma
-                                 dans le format choisi et sa documentation
-                                 correspondante au moyen d'un processeur destiné à cet
-                                 effet. Cf. chapitre 22 Documentation Elements,
-                                 http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TD.html</p>
-                              <p>Le concept de ODD fut envisagé et implémenté par Lou
-                                 Burnard et Michael Sperberg-McQueen relativement tôt
-                                 dans le développement de la TEI, une de ses formes fut
-                                 documentée dans les versions 3 et 4 des
-                                    <title>Guidelines</title>. Les balises décrites
-                                 divergeaient malheureusement de celles employés pour
-                                 la rédaction des <title>Guidelines</title>. L'ensemble
-                                 a complètement été révisé et simplifié pour la version
-                                 5 de la TEI, et les <title>Guidelines</title> mises en
-                                 conformités avec elle, par un groupe de travail dirigé
-                                 par Sebastian Rahtz.</p>
-                              <p>Document ODD comme un document XML-TEI habituel. Voir
-                                 plus bas. </p>
-                           </div>
-                           <div>
-                              <head>L’utilisation de Roma</head>
-                              <p>L'outil Roma est un service web mis à disposition dans
-                                 le cadre de la TEI afin de faciliter la
-                                 personnalisation des schémas. [[distinguer le
-                                 processing d'un document ODD de la personnalisation
-                                 d'un schéma à l'aide de l'interface graphique]] Le
-                                 service permet de récupérer un schéma dans le format
-                                 de son choix, mais aussi une documentation complète et
-                                 une spécification formelle exprimant la
-                                 personnalisation choisie sous la forme d'un fichier
-                                 XML au format ODD qui permet de relancer la
-                                 personnalisation du schéma dans l'application.</p>
-                              <p>Roma est un programme qui utilise un ensemble de
-                                 transformations XSLT mises à disposition par la TEI
-                                 capables de traiter des document ODD. Roma prend un
-                                 fichier au format ODD en entrée et est capable de
-                                 produire en sortie différents types de documents : des
-                                 schémas au formats requis pour l'édition des documents
-                                 dans un éditeur XML ou pour la validation de documents
-                                 XML (Relax NG dans les syntaxes compactes ou étendues,
-                                 W3C shema, Schematron, etc.), et la documentation
-                                 correspondante. Le logiciel permet également de
-                                 produire une documentation correspondante pour
-                                 l'ensemble des éléments choisis dans la TEI à partir
-                                 des <title>Guidelines</title>.</p>
-                              <p>Même s'il est possible de créer les documents ODD
-                                 manuellement, l'interface graphique sous forme de
-                                 formulaires proposée par Roma facilite grandement les
-                                 opérations pour la plupart des opérations courantes.
-                                 Comme toute application informatique, Roma n'est
-                                 potentiellement pas exempt d'erreurs ou de bugs.
-                                 Néanmoins, nous n'avons pas rencontrés de difficultés
-                                 particulières au cours de nos opérations malgré une
-                                 réitération régulière de l'édition du schéma avec le
-                                 logiciel.</p>
-                           </div>
+                              traiter. On effectue généralement d'abord une première
+                              modélisation à partir d'un échantillon jugé représentatif
+                              du corpus. Enfin, lors du passage à l'échelle, il est
+                              parfois nécessaire de corriger quelques choix s'avérant
+                              inappropriés ou bien encore pour encore de renforcer le
+                              contrôle par l'intermédiaire du schéma. Le processus
+                              d'élaboration du modèle est donc un processus
+                              incrémentiel, et le schéma n'est pas d'emblée figé dans
+                              le marbre. </p>
+                        </div>
+                        <div>
+                           <head>L'architecture de la TEI</head>
+                           <p>L'architecture de la TEI permet de construire un schéma
+                              en combinant comme de besoin des déclarations d'éléments
+                              et d'attributs. Chaque élément est documenté par un
+                              élément de spécification adéquat et dispose d'un
+                              identifiant unique dans le système. Pour pour de
+                              facilité, ces spécifications sont groupées dans des
+                              modules distincts qui peuvent être combinés entre eux.
+                              Chaque module détermine un certain nombre d'éléments
+                              spécifiques qui peuvent également renseigner des classes
+                              particulières. Toutes les classes sont disponibles
+                              globalement, indépendamment des modules dans lesquelles
+                              elles sont déclarées. Lorsque c'est possible, les modèles
+                              de contenus sont définis en termes de classes (classes),
+                              les modules peuvent également déclarer certains motifs
+                              particuliers (patterns).</p>
                            <div>
                               <head>Les modules de la TEI</head>
                               <p>Dans l'infrastructure de la TEI, les éléments de la
-                                 TEI sont organisés dans différents modules qui les
-                                 regroupent par type d'utilisation. Il y a au total
+                                 TEI sont organisés au sein de différents modules qui
+                                 les regroupent par type d'utilisation. Il y a au total
                                  vingt-deux modules d'actuellement définis, dont on
                                  trouvera la liste dans le tableau ci-contre. Les trois
                                  modules <ident type="module">core</ident>, <ident
                                     type="module">header</ident> et <ident
-                                    type="module">textstructure</ident>, ainsi que de
+                                    type="module">textstructure</ident>, ainsi que
                                     <ident type="module">tei</ident> lorsqu'on utilise
-                                 Relax NG, doivent être utilisés dans les cas généraux.
-                                 Certains éléments définis à l'intérieur de ces modules
-                                 sont employés par d'autres modules ce qui crée des
-                                 dépendances.</p>
-                              <p>relever qu'un chapitre des Guidelines couvre chaque
-                                 module.</p>
+                                 Relax NG, doivent être utilisés dans les cas
+                                 habituels. Certains éléments définis à l'intérieur de
+                                 ces modules sont employés par d'autres modules ce qui
+                                 crée des dépendances.</p>
                               <table>
                                  <head>Les modules de la TEI</head>
                                  <row role="label">
@@ -2914,213 +2599,559 @@
                                     <cell>Structures versifiées</cell>
                                  </row>
                               </table>
-                              <p>Définition d'un élément au moyen d'un
-                                    <gi>elementSpec</gi></p>
+                              <p>Il faut noter que chaque chapitre des
+                                    <title>Guidelines</title> couvre l'un de ces
+                                 modules. </p>
                            </div>
                            <div>
                               <head>Les classes</head>
-                              <p>Définition des éléments et classes de modèles</p>
                               <p>Outre ces modules, les 543 éléments de la TEI et leurs
                                  attributs sont également organisés en classes de
-                                 modèle (<foreign xml:lang="eng">model
-                                 class</foreign>))et classes d'attribut (<foreign
-                                    xml:lang="eng">attribute class</foreign>) afin de
-                                 faciliter leur modification. Les éléments d'une même
-                                 classe peuvent apparaître au même endroit dans un
-                                 modèle de contenu, il s'agit alors d'une classe de
-                                 modèle, ou partager un ensemble d'attributs, il s'agit
-                                 alors d'une classe d'attributs. Dans les deux cas, on
-                                 dit qu'un élément hérite des propriétés des classes
-                                 auxquelles il appartient. Les classes (et donc les
-                                 éléments qui sont membres de ces classes) peuvent
-                                 également hériter des propriétés d'autres classes.</p>
-                              <p>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html#STIN</p>
-                              <p>Appendice des <title>Guidelines</title> qui liste les
-                                 classes de modèles :
-                                 http://www.tei-c.org/release/doc/tei-p5-doc/en/html/REF-CLASSES-MODEL.html</p>
-                              <p>Appendice des <title>Guidelines</title> qui liste les
-                                 classes d'attribut :
-                                 http://www.tei-c.org/release/doc/tei-p5-doc/en/html/REF-CLASSES-ATTS.html</p>
-                              <p>intérêt de factoriser les déclarations</p>
-                              <p>Les classes permettent donc de rassembler un certain
-                                 nombre d'éléments afin de pouvoir y faire référence de
-                                 manière groupée. Par exemple, la classe???... groupe
-                                 les éléments.???... de sorte que d'autres éléments
-                                 puissent employer ce modèle dans leur définition de
-                                 contenu. On définit les classes de modèle au moyen
-                                 d'un élément <gi>classSpec</gi> avec l'attribut
-                                    <code>type="model"</code>. Cet élément contient les
-                                 propriétés de la classe, ce sont les éléments qui
-                                 déclarent leur appartenance à partir de l'élément
-                                    <gi>memberOf</gi> dans leur spécification à
-                                 l'intérieur de <gi>elementSpec</gi>.</p>
-                              <p>Définition des attributs et des classes d'attribut</p>
-                              <p>Les attributs sont définis avec <gi>attDef</gi>.
-                                 Ceux-ci peuvent être définis dans deux contextes :
-                                 certains attributs sont directement définis avec
-                                 l'élément (exemple ??). D'autres, employés par un
-                                 ensemble d'éléments sont définis pour plus de
-                                 commodités dans des classes d'attribut (<foreign
-                                    xml:lang="eng">attribute classes</foreign>). Pour
-                                 permettre le regroupement des classes similaires,
-                                 celles-ci peuvent être imbriquées, autrement dit une
-                                 classe peut être membre d'une autre classe. On définit
-                                 les classes de modèle au moyen d'un élément
-                                    <gi>classSpec</gi> avec l'attribut
-                                    <code>type="atts"</code>.</p>
-                              <p>Les macros</p>
+                                 modèle (<foreign xml:lang="eng">model class</foreign>)
+                                 et classes d'attribut (<foreign xml:lang="eng"
+                                    >attribute class</foreign>) afin de faciliter leur
+                                 modification. Les éléments d'une même classe peuvent
+                                 apparaître au même endroit dans un modèle de contenu,
+                                 il s'agit alors d'une classe de modèle, ou partager un
+                                 ensemble d'attributs, il s'agit alors d'une classe
+                                 d'attributs. Dans les deux cas, on dit qu'un élément
+                                 hérite des propriétés des classes auxquelles il
+                                 appartient. Les classes (et donc les éléments qui sont
+                                 membres de ces classes) peuvent également hériter des
+                                 propriétés d'autres classes.</p>
+                              <p>La liste de ces différentes classes se trouve en
+                                 appendice des <title>Guidelines</title> aux adresses suivantes :<list>
+                                    <item>liste les classes de modèles :
+                                       http://www.tei-c.org/release/doc/tei-p5-doc/en/html/REF-CLASSES-MODEL.html</item>
+                                    <item>liste les classes d'attribut :
+                                       http://www.tei-c.org/release/doc/tei-p5-doc/en/html/REF-CLASSES-ATTS.html</item>
+                                 </list></p>
+
+                              <p>L'intérêt de ces classes est qu'elles permettent de
+                                 factoriser les déclarations de modèle de contenu. Les
+                                 classes permettent de rassembler un certain nombre
+                                 d'éléments afin de pouvoir y faire référence de
+                                 manière groupée. </p>
+                           </div>
+                           <div>
+                              <head>Les macros</head>
                               <p>Il est enfin possible de déclarer sous forme de
                                  macros, les déclarations fréquentes pour réemployer à
                                  plusieurs endroits le même bloc de contenu par exemple
                                  pour définir le type de données des attributs ou des
-                                 éléments TEI. Les macros sont définies avec l'élément
-                                    <gi>macroSpec</gi>.</p>
-                              <p>La structure de la spécification d'un schéma</p>
-                              <p>Un schéma TEI est défini au moyen d'un élément
-                                 schemaSpec contenant un ensemble de déclarations
-                                 explicites de spécifications d'éléments, de casses, ou
-                                 de macro dont la définition est contenue dans les
-                                 éléments elementSpec, macroSpec et classSpec.</p>
-                              <p>Dire qu'il s'agit d'un fichier TEI habituel,
-                                 comprenant une en-tête TEI et text et body l'élément
-                                 schemaSpec contenant les déclarations. À partir d'un
-                                 tel document, un processeur ODD sera en mesure de
-                                 combiner les déclarations des modules désignés et
-                                 produire un schéma du type requis et éventuellement
-                                 une documentation de tous les éléments choisis. À
-                                 l'intérieur de moduleRef qui désigne un module par son
-                                 attribut key, il est possible de désigner des élements
-                                 ou des classes du modules individuellement avec les
-                                 éléments elementSpec, classSpec, ou macroSpec. Chacun
-                                 de ces éléments portant l'attribut mode qui peut
-                                 prendre plusieurs valeurs add, replace, delete, et
-                                 change.</p>
-                              <p>Déclarer que l'on ne souhaite pas voir apparaître
-                                 certains éléments dans notre schéma est aisé. ???
-                                 exemple</p>
-                              <p>Modifier des éléments existants.</p>
-                              <p>Nous avons par exemple modifié le comportement de
-                                 l'élément div pour rendre son attribut type
-                                 obligatoire en choisissant parmi une liste de valeurs
-                                 définie.</p>
-                              <p>exemple de code</p>
-                              <p>La valeur change de l'attribut mode doit être fournie
-                                 sur chaque partie identifiable de l'objet qui doit
-                                 être modifiée. Ainsi, l'élément elementSpec est en
-                                 mode "change", de même attDef tandis que l'élément
-                                 valLIst est en mode de remplacement. Tous les éléments
-                                 qui ne sont pas spécifiés pour être modifiés sont
-                                 copiés depuis l'original (les exemples, référence,
-                                 etc.).</p>
-                              <p>Le mode modification peut également s'appliquer à des
-                                 classes. Dans cet exemple, nous avons retiré à l'aide
-                                 de Roma un ensemble d'attributs pour tout élément
-                                 membre de la classe...</p>
-                              <p>exemple de code</p>
-                           </div>
-                           <div>
-                              <head>Personnalisation manuelle du schéma</head>
-                              <p>La spécification des références aux modules. Projet
-                                 éditorial qui consiste à publier une collection de
-                                 matériaux manuscrits sous la forme d'un corpus. Chaque
-                                 source manuscrite devant faire l'objet d'une
-                                 description appropriée, et pouvant comprendre des
-                                 images, besoin d'ajouter plusieurs modules aux quatre
-                                 modules habituels : tei, header, core, et
-                                 textstructure.</p>
-                              <p>Le module msdescription va permettre de prendre en
-                                 charge une grande partie de la description des
-                                 manuscrits. transcr est un module spécialisé dans la
-                                 transcription des sources primaires manuscrites. Le
-                                 module figures apportera quant à lui... S'agissant
-                                 d'une édition à caractère historique, nous avons jugé
-                                 que le module namesdates nous serait utile.</p>
-                              <p>En ODD utilise à l'intérieur de schemaSpec, série
-                                 d'élément moduleRef avec l'attribut key pour faire
-                                 appel à ces modules : <egXML>
-                                    <!-- corriger pour adapter à notre situation -->
-                                    <schemaSpec ident="TEI-PROJECT" start="TEI">
-                                       <moduleRef key="tei" />
-                                       <moduleRef key="header" />
-                                       <moduleRef key="core" />
-                                       <moduleRef key="textstructure" />
-                                       <moduleRef key="msdescription" />
-                                       <!-- description des manuscrits -->
-                                       <moduleRef key="transcr" />
-                                       <!-- transcription des sources primaires -->
-                                       <moduleRef key="figures" />
-                                       <!-- tableaux et figures -->
-                                       <moduleRef key="namesdates" />
-                                       <!-- noms, dates, personnes et lieux -->
-                                    </schemaSpec>
-                                 </egXML></p>
-                              <p>Personnalisation plus avancée</p>
-                              <p>Au sein de chaque module, l'architecture de la TEI
-                                 permet une personnalisation plus détaillée. Il est
-                                 possible de supprimer des éléments, de restreindre la
-                                 liste des attributs, et même d'ajouter des éléments.
-                                 La spécification que nous avons élaborée à l'aide de
-                                 Roma a par exemple supprimer un certain nombre
-                                 d'éléments jugés inutiles à l’intérieur de ces
-                                 différents modules.</p>
-                              <egXML>
-                                 <elementSpec ident="note" module="core" mode="delete"
-                                  />
-                              </egXML>
-                              <p>Dans la plupart des cas la suppression est une
-                                 modification "propre" de la TEI, toutefois certains
-                                 éléments disposent d'enfants obligatoires. Par exemple
-                                 fileDesc doit contenir à la fois titleStmt et
-                                 sourceDesc. La suppression d'un élément enfant
-                                 obligatoire dans le modèle de contenu rompt le modèle
-                                 abstrait de la TEI.</p>
-                              <p>Pas de renommage d'éléments. Pas de modification de
-                                 modèle de contenu ?? sera peut-être le cas si veut
-                                 contrôler la valeur de certains attributs.</p>
-                              <p>Modification des attributs et des listes de valeurs
-                                 d'attribut</p>
-                              <p>Les attributs peuvent être donnés explicitement au
-                                 moyen d'un élément attList dans la spécification de
-                                 l'élément correspondant ou bien être hérité d'une
-                                 classe d'attribut. Lorsque l'on ajoute un attribut, on
-                                 doit d'abord vérifier si celui-ci n'est pas déjà
-                                 définit dans une classe d'attribut. Si tel est le cas,
-                                 il suffit de rendre l'élément concerné membre de cette
-                                 classe. Sinon ont doit définir u attribut au moyen de
-                                 attDef pour l'ajouter à la liste attList de l'élément
-                                 concerné. </p>
-                              <p>Il est souvent utile de contraindre les valeurs
-                                 possibles d'un attribut au moyen d'un type de données.
-                                 Cela peut être réalisé facilement au moyen de
-                                 l'élément valList qui est un élément enfant de attDef.
-                                 De la même manière on peut étendre ou remplacer la
-                                 liste existante d'attributs proposées par la TEI.
-                                 Selon les modifications réalisées de cette manière,
-                                 plus ou moins propres.</p>
-                              <p>exemple de code. Pour les attributs de div</p>
-                              <p>Liste de valeurs explicitement énumérées avec
-                                 valList</p>
-                              <p>exemple de code</p>
-                              <p>Exemple pour retirer attributs hérités d'une classe en
-                                 le retirant l'élément d'une classe</p>
-                              <p>Même lorsque la personnalisation consiste simplement
-                                 en une sélection de modules, peut-être avec la
-                                 suppression de quelques éléments et attributs, il peut
-                                 être intéressant de préciser l'information sémantique
-                                 de certains éléments qui peut être décrite en termes
-                                 trop généraux que son usage réel dans le projet (desc
-                                 dans elementSpec). Les exemples dans exemplum
-                                 pourraient également être enrichis par ceux du projet.
-                                 De même les remarques peuvent être non
-                                 pertinentes.</p>
+                                 éléments TEI.</p>
                            </div>
                         </div>
+                        <div>
+                           <head>La structure de la spécification d'un schéma</head>
+                           <p>Il est possible de personnaliser la TEI en supprimant des
+                              modules un certain nombre d'éléments qui ne seraient pas
+                              nécessaires pour le traitement de ses documents ou en
+                              modifiant ces classes. Ce faisant, on peut restreindre la
+                              manière de traiter certains phénomènes, ou encore,
+                              limiter les attributs disponibles sur un élément, et
+                              définir pour ces attributs des listes de valeurs ouvertes
+                              ou fermées. Au besoin, on peut également modifier le nom
+                              des éléments par exemple pour l'internationalisation ou
+                              ajouter des éléments, ce qui n'a pas été retenu dans le
+                              cadre de notre projet.</p>
+                           <p>Les <title>Guidelines</title> décrivent trois manières de
+                              personnaliser (<foreign xml:lang="eng"
+                                 >customizing</foreign>) la TEI :<list>
+                                 <item><label>1°</label> Rédiger une spécification de
+                                    haut niveau pour une représentation en TEI et
+                                    générer un schéma <foreign xml:lang="lat">ad
+                                       hoc</foreign> ;</item>
+                                 <item><label n="2">2°</label> Utiliser les modules de
+                                    la TEI et spécifier dans ces sous-ensembles quels
+                                    fonctionnalités l'on souhaite activer ;</item>
+                                 <item><label>3°</label> Utiliser les modules Relax NG,
+                                    et rédiger un schéma d'enveloppe.</item>
+                              </list></p>
+                        </div>
+                     </div>
+                     <div>
+                        <head>La rédaction d'une spécification formelle et la production du schéma RelaxNG</head>
+                        <div>
+                           <p>Il est recommandé de personnaliser la TEI au moyen d'une
+                              spécification formelle. L'utilisation de cette approche
+                              de haut niveau qui consiste à produire un fichier ODD
+                              présente plusieurs avantages : Elle est d'abord
+                              indépendante des types de schémas utilisés. Elle permet
+                              également de travailler avec les balises habituelles de
+                              la TEI. Ensuite, elle autorise l'utilisation des classes
+                              mis en place par la TEI. Enfin, l'utilitaire Roma génère
+                              un simple fichier portable que l'on peut utiliser pour
+                              partager son schéma.</p>
+                           <head>Le format ODD</head>
+                           <p>L'ensemble de la TEI est rédigée dans un format source
+                              intitulé <soCalled>ODD</soCalled> (<soCalled>One Document
+                                 Does it All</soCalled>) qui inclue les fragments de
+                              schéma, la documentation en prose et la documentation de
+                              référence des <title>Guidelines</title> dans un seul
+                              document. Une spécification ODD est un document XML-TEI
+                              qui utilie le module <ident type="module"
+                              >tagdocs</ident>. Lequel module fournit une série
+                              d'éléments employés pour spécifier un nouveau schéma, ou
+                              des modifications apportées à la structure des éléments
+                              TEI afin de générer automatiquement un schéma dans le
+                              format choisi et sa documentation correspondante au moyen
+                              d'un processeur destiné à cet effet.<note place="foot">
+                                 <p>{SperbergMcqueen 2013\ Chapitre 22\}</p>
+                              </note></p>
+                           <p>Un document ODD se présente comme un document XML-TEI
+                              courant comportant une en-tête TEI, un élément
+                                 <gi>front</gi>, <gi>body</gi> et <gi>back</gi>, le
+                              schéma est défini au moyen d'un élément
+                                 <gi>schemaSpec</gi> qui va contenir les déclarations.
+                              À partir d'un tel document, un processeur ODD sera en
+                              mesure de combiner les déclarations des modules désignés
+                              et de produire un schéma du type requis et éventuellement
+                              une documentation de tous les éléments choisis.</p></div>
+                        <div>
+                           <head>L’utilisation de Roma</head>
+                           <p>L'outil Roma est un service web mis à disposition par la
+                              TEI afin de faciliter la personnalisation des
+                                 schémas<note place="foot">
+                                 <p>{RomaGeneratingCustomizationsFor}</p>
+                              </note>. Le service permet de produire une spécification
+                              ODD à l'aide d'une interface graphique permettant de
+                              choisir facilement parmi les composants de la TEI. Roma
+                              est également un programme qui utilise un ensemble de
+                              transformations XSLT produites par la TEI qui permettent
+                              de traiter des document ODD pour produire en sortie
+                              différents types de documents : des schémas au formats
+                              requis pour l'édition des documents dans un éditeur XML
+                              ou pour la validation de documents XML (Relax NG dans les
+                              syntaxes compactes ou étendues, W3C schema, Schematron,
+                              etc.), le logiciel est également en mesure de produire
+                              une documentation correspondante pour l'ensemble des
+                              éléments choisis dans la TEI à partir de la
+                              spécification. Enfin, à partir d'une spécification
+                              formelle au format ODD, il permet de relancer la
+                              personnalisation au moyen de l'interface graphique.</p>
+                           <p>Même s'il est possible de créer les documents ODD
+                              manuellement, l'interface graphique sous forme de
+                              formulaires proposée par Roma facilite grandement les
+                              opérations pour la plupart des opérations courantes.
+                              Comme toute application informatique, Roma n'est
+                              potentiellement pas exempt d'erreurs ou de bugs.
+                              Néanmoins, nous n'avons pas rencontrés de difficultés
+                              particulières au cours de nos opérations malgré une
+                              réitération régulière de l'édition du schéma avec le
+                              logiciel.</p>
+                        </div>
+                        <div>
+                           <head>Personnalisation manuelle du schéma</head>
+                           <p>Le projet éditorial consistant à publier une collection
+                              de matériaux manuscrits sous la forme d'un corpus, chaque
+                              source manuscrite devant faire l'objet d'une description
+                              appropriée, et pouvant comprendre des images, nous avons
+                              éprouvé le besoin d'ajouter plusieurs modules aux quatre
+                              modules habituels : <ident type="module">tei</ident>,
+                                 <ident type="module">header</ident>, <ident
+                                 type="module">core</ident>, et <ident type="module"
+                                 >textstructure</ident>. Le module <ident type="module"
+                                 >msdescription</ident> a permis de prendre en charge
+                              une grande partie de la description des manuscrits.
+                                 <ident type="module">transcr</ident> est un module
+                              spécialisé dans la transcription des sources primaires
+                              manuscrites. Le module <ident type="module"
+                                 >figures</ident> apportait quant à lui les éléments
+                              nécessaires pour localiser et documenter les planches
+                              dans l'édition. S'agissant d'une édition à caractère
+                              historique, nous avons jugé que le module <ident
+                                 type="module">namesdates</ident> nous serait
+                              utile.</p>
+                           <p>Dans le fichier ODD, à l'intérieur de l'élément
+                                 <gi>schemaSpec</gi>, une série d'éléments
+                                 <gi>moduleRef</gi> servent à désigner les modules
+                              utilisés au moyen d'un  attribut <att>key</att> : </p>
+                           <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                              <schemaSpec ident="desgodetsSchemaTEI"
+                                 docLang="fr" prefix="tei_" xml:lang="en">
+                                 <moduleRef key="tei" />
+                                 <moduleRef key="header" />
+                                 <moduleRef key="core" />
+                                 <moduleRef key="textstructure" />
+                                 <moduleRef key="msdescription" />
+                                 <!-- description des manuscrits -->
+                                 <moduleRef key="transcr" />
+                                 <!-- transcription des sources primaires -->
+                                 <moduleRef key="figures" />
+                                 <!-- tableaux et figures -->
+                                 <moduleRef key="namesdates" />
+                                 <!-- noms, dates, personnes et lieux -->
+                              </schemaSpec>
+                           </egXML>
+                           <p>L'architecture de la TEI permet une personnalisation plus
+                              détaillée au sein de chaque module. Il est possible de
+                              supprimer des éléments, de restreindre la liste des
+                              attributs, et même d'ajouter des éléments. La
+                              spécification que nous avons élaborée à l'aide de Roma a
+                              par exemple supprimé un certain nombre d'éléments jugés
+                              inutiles à l’intérieur de certains modules de la manière
+                              suivante :</p>
+                           <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                              <moduleRef key="textstructure"
+                                 except="div1 div2 div3 div4 div5 div6 div7 group" />
+                           </egXML>
+                           <p>Dans la plupart des cas la suppression d'un élément est
+                              une modification <soCalled>propre</soCalled> de la TEI,
+                              toutefois certains éléments disposent d'enfants
+                              obligatoires. Par exemple <gi>fileDesc</gi> doit contenir
+                              à la fois <gi>titleStmt</gi> et <gi>sourceDesc</gi>. La
+                              suppression d'un élément enfant obligatoire dans le
+                              modèle de contenu rompt le modèle abstrait de la TEI.</p>
+                           <p>Il est également possible de désigner des éléments ou des
+                              classes individuellement avec les éléments
+                                 <gi>elementSpec</gi>, <gi>classSpec</gi>, ou
+                                 <gi>macroSpec</gi>. Le type de modification apporté
+                              est déterminé par la valeur d'un attribut <att>mode</att> (add, replace, delete, et change) :
+                           </p>
+                           <egXML
+                              xmlns="http://www.tei-c.org/ns/Examples">
+                              <attDef ident="org" mode="delete" />
+                           </egXML>
+                           <p>On peut également modifier la liste des attributs possibles pour un élément. Celles-ci peuvent être données explicitement
+                              au moyen d'un élément <gi>attList</gi> dans la
+                              spécification de l'élément correspondant ou bien être
+                              hérités d'une classe d'attribut. Lorsque l'on ajoute un
+                              attribut, on doit d'abord vérifier si celui-ci n'est pas
+                              déjà définit dans une classe d'attribut. Si tel est le
+                              cas, il suffit de rendre l'élément concerné membre de
+                              cette classe. Sinon ont doit définir un attribut au moyen
+                              de <gi>attDef</gi> pour l'ajouter à la liste <gi>attList</gi> de l'élément
+                              concerné.</p> 
+                           <p>Il est souvent utile de contraindre les valeurs possibles
+                              d'un attribut au moyen d'un typage des données. Cela peut
+                              être réalisé facilement au moyen de l'élément <gi>valList</gi> qui
+                              est un élément enfant de <gi>attDef</gi>. De la même manière on
+                              peut étendre ou remplacer la liste existante d'attributs
+                              proposées par la TEI. Selon les modifications réalisées
+                              de cette manière, celles-ci sont plus ou moins propres.</p>
+                           <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                              <attDef ident="agent" mode="change" usage="req">
+                                 <valList type="closed" mode="replace">
+                                    <valItem ident="fire" />
+                                    <valItem ident="moisture" />
+                                    <valItem ident="rubbing" />
+                                    <valItem ident="smoke" />
+                                    <valItem ident="tear" />
+                                    <valItem ident="water" />
+                                    <valItem ident="unknown" />
+                                 </valList>
+                              </attDef>
+                           </egXML>
+                           <p>Il peut aussi être intéressant de préciser l'information
+                              sémantique de certains éléments qui peut être trop
+                              générale par rapport à son utilisation dans le projet
+                                 (<gi>desc</gi> dans <gi>elementSpec</gi>). Les
+                              exemples dans <gi>exemplum</gi> peuvent également être
+                              enrichis par ceux du projet. Nous n'avons pas eu le temps
+                              de réaliser ces personnalisations, mais il nous semble
+                              qu'elles pourraient se révéler utiles avant la
+                              publication du schéma.</p>
+                           <p>Le mode modification peut également s'appliquer à des
+                              classes. Dans cet exemple, nous avons remplacé à l'aide de
+                              Roma un ensemble de valeurs d'attributs pour tout attribut membre de
+                              la classe att.internetMedia.</p>
+                           <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                              <classSpec ident="att.internetMedia" type="atts"
+                                 mode="change" module="tei">
+                                 <attList>
+                                    <attDef ident="mimeType" mode="change">
+                                       <valList type="closed" mode="replace">
+                                          <valItem ident="image/jpg" />
+                                          <valItem ident="application/pdf" />
+                                          <valItem ident="application/tei+xml" />
+                                          <valItem ident="application/xml" />
+                                       </valList>
+                                    </attDef>
+                                 </attList>
+                              </classSpec>
+                           </egXML>
+                           
+                        </div>
+                     </div>
+                     <div>
+                        <head>Les partis-pris de modélisation</head>
+                        <div type="introduction">
+                           <p>On l'a vu, la Text Encoding Initiative fournit un grand
+                              nombre de balises dans lesquelles il est possible de
+                              puiser pour modéliser son texte. Personne ne les utilise
+                              toutes dans le cadre d'un même projet. En d'autres
+                              termes, on doit construire des représentations du texte
+                              source qui reflètent les phénomènes que l'on observe d'un
+                              point de vue structurel, sémantique ou linguistique, et
+                              que l'on va modéliser d'après la manière dont on espère
+                              les exploiter par la suite. À cet égard, la modélisation
+                              XML-TEI est une opération intrinsèque au processus
+                              éditorial et qui a directement trait au caractère
+                              scientifique de l'édition numérique. Puisqu'il s'agit bel
+                              et bien de produire un artefact orienté.</p>
+                        </div>
+                        <div>
+                           <head>La macrostructure du texte et inscription sur le
+                              support</head>
+                           <div>
+                              <head>La macrostructure du texte</head>
+                              <p>Les manuscrits que nous avions à traiter présentaient
+                                 généralement une structure textuelle relativement
+                                 commune qui pouvait facilement être prise en charge à
+                                 l'aide des éléments structurels offerts par la TEI. Il
+                                 a systématiquement été établi une division tripartite
+                                 dans l'édition avec les éléments <gi>front</gi> pour
+                                 les parties liminaires, <gi>body</gi> pour le corps de
+                                 texte et <gi>back</gi> pour les paries postérieures. À
+                                 l'intérieur de ces différentes parties,
+                                    <gi>titlePage</gi> avec ses sous-composants
+                                 permettait de prendre en charge les pages de titre, et
+                                 une combinaison des éléments <gi>div</gi>, <gi>p</gi>,
+                                    <gi>list</gi> et tous ses composants, ainsi que
+                                    <gi>seg</gi> a paru adaptée et suffisante pour
+                                 traiter presque tous les cas de figure. Un système de
+                                 typage des divisions a toutefois été établi pour
+                                 préciser cette macrostructure en utilisant l'attribut
+                                    <att>type</att>. La liste fermée des types de
+                                 division doit encore être restreinte par le
+                                 schéma.</p>
+                              <p>Les manuscrits des servitudes présentaient quant à eux
+                                 un cas de figure moins courant. S'agissant pour l'un
+                                 d'un recueil de coutumes, pour l'autre d'un
+                                 commentaire sur la coutume de Paris, les deux textes
+                                 citaient abondamment d'autres textes. L'emploi d'un
+                                 élément <gi>floatingText</gi> nous est apparu pertinent pour
+                                 traiter ces citations car il a l'avantage de permettre
+                                 de conserver la structure originale de ces textes.</p>
+                           </div>
+                           <div>
+                              <head>L'inscription du texte sur le support</head>
+                              <p>Les manuscrits pris en charge étant souvent des copies
+                                 au propre, l'emploi des éléments fournis par le module
+                                 spécialisé de la TEI consacré à la transcription des
+                                 manuscrits <ident type="module">transcr</ident>
+                                 suffisait très largement à couvrir nos besoins. Il
+                                 s'est trouvé utilement complété par le module <ident
+                                    type="module">certainty</ident> pour les
+                                 difficultés de lectures ou la résolution des
+                                 abréviations.</p>
+                           </div>
+                        </div>
+                        <div>
+                           <head>La définition d’une nomenclature pour le corpus (id
+                              uniques, etc.)</head>
+                           <p>Si le traitement de la macrostructure du texte ou de son
+                              inscription sur le support ne présentaient pas de
+                              problèmes particuliers, la principale difficulté posée
+                              par les documents à traiter résidait dans les solutions à
+                              mettre en œuvre afin d'organiser les différents éléments
+                              du corpus.</p>
+                           <div>
+                              <head>Définition d’une arborescence de fichier</head>
+                              <p>L'édition concernait la production de quatre cours qui
+                                 constituaient ensemble le corpus des cours d'Antoine
+                                 Desgodets. Du point de vue de la TEI, dès lors que
+                                 chacun des témoins manuscrits était traité dans un
+                                 fichier séparé, il paraissait logique de réunir chaque
+                                 cours au sein d'un corpus. Pour ce faire nous avons
+                                 utilisé l'une des structures proposées par la TEI avec
+                                 l'utilisation de l'élément <gi>teiCorpus</gi>.</p>
+                              <p>Afin de permettre une édition séparée des fichiers de
+                                 chacun des témoins manuscrits, ceux-ci ont été traités
+                                 de manière séparée en utilisant le standard du W3C
+                                    Xinclude<note place="foot"><p>{Marsh
+                                    2006}</p></note>. En appliquant la même norme, on a
+                                 traité séparément certaines section du fichier dans un
+                                 répertoire séparé intitulé divs.</p>
+                              <p>Dès lors que l'on employait cette structure pour
+                                 chacun des cours, il a paru logique d'adopter la même
+                                 pour l'ensemble du corpus des cours de Desgodets.
+                                 Cette configuration a par la suite été étendue à
+                                 toutes les parties éditoriales du site web pour plus
+                                 de facilité dans le développement.</p>
+                           </div>
+                           <div>
+                              <head>La production d'une nomenclature</head>
+                              <p>Afin d'identifier chacun des témoins dans l'édition et
+                                 pour nommer les fichiers, nous avons déterminé une
+                                 nomenclature. Chaque témoin reçoit un identifiant
+                                 unique composé de l'initiale du cours et d'un numéro
+                                 d'ordre dans le corpus. Cet identifiant sert à
+                                 produire les noms de fichiers en notation camelBack et
+                                 l'ensemble des identifiants dans l'édition. Les
+                                 identifiants des parties du texte sont fondés sur la
+                                 structure TEI du texte en utilisant leur position à
+                                 l'intérieur des éléments <gi>front</gi>, <gi>body</gi>
+                                 et <gi>back</gi>. </p>
+                           </div>
+                           <div>
+                              <head>L'alignement du textes et les images pour ménager
+                                 leur comparaison</head>
+                              <p>Les <title>Guidelines</title> proposent trois trois
+                                 approches pour aligner des passages textuels lorsque
+                                 l'on établit une édition critique :<list>
+                                    <label>la méthode de localisation
+                                       référencée :</label>
+                                    <item>où les entrées d'apparat critique sont liées
+                                       aux blocs de texte identifiés qui contiennent
+                                       les lemmes respectifs</item>
+                                    <label>la méthode d'attachement à double
+                                       point</label>
+                                    <item>où les entrées d'apparat critique sont liées
+                                       à des ponts de départ et de fin identifiées dans
+                                       un texte</item>
+                                    <label>la méthode de segmentation
+                                       parallèle.</label>
+                                    <item>où les entrées d'apparat critique son
+                                       encodées au moyen d'une transcription du texte
+                                       connu invariable et de tous les témoins.</item>
+                                 </list></p>
+                              <p>La méthode par segmentation parallèle est le plus
+                                 couramment utilisée lors de l'encodage de sources en
+                                 XML-TEI pour comparer des témoins. Cette méthode
+                                 correspond également à une méthode de travail pour
+                                 l'établissement du texte. Pour notre projet, nous
+                                 avons retenu la première approche, celle dite de
+                                    <soCalled>localisation référencée</soCalled> afin
+                                 de nous faciliter le travail car les manuscrits
+                                 avaient déjà été transcrits séparément et que l'on
+                                 n'éditait en réalité qu'un témoin du texte de manière
+                                 critique pour chaque cours, en se contentant de
+                                 signaler en note les variantes significatives des
+                                 autres témoins. Il s'agit donc simplement de trouver
+                                 une solution pour proposer au lecteur un alignement
+                                 visuel des différents témoins de la tradition du
+                                 texte.</p>
+                              <p>Bien qu'elle eût été plus satisfaisante, la méthode de
+                                 segmentation parallèle aurait représenté un travail
+                                 plus considérable si nous avions voulu fournir toutes
+                                 les variantes des témoins, surtout pour des textes où
+                                 nous avions jusqu'à quinze  témoins. Une telle méthode
+                                 s'intégrait assez mal dans notre flux de production.
+                                 D'une part, seules les variantes jugées significatives
+                                 étaient rapportées au manuscrit maître édité, ce qui
+                                 ne permettait pas de reconstituer les différents
+                                 témoins intégralement. D'autre part, il n'était guère
+                                 possible d'automatiser l'importation des variantes à
+                                 partir d'un document de traitement de texte. Nous nous
+                                 sommes donc contentés d'un récolement manuel des
+                                 différents témoins pour permettre leur alignement.</p>
+                              <p>L'alignement des témoins nécessitait la détermination
+                                 d'identifiants uniques pour chacun des segments
+                                 textuels à traiter. Comme nous l'avons-vu, ceux-ci
+                                 sont numérotés de manière systématique en fonction de
+                                 leur position dans la hiérarchie textuelle (éléments
+                                    <gi>div</gi>, <gi>p</gi>, <gi>seg</gi>,
+                                    <gi>list</gi>, <gi>item</gi>, etc.). Un fichier
+                                 externe permet d'enregistrer le travail d'alignement
+                                 des témoins en utilisant l'élément TEI
+                                    <gi>linkGrp</gi> et une série d'élément
+                                    <gi>link</gi>. Le même mécanisme est employé pour
+                                 aligner les figures entre les différents témoins.</p>
+                              <p> L'utilisation d'identifiants uniques rassemble
+                                 plusieurs avantages, ceux-ci  permettent d'identifier
+                                 précisément, à l'exclusion de toute autre, une unité
+                                 textuelle ou un passage dans l'un des manuscrit. Ils
+                                 constituent donc une bonne pratique notamment pour la
+                                 citabilité. Comme on utilise ici l'attribut global de
+                                 XML <att>xml:id</att> qui doit nécessairement être
+                                 unique dans un fichier XML, il y a un contrôle
+                                 d'unicité (ce contrôle s'applique à l'ensemble du
+                                 corpus car il est compris dans une arborescence de
+                                 fichiers XML). Enfin, le fait d'utiliser des
+                                 identifiants uniques, a surtout l'avantage de
+                                 permettre de traiter les regroupements de paragraphes,
+                                 les interversions, les ajouts, indépendamment du
+                                 manuscrit édité (et donc par la suite éventuellement
+                                 d'éditer toutes les variantes du texte ou le réemploi
+                                 des sources XML-TEI dans d'autres projets).</p>
+                           </div>
+                        </div>
+                        <div>
+                           <head>La mise en place d'un para-texte</head>
+                           <div>
+                              <head>Indexation, glossaires, et fichiers de
+                                 références</head>
+                              <p>Afin de rassembler au niveau de l'ensemble de
+                                 l'édition toutes les entrées, les index, le glossaire
+                                 et les références bibliographiques sont traitées dans
+                                 un fichier unique qui se trouve à la racine du corpus
+                                 général.</p>
+                              <p>Si les structures prévues dans la pour les noms de
+                                 personnes et des noms de lieux nous ont parues
+                                 satisfaisantes, il n'en allait pas de même pour
+                                 l'index matière. L'encodage effectué pour le moment
+                                 n'est pas conforme à la TEI. S'il doit être conservé
+                                 en l'état, il devra faire l'objet d'une extension de
+                                 la TEI dans le cadre du projet.</p>
+                              <p>Pour le traitement des entrées du glossaire,
+                                 l'utilisation de la structure des entrées de
+                                 dictionnaire, bien qu'un peu trop complexe, a paru
+                                 relativement bien adapté au projet.</p>
+                              <p>Les références bibliographiques utilisent l'élément
+                                 tei <gi>biblStruct</gi> qui a le mérite d'offrir une
+                                 structure régulière. La structure porposée par les
+                                 guidelines convenait dans à peu près tous les cas de
+                                 figures, même si on peut regréter un manque de clarté
+                                 pour le traitement des artefacts numériques. En
+                                 revanche la TEI n'offre pas d'élément adapté pour
+                                 décrire des documents d'archives. À cet effet, nous
+                                 avons employé les éléments servant à la description
+                                 des manuscrits.</p>
+                           </div>
+                           <div>
+                              <head>Fichiers de notes critiques et historiques,
+                                 fichiers de figure</head>
+                              <p>Afin de faciliter l'édition des fichiers de notes
+                                 critiques et historiques et l'édition de la liste des
+                                 figures, ces éléments qui se trouvaient dans l'élément
+                                 back des fichiers ont été traités dans des fichiers
+                                 inclus.</p>
+                           </div>
+                           <div>
+                              <head>Identification des manuscrits et production des
+                                 métadonnées</head>
+                              <p>Un important travail a été mené sur la production des
+                                 en-têtes TEI et la question des métadonnées. Pour
+                                 arrêter les choix d'encodages, nous avons examiné un
+                                 certain nombre de pratiques documentaires<note place="foot"><p>{DemarchDescriptionDesManuscrits 2010}</p></note> et recherché des 
+                                 guides de bonnes pratiques pour la TEI<note place="foot"><p>{Burnard 2008}, {Hawkins 2011}</p></note>
+                                 . Lors du travail pour la production des métadonnées à
+                                 partir de l'en-tête TEI, nous nous sommes aperçus
+                                 qu'un travail était en cours au sein du consortium
+                                 cahier pour produire un moissonnage des en-têtes TEI
+                                 en OAI-PMH. Après vérifications et échange avec les
+                                 personnes en charge du projet, il se trouve que nos
+                                 choix d'encodages étaient relativement conforme aux
+                                 prescriptions proposées. </p>
+                              <p>La production des métadonnées concernant les images
+                                 s'est révélée plus ardue. La TEI a d'abord été conçue
+                                 pour traiter des textes littéraires. Aussi ne
+                                 prétend-elle pas décrire d'autres objets pour lesquels
+                                 des langages descriptifs plus spécialisés comme ceux
+                                 conçus pour les archives, le vocabulaire technique,
+                                 etc., existent déjà. En effet, il est possible de
+                                 concevoir des documents composites en mixant des
+                                 vocabulaires différents. Ceux-ci sont alors placés
+                                 dans des espaces de nom différents. Avant de nous
+                                 aventurer dans une telle solution, nous avons essayé
+                                 d'exploiter au maximum les éléments TEI pour
+                                 documenter les figures. Une telle description nous
+                                 semble en réalité permettre la production des éléments
+                                 Dublin Core habituellement requis pour une bonne
+                                 documentation des images.</p>
+                           </div>
+                        </div>
+                     </div>
                      <div>
                         <head>Tests d’encodage et ajustements</head>
                         <p>Plusieurs tests d'encodage ont été nécessaires afin de
-                           valider ou d'infirmer les choix initiaux. Certaines </p>
+                           valider ou d'infirmer les choix initiaux. C'est notamment la
+                           définition de l'encodage des figures qui nous a posé le plus
+                           de difficultés.</p>
                      </div>
-                  </div>
+                     </div>
                   <div>
                      <head>La production des textes encodés</head>
                      <p>Alors qu'aucun des membres des équipes éditoriales ne
@@ -3313,7 +3344,6 @@
                               autre fichier XML dans une syntaxe différente en
                               employant le langage de programmation XSLT dont c'est la
                               destination.</p>
-                           <p>?? schéma</p>
                            <p>Les feuilles de styles TEI développées par Sebastian
                               Rahtz (<title>XSL stylesheets for TEI XML</title>) sont
                               un ensemble de transformation XSLT 2.0 destinées à la
