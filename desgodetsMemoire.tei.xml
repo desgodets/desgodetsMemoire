@@ -248,10 +248,12 @@
                      discipline.</p>
                   <p>Ce constat n'est pas seulement national. L'année dernière, la
                         <orgName>fondation Kress</orgName> publiait un rapport sur
-                     l'histoire de l'art et les Digital humanities aux
-                     États-Unis<note place="foot"><p>{Zorich 2012}</p></note>. Dans la mesure où elles peuvent être
-                     comparées, on reconnaît assez bien dans ce rapport la situation
-                     française : Un rapport ambivalent aux outils numériques
+                     l'histoire de l'art et les Digital humanities aux États-Unis<note
+                        place="foot">
+                        <p>{Zorich 2012}</p>
+                     </note>. Dans la mesure où elles peuvent être comparées, on
+                     reconnaît assez bien dans la situation décrite aux États-Unis, la
+                     situation française : un rapport ambivalent aux outils numériques
                      omniprésents mais à l'égard desquels se manifeste une certaine
                      méfiance part, le manque d'institutions de recherche engagées sur
                      le domaine d'autre part, et plus généralement une forte perplexité
@@ -260,17 +262,19 @@
                   <p>Pourtant, la question des digital humanities semble à l'ordre du
                      jour en histoire de l'art. En début d'année, la revue
                         <title>Visual Resource</title> consacrait un numéro spécial à
-                     la question<note place="foot"><p>{VisualResourcesAnInternational 2013}</p></note>. Au printemps,
-                     c'était au tour du Getty Research Institute d'organiser une
-                     manifestation à ce sujet. En France, si ce n'est l'enseignement et
-                     les recherches dirigées par <persName>Corinne Welger Barboza</persName> depuis
-                     plusieurs années à l'université  Panthéon-Sorbonne, plusieurs
-                     signes ne trompent pas. L'<orgName>INHA</orgName> a été à l'origine de la création
-                     d'une unité de service consacrée à ces questions, <orgName>InVisu</orgName>. Et
-                     plusieurs Labex concernant l'histoire de l'art mettent en avant la
-                     question des méthodes et des outils numériques. L'engouement est
-                     donc réel, au risque d'être motivé par la recherche de
-                     financements.</p>
+                     la question<note place="foot">
+                        <p>{VisualResourcesAnInternational 2013}</p>
+                     </note>. Au printemps, c'était au tour du <orgName>Getty Research
+                        Institute</orgName> d'organiser une manifestation à ce sujet.
+                     En France, si ce n'est l'enseignement et les recherches dirigées
+                     par <persName>Corinne Welger Barboza</persName> depuis plusieurs
+                     années à l'<orgName>Université Panthéon-Sorbonne</orgName>,
+                     plusieurs signes ne trompent pas. L'<orgName>INHA</orgName> a été
+                     à l'origine de la création d'une unité de service consacrée à ces
+                     questions, <orgName>InVisu</orgName>. Et plusieurs Labex
+                     concernant l'histoire de l'art mettent en avant la question des
+                     méthodes et des outils numériques. L'engouement est donc réel, au
+                     risque d'être motivé par la recherche de financements.</p>
                </div>
                <div>
                   <p>En dehors des projets à caractère documentaire en histoire de
@@ -286,59 +290,54 @@
                      correspondance : <title>The Correspondence of James McNeill
                         Whistler</title> (http://www. whistler.arts.gla.ac.uk/), la
                      très belle édition <title>Vincent van Gogh: The Letters</title>
-                     (http://vangoghletters.org/vg/), celle de Delacroix, ou encore des
+                     (http://vangoghletters.org/vg/), celle de Delacroix
+                     (http://www.correspondance-delacroix.fr), ou encore des
                      publications de documents d'archives comme avec <title>The History
                         of the Accademia di San Luca</title>, c. 1590–1635
                      (http://www.nga.gov/casva/ accademia/intro.shtm).</p>
                   <p>Tous ces projets se caractérisent par leur envergure mais aussi
                      par leur caractère collectif. Le numérique est à chaque fois
-                     apparu comme le medium adapté pour la publication, même si dans
+                     apparu comme un medium adapté pour la publication, même si dans
                      certain cas comme avec la correspondance de Van Gogh, il n'est pas
-                     exclusif. Pourtant l'adoption d'un tel médium n'est neutre ni du
+                     exclusif. Pourtant le choix d'un tel médium n'est neutre ni du
                      point de vue de la consultation des source ainsi mises à
                      disposition, ni des méthodes de travail pour leur élaboration.</p>
+                  <p>Ce mémoire de stage porte justement sur les conditions de
+                     production d'une édition critique dans le domaine de l'histoire de
+                     l'art à l'ère numérique. Il relate toutes les étapes d'un projet
+                     d'ANR qui a donné lieu à la publication du corpus des cours de
+                     l'architecte Antoine Desgodets. Il convient de relever le lien
+                     direct qui existe entre ce projet de recherche et les raisons qui
+                     m'ont conduit à suivre le Master 2 de l’<orgName>École nationale
+                        des chartes</orgName>. Aussi ce mémoire présente un double
+                     caractère : il rend compte à la fois du déroulement d'un projet
+                     scientifique et d’un besoin de formation qu'il a provoqué, en même
+                     temps qu'il doit normalement attester de la mise en œuvre de ces
+                     mêmes savoirs.</p>
                </div>
                <div>
-                  <p>Relever le lien direct entre ce projet et le fait que j’ai
-                     suivi la formation de l’École nationale des chartes.
-                     Finalement projet qui précède la formation et ce mémoire même qui ont
-                     été nécessités pour mener à bien ce projet.</p>
-                  <p>Il convient de relever le double caractère de ce mémoire : témoigne
-                     d’un parcours scientifique et d’un besoin de formation, atteste mise
-                     en œuvre des savoirs acquis. Mais également, dans la mesure du
-                     possible, tentative de réflexion épistémologique sur le fait
-                     éditorial, le recours au modèle de la TEI, ou le travail collaboratif
-                     dans le contexte numérique. Aspects critiques. Notamment car projet
-                     numérique amenés à continuer d’évoluer.</p>
-                  <p>Participe de la documentation du projet d’ANR qui a par ailleurs déjà
-                     fait l’objet d’un rapport. Mémoire de stage qui ne peut être
-                     considéré indépendamment de l’objet numérique réalisé que constitue
-                     le site web consultable en ligne.</p>
+                  <p>Ce mémoire ne peut être considéré indépendamment de la réalisation
+                     numérique qui lui donne prétexte. Il est également complémentaire
+                     d'un rapport final déjà rédigé sur le projet de recherche. En
+                     adoptant une distance critique, ce mémoire entend participer à la
+                     documentation du projet d’ANR. Dans la mesure du possible, en
+                     faisant le bilan de ce travail nous essayerons de conduire une
+                     réflexion épistémologique sur le fait éditorial et le recours à la
+                     TEI, en interrogeant la dimension collaborative du travail dans le
+                     contexte numérique.</p>
                </div>
                <div>
-                  <head>Problématique : Les enjeux liés à la production</head>
                   <p>C'est que le numérique fait entrer de nouveaux acteurs avec de
                      nouvelles compétences dans le cours d'un projet. On pense d'abord
                      aux informaticiens avec leur vocabulaire spécialisé, leurs
                      technologies, et les problèmes de compréhension qu'il supposent de
                      la part des historiens de l'art. Mais on y pense mois, le support
                      numérique fait également émerger un nouveau genre d'acteurs : des
-                     chercheurs hybrides capables à la fois ???</p>
-                  <p>Travail collaboratif. Projets de grande ampleur. Coûteux. </p>
-                  <p>Irruption de nouveaux acteurs :</p>
-                  <p>Nécessité d'un savoir hybride</p>
-                  <p>Problématique</p>
-                  <p>Introduire la problématique. Qu'est ce que cela change, du côté de
-                     l'éditeur scientifique, du côté du lecteur. Travail d'AMO,
-                     précisément endroit intéressant pour faire ces constats. Croisée
-                     des chemins. Compétences.</p>
-                  <p>Introduire sur la place des sciences auxiliaires de l'histoire.
-                     Permet d'évoquer l'ENC, et les nouvelles technologies.</p>
+                     chercheurs hybrides capables à la fois de parler le langage de la
+                     technique et celui de la recherche.</p>
                </div>
                <div>
-                  <head>Annonce du plan</head>
                   <div>
-                     <head>Le projet Desgodets</head>
                      <p>Le projet d'ANR Desgodets dont il est ici question était un
                         projet ambitieux. La recherche se proposait de reconstituer le
                         savoir architectural au début du <date from="1700" to="1725"
@@ -350,7 +349,6 @@
                         projet dans ce domaine.</p>
                   </div>
                   <div>
-                     <head>La mise à disposition des sources primaires</head>
                      <p>L'important effort de numérisation du patrimoine culturel
                         conduit ces dernières années a parfois introduit une certaine
                         confusion sur la notion d'édition électronique. Si toutes
@@ -359,8 +357,10 @@
                         suivantes : la numérisation en mode image d'édition anciennes
                         et leur numérisation en mode texte, l'enrichissement d'édition
                         anciennes, ou enfin la publication de textes inédits sous forme
-                        numérique seulement ou parallèle à leur édition
-                        imprimée<note place="foot"><p>{Guyotjeannin 2010}</p></note>.</p>
+                        numérique seulement ou parallèle à leur édition imprimée<note
+                           place="foot">
+                           <p>{Guyotjeannin 2010}.</p>
+                        </note></p>
                      <p>Le changement de l’environnement de travail et ses
                         conséquences</p>
                      <p>Passage du support analogie au numérique relativement
@@ -379,7 +379,6 @@
                         supports. Penser dès le départ sa propre conservation.</p>
                   </div>
                   <div>
-                     <head>Problématique et annonce du plan</head>
                      <p>Outre les changements qu'elles impliquent dans leur mode de
                         production même, les éditions numériques bouleverses également
                         les manières de travailler des chercheurs. Abondance des
