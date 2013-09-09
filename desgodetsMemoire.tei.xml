@@ -131,19 +131,19 @@
             </divGen>
             <div xml:id="desgodetsMemoireFrontFr02">
                <head>Remerciements</head>
-               <p>Je tiens à remercier en tout premier lieu Monsieur Robert Carvais
-                  pour m'avoir fait confiance tout au long du projet d'ANR Desgodets.
-                  Je lui suis gré de m'avoir tout d'abord recruté au sein de l'équipe
-                  de transcripteurs, mais aussi de nous avoir immédiatement associés à
+               <p>En tout premier, je tiens à remercier Monsieur Robert Carvais pour
+                  m'avoir fait confiance tout au long de ce projet d'ANR. Je lui suis
+                  gré de m'avoir tout d'abord recruté au sein de l'équipe de
+                  transcripteurs, mais aussi de nous avoir immédiatement associés à
                   l'équipe scientifique du projet. Je le remercie également de m'avoir
                   offert cette merveilleuse occasion de mener à bien avec lui ma
                   première réalisation informatique dans le domaine scientifique.</p>
-               <p>Je voudrais également remercier ici Madame Florence Clavaud qui a
-                  bien voulu diriger ce travail. L'exigence et la rigueur de son
+               <p>Je voudrais également remercier Madame Florence Clavaud qui a bien
+                  voulu diriger ce travail. L'exigence et la rigueur de son
                   enseignement, tout comme son enthousiasme marqueront je pense
-                  durablement ma future carrière scientifique. Elle a su à la fois
-                  conforter et canaliser chez moi la flamme que j'entretenais à l'égard
-                  des technologies numériques.</p>
+                  durablement ma carrière scientifique. Elle a su à la fois conforter
+                  et canaliser chez moi la flamme que j'entretenais à l'égard des
+                  technologies numériques.</p>
                <p>Mes parents ont bien voulu me faire confiance et supporter très
                   concrètement, parce que financièrement, ces études parallèlement à
                   l'achèvement de ma thèse qui ne saurait plus tarder.</p>
@@ -160,19 +160,18 @@
                      disciplinairement, est portion congrue. Ce constat est d'autant
                      plus troublant que la généralisation de l'informatique personnelle
                      à laquelle on a assisté ces trois dernières décennies aurait pu
-                     permettre d'envisager de manière nouvelle et bien plus efficace
-                     l'important effort de publication de sources primaires conduit
-                     depuis plusieurs siècles. Au-delà de la publication de ces seules
-                     sources, c'est l'ensemble de la communication scientifique et des
-                     modalités de productions des savoirs qui se trouve depuis quelques
-                     années bouleversé par l’irruption des technologies numériques. Les
-                     conséquences de ce bouleversement tardent pourtant à être actées
-                     dans la plupart des disciplines historiques.</p>
+                     permettre d'envisager de manière totalement nouvelle et bien plus
+                     efficace l'important effort de publication de sources primaires
+                     conduit depuis plusieurs siècles. Au-delà de la publication de ces
+                     seules sources, c'est l'ensemble de la communication scientifique
+                     et des modalités de production des savoirs qui se trouve depuis
+                     quelques années bouleversé par l’irruption des technologies
+                     numériques. Les conséquences de ce bouleversement tardent pourtant
+                     à être actées dans la plupart des disciplines historiques.</p>
                   <p>Prenant comme objet même l'observation et l'accompagnement de ces
                      transformations, le courant des <soCalled>Digital
                         humanities</soCalled> est parfois présenté comme une
-                        <soCalled>trans-discipline</soCalled><note place="foot">
-                        <p>{ThatcampParis2010}</p>
+                        <soCalled>trans-discipline</soCalled><note place="foot"><p>{ThatcampParis2010}</p>
                      </note>, d'aucuns l'abordent comme une science auxiliaire de
                      l'histoire. Si cette dynamique transdisciplinaire est riche
                      d'échanges et très favorable au développement d'une réflexivité,
@@ -229,12 +228,12 @@
                         ou non comme humiliante, il faut bien ajouter : l'échec n'est
                         pas à mettre au compte de l'informatique, mais des historiens
                         d'art, qui n'ont pas sur tirer parti d'elle.</q><note place="foot"><p>{Thuillier
-                     1992}</p></note> Cet échec est pour lui le signe d'une sclérose de la
-                     discipline. Toutefois, il ne manque pas de souligner les périls
+                     1992}</p></note> Cet échec était pour lui le signe d'une sclérose de la
+                     discipline. Toutefois, il ne manquait pas de souligner les périls
                      résidant dans l'émiettement des projets et de mettre le doigt sur
                      les divergences d'objectifs entre les institutions patrimoniales
                      et le secteur académique.</p>
-                  <p>Cette opposition qui caractérise encore bien aujourd'hui en France
+                  <p>Cette opposition caractérise encore bien aujourd'hui en France
                      la situation. Si les institutions patrimoniales et culturelles ont
                      été pressées ces dernières années par des politiques
                      internationales à publier leurs collections sous forme numérique,
@@ -277,10 +276,10 @@
                      risque d'être motivé par la recherche de financements.</p>
                </div>
                <div>
-                  <p>En dehors des projets à caractère documentaire en histoire de
+                  <p>En dehors de ceux à caractère documentaire en histoire de
                      l'art mentionnés précédemment, force est de constater que la
                      plupart des projets d'envergure menés jusqu'à présent avec succès
-                     dans le domaine universitaire concernaient l'édition de sources
+                     dans le domaine universitaire concernent l'édition de sources
                      primaires. Certains de ces projets sont déjà relativement anciens
                      et sans doute familier des historiens d'art, comme par exemple
                         <title>The William Blake Archive</title>
@@ -309,14 +308,11 @@
                      l'architecte Antoine Desgodets. Il convient de relever le lien
                      direct qui existe entre ce projet de recherche et les raisons qui
                      m'ont conduit à suivre le Master 2 de l’<orgName>École nationale
-                        des chartes</orgName>. Aussi ce mémoire présente un double
-                     caractère : il rend compte à la fois du déroulement d'un projet
-                     scientifique et d’un besoin de formation qu'il a provoqué, en même
+                        des chartes</orgName>. Aussi, ce mémoire présente un double
+                     caractère : il rend à la fois compte du déroulement d'un projet
+                     scientifique et d’un besoin de formation que celui-ci a provoqué, en même
                      temps qu'il doit normalement attester de la mise en œuvre de ces
-                     mêmes savoirs.</p>
-               </div>
-               <div>
-                  <p>Ce mémoire ne peut être considéré indépendamment de la réalisation
+                     mêmes savoirs. Ce mémoire ne peut être considéré indépendamment de la réalisation
                      numérique qui lui donne prétexte. Il est également complémentaire
                      d'un rapport final déjà rédigé sur le projet de recherche. En
                      adoptant une distance critique, ce mémoire entend participer à la
@@ -330,24 +326,22 @@
                   <p>C'est que le numérique fait entrer de nouveaux acteurs avec de
                      nouvelles compétences dans le cours d'un projet. On pense d'abord
                      aux informaticiens avec leur vocabulaire spécialisé, leurs
-                     technologies, et les problèmes de compréhension qu'il supposent de
-                     la part des historiens de l'art. Mais on y pense mois, le support
-                     numérique fait également émerger un nouveau genre d'acteurs : des
-                     chercheurs hybrides capables à la fois de parler le langage de la
-                     technique et celui de la recherche.</p>
+                     technologies, et les problèmes de compréhension qu'ils posent aux
+                     historiens. Mais on y pense mois, le support numérique fait
+                     également émerger un nouveau genre d'acteurs : des chercheurs
+                     hybrides capables à la fois de parler le langage de la technique
+                     et celui de la recherche.</p>
+                  <p>Le projet d'ANR Desgodets dont il est ici question était un projet
+                     ambitieux. La recherche se proposait de reconstituer le savoir
+                     architectural au début du <date from="1700" to="1725">XVIIIe
+                        siècle</date> à partir du cours de l'architecte
+                        <persName>Antoine Desgodets</persName> à l'Académie
+                     d'architecture. Même s'il ne s'agissait pas directement d'un
+                     projet en Digital humanities, le choix opéré par l'équipe de
+                     réaliser une édition numérique a fait en partie basculer le projet
+                     dans ce domaine.</p>
                </div>
                <div>
-                  <div>
-                     <p>Le projet d'ANR Desgodets dont il est ici question était un
-                        projet ambitieux. La recherche se proposait de reconstituer le
-                        savoir architectural au début du <date from="1700" to="1725"
-                           >XVIIIe siècle</date> à partir du cours de l'architecte
-                           <persName>Antoine Desgodets</persName> à l'Académie
-                        d'architecture. Même s'il ne s'agissait pas directement d'un
-                        projet en Digital humanities, le choix opéré par l'équipe de
-                        réaliser une édition numérique a fait en partie basculer le
-                        projet dans ce domaine.</p>
-                  </div>
                   <div>
                      <p>L'important effort de numérisation du patrimoine culturel
                         conduit ces dernières années a parfois introduit une certaine
@@ -361,11 +355,6 @@
                            place="foot">
                            <p>{Guyotjeannin 2010}.</p>
                         </note></p>
-                     <p>Le changement de l’environnement de travail et ses
-                        conséquences</p>
-                     <p>Passage du support analogie au numérique relativement
-                        rapide</p>
-                     <p>Caractère particulier des éditions numériques</p>
                      <p>Ces éditions numériques peuvent présenter un grand nombre de
                         fonctionnalités propres à leur médium et on peut assez
                         librement affirmer que leur supériorité sur le papier est
@@ -381,12 +370,14 @@
                   <div>
                      <p>Outre les changements qu'elles impliquent dans leur mode de
                         production même, les éditions numériques bouleverses également
-                        les manières de travailler des chercheurs. Abondance des
-                        sources nouvellement mises à disposition. Changement du cadre
-                        de travail. Pervasivité du numérique avec l'internet, et
-                        bientôt du Linked open data.</p>
-                     <p>Mode d'accès renouvelé au source. Bilan d'un projet sous
-                        l'aspect de l'accompagnement technique.</p>
+                        les manières de travailler des chercheurs. Le passage du
+                        support analogique au support numérique a mis à disposition des
+                        chercheurs une abondance de sources. Le changement de
+                        l’environnement de travail a été relativement rapide et on
+                        mesure encore mal ses conséquences. C'est aujourd'hui un mode
+                        d'accès profondément renouvelé aux sources primaires qui est
+                        proposé par le numérique et qu'il s'agit également d'interroger
+                        à travers le projet d'ANR Desgodets.</p>
                   </div>
                </div>
             </div>
@@ -910,57 +901,46 @@
                         </div>
                         <div>
                            <head>Le cours des Ordres</head>
-                           <p>Le sujet du cours sur les ordres est un sujet
-                              relativement classique dans le domaine de l'enseignement
+                           <p>L'objet du cours sur les ordres est un sujet relativement
+                              classique dans le domaine de l'enseignement
                               architectural. Ayant mesuré les édifices antiques de
                               Rome, l'architecte était tout indiqué pour proposer un
-                              tel cours qui lui offre l'occasion de formuler une
-                              théorie sur la question.</p>
+                              tel cours qui lui offre cette fois l'occasion d'aborder
+                              la question sous l'angle de la théorie. L'étude du cours
+                              a permis de montrer que derrière l'apparente banalité du
+                              titre, celui-ci se révèle particulièrement original.</p>
                         </div>
                         <div>
-                           <head>Le cours des Commodités</head>
-                           <p>
-                              <quote>Desgodets avait donné une grande place aux ordres,
-                                 mais dans la seconde partie, la plus originale de tous
-                                 les traités d'architecture que nous connaissions et
-                                 qu'on pourrait utilement publier, il donna des modèles
-                                 de plans de palais, de châteaux, d'églises
-                                 paroissiales, conventuelles, d'hôtel de ville, de
-                                 marchés, etc.</quote>
-                              <note place="foot">
-                                 <p>Lemonnier, pp. 458-459</p>
-                              </note>
-                           </p>
+                           <head>Le cours de la Commodités</head>
+                           <p>De tous les cours de Desgodets, c'est celui de la
+                              commodité qui de longue date a retenu l'attention. C'est
+                              que le sujet du cours est relativement inédit dans la
+                              théorie architecturale. Ce cours qui traite en fait de la
+                              composition architecturale fait suite au cours sur les
+                              Ordres. L'architecte y aborde l'architecture des églises
+                              et des édifices publics en proposant aux élèves des
+                              modèles de sa composition. Malheureusement, les témoins
+                              conservés ne présentent qu'une version inachevée de ce
+                              cours.</p>
                         </div>
                         <div>
                            <head>Le cours du Toisé</head>
-                           <p><cit>
-                                 <quote>Néanmoins comme il est vray que la connoissance
-                                    des préceptes de l'Architectrue ne suffit pas toute
-                                    seule pour faire un Architecte, cette qualité
-                                    supposant beaucoup d'autres lumières ; Sa Majesté a
-                                    voulu que pendant la seconde heure des leçons de
-                                    l'Académie, l'on enseignât publiquement les autres
-                                    Sciences qui sont absolument nécessaires aux
-                                    Architectes comme sont celles-cy, la Géométrie,
-                                    l'Arithmétique, la Mécanique c'est à dire les
-                                    forces mouvantes, les Hydrauliques qui traittent du
-                                    mouvement des eaux, la Gnomonique ou l'art de faire
-                                    les Quadrans au Soleil, l'Architecture militaire
-                                    des fortifications, la Perspective, la Coupe des
-                                    pierres &amp; diverses autres parties de
-                                    Mathématique, dont les principales y ont déjà été
-                                    expliquées par des traittez composez pour ce
-                                    sujet.</quote>
-                                 <bibl>{Blondel, Preface}</bibl>
-                              </cit></p>
+                           <p>Par son thème, le cours du toisé n'est pas moins
+                              original. Son enseignement à l'Académie participe de
+                              l'affirmation d'un savoir professionnel des architectes
+                              sur celui des maçons. Il témoigne également de la forte
+                              orientation pratique que l'architecte donne au contenu de
+                              son enseignement à l'académie.</p>
                         </div>
                         <div>
                            <head>Le cours des servitudes</head>
+                           <p>Avec le cours sur les servitudes c'est tout le droit de
+                              l'architecture qui entre dans le champ professionnel.
+                              Connu par sa publication posthume sous le titre des
+                                 <title>Loix des bâtiments</title>, les deux manuscrits
+                              du Sénat constituent sans doute le prototype de la
+                              célèbre publication.</p>
                         </div>
-                     </div>
-                     <div>
-                        <head>La place du dessin</head>
                      </div>
                   </div>
                   <div>
