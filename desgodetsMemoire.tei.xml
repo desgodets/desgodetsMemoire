@@ -3761,7 +3761,7 @@
                      un point d'observation privilégié sur l'impact du numérique sur
                      les pratiques académiques. Cela constitue également une expérience
                      particulière au sens où se trouver à l'interface entre les
-                     informaticiens et l'équipe de chercheur nous met au première loge
+                     informaticiens et l'équipe de chercheurs nous met au première loge
                      pour observer l'espace de négociation qui intervient
                      nécessairement dans cours de tout projet. La réalisation en partie
                      achevée, il convient d'essayer de faire un bilan et d'adopter un
@@ -3774,16 +3774,16 @@
                      implique presque nécessairement un certain nombre d'ajustements en
                      cours de projet. Ces adaptations sont soit à proprement parler le
                      produit du travail effectué pour répondre le mieux possible aux
-                     objectifs du projet, soit le résultats des réponses positives
+                     objectifs initiaux, soit le résultat des réponses positives
                      apportées aux problèmes rencontrés au cours de la réalisation.</p>
                   <div>
                      <head>Solutions trouvées lors du travail</head>
                      <p>Afin de laisser une certaine latitude au prestataire en charge
-                        de faire les propositions de rendus graphiques et
-                        typographiques, on s'est d'abord contenté de fournir des
-                        indications fonctionnelles suffisamment vague dans la
+                        de formuler les propositions de rendus graphiques et
+                        typographiques, on s'est d'abord contentés de fournir des
+                        indications fonctionnelles suffisamment vagues dans la
                         documentation concernant la transformation des éléments TEI.
-                        Cette documenation a servi à la fois pour la préparation des
+                        Cette documentation a servi à la fois pour la préparation des
                         transformations XSLT et pour la détermination de l'ergonomie et
                         du graphisme du projet. Les indications portaient par exemple
                         sur la distinction des divisions du texte, ou bien l'affichage
@@ -3800,12 +3800,12 @@
                         la consultation des manuscrits étaient nombreuses et complexes.
                         La conception de l'ergonomie du site a nécessité un
                         investissement important de la part de la graphiste et des
-                        navettes nombreuses avec nous. Ces discussion, auxquelles était
-                        associée la développeuse, ont permis de très fortement
-                        simplifier et rationaliser l'interface utilisateur. De ce point
-                        de vue, l'apport du prestataire externe a été notable dans la
-                        mise au point d'une solution de consultation que nous jugeons
-                        efficace.</p>
+                        navettes nombreuses avec nous. Ces discussions, auxquelles
+                        était associée la développeuse, ont permis de très fortement
+                        simplifier et rationaliser l'interface utilisateur qui avait
+                        d'abord été envisagée. De ce point de vue, l'apport du
+                        prestataire externe a été notable dans la mise au point d'une
+                        solution de consultation que nous jugeons efficace.</p>
                   </div>
                   <div>
                      <head>Renoncements en cours de projet</head>
@@ -3813,15 +3813,14 @@
                         favorables à certains problèmes, elle a aussi nécessité
                         plusieurs renoncements afin d'être certain de pouvoir mener à
                         terme la production de l'application. Ces décisions ont
-                        généralement été occasionnés par des difficultés techniques
+                        généralement été occasionnées par des difficultés techniques
                         imprévues, et ont entraîné des changement dans la réalisation.
                         Ils ont toujours été déterminés en fonction des priorités dans
                         l'économie globale du projet, et résultent pour l'essentiel
-                        d'une négociation engagée avec le prestataire au cours du
-                        projet. Au cours de la négociation, ces renoncements ont été
-                        abordés en termes de compensations sur la base de la
-                        réalisation convenue contractuellement au moment de la
-                        signature du marché.</p>
+                        d'une négociation engagée avec le prestataire. Au cours de
+                        cette négociation, ces renoncements ont été abordés en termes
+                        de compensations sur la base de la réalisation convenue
+                        contractuellement au moment de la signature du marché.</p>
                      <p>Cette manière d'aborder la conduite du projet était
                         essentiellement déterminée par la recherche d'un équilibre
                         entre l'exercice d'une autorité utile pour faire respecter le
@@ -3839,8 +3838,7 @@
                         La possibilité d'ailleurs d'en référer à lui permettait
                         précisément dans l'échange avec le prestataire de pouvoir
                         temporiser ses demandes ou de créer un niveau de discussion
-                        supplémentaire favorable à l’obtention de certaines
-                        demandes.</p>
+                        supplémentaire favorable à l’obtention de certaines choses.</p>
                   </div>
                   <div>
                      <head>L'interopérabilité</head>
@@ -3858,9 +3856,9 @@
                            l'ampleur des développements XSLT nécessaires. Bien que
                            l'interopérabilité constitue une dimension cruciale d'un
                            projet en digital humanities, et que ce protocole permette
-                           d'assurer une bonne visibilité de des contenus proposés par
-                           l'édition dans l'écosystème scientifique par exemple pour
-                           être moissonné par le moteur isidore-recherche, il nous a
+                           d'assurer une bonne visibilité des contenus proposés par
+                           l'édition dans l'écosystème scientifique (par exemple pour
+                           être moissonné par le moteur isidore-recherche), il nous a
                            semblé possible d'y renoncer pour deux raisons :</p>
                         <p>D'une part, nous avons identifié au cours de la réalisation
                            qu'un travail était mené dans le cadre du consortium Cahier
@@ -3878,7 +3876,8 @@
                         <p>D'autre part, envisageant comme évolution future la
                            publication des sources à partir d'une base de données XML
                            native, dans une telle configuration la création d'un
-                           entrepôt OAI-PMH deviendrait pour ainsi dire triviale.</p>
+                           entrepôt OAI-PMH deviendrait à ce moment là pour ainsi dire
+                           triviale.</p>
                      </div>
                      <div>
                         <head>L'absence de SiteMap</head>
@@ -3897,7 +3896,7 @@
                         <p>Ce sitemap n'a finalement pas été produit lors de la
                            réalisation du site. Compte-tenu de l'arborescence du site
                            et de la configuration de ses pages HTML, le référencement
-                           ne devrait pas poser trop de problème. Une première
+                           ne devrait pas poser trop de problèmes. Une première
                            indexation accidentelle du site par le moteur de recherche
                            Google a confirmé cette première impression. Toutefois, la
                            production d'un plan de site reste nécessaire notamment en
@@ -3915,7 +3914,7 @@
                   <div>
                      <head>L'interface graphique</head>
                      <div>
-                        <p>Bien qu'elle nous ait beaucoup occupé et que le résultat
+                        <p>Bien qu'elle nous ait beaucoup occupés et que le résultat
                            soit relativement satisfaisant, l'interface graphique
                            produite présente de notre point de vue plusieurs
                            inconvénients notables. Certains d'entre eux sont en partie
@@ -3970,7 +3969,7 @@
                            lors de la consultation d'un cours.</p>
                         <p>Ce changement nous a conduit à préciser la séquence de
                            visualisation en distinguant la consultation d'un manuscrit
-                           de la comparaison des manuscrits. Cette distinction
+                           de la comparaison des manuscrits. Une distinction qui
                            clarifiait finalement un dispositif que nous avions du mal à
                            expliquer dans la notice d'utilisation du site. Elle
                            rejoignait également le fait de pouvoir disposer d'une URL
@@ -4023,7 +4022,7 @@
                   <head>L'évaluation du résultat</head>
                   <p>Basée sur la publication de sources encodées en utilisant les
                      meilleures pratiques dans le domaine de l'encodage de texte,
-                     l'édition en ligne des cours de Desgodets permettra de mettre à
+                     l'édition en ligne des cours de Desgodets permet de mettre à
                      disposition du chercheur l'ensemble des transcriptions
                      diplomatiques des cours de l'architecte identifiés à travers le
                      monde. Chacun de ces témoins manuscrit est accompagné de
@@ -4031,7 +4030,7 @@
                      chacun des cours, l'édition en ligne propose une édition critique
                      comprenant un important arsenal critique ainsi que des index.</p>
                   <div>
-                     <head>Recettage du produit livré</head>
+                     <head>Le recettage du produit livré</head>
                      <p>L'application web a été réalisée à l'aide de PHP et de XSLT.
                         Plus précisément, il s'agit d'un site statique produit
                         dynamiquement à partir des sources XML-TEI à l'aide de
@@ -4058,18 +4057,18 @@
                         problème a déjà été effectué à cet effet à l'intérieur des
                         fichiers source sous la forme de commentaires.</p>
                      <p>Hormis les problèmes exposés ci-dessus, nous sommes globalement
-                        très satisfait de la réalisation qui est au-delà de nos
+                        très satisfaits de la réalisation qui est au-delà de nos
                         espérances compte-tenu des faibles sommes engagées. Les bonnes
                         conditions d'achèvement du projet dont nous pouvons
                         particulièrement juger en comparaison avec une expérience
                         précédente difficile, signalent la qualité des prestataires
-                        étant intervenus sur le projet. Il n'a en effet pas été
+                        étant intervenus sur le projet. En effet, il n'a pas été
                         compliqué d'obtenir la correction des dysfonctionnements
                         constatés et le travail général se caractérise par sa précision
                         et sa qualité.</p>
                   </div>
                   <div>
-                     <head>Parties du site livrées par nos soin</head>
+                     <head>Les parties du site livrées par nos soin</head>
                      <p>Afin d'alléger le travail du prestataire et permettre de mieux
                         faire aboutir certains développement, il lui a été proposé de
                         prendre en charge certains développement. Ainsi, c'est nous qui
@@ -4083,10 +4082,10 @@
                         avons rédigé la transformation des éléments <gi>biblStruct</gi> (biblio.xsl).</p>
                   </div>
                   <div>
-                     <head>Conformité aux standards </head>
-                     <p>Le résultat final est conforme à un certain nombre de standard.
-                        D'après les <title>Guidelines</title> de la TEI Un document est
-                        jugé conforme s'il :<list>
+                     <head>La conformité aux standards </head>
+                     <p>Le résultat final est conforme à un certain nombre de
+                        standards. D'après les <title>Guidelines</title> de la TEI Un
+                        document est jugé conforme s'il :<list>
                            <item>est un document XML bien formé</item>
                            <item>peut être validé contre un <hi rend="italic">schéma
                                  TEI</hi> qui est dérivé des
@@ -4115,16 +4114,13 @@
                         </list>Pour évaluer la qualité du travail réalisé, on peut
                         également se référer à plusieurs recommandations publiées dans
                         le monde anglo-saxon pour l'évaluation de projets numériques.
-                        Nous pensons notamment à celles publiquées par la Modern
-                        Language Association<note place="foot"
-                           >{GuidelinesForEvaluatingWork},
+                        Nous pensons notamment à celles publiées par la Modern Language
+                           Association<note place="foot">{GuidelinesForEvaluatingWork},
                            {GuidelinesForEditorsOf}</note> ou The American Association
                         for History and Computing (AAHC)<note place="foot"
-                           >{TheAmericanAssociationFor}</note></p>
-                     <p>, ou encore par Todd Pressner pour l'Initiative for Digital
-                        Humanities, Media, adn Culture Sites en 2011<note place="foot"
-                           >{Presner}</note></p>
-                     <p>.</p>
+                           >{TheAmericanAssociationFor}</note>, ou encore par Todd
+                        Pressner pour l'Initiative for Digital Humanities, Media, adn
+                        Culture Sites en 2011<note place="foot">{Presner}</note>.</p>
                      <p>L'édition est complète et normalement aucun témoin n'a été
                         oublié. La transcription des témoins manuscrits a été comparée
                         par les auteurs de l'édition, et le texte des transcriptions
@@ -4133,11 +4129,9 @@
                         méthodes. Enfin, l'édition dispose d'un apparat de notes
                         critiques et historiques important et les auteurs de l'édition
                         sont bien connus.</p>
-                     <p>L'apport des nouvelles technologies à l'étude du corpus</p>
-                     <p>http://ica.princeton.edu/digitalbooks/digitalworldofarthistory2013/7.D.Zorich.pdf</p>
                   </div>
                   <div>
-                     <head>Usabilité et accessibilité</head>
+                     <head>L'usabilité et l'accessibilité</head>
                      <p>Il n'a malheureusement pas été possible de conduire des tests
                         d'usabilité, ceux-ci n'étant pas prévus pour des raisons
                         budgétaires. De tels tests auraient pu présenter un intérêt
@@ -4157,8 +4151,8 @@
                         tests devraient être reconduits pour identifier des
                         améliorations possibles à effectuer sur le site. Les commandes
                         de l'interface devraient également être doublées d'accès
-                        claviers pour améliorer leur accessibilité pour un personnel
-                        handicapé.</p>
+                        claviers pour améliorer leur accessibilité pour des personnes
+                        handicapées.</p>
                   </div>
                   
                </div>
@@ -4169,7 +4163,7 @@
                      <div type="introduction">
                         <p>L'irruption des technologies numériques et la généralisation
                            de la publication de sources en ligne ont considérablement
-                           fait évolué la théorie de l'édition au cours des dernières
+                           fait évoluer la théorie de l'édition au cours des dernières
                            années. Cette théorie de l'édition bénéficie actuellement
                            d'un double héritage : celui des éditions en <foreign
                               xml:lang="lat">fac simile</foreign> de type diplomatique
@@ -4229,8 +4223,8 @@
                            iconographique d'accompagnement dans le cadre de l'édition
                            des cours de Desgodets avant d'y renoncer faute de solution
                            satisfaisante pour intégrer ce contenu. Néanmoins, le
-                           numérique permet d'enrichir de contenus iconographiques
-                           pratiquement sans limite.</p>
+                           numérique permet un enrichissement pratiquement sans limites
+                           par des contenus iconographiques.</p>
                         <p>La séparation de la source du commentaire que permet le
                            balisage de contenu, sans garantir plus d'honnêteté et de
                            transparence, autorise la signature des interventions. On
@@ -4249,7 +4243,7 @@
                            matériel ou exposer le travail en cours. De telles
                            dispositions peuvent toutefois heurter les cadres de pensée.
                            La publication du texte des témoins a ainsi fait l'objet de
-                           discussion au sein de notre équipe.</p>
+                           discussions assez vives au sein de notre équipe.</p>
                         <p>La finesse de l'enregistrement que le balisage rend possible
                            est paradoxalement parfois difficile à exprimer de manière
                            typographique. Car le support numérique ne fait pas
@@ -4263,19 +4257,19 @@
                      </div>
                      <div>
                         <head>L'accessibilité</head>
-                        <p>Dans sa présentation <title>A Bag of Words</title>, à
-                           l'occasion de ???, Edward Vanhoutte soulevait la question de
-                           ce que pourrait être une édition numérique et ce qu'elle est
-                           en définitive aux prises avec diverses contraintes qui
-                           pèsent sur sa production. Déconstruit à cette occasion
+                        <p>Au début Edward Vanhoutte soulevait avec sa présentation
+                              <title>A Bag of Words</title>, la question de ce que
+                           pourrait être une édition numérique et ce qu'elle est en
+                           définitive aux prises avec diverses contraintes qui pèsent
+                           sur sa production. Il déconstruisait à cette occasion
                            plusieurs mythes sur la nature des éditions numériques.
                            Notamment le fait que celles-ci seraient plus accessibles,
-                           ou permettrait d'offrir un accès plus rapide ou plus directe
+                           ou permettrait d'offrir un accès plus rapide ou plus direct
                            à des sources que des éditions imprimées.</p>
-                        <p>En réalité une édition imprimée est par nature accessible,
-                           généralement fournie pour une audience clairement ciblée,
-                           lorsqu'il s'agit d'une édition scientifique elle adopte le
-                           plus souvent des critères explicites. En réalité, et pour
+                        <p>Une édition imprimée est par nature accessible, généralement
+                           fournie pour une audience clairement ciblée et lorsqu'il
+                           s'agit d'une édition scientifique elle adopte le plus
+                           souvent des critères explicites. En réalité, et pour
                            reprendre les termes d'Edward Vanhoutte, une édition
                            numérique présente une accessibilité <quote>qualitativement
                               différente</quote>. Le medium numérique permet notamment
@@ -4289,24 +4283,24 @@
                         <p>Qu’importe l’honnêteté ou la transparence de l’éditeur, le
                            support imprimé impose une structure particulière, une
                            séquence, une mise en page, etc. Ce qui change avec
-                           l'électronique ce sont les hiérarchies qui libère les choix
-                           du lecteur. Mais le numérique n'est pas sans conséquence sur
-                           le texte lui-même et sa lecture.</p>
+                           l'électronique ce sont les hiérarchies qui libèrent les
+                           choix du lecteur. Mais le numérique n'est pas sans
+                           conséquence sur le texte lui-même et sa lecture.</p>
                         <p>Avec une édition électronique, il est possible de proposer
                            au lecteur la possibilité de produire sa propre édition en
                            fonction de ses lectures ou des utilisations qu'il souhaite
                            faire de la source. Bien sûr pour ce faire il demeure
-                           nécesaire que l'éditeur ait considéré à l'avance ces
+                           nécessaire que l'éditeur ait considéré à l'avance ces
                            questions de sorte qu'il puisse ménager les utilisations
                            possibles en laissant libre le plus de choix possible. Il
                            s'agit donc de produire un dispositif, d'offrir selon
                            l'expression de Corinne Welger-Barboza un <q>corpus
-                              outilllés</q>.</p>
+                              outillé</q>.</p>
                         <p>L'édition que nous avons mise en place pour les cours de
                            Desgodets propose plusieurs fonctionnalités au lecteur : <list>
                               <item>Accès par recherche, index, fréquences,
-                                 entités-nommées, structures hiérarchique</item>
-                              <item>Gloses et notes → ici définitions</item>
+                                 entité-nommées, structures hiérarchiques</item>
+                              <item>Gloses et notes</item>
                               <item>Régularisation</item>
                               <item>Éventuellement traduction</item>
                               <item>Modes de visualisation (comparaison, avec images,
@@ -4314,17 +4308,16 @@
                               <item>Navigation dans les images et zoom qui bien que
                                  rudimentaire permet l'examen des détails</item>
                            </list></p>
-                        <p>Notre édition aurait également pu aller plus loin encore et
-                           notamment, au lieu d’établir l’édition à partir d’un
-                           manuscrit maître, choisir d’inventer un nouveau texte tout
-                           en laissant la possibilité au lecteur de visualiser
-                           simultanément les différentes variantes, proposer des
-                           traductions en plusieurs langues, etc. Le rendu
-                           typographique aurait également pu être laissé à la
-                           discrétion du lecteur en fonction du niveau de détail
-                           attendu pour sa lecture. Il aurait ainsi été possible de
-                           moderniser la langue pour rendre le texte plus maniable tout
-                           en conservant la leçon des manuscrits.</p>
+                        <p>Notre édition aurait pu aller plus loin encore et notamment,
+                           au lieu d’établir l’édition à partir d’un manuscrit maître,
+                           choisir d’inventer un nouveau texte tout en laissant la
+                           possibilité au lecteur de visualiser simultanément les
+                           différentes variantes, proposer des traductions en plusieurs
+                           langues, etc. Le rendu typographique aurait également pu
+                           être laissé à la discrétion du lecteur en fonction du niveau
+                           de détail attendu pour sa lecture. Il aurait ainsi été
+                           possible de moderniser la langue pour rendre le texte plus
+                           maniable tout en conservant la leçon des manuscrits.</p>
                         <p>Si dans une édition papier la question principale est celle
                            du format utile pour rendre le contenu, pour l’éditeur
                            électronique la question consiste plutôt à proposer au
@@ -4337,7 +4330,7 @@
                            personnels, même en allant jusqu'à imaginer le réemploi et
                            le remix.</p>
                         <p>Toutefois de telles réalisation impliquent un plus grand
-                           investissement de la part de l'édition et même un effort de
+                           investissement de la part de l'éditeur et même un effort de
                            la part du lecteur pour exploiter l’information mise à
                            disposition à son avantage. C'est un point sur lequel il est
                            bon d'alerter le lecteur notamment pour qu'il puisse
@@ -4351,10 +4344,10 @@
                         <p>Du fait du codage de l'information et des processus de
                            décodage qui y sont associés, l'information n'est jamais
                            immédiatement accessible avec le support informatique. Un
-                           tel constat explique la manifestation de craintes
-                           habituelles quant à la durabilité d'une édition numérique.
-                           De fait le medium est plus fragile que le papier mais le
-                           contenu peut également être copié à l'identique sans
+                           tel constat explique les manifestations de craintes
+                           habituellement exprimées quant à la durabilité d'une édition
+                           numérique. De fait le medium est plus fragile que le papier
+                           mais le contenu peut également être copié à l'identique sans
                            perte.</p>
                         <p>En matière d'édition électronique, même s'il ne règle pas
                            toutes les questions, le choix de XML-TEI présente un
@@ -4385,22 +4378,22 @@
                            une représentation plutôt qu'une interprétation de la source
                            matérielle en première instance. La production d'une édition
                            critique est réalisée à partir d'un manuscrit maître auquel
-                           on rapportait tous toutes les variantes significatives.
-                           Malgré l'enrichissement du texte au moyen de la production
-                           d'un apparat critique et historique étendu, avec des gloses,
-                           des index, etc. Dans la mesure du possible, on a laissé au
+                           on rapportait  toutes les variantes significatives. Malgré
+                           l'enrichissement du texte au moyen de la production d'un
+                           apparat critique et historique étendu, avec des gloses, des
+                           index, etc. Dans la mesure du possible, on a laissé au
                            lecteur la possibilité de définir ses propres conclusions
                            interprétatives plutôt que d'imposer les nôtres.</p>
                         <p>C'est ce genre de considérations qui expliquent que l'on
-                           n'ait pas choisi de modernisé ou de standardier le texte ou
-                           de corriger la graphie orginiale d'une toute autre manière.
-                           On a néanmoins suivi les règles proposés par Barbiche et
-                           inspirées du manuel de l'École nationale des chartes sur la
-                           production des sources primaires à l'époque médiévale. Même
-                           les erreurs manifestes dans le texte sont transcrites, on
-                           fournit simplement en note la correction proposées. Les
-                           parties effacées, ou ajoutées sont transcrites comme
-                           telles.</p>
+                           n'ait pas choisi de moderniser ou de standardiser le texte
+                           ou de corriger la graphie originale d'une toute autre
+                           manière. On a néanmoins suivi les règles proposées par
+                           Barbiche et inspirées du manuel de l'École nationale des
+                           chartes sur la production des sources primaires à l'époque
+                           médiévale. Même les erreurs manifestes dans le texte sont
+                           transcrites, on fournit simplement en note la correction
+                           proposée. Les parties effacées, ou ajoutées sont transcrites
+                           comme telles.</p>
                         <p>En revanche la ponctuation a été modernisée. Or le
                            rétablissement de la ponctuation n'est pas dépourvu de parti
                            pris, ni sans impact sur la compréhension du texte. Pour
@@ -4438,12 +4431,12 @@
                            contrôlé. La procédure d'encodage des textes avait au moins
                            le mérite de centraliser en partie la production et
                            permettre un contrôle. Il n'en reste pas moins qu'une
-                           certaine hétérogénéité est encore perceptible dans le
-                           travail éditorial réalisé et devra être corrigée. Le
-                           contrôle de version mis en place a permis d'historiciser les
+                           certaine hétérogénéité encore perceptible dans le travail
+                           éditorial réalisé devra être corrigée. Le contrôle de
+                           version mis en place a permis d'historiciser les
                            interventions sur les fichiers et éventuellement d'y
-                           renoncer tout en permettant de bien documenté ce qui a été
-                           effectué.</p>
+                           renoncer tout en permettant de bien documenter les
+                           interventions éditoriales.</p>
                      </div>
                      <div>
                         <head>La documentation du projet</head>
@@ -4515,18 +4508,18 @@
                         <head>La recherche plein-texte</head>
                         <p>Dans sa configuration actuelle, la recherche plein texte est
                            extrêmement sommaire. Nous envisageons de produire un
-                           dictionnaire de synonyme à partir de l'encodage mise en
+                           dictionnaire de synonymes à partir de l'encodage mise en
                            place sur le texte pour améliorer les listes de résultats.
                            Par ailleurs, une meilleure configuration des filtres de
                            langue est nécessaire et à prévoir.</p>
                      </div>
                      <div>
                         <head>Web sémantique et données liées</head>
-                        <p>Dans son état actuelle, l'application n'expose aucune donnée
-                           de manière sémantique. Il devrait être possible de
-                           capitaliser sur l'effort conduit pour relier les entrées
-                           d'index et les références bibliographiques avec des
-                           catalogues d'autorité pour publier des données en RDFa.</p>
+                        <p>Pour le moment, l'application n'expose aucune donnée de
+                           manière sémantique. Il devrait être possible de capitaliser
+                           sur l'effort conduit pour relier les entrées d'index et les
+                           références bibliographiques avec des catalogues d'autorité
+                           pour publier des données en RDFa.</p>
                      </div>
                      <div>
                         <head>La réutilisation du modèle</head>
@@ -4538,12 +4531,13 @@
                            avantageusement être employée dans d'autres projets de
                            publication de sources primaires en histoire de
                            l'architecture. Afin de favoriser l'édition des sources
-                           primaires en XML-TEI en histoire de l'art, il nous a donc
-                           semblé, en accord avec le directeur scientifique du projet,
-                           qu'il pourrait être utile de mettre à disposition librement
-                           le schéma XML-TEI avec sa documentation et les feuilles de
-                           transformations XSLT développés dans le cadre du projet.</p>
-                        <p>Cette mise à disposition interviendra sur la plateforme
+                           primaires en XML-TEI dans ce domaine, il nous a donc semblé,
+                           en accord avec le directeur scientifique du projet, qu'il
+                           pourrait être utile de mettre à disposition librement le
+                           schéma XML-TEI avec sa documentation et les feuilles de
+                           transformations XSLT développées dans le cadre du
+                           projet.</p>
+                        <p>Cette mise à disposition interviendra sur la plate-forme
                            Github dans le cadre d'un projet intitulé
                            publicarchitectura. Les différents outils mis en place
                            devront être révisés et leur documentation améliorée dans ce
