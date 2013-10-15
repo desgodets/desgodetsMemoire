@@ -190,21 +190,21 @@
                      finalement qu'assez tardivement que la question des rapports entre
                      historien et programmeur réapparaît aujourd'hui sur le devant de la scène<note place="foot"><p>{Ruiz 2011}</p></note>.</p>
                   <p>La réflexion concernant l'utilisation des moyens informatiques en
-                     histoire de l'art est également relativement ancienne. <date from="1983" to="1993">De
-                        1983 à 1993</date>, <persName>Jacques Thuillier</persName>
-                     alors enseignant au Collège de France, animait et fit paraître une
-                     lettre d'information consacrée à l'informatique et à l'histoire de
-                     l'art, l'<title>HAMI (Histoire de l'art et moyens
-                        informatiques)</title>. Dans son premier éditorial,
-                        <persName>Jacques Thuillier</persName> expliquait un certain
-                     retard dans l'intérêt porté par la discipline à l'informatique par
-                     ses caractéristiques propres. Mais il lui prédisait un riche
+                     histoire de l'art est également relativement ancienne. <date
+                        from="1983" to="1993">De 1983 à 1993</date>, <persName>Jacques
+                        Thuillier</persName> alors enseignant au Collège de France,
+                     animait et fit paraître une lettre d'information consacrée à
+                     l'informatique et à l'histoire de l'art, l'<title>HAMI (Histoire
+                        de l'art et moyens informatiques)</title>. Dans son premier
+                     éditorial, il expliquait par la spécificité de la discipline un
+                     certain retard dans l'intérêt porté à l'égard de l'utilisation des
+                     moyens informatiques. Mais l'auteur leur prédisait un riche
                         avenir :<quote>La situation s'est modifiée rapidement.
                         L'informatique s'est développée en capacité et en flexibilité
                         d'une manière prodigieuse, et désormais elle est en mesure de
                         répondre aux exigences de l'historien d'art. Bien plus : elle
-                        semble appelée à bouleverser – dans un avenir prévisible et
-                        qu'il faut dès maintenant préparer – les conditions de sa
+                        semble appelée à bouleverser – dans un avenir prévisible et
+                        qu'il faut dès maintenant préparer – les conditions de sa
                         recherche, plus profondément peut-être que pour les autres
                         disciplines, justement parce qu'elle résoudra des problèmes
                         plus complexes et jusqu'ici insurmontables. Son aide pourrait
@@ -213,51 +213,54 @@
                         siècle.</quote>{Thuillier 1983}</p>
                   <p>Dès 1978, une initiative de <persName>Paola Barocchi</persName>
                      avait suscité à Pise l'organisation d'un grand colloque qui avait
-                     connu un succès enthousiaste. Un second Colloque s'était tenu à
-                     Pise en 1984 avec la publication d'un <title>Census</title> qui
-                     témoigne de l'abondance des projets en cours<note place="foot"
-                        ><p>{\162 projets contre 41 en 1978, \ Corti 1984}</p></note>.
-                     D'ailleurs, il est remarquable que la plupart des projets qui
-                     structurent encore aujourd'hui la discipline dans le domaine
+                     connu un succès enthousiaste. Un second Colloque s'était tenu dans
+                     la même ville en 1984 avec la publication d'un
+                        <title>Census</title> qui témoigne de l'abondance des projets
+                     en cours<note place="foot">
+                        <p>{\162 projets contre 41 en 1978, \ Corti 1984}</p>
+                     </note>. D'ailleurs, il est remarquable que la plupart des projets
+                     qui structurent encore aujourd'hui la discipline dans le domaine
                      documentaire y figurent déjà presque tous : iconclass, thesauri du
                      Getty, systèmes descriptifs de l'Inventaire, etc.</p>
-                  <p>Pourtant c'est un constat amer que formule <persName>Jacques
-                        Thuillier</persName> en 1992 dans la <title>Revue de
-                        l'art</title> au terme de plus d'une décennie
-                     d'expérimentation : <q>[...] Que cette constatation soit ressentie
-                        ou non comme humiliante, il faut bien ajouter : l'échec n'est
-                        pas à mettre au compte de l'informatique, mais des historiens
-                        d'art, qui n'ont pas sur tirer parti d'elle.</q><note place="foot"><p>{Thuillier
-                     1992}</p></note> Cet échec était pour lui le signe d'une sclérose de la
+                  <p>Au terme de plus d'une décennie d'expérimentation, c'est pourtant
+                     un constat amer que formule <persName>Jacques Thuillier</persName>
+                     en 1992 dans la <title>Revue de l'art</title> : <q>[...] Que cette
+                        constatation soit ressentie ou non comme humiliante, il faut
+                        bien ajouter : l'échec n'est pas à mettre au compte de
+                        l'informatique, mais des historiens d'art, qui n'ont pas su
+                        tirer parti d'elle.</q><note place="foot">
+                        <p>{Thuillier 1992}</p>
+                     </note> Cet échec était pour lui le signe d'une sclérose de la
                      discipline. Toutefois, il ne manquait pas de souligner les périls
                      résidant dans l'émiettement des projets et de mettre le doigt sur
                      les divergences d'objectifs entre les institutions patrimoniales
                      et le secteur académique.</p>
-                  <p>Cette opposition caractérise encore bien aujourd'hui en France
-                     la situation. Si les institutions patrimoniales et culturelles ont
+                  <p>En France, cette opposition caractérise encore bien aujourd'hui la
+                     situation. Si les institutions patrimoniales et culturelles ont
                      été pressées ces dernières années par des politiques
                      internationales à publier leurs collections sous forme numérique,
-                     une telle dynamique ne s'est pas retrouvée à
-                     l'université<note place="foot"><p>{WelgerBarboza 2002}</p></note>. On pourrait évidemment nous
-                     opposer pléthore de projets de constitution de bases de données
-                     scientifiques à caractère documentaire produites depuis plusieurs
-                     décennies. Mais on ne peut pas vraiment dire que cela ait été 
-                     accompagné de mutations profondes et réelles dans la manière
-                     d'aborder tant les sources que la publication au sein de la
-                     discipline.</p>
+                     une telle dynamique ne s'est pas retrouvée à l'université<note
+                        place="foot">
+                        <p>{WelgerBarboza 2002}</p>
+                     </note>. On pourrait évidemment nous opposer pléthore de projets
+                     de constitution de bases de données scientifiques à caractère
+                     documentaire produites depuis plusieurs décennies. Mais on ne peut
+                     pas vraiment dire que cela ait été accompagné de mutations
+                     profondes et réelles dans la manière d'aborder tant les sources
+                     que la publication au sein de la discipline.</p>
                   <p>Ce constat n'est pas seulement national. L'année dernière, la
                         <orgName>fondation Kress</orgName> publiait un rapport sur
-                     l'histoire de l'art et les Digital humanities aux États-Unis<note
-                        place="foot">
+                     l'histoire de l'art et les <soCalled>Digital humanities</soCalled>
+                     aux États-Unis<note place="foot">
                         <p>{Zorich 2012}</p>
-                     </note>. Dans la mesure où elles peuvent être comparées, on
-                     reconnaît assez bien dans la situation décrite aux États-Unis, la
-                     situation française : un rapport ambivalent aux outils numériques
+                     </note>. Dans la mesure où les elles peuvent être comparées, on
+                     reconnaît assez bien la situation décrite aux États-Unis, la
+                     situation française : un rapport ambivalent aux outils numériques,
                      omniprésents mais à l'égard desquels se manifeste une certaine
-                     méfiance part, le manque d'institutions de recherche engagées sur
-                     le domaine d'autre part, et plus généralement une forte perplexité
-                     quant au fait qu'ils puissent bouleverser la discipline et ses
-                     méthodes.</p>
+                     méfiance d'une part, le manque d'institutions de recherche
+                     engagées sur le domaine d'autre part, et plus généralement une
+                     forte perplexité quant au fait que le numérique puisse bouleverser
+                     la discipline et ses méthodes.</p>
                   <p>Pourtant, la question des digital humanities semble à l'ordre du
                      jour en histoire de l'art. En début d'année, la revue
                         <title>Visual Resource</title> consacrait un numéro spécial à
@@ -268,21 +271,22 @@
                      En France, si ce n'est l'enseignement et les recherches dirigées
                      par <persName>Corinne Welger Barboza</persName> depuis plusieurs
                      années à l'<orgName>Université Panthéon-Sorbonne</orgName>,
-                     plusieurs signes ne trompent pas. L'<orgName>INHA</orgName> a été
-                     à l'origine de la création d'une unité de service consacrée à ces
-                     questions, <orgName>InVisu</orgName>. Et plusieurs Labex
+                     plusieurs signes ne trompent pas. En 2006,
+                        l'<orgName>INHA</orgName> a été à l'origine de la création
+                     d'une unité de service consacrée à ces questions,
+                        <orgName>InVisu</orgName> (USR 3103). Et, plusieurs Labex
                      concernant l'histoire de l'art mettent en avant la question des
                      méthodes et des outils numériques. L'engouement est donc réel, au
                      risque d'être motivé par la recherche de financements.</p>
                </div>
                <div>
-                  <p>En dehors de ceux à caractère documentaire en histoire de
-                     l'art mentionnés précédemment, force est de constater que la
-                     plupart des projets d'envergure menés jusqu'à présent avec succès
-                     dans le domaine universitaire concernent l'édition de sources
-                     primaires. Certains de ces projets sont déjà relativement anciens
-                     et sans doute familier des historiens d'art, comme par exemple
-                        <title>The William Blake Archive</title>
+                  <p>En dehors des projets en histoire de l'art à caractère
+                     documentaire mentionnés précédemment, force est de constater que
+                     la plupart des projets d'envergure menés jusqu'à présent avec
+                     succès dans le domaine universitaire concernent l'édition de
+                     sources primaires. Un certain nombre de ces projets sont déjà
+                     relativement anciens et sans doute familier des historiens d'art,
+                     comme par exemple <title>The William Blake Archive</title>
                      (http://www.blakearchive.org/blake/), ou <title>The Rossetti
                         Archive</title> (http://www. rossettiarchive.org). Plus
                      récemment, on relève plusieurs projets d'édition de
@@ -296,10 +300,10 @@
                      (http://www.nga.gov/casva/ accademia/intro.shtm).</p>
                   <p>Tous ces projets se caractérisent par leur envergure mais aussi
                      par leur caractère collectif. Le numérique est à chaque fois
-                     apparu comme un media adapté pour la publication, même si dans
+                     apparu comme un média adapté pour la publication, même si dans
                      certain cas comme avec la correspondance de Van Gogh, il n'est pas
-                     exclusif. Pourtant le choix d'un tel médium n'est neutre ni du
-                     point de vue de la consultation des source ainsi mises à
+                     exclusif. Pourtant le choix d'un tel support n'est neutre ni du
+                     point de vue de la consultation des sources ainsi mises à
                      disposition, ni des méthodes de travail pour leur élaboration.</p>
                   <p>Ce mémoire de stage porte justement sur les conditions de
                      production d'une édition critique dans le domaine de l'histoire de
@@ -310,62 +314,63 @@
                      m'ont conduit à suivre le Master 2 de l’<orgName>École nationale
                         des chartes</orgName>. Aussi, ce mémoire présente un double
                      caractère : il rend à la fois compte du déroulement d'un projet
-                     scientifique et d’un besoin de formation que celui-ci a provoqué, en même
-                     temps qu'il doit normalement attester de la mise en œuvre de ces
-                     mêmes savoirs. Ce mémoire ne peut être considéré indépendamment de la réalisation
-                     numérique qui lui donne prétexte. Il est également complémentaire
-                     d'un rapport final déjà rédigé sur le projet de recherche. En
-                     adoptant une distance critique, ce mémoire entend participer à la
-                     documentation du projet d’ANR. Dans la mesure du possible, en
-                     faisant le bilan de ce travail nous essayerons de conduire une
-                     réflexion épistémologique sur le fait éditorial et le recours à la
-                     TEI, en interrogeant la dimension collaborative du travail dans le
-                     contexte numérique.</p>
+                     scientifique et d’un besoin de formation que celui-ci a provoqué,
+                     en même temps qu'il doit normalement attester de la mise en œuvre
+                     de ces mêmes savoirs. Ce mémoire ne peut être considéré
+                     indépendamment de la réalisation numérique qui lui donne prétexte.
+                     Il est également complémentaire d'un rapport final déjà rédigé sur
+                     le projet de recherche. En adoptant une distance critique, ce
+                     mémoire entend participer à la documentation du projet d’ANR. Dans
+                     la mesure du possible, en faisant le bilan de ce travail nous
+                     essayerons de conduire une réflexion épistémologique sur le fait
+                     éditorial et le recours à la TEI, en interrogeant la dimension
+                     collaborative du travail dans le contexte numérique.</p>
                </div>
                <div>
                   <p>C'est que le numérique fait entrer de nouveaux acteurs avec de
                      nouvelles compétences dans le cours d'un projet. On pense d'abord
                      aux informaticiens avec leur vocabulaire spécialisé, leurs
                      technologies, et les problèmes de compréhension qu'ils posent aux
-                     historiens. Mais on y pense mois, le support numérique fait
+                     historiens. Mais on y pense moins, le support numérique fait
                      également émerger un nouveau genre d'acteurs : des chercheurs
                      hybrides capables à la fois de parler le langage de la technique
                      et celui de la recherche.</p>
                   <p>Le projet d'ANR Desgodets dont il est ici question était un projet
                      ambitieux. La recherche se proposait de reconstituer le savoir
-                     architectural au début du <date from="1700" to="1725">XVIIIe
-                        siècle</date> à partir du cours de l'architecte
-                        <persName>Antoine Desgodets</persName> à l'Académie
+                     architectural au début du <date from="1700" to="1725">XVIII<hi
+                           rend="superscript">e</hi> siècle</date> à partir du cours de
+                     l'architecte <persName>Antoine Desgodets</persName> à l'Académie
                      d'architecture. Même s'il ne s'agissait pas directement d'un
                      projet en Digital humanities, le choix opéré par l'équipe de
-                     réaliser une édition numérique a fait en partie basculer le projet
+                     réaliser une édition numérique a en partie fait basculer le projet
                      dans ce domaine.</p>
                </div>
                <div>
                   <div>
                      <p>L'important effort de numérisation du patrimoine culturel
                         conduit ces dernières années a parfois introduit une certaine
-                        confusion sur la notion d'édition électronique. Si toutes
+                        confusion quant à la notion d'édition électronique. Si toutes
                         concourent à faciliter l'accès aux sources, il convient de
                         distinguer les différentes formes d'éditions électroniques
-                        suivantes : la numérisation en mode image d'édition anciennes
-                        et leur numérisation en mode texte, l'enrichissement d'édition
+                        suivantes : la numérisation en mode image d'éditions anciennes
+                        et leur numérisation en mode texte, l'enrichissement d'éditions
                         anciennes, ou enfin la publication de textes inédits sous forme
                         numérique seulement ou parallèle à leur édition imprimée<note
                            place="foot">
                            <p>{Guyotjeannin 2010}.</p>
                         </note></p>
                      <p>Ces éditions numériques peuvent présenter un grand nombre de
-                        fonctionnalités propres à leur médium et on peut assez
-                        librement affirmer que leur supériorité sur le papier est
-                        clairement avérée, c'est presque un lieu commun aujourd'hui de
-                        relever qu'une édition numérique est également plus complexe et
-                        plus coûteuse à mettre en œuvre. Elle implique de faire
-                        collaborer un ensemble d'acteurs qui ne travaillaient pas
-                        ensemble auparavant : chercheurs, éditeurs, informaticiens,
-                        designers, etc. Elle suppose également de considérer
-                        l'évolution du contenu dans le temps et sur différents
-                        supports. Penser dès le départ sa propre conservation.</p>
+                        fonctionnalités propres à leur <foreign xml:lang="lat"
+                           >medium</foreign> et on peut assez librement affirmer que
+                        leur supériorité sur le papier est clairement avérée. C'est
+                        presque devenu un lieu commun aujourd'hui que de relever qu'une
+                        édition numérique est également plus complexe et plus coûteuse
+                        à mettre en œuvre. Elle implique de faire collaborer un
+                        ensemble d'acteurs qui ne travaillaient pas ensemble
+                        auparavant : chercheurs, éditeurs, informaticiens, designers,
+                        etc. Elle suppose également de considérer l'évolution du
+                        contenu dans le temps et sur différents supports ; aussi de
+                        penser, dès le départ, sa propre conservation.</p>
                   </div>
                   <div>
                      <p>Outre les changements qu'elles impliquent dans leur mode de
