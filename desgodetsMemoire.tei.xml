@@ -182,18 +182,23 @@
                </div>
                <div>
                   <p>Déjà en 1968, Emmanuel Le Roy Ladurie, dans un article resté
-                     célèbre, envisageait l'avènement d'un historien
-                     programmeur<note place="foot"><p>{LeRoyLadurie 1968}</p></note>. Ces réflexions étaient fortement
-                     marquées du sceau de l'histoire quantitative issue de l'école des
-                     Annales. Le renouveau critique des années 80 aura tôt fait de les
-                     balayer. Malgré une histoire relativement ancienne, ce n'est
-                     finalement qu'assez tardivement que la question des rapports entre
-                     historien et programmeur réapparaît aujourd'hui sur le devant de la scène<note place="foot"><p>{Ruiz 2011}</p></note>.</p>
+                     célèbre, envisageait l'avènement d'un historien programmeur<note
+                        place="foot">
+                        <p>{LeRoyLadurie 1968}</p>
+                     </note>. Ces réflexions étaient fortement marquées du sceau de
+                     l'histoire quantitative issue de l'école des <hi rend="italic"
+                        >Annales</hi>. Le renouveau critique des années 80 aura tôt
+                     fait de les balayer. Malgré une histoire relativement ancienne, ce
+                     n'est finalement qu'assez tardivement que la question des rapports
+                     entre historien et programmeur réapparaît aujourd'hui sur le
+                     devant de la scène<note place="foot">
+                        <p>{Ruiz 2011}</p>
+                     </note>.</p>
                   <p>La réflexion concernant l'utilisation des moyens informatiques en
                      histoire de l'art est également relativement ancienne. <date
                         from="1983" to="1993">De 1983 à 1993</date>, <persName>Jacques
                         Thuillier</persName> alors enseignant au Collège de France,
-                     animait et fit paraître une lettre d'information consacrée à
+                     animait et faisait paraître une lettre d'information consacrée à
                      l'informatique et à l'histoire de l'art, l'<title>HAMI (Histoire
                         de l'art et moyens informatiques)</title>. Dans son premier
                      éditorial, il expliquait par la spécificité de la discipline un
@@ -261,10 +266,10 @@
                      engagées sur le domaine d'autre part, et plus généralement une
                      forte perplexité quant au fait que le numérique puisse bouleverser
                      la discipline et ses méthodes.</p>
-                  <p>Pourtant, la question des digital humanities semble à l'ordre du
-                     jour en histoire de l'art. En début d'année, la revue
-                        <title>Visual Resource</title> consacrait un numéro spécial à
-                     la question<note place="foot">
+                  <p>Pourtant, la question des <soCalled>digital humanities</soCalled>
+                     semble à l'ordre du jour en histoire de l'art. En début d'année,
+                     la revue <title>Visual Resource</title> consacrait un numéro
+                     spécial à la question<note place="foot">
                         <p>{VisualResourcesAnInternational 2013}</p>
                      </note>. Au printemps, c'était au tour du <orgName>Getty Research
                         Institute</orgName> d'organiser une manifestation à ce sujet.
@@ -341,9 +346,9 @@
                            rend="superscript">e</hi> siècle</date> à partir du cours de
                      l'architecte <persName>Antoine Desgodets</persName> à l'Académie
                      d'architecture. Même s'il ne s'agissait pas directement d'un
-                     projet en Digital humanities, le choix opéré par l'équipe de
-                     réaliser une édition numérique a en partie fait basculer le projet
-                     dans ce domaine.</p>
+                     projet en <soCalled>digital humanities</soCalled>, le choix opéré
+                     par l'équipe de réaliser une édition numérique a en partie fait
+                     basculer le projet dans ce domaine.</p>
                </div>
                <div>
                   <div>
@@ -558,7 +563,7 @@
                                           Doctorant en histoire de l’art, Centre André
                                           Chastel, UMR 8150, Master 2 « Technologies
                                           numériques appliquées à l’histoire », École
-                                          nationale des chartes Responsable du projet
+                                          nationale des chartes, Responsable du projet
                                           numérique</item>
                                     </list>
                                  </div>
@@ -580,9 +585,9 @@
                                           Centre Jean Pépin, UPR 76.</item>
                                        <item><persName>Emmanuel Château</persName>,
                                           Doctorant en histoire de l’art, Centre André
-                                          Chastel, UMR 8150. - Guillaume Fonkenell,
-                                          Conservateur du Patrimoine, Louvres
-                                          (Paris).</item>
+                                          Chastel, UMR 8150.</item>
+                                       <item>Guillaume Fonkenell, Conservateur du
+                                          Patrimoine, Louvre (Paris).</item>
                                        <item><persName>Béatrice Gaillard</persName>,
                                           Docteur en histoire de l’art, Chargée d’étude
                                           documentaire, ENSA Versailles.</item>
@@ -627,7 +632,7 @@
                         la recherche. Composé de personnalités reconnues dans le
                         domaine de l'histoire de l'art et de l'histoire du droit, ce
                         conseil scientifique a été mobilisé de manière régulière aux
-                        étapes cruciales du projet. Il a été réuni quatre fois au total
+                        étapes cruciales du projet. Il a été réuni cinq fois au total
                         dans le cours du projet. Un ordre du jour était fixé à
                         l'avance, et chaque réunion faisait l'objet d'un compte-rendu.
                         J'ai été chargé du secrétariat.</p>
@@ -842,12 +847,12 @@
                               1674, l'architecte est nommé par
                                  <persName>Colbert</persName> pour se rendre à
                                  <placeName>Rome</placeName> pour relever les édifices
-                              antique. La publication, <date when="1682">en
-                              1682</date>, du travail de ce séjour de seize mois à
+                              antiques. La publication, <date when="1682">en
+                                 1682</date>, du travail de ce séjour de seize mois à
                                  <placeName>Rome</placeName> à mesurer les édifices
                               antiques fera date.</p>
                            <p><persName>Antoine Desgodets</persName> occupe le siège
-                              d'académicien de seconde classe occupé précédement par
+                              d'académicien de seconde classe occupé précédemment par
                                  <persName>François d'Orbay</persName>. Il est nommé
                                  1<hi rend="superscript">ère</hi> classe <date
                                  when="1718-05-31">le 31 mai 1718</date>, trois mois
@@ -878,7 +883,7 @@
                                  Hire</persName>, l'enseignement de l'architecture
                               revient à un architecte. <persName>Antoine
                                  Desgodets</persName> (<date from="1719" to="1728"
-                                 >1719-1728</date>) et <persName>François
+                                 >1719-1728</date>) puis <persName>François
                                  Bruand</persName> (<date from="1728" to="1730"
                                  >1728-1730</date>) assurent donc en parallèle le cours
                               de <q>géométrie appliquée à l'architecture</q> et celui
@@ -968,11 +973,12 @@
                            étaient laissés à disposition par les professeurs.</p>
                         <p>Il n'est jamais très aisé de trancher si les témoins
                            concernent des prises de notes ou des recopies à partir d'un
-                           manuscrit princeps, d'autant qu'un cours pris sous la dictée
-                           peut avoir été mis au propre. La présence de planches qui
-                           sont parties prenantes du propos architectural, presque
-                           toutes identiques entre les témoins laisse penser qu'il
-                           s'agit bien de copies plutôt que de cours dictés.</p>
+                           manuscrit <foreign xml:lang="lat">princeps</foreign>,
+                           d'autant qu'un cours pris sous la dictée peut avoir été mis
+                           au propre. La présence de planches qui sont parties
+                           prenantes du propos architectural, presque toutes identiques
+                           entre les témoins laisse penser qu'il s'agit bien de copies
+                           plutôt que de cours dictés.</p>
                      </div>
                      <div>
                         <head>Identification des témoins conservés</head>
@@ -1022,15 +1028,16 @@
                            propos des cours sur les ordres, la commodité, ou encore le
                            toisé, est articulé autour de planches ou de figures, même
                            si tous les témoins n'en présentent pas. Cette forme du
-                           commentaire d'image, dont le manuscrit du Traité des ordre
-                           (O1) conservé à l'Institut de France est le représentant le
-                           plus caractéristique, est un dispositif relativement
-                           classique pour les textes architecturaux. Pour autant le
-                           choix du matériau auquel s'applique le discours de Desgodets
-                           n'est pas des plus communs. Dans le cas de la commodité,
-                           l'architecte fait l'effort de proposer à ses élèves des
-                           modèles inédits. Quant au cours sur le toisé, il est relatif
-                           à un savoir technique, mathématique et géométrique.</p>
+                           commentaire d'image, dont le manuscrit du <hi rend="italic"
+                              >Traité des ordre</hi> (O1) conservé à l'Institut de
+                           France est le représentant le plus caractéristique, est un
+                           dispositif relativement classique pour les textes
+                           architecturaux. Pour autant le choix du matériau auquel
+                           s'applique le discours de Desgodets n'est pas des plus
+                           communs. Dans le cas de la commodité, l'architecte fait
+                           l'effort de proposer à ses élèves des modèles inédits. Quant
+                           au cours sur le toisé, il est relatif à un savoir technique,
+                           mathématique et géométrique.</p>
                         <p>Les planches sont ainsi parties prenantes du discours
                            architectural. L'édition nécessite d'y accorder une
                            attention toute particulière car le texte peut parfois se
@@ -1064,19 +1071,19 @@
                            <persName>Desgodets</persName> sur le Toisé ou les
                         Servitudes donne un relief et une cohérence tout à fait
                         particulière à l'ensemble de son enseignement. Mis à part celui
-                        sur les Lois des bâtiments qui fut publié <foreign
-                           xml:lang="lat">post mortem</foreign> par un élève, les
-                        autres cours de <persName>Desgodets</persName> sont restés
-                        jusqu'à nos jours inédits. Pourtant, le nombre de copies
-                        conservées suffit à attester de leur importance dans la culture
-                        architecturale du <date from="1700" to="1799">XVIII<hi
-                              rend="superscript">e</hi> siècle</date>. De ce point de
-                        vue, la publication d'une édition critique des cours de
+                        sur les Lois des bâtiments qui fut publié de manière posthume
+                        par un « élève ». Les autres cours de
+                           <persName>Desgodets</persName> sont restés jusqu'à nos jours
+                        inédits. Pourtant, le nombre de copies conservées suffit à
+                        attester de leur importance dans la culture architecturale du
+                           <date from="1700" to="1799">XVIII<hi rend="superscript"
+                              >e</hi> siècle</date>. De ce point de vue, la publication
+                        d'une édition critique des cours de
                            <persName>Desgodets</persName> avait le mérite de faire
                         entrer dans l'histoire de l'art tout un pan inédit de la
                         théorie architecturale.</p>
                      <p>On parle d'<soCalled>édition critique</soCalled>, ou
-                           d'<soCalled>édition scientifique</soCalled> l'adjectif dans
+                           d'<soCalled>édition scientifique</soCalled>, l'adjectif dans
                         appellation venant en désigner le caractère savant, au sens où
                         il s'agit de produire une reproduction contrôlée d'un texte
                         dont sont procurés les états, versions, variantes et leçons. De
@@ -1094,10 +1101,11 @@
                            suffisamment peu différents, moyennant un artifice
                            typographique, avec comme variante l'édition génétique, qui
                            rend compte par des artifices typographiques des différentes
-                           couches et états successifs du texte ; l'édition "variorum",
-                           qui donne le texte accompagné, outre l'apparat normal des
-                           variantes, de toutes les solutions des éditeurs
-                           précédents.</quote><note place="foot">
+                           couches et états successifs du texte ; l'édition <foreign
+                              xml:lang="lat">variorum</foreign>, qui donne le texte
+                           accompagné, outre l'apparat normal des variantes, de toutes
+                           les solutions des éditeurs précédents.</quote><note
+                           place="foot">
                            <p>{Bourgain 2002}</p>
                         </note>.</p>
                      <p>Même si le domaine de l'édition scientifique a connu de
@@ -1197,15 +1205,16 @@
                            architecturaux et juridiques, ou les particularités
                            significatives.</p>
                         <p>Cette liberté avait été envisagée dans la mesure où aucun
-                           manuscrit n'était de la main d'<persName>Antoine
+                           manuscrit (hormis le O1 qui n'était pas un cours proprement
+                           dit) n'était de la main d'<persName>Antoine
                               Desgodets</persName>, qu'un nombre conséquents de témoins
                            permettaient d'étayer l'établissement du texte, et que la
-                           graphie des manuscrits ne présentait très généralement aucun
-                           intérêt du point de vue de la compréhension et de la
-                           signification. Une telle attitude semblait admise pour
-                           l'édition des textes littéraires postérieurs à 1600 et
-                           surtout à 1700<note><persName>{Varloot
-                              1981}</persName></note>. La normalisation des
+                           graphie des manuscrits ne semblait présenter très
+                           généralement aucun intérêt du point de vue de la
+                           compréhension et de la signification. Une telle attitude
+                           semblait admise pour l'édition des textes littéraires
+                           postérieurs à 1600 et surtout à 1700<note><persName>{Varloot
+                                 1981}</persName></note>. La normalisation des
                            transcriptions paraissait surtout fournir une solution pour
                            réduire le bruit lors de l'étude des variantes à l'aide du
                            logiciel MEDITE comme elle était prévue au début du projet.
@@ -1230,18 +1239,17 @@
                                  Châtenet</persName><note place="foot"><p>{Barbiche 1993}</p></note>, le conseil scientifique
                            ajoutait le respect strict des majuscules, réservant à
                            l'éditeur le choix final sur la graphie à retenir.</p>
-                        <p>Ce changement d'orientation intervenu dans les directives de
-                           transcription n'a pas nécessairement facilité le travail de
-                           transcription. Il a en partie impliqué la reprise de ce qui
-                           avait déjà été effectué mais aussi généré un surcroît de
-                           travail en matière de relecture des transcriptions des
-                           différents témoins que le Conseil scientifique souhaitait
-                           mettre à disposition (cette relecture n'est pas encore à ce
-                           jour tout à fait achevée). En outre, la modernisation
-                           restait nécessaire pour la comparaison. Il a donc été décidé
-                           d'opérer deux types de transcription : d'une part une
-                           transcription diplomatique, d'autre part une version
-                           modernisée.</p>
+                        <p>Ce changement d'orientation intervenu dans les directives
+                           n'a pas nécessairement facilité le travail de transcription.
+                           Il a en partie impliqué la reprise de ce qui avait déjà été
+                           effectué mais aussi généré un surcroît de travail en matière
+                           de relecture des transcriptions des différents témoins que
+                           le Conseil scientifique souhaitait mettre à disposition
+                           (cette relecture n'est pas encore à ce jour tout à fait
+                           achevée). En outre, la modernisation restait nécessaire pour
+                           la comparaison. Il a donc été décidé d'opérer deux types de
+                           transcription : d'une part une transcription diplomatique,
+                           d'autre part une version modernisée.</p>
                         <p>L'adoption d'un cadre de travail comme celui de la Text
                            Encoding Initiative (TEI) dès l'initiation du projet, aurait
                            pu permettre d'enregistrer simultanément la version
@@ -1290,20 +1298,23 @@
                            de production.</p>
                         <p>Dans la pluspart des cas il a été relativement difficile
                            d'établir des familles de tradition parmi les manuscrits ou
-                           de déterminer des prototypes. Les témoins étaient
-                           généralement peu divergents et présentaient peu de variantes
-                           de fond laissant supposer des interpolations. Néanmoins,
-                           certains témoins contenaient des passages absents dans
-                           d'autres manuscrits dont la présence pouvait être le fait de
-                           gloses du transcripteur ou d'une modification du cours donné
-                           par <persName>Desgodets</persName> au cours du temps. Le
-                           plus souvent les variantes concernaient des erreurs de
+                           de déterminer des prototypes. Toutefois, un groupe de
+                           manuscrits suédois se dégage clairement de par leur
+                           provenance, et les deux manuscrits de la commodité semblent
+                           issus d'un même prototype. Les témoins étaient généralement
+                           peu divergents et présentaient peu de variantes de fond
+                           laissant supposer des interpolations. Néanmoins, certains
+                           témoins contenaient des passages absents dans d'autres
+                           manuscrits dont la présence pouvait être le fait de gloses
+                           du transcripteur ou d'une modification du cours donné par
+                              <persName>Desgodets</persName> au cours du temps. Le plus
+                           souvent les variantes concernaient des erreurs de
                            lecture.</p>
                      </div>
                      <div>
                         <head>Le choix d'une méthode d'édition critique</head>
-                        <p>En l'absence de manuscrits autographes identifiés ou de
-                           prototypes clairement déterminés parmi les témoins
+                        <p>En l'absence de manuscrits autographes identifiés (hormis
+                           O1) ou de prototypes clairement déterminés parmi les témoins
                            manuscrits conservés pour chacun des cours, l'établissement
                            du texte de l'édition critique était problématique.
                            Plusieurs traditions éditoriales s'affrontent dans le
@@ -1331,19 +1342,20 @@
                               <p>{Varloot 1981}</p>
                            </note>.</p>
                         <p>Bien sûr, il aurait été vain de prétendre rétablir le texte
-                           princeps de chacun des cours à partir d'une critique
-                           textuelle des différents témoins conservés. La
-                              <soCalled>recension stemmatique</soCalled>, nous
-                           paraissait peu praticable compte-tenu de la proximité des
-                           témoins et l'absence de certitude quant à l'existence d'un
-                           prototype unique. En revanche, l'approche dite
-                              <soCalled>éclectique</soCalled>, ou tout du moins celle
-                           de l'<soCalled>édition de référence</soCalled>, consistant à
-                           choisir les variantes semblant supérieures d'un point de vue
-                           interne parmi les différents manuscrits, pouvait avoir le
-                           mérite de rendre compte plus fidèlement, et plus
-                           complètement, du contenu réel de l'enseignement
-                              d'<persName>Antoine Desgodets</persName>.</p>
+                              <foreign xml:lang="lat">princeps</foreign> de chacun des
+                           cours à partir d'une critique textuelle des différents
+                           témoins conservés. La <soCalled>recension
+                              stemmatique</soCalled>, nous paraissait peu praticable
+                           compte-tenu de la proximité des témoins et l'absence de
+                           certitude quant à l'existence d'un prototype unique. En
+                           revanche, l'approche dite <soCalled>éclectique</soCalled>,
+                           ou tout du moins celle de l'<soCalled>édition de
+                              référence</soCalled>, consistant à choisir les variantes
+                           semblant supérieures d'un point de vue interne parmi les
+                           différents manuscrits, pouvait avoir le mérite de rendre
+                           compte plus fidèlement, et plus complètement, du contenu
+                           réel de l'enseignement d'<persName>Antoine
+                              Desgodets</persName>.</p>
                         <p>Disposant de plusieurs états du texte autres que l'original,
                            on a choisi de se contenter d'éditer un témoin en lui
                            rapportant en note les variantes que présentaient les autres
@@ -1356,16 +1368,16 @@
                            qu'elle présente plusieurs inconvénients. D'abord, elle
                            favorise l'intégration des fautes du copiste, telles que les
                            interpolations ou l'intégration d'éventuelles gloses.
-                           Ensuite elle ne permet pas de rendre compte directement dans
-                           le corps du texte de passages éventuellement manquants dans
-                           la version du manuscrit de base.</p>
+                           Ensuite, elle ne permet pas de rendre compte directement,
+                           dans le corps du texte, de passages éventuellement manquants
+                           dans la version du manuscrit de base.</p>
                         <p>Il n'existe certainement pas, en matière d'édition critique,
                            d'approche idéale qui satisfasse tous les cas de figure.
                            D'une certaine façon, ces débats sont en partie devenus
                            caducs avec les techniques d'édition numérique. Il est, en
                            effet, aujourd'hui tout à fait possible de proposer
                            plusieurs vues sur un même texte. Mais ce n'est pas toujours
-                           faisable en pratique, ne serait-ce que pour des raisons
+                           réalisable en pratique, ne serait-ce que pour des raisons
                            économiques. Et ces possibilités n'éliminent toutefois ni la
                            signification ni la responsabilité de l'éditeur dans le
                            choix des aspects mis en avant par une édition.</p>
@@ -1378,12 +1390,12 @@
                               impose un choix particulier.</q> dit
                               <persName>Beugnot</persName><note place="foot">
                               <p>{Varloot 1981}</p>
-                           </note>. Les équipes éditoriales ont donc été laissées libre
-                           de proposer un manuscrit maître pour le cours qu'elles
-                           éditaient en justifiant de leur critères de choix d'après
-                           une grille établie dans le cadre du projet. Le choix du
-                           manuscrit maître était définitivement arrêté à l'issue d'une
-                           discussion au sein du Conseil scientifique.</p>
+                           </note>. Les équipes éditoriales ont donc été laissées
+                           libres de proposer un manuscrit maître pour le cours
+                           qu'elles éditaient en justifiant de leurs critères de choix
+                           d'après une grille établie dans le cadre du projet. Le choix
+                           du manuscrit maître était définitivement arrêté à l'issue
+                           d'une discussion au sein du Conseil scientifique.</p>
                         <p>Au terme de la recherche, le cours sur les ordres de
                               <persName>Desgodets</persName> est connu par neuf
                            manuscrits, dont cinq accompagnés de planches. Huit de ces
@@ -1402,8 +1414,8 @@
                               <p>{Carvais 2013@34-36}</p>
                            </note>.</p>
                         <p>L'équipe chargée de l'édition de ce cours a montré que si
-                           l'établissement des variantes s'était révélé important pour
-                           restituer ou clarifier le sens de certains passages,
+                           l'établissement des variantes s'était révélée importante
+                           pour restituer ou clarifier le sens de certains passages,
                            l'absence de variantes de fond rendait difficile
                            l'établissement d'une hiérarchie entre les manuscrits. Elle
                            interprétait les nombreuses erreurs à des problèmes de
@@ -1417,12 +1429,11 @@
                            scripteur français, et sa bonne lisibilité.</p>
                         <p>Pour le traité de la Commodités, seuls deux témoins avaient
                            été identifiés. La collation des transcriptions à l'aide du
-                           logiciel Juxta ne faisait apparaître aucune variante notable
-                           mis à part quelques fautes de copie ou omissions.
-                           L'apparition, dans la version du <orgName>département des
-                              estampes de la Bibliothèque nationale de
-                           France</orgName>, de numéros rayés en haut de certaines
-                           planches correspondant à ceux du
+                           logiciel Juxta ne révélait aucune variante notable mis à
+                           part quelques fautes de copie ou omissions. L'apparition,
+                           dans la version du <orgName>département des estampes de la
+                              Bibliothèque nationale de France</orgName>, de numéros
+                           rayés en haut de certaines planches correspondant à ceux du
                               <orgName>Rijksmuseum</orgName>, pouvait laisser penser
                            qu'il en dérivait, ou bien qu'ils étaient tous les deux des
                            copies d'un même prototype. Le texte et les figures
@@ -1434,7 +1445,8 @@
                            clairement parmi les témoins identifiés pour le cours du
                            toisé celui qui devait être privilégié. Néanmoins, certains
                            d'entre eux présentaient un chapitre supplémentaire dans la
-                           seconde section. Il a donc été privilégié un témoin
+                           seconde section. En choisissant un exemplaire disposant de
+                           toutes les planches, il a donc été privilégié un témoin
                            comportant ce chapitre afin de disposer du texte le plus
                            complet possible. Toutefois, il ne faut pas perdre de vue
                            que ces ajouts ont pu être inclus postérieurement à
@@ -1631,11 +1643,12 @@
                            nous paraissait donc difficile de nous en passer. Toutefois,
                            pour être efficace, une telle recherche suppose un
                            traitement particulier de la langue qui n'est pas sans
-                           présenter quelques difficultés ; a fortiori comme dans notre
-                           situation où le texte n'était pas modernisé. Si une telle
-                           fonctionnalité apparemment simple pour l'utilisateur nous
-                           paraissait nécessaire et attendue, sa mise en place efficace
-                           était loin d'être triviale.</p>
+                           présenter quelques difficultés ; <foreign xml:lang="lat">a
+                              fortiori</foreign> comme dans notre situation où le texte
+                           n'était pas modernisé. Si une telle fonctionnalité
+                           apparemment simple pour l'utilisateur nous paraissait
+                           nécessaire et attendue, sa mise en place efficace était loin
+                           d'être triviale.</p>
                      </div>
                   </div>
                </div>
@@ -1860,13 +1873,13 @@
                            prestataires en mesure de répondre au marché. Le réseau de
                            la TEI français a largement été sollicité afin d'identifier
                            des entreprises compétences. Le cahier des charges a
-                           relativement bien circulé dans la communauté des digital
-                           humanities si l'on en juge par les prises de contact
-                           réalisées. Il a souvent été nécessaire de rencontrer les
-                           entreprises afin de préciser ou d'expliciter le cahier des
-                           charges. Plusieurs prestataires sollicités ont décliné
-                           l'offre compte-tenu de sa complexité et du manque
-                           d'expérience dans le domaine.</p>
+                           relativement bien circulé dans la communauté des
+                              <soCalled>digital humanities</soCalled> si l'on en juge
+                           par les prises de contact réalisées. Il a souvent été
+                           nécessaire de rencontrer les entreprises afin de préciser ou
+                           d'expliciter le cahier des charges. Plusieurs prestataires
+                           sollicités ont décliné l'offre compte-tenu de sa complexité
+                           et du manque d'expérience dans le domaine.</p>
                         <p>Passé le délai de réception des candidatures et des offres,
                            seulement trois prestataires nous ont soumis une
                            proposition. Après examen de ces candidatures, la première
@@ -1942,15 +1955,17 @@
                   <div type="introduction">
                      <p>Dès lors qu'il fut décidé que l'édition des cours de Desgodets
                         serait en premier lieu une édition numérique en ligne, se
-                        posait la question de l'encodage du texte. En effet, le rendu
-                        d'une page web repose sur un balisage HTML. Toute présentation
+                        posait d'une manière ou d'une autre la question de l'encodage
+                        du texte. En effet, le rendu d'une page web repose sur un
+                        balisage HTML (Hypertext Markup Language). Toute présentation
                         web de nos textes nécessitait donc <foreign xml:lang="lat">a
                            minima</foreign> une opération d'encodage, au moins
                         présentationnel. Dans son <title>Référentiel général
                            d'interopérabilité</title> publié en 2009, la Direction
                         générale de la modernisation de l'État recommande l'utilisation
-                        des technologies XML à des fins d'interopérabilité et de
-                        pérennisation de l'information<note place="foot">
+                        des technologies XML (Extensible Markup Language) à des fins
+                        d'interopérabilité et de pérennisation de l'information<note
+                           place="foot">
                            <p>{MinistreDuBudgetDes 2009@26}</p>
                         </note>. Par ailleurs, le dialecte XML de la Text Encoding
                         Initiative (TEI) s'est très largement imposé comme standard de
@@ -1959,11 +1974,11 @@
                         publication des sources primaires. C'est donc assez
                         naturellement que nous nous sommes orientés dans cette
                         direction qui repose sur un balisage descriptif du texte tout
-                        en tirant partie de l'infrastructure technique offerte par
+                        en tirant parti de l'infrastructure technique offerte par
                         XML.</p>
                      <p>S'il apparaît rapidement qu'une démarche basée sur un encodage
                         descriptif du texte comme avec la TEI est plus pertinente, la
-                        TEI n'offre cependant pas une solution prête à l'emploi.
+                        celle-ci n'offre cependant pas une solution prête à l'emploi.
                         L'encodage est une étape dans un processus plus global qui
                         implique tout d'abord la définition d'un schéma dans lequel on
                         déclare ses pratiques et la manière dont on va utiliser la TEI.
@@ -1983,21 +1998,23 @@
                            l'histoire de l'informatique. Depuis l'article séminal de
                            Coombs et ses collègues, on a pris l'habitude de distinguer
                            plusieurs types de balisages : procédural, présentationnel,
-                           ou descriptif<note place="foot"><p>{Coombs 1987}</p></note>. La supériorité du balisage
-                           descriptif sur les autres types de balisage du texte a
-                           clairement été établie depuis quelques années. Un tel
-                           balisage présente l'avantage notable d'assurer une meilleure
-                           distinction entre le contenu de la forme (et donc de séparer
-                           les traitements). Cette distinction garantie une meilleure
-                           maintenance du texte encodé et une meilleure portabilité des
-                           artefacts numériques.</p>
+                           ou descriptif<note place="foot">
+                              <p>{Coombs 1987}</p>
+                           </note>. La supériorité du balisage descriptif sur les
+                           autres types de balisage du texte a clairement été établie
+                           depuis quelques années. Un tel balisage présente l'avantage
+                           notable d'assurer une meilleure distinction entre le contenu
+                           et la forme (et donc de séparer les traitements). Cette
+                           distinction garantit une meilleure maintenance du texte
+                           encodé et une meilleure portabilité des artefacts
+                           numériques.</p>
                         <p>La production d'un balisage descriptif consiste à identifier
                            explicitement la structure sémantique sous-jacente d'un
                            document, cela indépendamment de tout traitement déterminé à
                               l'avance<note place="foot">
                               <p>{Renear 2003}</p>
                            </note>. Il s'agit de distinguer explicitement à l'intérieur
-                           du texte différentes objets éditoriaux en les encadrant par
+                           du texte différents objets éditoriaux en les encadrant par
                            des balises dont le nom peut être arbitraire. Ce faisant
                            l'auteur d'un balisage fournit une information sémantique et
                            pragmatique suffisante pour produire des vues alternatives
@@ -2018,20 +2035,21 @@
                            marquer le contenu d'un texte par des éléments suggère une
                            représentation du texte qui correspond à ce qu'on a appelé
                            un modèle d'<soCalled>éléments contenus hiérarchiquement
-                              imbriqués</soCalled> (OHCO, Ordered Hierarchical Content
-                           Objects, en anglais). Dans une telle représentation du
-                           texte, les éléments contenus (paragraphes, citations,
-                           phrases, notes, etc.) sont présentés à l'intérieur d'une
-                           structure hiérarchique. La structure du texte est
-                           hiérarchique parce qu'ils résident les uns à l'intérieur des
-                           autres. Les objets reçoivent donc des relations linéaires. </p>
+                              imbriqués</soCalled> (OHCO, <foreign xml:lang="eng"
+                              >Ordered Hierarchical Content Objects</foreign>, en
+                           anglais). Dans une telle représentation du texte, les
+                           éléments contenus (paragraphes, citations, phrases, notes,
+                           etc.) sont présentés à l'intérieur d'une structure
+                           hiérarchique. La structure du texte est hiérarchique parce
+                           qu'ils résident les uns à l'intérieur des autres. Les objets
+                           reçoivent donc des relations linéaires. </p>
                         <p>Contrairement aux apparences, les logiciels de traitement de
                            texte qui mettent en forme les documents ne simplifient pas
                            la production de documents en éliminant le besoin du
                            balisage. D'une certainne manière cela est devenu plus clair
-                           clair aujourd'hui avec l'adoption des formats XML par
-                           Microsoft Word et Open Office. Mais, le balisage requis pour
-                           ces formats, tout en étant plus consommateur de ressources,
+                           aujourd'hui avec l'adoption des formats XML par Microsoft
+                           Word et Open Office. Mais, le balisage requis pour ces
+                           formats, tout en étant plus consommateur de ressources,
                            n'atteint pas la même expressivité qu'un simple balisage
                            descriptif. Par ailleurs, les dispositifs d'édition fondés
                            sur un balisage descriptif présentent plusieurs avantages
@@ -2044,7 +2062,7 @@
                                  avec LaTex)</item>
                               <item><label n="2">2°</label> Les questions de
                                  maintenance sont réduites à un nombre limité de
-                                 problèmes indépendantes du fichier proprement dit.
+                                 problèmes indépendants du fichier proprement dit.
                                  L'actualisation des styles et la mise à jour s'en
                                  trouvent facilitées sans risque de corruption des
                                  documents.</item>
@@ -2058,7 +2076,7 @@
                         <p>Autrement dit, le balisage descriptif offre un certain
                            nombre d'avantages pour l'éditeur. Outre qu'il permet de
                            partager des documents pour collaborer sans se préoccuper
-                           d'éventuelle incompatibilités, il offre un gain de temps de
+                           d'éventuelles incompatibilités, il offre un gain de temps de
                            production et de gestion en permettant la réalisation de
                            plusieurs éditions successives à partir d'un même fichier
                            source, ou de produire plusieurs manifestations
@@ -2122,7 +2140,7 @@
                               texte</q>.</p>
                         <p>La Text Encoding Initiative est née d'un constat partagé au
                            sein d'une communauté de chercheurs déjà engagés dans la
-                           production de texte numérique qu'ils manquaient se solutions
+                           production de texte numérique qu'ils manquaient de solutions
                            pour faciliter l'échange de textes et d'information sur leur
                            travail. En novembre 1987, une rencontre fut organisée sous
                            l'égide de l'<orgName>Association for Computers and the
@@ -2133,10 +2151,11 @@
                            examiner à nouveau la question de la standardisation.
                            S'accordant tous sur le besoin de pratiques communes, ces
                            participants formulèrent une dizaine de principes
-                              directeurs<note place="foot"><p>{Ide 1995}</p></note>. Ceux-ci
-                           mettaient notamment l'accent sur la conversion de formats et
-                           la nécessité de développer un métalangage pour des schémas
-                           d'encodage descriptifs.</p>
+                              directeurs<note place="foot">
+                              <p>{Ide 1995}</p>
+                           </note>. Ceux-ci mettaient notamment l'accent sur la
+                           conversion de formats et la nécessité de développer un
+                           métalangage pour des schémas d'encodage descriptifs.</p>
                         <p>L'<orgName>ACH</orgName>, rapidement suivie dans son effort
                            de standardisation par l'<orgName>Association for Literary
                               and Linguistic Computing</orgName> et
@@ -2149,8 +2168,8 @@
                            TEI publiait une première version de ses <title>Guidelines
                               for the Encoding and Interchange of Machine-Readable
                               Texts</title>. Ce rapport proposait un ensemble de
-                           convention pour l'encodage de différent types de textes pour
-                           servir dans le domaine des sciences du langage ou des
+                           conventions pour l'encodage de différents types de textes
+                           pour servir dans le domaine des sciences du langage ou des
                            sciences humaines. Cette première publication constitue un
                            jalon important car jamais précédemment les chercheurs
                            n'avaient été capables de formuler un consensus sur les
@@ -2162,11 +2181,11 @@
                            la suite, les <title>Guidelines</title> ont été étayées par
                            l'apport d'autres spécialités pour prendre en charge une
                            plus grande diversité de textes. On en est aujourd'hui à la
-                              5<hi rend="superscript">e</hi> proposition numérotée P5,
-                           et elle est organisée autour d'un consortium et d'une
-                           importante communauté d'utilisateurs. Conçue un modèle
-                           générique de structuration et de sémantisation des textes,
-                           la TEI présente de nombreux avantages. On relève notamment : <list>
+                           cinquième proposition numérotée P5, et elle est organisée
+                           autour d'un consortium et d'une importante communauté
+                           d'utilisateurs. Conçue un modèle générique de structuration
+                           et de sémantisation des textes, la TEI présente de nombreux
+                           avantages. On relève notamment : <list>
                               <item>sa modularité et sa flexibilité</item>
                               <item>son expressivité (niveau de granularité)</item>
                               <item>qu'il s'agit d'un standard reconnu
@@ -2184,18 +2203,26 @@
                            </list></p>
                         <p>En dehors du fait qu'elle soit rapidement apparue comme un
                            standard de fait pour la publication de textes numériques en
-                           sciences humaines, ce sont ces qualités qui explique la
+                           sciences humaines, ce sont ces qualités qui expliquent la
                            large implantation de la TEI dans la communauté
                            scientifique. Elle sert de format à de nombreux projets
                            d'envergure internationale (Blake archive<note place="foot">
                               <p>{TheWilliamBlakeArchive}</p>
-                           </note>, Perseus<note place="foot"><p>{PerseusDigitalLibrary}</p></note>,
-                           Rosetti<note place="foot"><p>{RossettiArchive}</p></note>, etc.). Plusieurs projet français
-                           de grande envergure utilisent également la TEI dans le
-                           domaine des sciences historiques
-                           (BVH<note place="foot"><p>{LesBibliothèquesVirtuellesHumanistes}</p></note>,
-                           Élec<note place="foot"><p>{ÉditionsEnLigneDe}</p></note>, le portail Telma<note place="foot"><p>{PortailTelma}</p></note>, ENS
-                           Lyon<note place="foot"><p>{Hyperdonat}</p></note>, etc.).</p>
+                           </note>, Perseus<note place="foot">
+                              <p>{PerseusDigitalLibrary}</p>
+                           </note>, Rosetti<note place="foot">
+                              <p>{RossettiArchive}</p>
+                           </note>, etc.). Plusieurs projets français de grande
+                           envergure utilisent également la TEI dans le domaine des
+                           sciences historiques (BVH<note place="foot">
+                              <p>{LesBibliothèquesVirtuellesHumanistes}</p>
+                           </note>, Élec<note place="foot">
+                              <p>{ÉditionsEnLigneDe}</p>
+                           </note>, le portail Telma<note place="foot">
+                              <p>{PortailTelma}</p>
+                           </note>, ENS Lyon<note place="foot">
+                              <p>{Hyperdonat}</p>
+                           </note>, etc.).</p>
                      </div>
                      <div>
                         <head>Un standard de fait pour la production de sources
@@ -2215,13 +2242,13 @@
                            des sciences humaines. Plusieurs raisons expliquent en
                            grande partie cette situation. D'une part, la TEI repose sur
                            l'utilisation de syntaxes et de mécanismes XML standardisés
-                           par le W3C qui présentent de nombreuses garanties en termes
-                           d'interopérabilité et permettent d'utiliser les outils
-                           puissants disponibles pour manipuler des arbres XML. D'autre
-                           part, l'importante généricité de la TEI lui permet de
-                           couvrir une grande gamme de besoins. Cela explique en grande
-                           partie l'importante pénétration de la TEI dans la communauté
-                           scientifique. </p>
+                           par le W3C (World Wide Web Consortium) qui présentent de
+                           nombreuses garanties en termes d'interopérabilité et
+                           permettent d'utiliser les outils puissants disponibles pour
+                           manipuler des arbres XML. D'autre part, l'importante
+                           généricité de la TEI lui permet de couvrir une grande gamme
+                           de besoins. Cela explique en grande partie l'importante
+                           pénétration de la TEI dans la communauté scientifique. </p>
                         <p>La TEI fournit ainsi, à l'aide d'un vocabulaire et d'une
                            infrastructure technique, un cadre de travail pour la
                            modélisation des textes. Dans la limite de leur
@@ -2318,7 +2345,7 @@
                               place="foot">
                               <p>{Hayles 2004}</p>
                            </note>. Est-ce que le texte peut exister indépendamment de
-                           son apparat critique. Dans de nombreux cas, il n'y a pas de
+                           son apparat critique ? Dans de nombreux cas, il n'y a pas de
                            texte proprement dit mais seulement une multiplicité de
                            lectures. Or, la lecture constitue de fait un exercice
                            interprétatif, la TEI présente ici au moins l'avantage de
@@ -2341,20 +2368,21 @@
                      <head>La modélisation XML-TEI</head>
                      <div type="introduction">
                         <p>La TEI peut donc se concevoir comme un cadre de travail
-                           technique, un framework, qui accompagne l'éditeur ou
-                           l'encodeur dans la structuration de l'information. Elle
-                           consiste en un ensemble de préconisations qui doivent être
-                           adaptées aux spécificités inhérentes à chaque projet
-                           éditorial. Comme le relève <persName>Florence
-                              Clavaud</persName>, <q>cette modularité qui garantie la
-                              flexibilité du modèle et sa généralité, peut parfois
-                              dérouter l'encodeur inexpérimenté ou le confronter à des
-                              choix difficiles</q>. La définition des solutions
-                           d'encodage implique d'opérer des choix entre plusieurs
-                           solutions admissibles en en saisissant bien tous les tenants
-                           et les aboutissants. Elle implique un aller-retour continuel
-                           entre les sources textuelles à traiter et la documentation
-                           de la TEI afin de réévaluer les solutions d'encodage
+                           technique, un <foreign xml:lang="eng">framework</foreign>,
+                           qui accompagne l'éditeur ou l'encodeur dans la structuration
+                           de l'information. Elle consiste en un ensemble de
+                           préconisations qui doivent être adaptées aux spécificités
+                           inhérentes à chaque projet éditorial. Comme le relève
+                              <persName>Florence Clavaud</persName>, <q>cette
+                              modularité qui garantit la flexibilité du modèle et sa
+                              généralité, peut parfois dérouter l'encodeur
+                              inexpérimenté ou le confronter à des choix
+                           difficiles</q>. La définition des solutions d'encodage
+                           implique d'opérer des choix entre plusieurs solutions
+                           admissibles en en saisissant bien tous les tenants et les
+                           aboutissants. Elle implique un aller-retour continuel entre
+                           les sources textuelles à traiter et la documentation de la
+                           TEI afin de réévaluer les solutions d'encodage
                            envisagées.</p>
                         <p>Ce besoin de personnalisation s'explique, d'une part parce
                            que le texte est souvent un objet hétérogène, et d'autre
@@ -2431,7 +2459,7 @@
                               en combinant comme de besoin des déclarations d'éléments
                               et d'attributs. Chaque élément est documenté par un
                               élément de spécification adéquat et dispose d'un
-                              identifiant unique dans le système. Pour pour de
+                              identifiant unique dans le système. Pour plus de
                               facilité, ces spécifications sont groupées dans des
                               modules distincts qui peuvent être combinés entre eux.
                               Chaque module détermine un certain nombre d'éléments
@@ -2439,9 +2467,10 @@
                               particulières. Toutes les classes sont disponibles
                               globalement, indépendamment des modules dans lesquelles
                               elles sont déclarées. Lorsque c'est possible, les modèles
-                              de contenus sont définis en termes de classes (classes),
-                              les modules peuvent également déclarer certains motifs
-                              particuliers (patterns).</p>
+                              de contenus sont définis en termes de classes (<foreign
+                                 xml:lang="eng">classes</foreign>), les modules peuvent
+                              également déclarer certains motifs particuliers (<foreign
+                                 xml:lang="eng">patterns</foreign>).</p>
                            <div>
                               <head>Les modules de la TEI</head>
                               <p>Dans l'infrastructure de la TEI, les éléments de la
@@ -2724,8 +2753,8 @@
                            <p>Même s'il est possible de créer les documents ODD
                               manuellement, l'interface graphique sous forme de
                               formulaires proposée par Roma facilite grandement les
-                              opérations pour la plupart des opérations courantes.
-                              Comme toute application informatique, Roma n'est
+                              opérations pour la plupart des tâches courantes. Comme
+                              toute application informatique, Roma n'est
                               potentiellement pas exempt d'erreurs ou de bugs.
                               Néanmoins, nous n'avons pas rencontrés de difficultés
                               particulières au cours de nos opérations malgré une
@@ -2787,13 +2816,14 @@
                               <moduleRef key="textstructure"
                                  except="div1 div2 div3 div4 div5 div6 div7 group" />
                            </egXML>
-                           <p>Dans la plupart des cas la suppression d'un élément est
+                           <p>Dans la plupart des cas, la suppression d'un élément est
                               une modification <soCalled>propre</soCalled> de la TEI,
                               toutefois certains éléments disposent d'enfants
-                              obligatoires. Par exemple <gi>fileDesc</gi> doit contenir
-                              à la fois <gi>titleStmt</gi> et <gi>sourceDesc</gi>. La
-                              suppression d'un élément enfant obligatoire dans le
-                              modèle de contenu rompt le modèle abstrait de la TEI.</p>
+                              obligatoires. Par exemple, <gi>fileDesc</gi> doit
+                              contenir à la fois <gi>titleStmt</gi> et
+                                 <gi>sourceDesc</gi>. La suppression d'un élément
+                              enfant obligatoire dans le modèle de contenu rompt le
+                              modèle abstrait de la TEI.</p>
                            <p>Il est également possible de désigner des éléments ou des
                               classes individuellement avec les éléments
                                  <gi>elementSpec</gi>, <gi>classSpec</gi>, ou
@@ -2804,23 +2834,25 @@
                               xmlns="http://www.tei-c.org/ns/Examples">
                               <attDef ident="org" mode="delete" />
                            </egXML>
-                           <p>On peut également modifier la liste des attributs possibles pour un élément. Celles-ci peuvent être données explicitement
-                              au moyen d'un élément <gi>attList</gi> dans la
-                              spécification de l'élément correspondant ou bien être
-                              hérités d'une classe d'attribut. Lorsque l'on ajoute un
+                           <p>On peut également modifier la liste des attributs
+                              possibles pour un élément. Celles-ci peuvent être données
+                              explicitement au moyen d'un élément <gi>attList</gi> dans
+                              la spécification de l'élément correspondant ou bien être
+                              héritées d'une classe d'attribut. Lorsque l'on ajoute un
                               attribut, on doit d'abord vérifier si celui-ci n'est pas
-                              déjà définit dans une classe d'attribut. Si tel est le
+                              déjà défini dans une classe d'attribut. Si tel est le
                               cas, il suffit de rendre l'élément concerné membre de
                               cette classe. Sinon ont doit définir un attribut au moyen
-                              de <gi>attDef</gi> pour l'ajouter à la liste <gi>attList</gi> de l'élément
-                              concerné.</p> 
+                              de <gi>attDef</gi> pour l'ajouter à la liste
+                                 <gi>attList</gi> de l'élément concerné.</p> 
                            <p>Il est souvent utile de contraindre les valeurs possibles
                               d'un attribut au moyen d'un typage des données. Cela peut
-                              être réalisé facilement au moyen de l'élément <gi>valList</gi> qui
-                              est un élément enfant de <gi>attDef</gi>. De la même manière on
-                              peut étendre ou remplacer la liste existante d'attributs
-                              proposées par la TEI. Selon les modifications réalisées
-                              de cette manière, celles-ci sont plus ou moins propres.</p>
+                              être réalisé facilement au moyen de l'élément
+                                 <gi>valList</gi> qui est un élément enfant de
+                                 <gi>attDef</gi>. De la même manière on peut étendre ou
+                              remplacer la liste existante d'attributs proposée par la
+                              TEI. Selon les modifications réalisées de cette manière,
+                              celles-ci sont plus ou moins propres.</p>
                            <egXML xmlns="http://www.tei-c.org/ns/Examples">
                               <attDef ident="agent" mode="change" usage="req">
                                  <valList type="closed" mode="replace">
@@ -2951,10 +2983,12 @@
                               <p>Afin de permettre une édition séparée des fichiers de
                                  chacun des témoins manuscrits, ceux-ci ont été traités
                                  de manière séparée en utilisant le standard du W3C
-                                    Xinclude<note place="foot"><p>{Marsh
-                                    2006}</p></note>. En appliquant la même norme, on a
-                                 traité séparément certaines section du fichier dans un
-                                 répertoire séparé intitulé divs.</p>
+                                    Xinclude<note place="foot">
+                                    <p>{Marsh 2006}</p>
+                                 </note>. En appliquant la même norme, on a traité
+                                 séparément certaines section du fichier dans un
+                                 répertoire séparé intitulé
+                                 <soCalled>divs</soCalled>.</p>
                               <p>Dès lors que l'on employait cette structure pour
                                  chacun des cours, il a paru logique d'adopter la même
                                  pour l'ensemble du corpus des cours de Desgodets.
@@ -2979,7 +3013,7 @@
                            <div>
                               <head>L'alignement du textes et les images pour ménager
                                  leur comparaison</head>
-                              <p>Les <title>Guidelines</title> proposent trois trois
+                              <p>Les <title>Guidelines</title> proposent trois
                                  approches pour aligner des passages textuels lorsque
                                  l'on établit une édition critique :<list>
                                     <label>la méthode de localisation
@@ -3010,7 +3044,7 @@
                                  n'éditait en réalité qu'un témoin du texte de manière
                                  critique pour chaque cours, en se contentant de
                                  signaler en note les variantes significatives des
-                                 autres témoins. Il s'agit donc simplement de trouver
+                                 autres témoins. Il ne restait donc plus qu'à trouver
                                  une solution pour proposer au lecteur un alignement
                                  visuel des différents témoins de la tradition du
                                  texte.</p>
@@ -3041,8 +3075,8 @@
                                     <gi>link</gi>. Le même mécanisme est employé pour
                                  aligner les figures entre les différents témoins.</p>
                               <p> L'utilisation d'identifiants uniques rassemble
-                                 plusieurs avantages, ceux-ci  permettent d'identifier
-                                 précisément, à l'exclusion de toute autre, une unité
+                                 plusieurs avantages, ceux-ci permettent d'identifier
+                                 précisément, à l'exclusion de tout autre, une unité
                                  textuelle ou un passage dans l'un des manuscrit. Ils
                                  constituent donc une bonne pratique notamment pour la
                                  citabilité. Comme on utilise ici l'attribut global de
@@ -3066,10 +3100,10 @@
                                  références</head>
                               <p>Afin de rassembler au niveau de l'ensemble de
                                  l'édition toutes les entrées, les index, le glossaire
-                                 et les références bibliographiques sont traitées dans
+                                 et les références bibliographiques, sont traitées dans
                                  un fichier unique qui se trouve à la racine du corpus
                                  général.</p>
-                              <p>Si les structures prévues dans la pour les noms de
+                              <p>Si les structures prévues dans la TEI pour les noms de
                                  personnes et des noms de lieux nous ont parues
                                  satisfaisantes, il n'en allait pas de même pour
                                  l'index matière. L'encodage effectué pour le moment
@@ -3082,14 +3116,14 @@
                                  relativement bien adapté au projet.</p>
                               <p>Les références bibliographiques utilisent l'élément
                                  tei <gi>biblStruct</gi> qui a le mérite d'offrir une
-                                 structure régulière. La structure porposée par les
-                                 guidelines convenait dans à peu près tous les cas de
-                                 figures, même si on peut regréter un manque de clarté
-                                 pour le traitement des artefacts numériques. En
-                                 revanche la TEI n'offre pas d'élément adapté pour
-                                 décrire des documents d'archives. À cet effet, nous
-                                 avons employé les éléments servant à la description
-                                 des manuscrits.</p>
+                                 structure régulière. La structure proposée par les <hi
+                                    rend="italic">Guidelines</hi> convenait dans à peu
+                                 près tous les cas de figures, même si on peut
+                                 regretter un manque de clarté dans le renseignement
+                                 des artefacts numériques. En revanche la TEI n'offre
+                                 pas d'élément adapté pour décrire des documents
+                                 d'archives. À cet effet, nous avons employé les
+                                 éléments servant à la description des manuscrits.</p>
                            </div>
                            <div>
                               <head>Fichiers de notes critiques et historiques,
@@ -3097,8 +3131,12 @@
                               <p>Afin de faciliter l'édition des fichiers de notes
                                  critiques et historiques et l'édition de la liste des
                                  figures, ces éléments qui se trouvaient dans l'élément
-                                 back des fichiers ont été traités dans des fichiers
-                                 inclus.</p>
+                                    <gi>back</gi> des fichiers ont été traités dans des
+                                 fichiers inclus. Transparent du point de vue XML, un
+                                 tel dispositif permettait d'éditer parallèlement le
+                                 corps de texte et les notes ou les listes de figure
+                                 (par exemple dans plusieurs fenêtres d'un éditeur
+                                 XML).</p>
                            </div>
                            <div>
                               <head>Identification des manuscrits et production des
@@ -3106,15 +3144,21 @@
                               <p>Un important travail a été mené sur la production des
                                  en-têtes TEI et la question des métadonnées. Pour
                                  arrêter les choix d'encodages, nous avons examiné un
-                                 certain nombre de pratiques documentaires<note place="foot"><p>{DemarchDescriptionDesManuscrits 2010}</p></note> et recherché des 
-                                 guides de bonnes pratiques pour la TEI<note place="foot"><p>{Burnard 2008}, {Hawkins 2011}</p></note>
-                                 . Lors du travail pour la production des métadonnées à
-                                 partir de l'en-tête TEI, nous nous sommes aperçus
-                                 qu'un travail était en cours au sein du consortium
-                                 cahier pour produire un moissonnage des en-têtes TEI
-                                 en OAI-PMH. Après vérifications et échange avec les
-                                 personnes en charge du projet, il se trouve que nos
-                                 choix d'encodages étaient relativement conforme aux
+                                 certain nombre de pratiques documentaires<note
+                                    place="foot">
+                                    <p>{DemarchDescriptionDesManuscrits 2010}</p>
+                                 </note> et recherché des guides de bonnes pratiques
+                                 pour la TEI<note place="foot">
+                                    <p>{Burnard 2008}, {Hawkins 2011}</p>
+                                 </note> . Lors du travail pour la production des
+                                 métadonnées à partir de l'en-tête TEI, nous nous
+                                 sommes aperçus qu'un travail était en cours au sein du
+                                 consortium cahier pour produire un moissonnage des
+                                 en-têtes TEI en OAI-PMH (Open Archives Initiative
+                                 Protocol for Metadata Harvesting). Vérifications
+                                 faites, et après avoir échangé avec les personnes en
+                                 charge du projet, il se trouve que nos choix
+                                 d'encodage étaient relativement conformes aux
                                  prescriptions proposées. </p>
                               <p>La production des métadonnées concernant les images
                                  s'est révélée plus ardue. La TEI a d'abord été conçue
@@ -3866,11 +3910,12 @@
                            le travail du prestataire qui avait en réalité mal évalué
                            l'ampleur des développements XSLT nécessaires. Bien que
                            l'interopérabilité constitue une dimension cruciale d'un
-                           projet en digital humanities, et que ce protocole permette
-                           d'assurer une bonne visibilité des contenus proposés par
-                           l'édition dans l'écosystème scientifique (par exemple pour
-                           être moissonné par le moteur isidore-recherche), il nous a
-                           semblé possible d'y renoncer pour deux raisons :</p>
+                           projet en <soCalled>digital humanities</soCalled>, et que ce
+                           protocole permette d'assurer une bonne visibilité des
+                           contenus proposés par l'édition dans l'écosystème
+                           scientifique (par exemple pour être moissonné par le moteur
+                           isidore-recherche), il nous a semblé possible d'y renoncer
+                           pour deux raisons :</p>
                         <p>D'une part, nous avons identifié au cours de la réalisation
                            qu'un travail était mené dans le cadre du consortium Cahier
                            sur l'interopérabilité des en-têtes XML-TEI et leur
