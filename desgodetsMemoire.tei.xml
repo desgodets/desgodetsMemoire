@@ -427,11 +427,11 @@
                         <date from="1719" to="1728">de 1719 à 1728</date> dont de
                         nombreuses copies manuscrites du cours étaient conservées à
                         travers les bibliothèques et institutions patrimoniales
-                        internationales. L'avantage principal de cette recherche devait
-                        être, en réunissant dans un même lieu le corpus de ces écrits
-                        dispersés, de mettre à disposition des chercheurs tout un pan
-                        du savoir architectural qui n'était pas disponible jusqu'à
-                        présent. </p>
+                        internationales. En réunissant dans un même lieu le corpus de
+                        ces écrits dispersés, l'avantage principal de cette recherche
+                        devait être de mettre à disposition des chercheurs tout un pan
+                        du savoir architectural qui n'était jusqu'à présent pas
+                        disponible. </p>
                   </div>
                   <div>
                      <head>Présentation du projet</head>
@@ -440,12 +440,14 @@
                            rares projets de recherche en histoire de l’art qui ont pu
                            bénéficier ces dernières années d’un financement de l’Agence
                            Nationale de la Recherche (ANR)<note place="foot">
-                              <p> À notre connaissance peu de projets en histoire de l’art moderne ou
-                                 contemporaine ont bénéficié d’un financement de l’ANR. Citons notamment ici
-                                 l’édition de la correspondance de Delacroix en 2006,
-                                 {CorrespondancesDeugèneDelacroix} ; M-Art sur le marché de l’art en 2007,
-                                 {AnrAgenceNationaleb} ; ou encore plus récemment le projet Artlas (ENS), ,
-                                 qui ont bénéficié d’un financement par l’ANR.</p>
+                              <p> À notre connaissance peu de projets en histoire de
+                              l’art moderne ou contemporaine ont bénéficié d’un
+                              financement de l’ANR. Citons notamment ici l’édition de
+                              la correspondance de Delacroix en 2006,
+                              {CorrespondancesDeugèneDelacroix} ; M-Art sur le marché
+                              de l’art en 2007, {AnrAgenceNationaleb} ; ou encore plus
+                              récemment le projet Artlas (ENS),  qui ont bénéficié d’un
+                              financement par l’ANR.</p>
                            </note>. D’abord proposé dans
                         le cadre d’une recherche plus vaste sur la littérature
                         architecturale intitulé « Vitruviana », l’édition des cours de
@@ -465,25 +467,25 @@
                         corpus des cours manuscrits dictés à l’<orgName>Académie royale
                            d’architecture</orgName> par <persName>Antoine
                            Desgodets</persName>
-                        <date from="1721" to="1728">entre 1721 et 1728</date>.
+                        <date from="1721" to="1728">entre 1719 et 1728</date>.
                         Plusieurs raisons justifiaient le choix de cette œuvre : D’une
                         part l’architecte était devenu professeur à l’<orgName>Académie
                            d’architecture</orgName>
                         <date when="1719">en 1719</date>, au cours de la Régence,
                         époque à laquelle on cherche à réformer les dogmes. D’autre
-                        part, l’enseignement de l’architecte, par le choix de thèmes
-                        nouveaux participait d’une réduction en art de la discipline
-                        académique et constituait une des premières normalisation du
-                        savoir architectural. Enfin, l’Œuvre scholastique de Desgodets
-                        intervenait à un moment clef de la constitution de la
-                        légitimité professionnelle de l’architecte par la prise en
-                        compte de la figure de l’expert comme intermédiaire entre
-                        l’architecte et l’amateur.</p>
+                        part, avec le choix de thèmes nouveaux, l'enseignement de
+                        l'architecte participait d’une réduction en art de la
+                        discipline académique et constituait une des premières
+                        normalisation du savoir architectural. Enfin, l’Œuvre
+                        scholastique de Desgodets intervenait à un moment clef de la
+                        constitution de la légitimité professionnelle de l’architecte
+                        par la prise en compte de la figure de l’expert comme
+                        intermédiaire entre l’architecte et l’amateur.</p>
                      <p>Pour toutes ces raisons, les cours d’<persName>Antoine
                            Desgodets</persName> méritaient d’être reconstitués et
-                        livrés à la communauté scientifique comme un texte fondateur du
-                        statut de l’architecte moderne. Mais à la différence de celle
-                        de <persName>Vitruve</persName> ou des
+                        livrés à la communauté scientifique comme des textes fondateurs
+                        du statut de l’architecte moderne. Mais à la différence de
+                        celle de <persName>Vitruve</persName> ou des
                            <persName>Blondel</persName>, l’œuvre scolastique de
                            <persName>Desgodets</persName> ne connaissait pas d’édition
                            <hi rend="italic">princeps</hi>. Une équipe
@@ -530,7 +532,7 @@
                            l’histoire</soCalled>  qui occasionne aujourd'hui de la
                         rédaction de ce mémoire.</p>
                      <p>L'édition critique de chaque cours à partir des transcriptions
-                        des témoins a par la suite été confié à des équipes d'éditeurs
+                        des témoins a par la suite été confiée à des équipes d'éditeurs
                         rassemblées pour l'occasion. Les transcripteurs qui le
                         souhaitaient se sont répartis au sein de ces équipes en
                         fonction de leurs sujets de prédilection. Ces éditeurs,
@@ -664,7 +666,7 @@
                         éventuelles des personnels scientifiques engagés dans le
                         travail d'édition, rémunérés ou non par leur institution. De
                         surcroît, les sommes disponibles pour la réalisation de
-                        l'application se sont révélées en partie insuffisante, et il
+                        l'application se sont révélées en partie insuffisantes, et il
                         aurait fallu disposer de plus d'argent si nous avions voulu
                         pouvoir faire numériser l'ensemble des manuscrits par des
                         professionnels. Des négociations sont encore actuellement en
@@ -676,7 +678,7 @@
                         pas nécessité la création d'un service administratif
                         spécifique, l'ensemble des tâches de gestion étant
                         personnellement assurées par <persName>Robert
-                           Carvais</persName> qui se chargeait en même temps la
+                           Carvais</persName> qui se chargeait en même temps de la
                         direction scientifique. Les questions financières étaient quant
                         à elles traitées directement par les services financiers de
                            l'<orgName>Université Panthéon-Assas (Paris II)</orgName>
@@ -688,22 +690,23 @@
                         du 28 décembre 2007 au 28 décembre 2011, la recherche a
                         nécessité une prolongation d'un peu plus d'une année. Diverses
                         difficultés intervenues dans le cours du projet permettent
-                        d'expliquer ce retard. Le défaut d'accompagnement en amont de
-                        la part de l'ANR quant à l'adoption de standards de publication
+                        d'expliquer ce retard. Ces délais ont été principalement été
+                        occasionnés par un défaut d'accompagnement en amont de la part
+                        de l'ANR quant à l'adoption de standards de publication
                         numérique, et une sous-évaluation initiale des besoins liés à
-                        la production d'une édition électronique ont en grande partie
-                        occasionnés ces délais. La sous-évaluation était à la fois
-                        d'ordre méthodologique et financière. Il faut également relever
-                        ici, nous y reviendrons plus loin, les difficultés rencontrées
-                        pour identifier des prestataires en mesure d'assurer la
-                        production de l'application web dans les coûts impartis.</p>
-                     <p>Le fait que le projet ait pu être mené à bien a en très grande
-                        partie reposé sur la capacité à mobiliser et fédérer une équipe
-                        de chercheurs pour l'édition qui travaillait de manière
+                        la production d'une édition électronique. Cette sous-évaluation
+                        était à la fois d'ordre méthodologique et financière. Il faut
+                        également relever ici, nous y reviendrons plus loin, les
+                        difficultés rencontrées pour identifier des prestataires en
+                        mesure d'assurer la production de l'application web dans les
+                        coûts impartis.</p>
+                     <p>Le fait que le projet ait pu être mené à en grande partie
+                        reposé sur la capacité à mobiliser et fédérer une équipe de
+                        chercheurs pour l'édition qui travaillait de manière
                         volontaire. À cet égard, l'aspect collectif du travail
                         constitue déjà un réel succès. Il n'aurait pas non plus été
                         possible de le mener à terme sans disposer d'un certain nombre
-                        compétences dans le domaine de l'édition électronique. Le
+                        de compétences dans le domaine de l'édition électronique. Le
                         manque d'expérience initiale a été compensé par la formation de
                         certains membres au cours du projet. De ce point de vue,
                         l'enseignement dispensé au sein du master 2 de l'<orgName>École
@@ -722,7 +725,7 @@
                         à part les <title>Lois des bâtiments</title> qui dispose d'une
                         riche tradition éditoriale<note><persName>L'ouvrage qui paraît
                               de manière posthume mis en ordre par
-                                 <persName>Goupil</persName>
+                                 <persName>Goupy</persName>
                               <date when="1748">en 1748</date> fera l'objet de
                               nombreuses rééditions successives, <date from="1748"
                                  to="1899">jusqu'au XIX<hi rend="superscript">e</hi>
@@ -730,7 +733,7 @@
                         cours de <persName>Desgodets</persName>, à la différence de
                         plusieurs autres cours d'architecture tels ceux de
                            <persName>François Blondel</persName> et de
-                           <persName>Jacques-François Blondel</persName>, n'avait
+                           <persName>Jacques-François Blondel</persName>, n'avaient
                         jusqu'à présent fait l'objet d'aucune édition. L'acte
                         d'édition, s'il ne pouvait pas bénéficier d'un siècle
                         d'érudition issue d'une tradition éditoriale n'en était pas
@@ -793,10 +796,10 @@
                            publication débute en <date when="1675">1675</date><note
                               place="foot">
                               <p>{Gerbino 2010}</p>
-                           </note>. N'ayant jamais eu jusqu'à cette époque de formation
-                           officielle en architecture même si les cours de
-                              <persName>Blondel</persName> pouvaient avoir un précédent
-                           récent au travers de son enseignement comme professeur de
+                           </note>. Jusqu'à cette époque il n'y avait jamais eu de
+                           formation officielle en architecture, même si les cours de
+                              <persName>Blondel</persName> pouvaient trouver un
+                           précédent récent dans son enseignement comme professeur de
                            mathématiques au <orgName>Collège royal</orgName>. Les
                            auteurs reconnaissent habituellement dans la structure même
                            du cours le <title>cursus mathematicus</title> en vogue
@@ -839,8 +842,8 @@
                               1674, l'architecte est nommé par
                                  <persName>Colbert</persName> pour se rendre à
                                  <placeName>Rome</placeName> pour relever les édifices
-                              antique. La publication <date when="1682">en 1682</date>
-                              du travail de son séjour de 16 mois à
+                              antique. La publication, <date when="1682">en
+                              1682</date>, du travail de ce séjour de seize mois à
                                  <placeName>Rome</placeName> à mesurer les édifices
                               antiques fera date.</p>
                            <p><persName>Antoine Desgodets</persName> occupe le siège
@@ -855,7 +858,7 @@
                               Desgodets aborde successivement les thématiques
                               suivantes : <table>
                                  <row>
-                                    <cell />
+                                    <cell>?</cell>
                                     <cell>1721-1722</cell>
                                  </row>
                                  <row>
@@ -877,11 +880,11 @@
                                  Desgodets</persName> (<date from="1719" to="1728"
                                  >1719-1728</date>) et <persName>François
                                  Bruand</persName> (<date from="1728" to="1730"
-                                 >1728-1730</date>) assurent en même temps
-                              l'enseignement de <q>la géométrie appliquée à
-                                 l'architecture</q> et de l'architecture proprement
-                              dite, cela avant la division de la chaire qui intervient
-                                 <date when="1730">en 1730</date>. <table>
+                                 >1728-1730</date>) assurent donc en parallèle le cours
+                              de <q>géométrie appliquée à l'architecture</q> et celui
+                              d'architecture proprement dit, cela avant la division de
+                              la chaire qui intervient <date when="1730">en
+                              1730</date>. <table>
                                  <row>
                                     <cell>Dessein et perspective</cell>
                                     <cell>1727-1728</cell>
@@ -916,7 +919,7 @@
                               titre, celui-ci se révèle particulièrement original.</p>
                         </div>
                         <div>
-                           <head>Le cours de la Commodités</head>
+                           <head>Le cours de la Commodité</head>
                            <p>De tous les cours de Desgodets, c'est celui de la
                               commodité qui de longue date a retenu l'attention. C'est
                               que le sujet du cours est relativement inédit dans la
@@ -926,7 +929,8 @@
                               et des édifices publics en proposant aux élèves des
                               modèles de sa composition. Malheureusement, les témoins
                               conservés ne présentent qu'une version inachevée de ce
-                              cours.</p>
+                              cours que Desgodets enseignait encore au moment de son
+                              décès.</p>
                         </div>
                         <div>
                            <head>Le cours du Toisé</head>
@@ -940,11 +944,11 @@
                         <div>
                            <head>Le cours des servitudes</head>
                            <p>Avec le cours sur les servitudes c'est tout le droit de
-                              l'architecture qui entre dans le champ professionnel.
-                              Connu par sa publication posthume sous le titre des
-                                 <title>Loix des bâtiments</title>, les deux manuscrits
-                              du Sénat constituent sans doute le prototype de la
-                              célèbre publication.</p>
+                              l'architecture qui entre dans le champ professionnel de
+                              l'architecte. Connu par sa publication posthume sous le
+                              titre des <title>Loix des bâtiments</title>, les deux
+                              manuscrits du Sénat constituent sans doute le prototype
+                              de la célèbre publication.</p>
                         </div>
                      </div>
                   </div>
@@ -959,7 +963,7 @@
                            copie mise au propre. D'après les lettres patentes de 1717,
                            les élèves de l'Académie devaient suivre une formation
                            pendant trois ans. Lorsque des nouveaux élèves n'avaient pu
-                           assister au début des leçons, ils avaient al possibilité de
+                           assister au début des leçons, ils avaient la possibilité de
                            les recopier, ce qui permet de supposer que les cours
                            étaient laissés à disposition par les professeurs.</p>
                         <p>Il n'est jamais très aisé de trancher si les témoins
@@ -993,21 +997,23 @@
                            quelques rares cas, il a été possible de dater
                            approximativement les manuscrits par l'étude des filigranes.
                            On pourra se reporter à la présentation des cours sur
-                           l'édition en ligne pour plus de détails.</p>
+                           l'édition en ligne pour plus de détails concernant la
+                           datation.</p>
                      </div>
                      <div>
                         <head>Spécificités matérielles</head>
                         <p>Pour la plupart, les témoins manuscrits identifiés étaient
                            des manuscrits mis au propre. Le plus souvent caractérisés
                            par une belle écriture, et bien conservés, ils présentaient
-                           peu de difficultés de lecture. Aussi hormis quelques
+                           peu de difficultés de lecture. Aussi, hormis quelques
                            corrections apportées à des erreurs de copie qu'on peut
                            souvent attribuer à une même main, les manuscrits ne
                            présentaient pas de spécificités matérielles particulières
                            quant à l'inscription du texte sur le support. Les
-                           difficultés principalement posées par le traitement du
-                           corpus tenaient essentiellement au traitement des
-                           variantes.</p>
+                           difficultés posées par le traitement du corpus tenaient
+                           essentiellement au traitement des variantes et à la
+                           nécessité de formuler une solution d'ensemble qui réponde
+                           bien à chacun des cas de figure.</p>
                      </div>
                      <div>
                         <head>Spécificités liées à la nature du corpus</head>
@@ -1018,25 +1024,25 @@
                            si tous les témoins n'en présentent pas. Cette forme du
                            commentaire d'image, dont le manuscrit du Traité des ordre
                            (O1) conservé à l'Institut de France est le représentant le
-                           plus caractéristique, est un cas de figure relativement
+                           plus caractéristique, est un dispositif relativement
                            classique pour les textes architecturaux. Pour autant le
                            choix du matériau auquel s'applique le discours de Desgodets
                            n'est pas des plus communs. Dans le cas de la commodité,
                            l'architecte fait l'effort de proposer à ses élèves des
                            modèles inédits. Quant au cours sur le toisé, il est relatif
-                           à un savoir technique et géométrique.</p>
+                           à un savoir technique, mathématique et géométrique.</p>
                         <p>Les planches sont ainsi parties prenantes du discours
                            architectural. L'édition nécessite d'y accorder une
                            attention toute particulière car le texte peut parfois se
                            révéler incompréhensible sans le recours aux planches.
-                           Matériellement les planches apparaissent différemment à
-                           l'intérieur des différents témoins manuscrits. Souvent
-                           réalisées sur un papier plus grand et qui permet la pose de
-                           lavis, elles peuvent constituer un ensemble séparé du texte,
-                           ou encore être rapportées à la fin du manuscrit. Dans
-                           d'autres cas, les planches ont été insérées en regard du
-                           texte au moment de la reliure. Les solutions adoptées pour
-                           l'édition devront donc tenir compte de cette diversité.</p>
+                           Matériellement, les planches apparaissent différemment à
+                           l'intérieur des témoins manuscrits. Souvent réalisées sur un
+                           papier plus grand et qui permet la pose de lavis, elles
+                           peuvent constituer un ensemble séparé du texte, ou encore
+                           être rapportées à la fin du manuscrit. Dans d'autres cas,
+                           les planches ont été insérées en regard du texte au moment
+                           de la reliure. Les solutions adoptées pour l'édition devront
+                           donc tenir compte de cette diversité.</p>
                      </div>
                   </div>
                </div>
@@ -1052,8 +1058,8 @@
                         immédiate du sujet de ce cours explique en grande partie qu'il
                         ait focalisé l'attention. Pourtant, ce cours s'inscrit dans un
                         ensemble plus large. Il constitue d'abord la suite d'un premier
-                        cours sur les ordres qui comme nous l'avons vu se révèle plus
-                        intéressant que son titre pouvait le laisser paraître. Par
+                        cours sur les ordres qui, comme nous l'avons dit, se révèle
+                        plus intéressant que son titre pouvait le laisser paraître. Par
                         ailleurs, l'enseignement plus technique de
                            <persName>Desgodets</persName> sur le Toisé ou les
                         Servitudes donne un relief et une cohérence tout à fait
@@ -1061,7 +1067,7 @@
                         sur les Lois des bâtiments qui fut publié <foreign
                            xml:lang="lat">post mortem</foreign> par un élève, les
                         autres cours de <persName>Desgodets</persName> sont restés
-                        jusqu'à nous jours inédits. Pourtant, le nombre de copies
+                        jusqu'à nos jours inédits. Pourtant, le nombre de copies
                         conservées suffit à attester de leur importance dans la culture
                         architecturale du <date from="1700" to="1799">XVIII<hi
                               rend="superscript">e</hi> siècle</date>. De ce point de
@@ -1074,7 +1080,7 @@
                         appellation venant en désigner le caractère savant, au sens où
                         il s'agit de produire une reproduction contrôlée d'un texte
                         dont sont procurés les états, versions, variantes et leçons. De
-                        ce point de vue l'édition critique constitue selon la
+                        ce point de vue, l'édition critique constitue selon la
                         définition du manuel de l'<orgName>École nationale des
                            chartes</orgName> sur l'édition des textes médiévaux un :
                            <quote>Essai de reconstitution d'un texte, pour lequel
@@ -1084,7 +1090,7 @@
                            reproduit très exactement un document unique, jusqu'en ses
                            particularités graphiques et mêmes ses erreurs, commentées à
                            part mais pas corrigées dans le texte ; l'édition
-                           synthétique, intégrant différents états du textes
+                           synthétique, intégrant différents états du texte
                            suffisamment peu différents, moyennant un artifice
                            typographique, avec comme variante l'édition génétique, qui
                            rend compte par des artifices typographiques des différentes
