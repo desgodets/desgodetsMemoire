@@ -1236,9 +1236,11 @@
                            situer les uns par rapport aux autres. Aux consignes
                            publiées dans <title>Guide</title> de <persName>Bernard
                               Barbiche</persName> et <persName>Monique
-                                 Châtenet</persName><note place="foot"><p>{Barbiche 1993}</p></note>, le conseil scientifique
-                           ajoutait le respect strict des majuscules, réservant à
-                           l'éditeur le choix final sur la graphie à retenir.</p>
+                              Châtenet</persName><note place="foot">
+                              <p>{Barbiche 1993}</p>
+                           </note>, le conseil scientifique ajoutait le respect des
+                           majuscules, réservant à l'éditeur le choix final sur la
+                           graphie à retenir.</p>
                         <p>Ce changement d'orientation intervenu dans les directives
                            n'a pas nécessairement facilité le travail de transcription.
                            Il a en partie impliqué la reprise de ce qui avait déjà été
@@ -1249,7 +1251,8 @@
                            achevée). En outre, la modernisation restait nécessaire pour
                            la comparaison. Il a donc été décidé d'opérer deux types de
                            transcription : d'une part une transcription diplomatique,
-                           d'autre part une version modernisée.</p>
+                           d'autre part une version modernisée pour permettre l'étude
+                           des variantes.</p>
                         <p>L'adoption d'un cadre de travail comme celui de la Text
                            Encoding Initiative (TEI) dès l'initiation du projet, aurait
                            pu permettre d'enregistrer simultanément la version
@@ -1280,7 +1283,7 @@
                            des équipes d'édition. Une autre solution logicielle a donc
                            été recherchée.</p>
                         <p>Plusieurs logiciels ont été identifiés comme pouvant
-                           répondre au besoin du projet : l'outil Unix Diff,
+                           répondre aux besoins du projet : l'outil Unix Diff,
                               Versionning-Machine<note place="foot">
                               <p>{VersioningMachine}</p>
                            </note>, CollateX<note place="foot">
@@ -1296,7 +1299,7 @@
                            fois possible de l'utiliser avec des fichiers texte ou des
                            fichiers XML-TEI ce qui était bien adapté à notre contexte
                            de production.</p>
-                        <p>Dans la pluspart des cas il a été relativement difficile
+                        <p>Dans la plupart des cas il a été relativement difficile
                            d'établir des familles de tradition parmi les manuscrits ou
                            de déterminer des prototypes. Toutefois, un groupe de
                            manuscrits suédois se dégage clairement de par leur
@@ -1359,18 +1362,20 @@
                         <p>Disposant de plusieurs états du texte autres que l'original,
                            on a choisi de se contenter d'éditer un témoin en lui
                            rapportant en note les variantes que présentaient les autres
-                           états par rapport au texte de base comme le suggère le Guide
-                           de <persName>Bernard Barbiche</persName> et
+                           états par rapport au texte de base ainsi que le suggère le
+                           Guide de <persName>Bernard Barbiche</persName> et
                               <persName>Monique Châtenet</persName><note place="foot">
                               <p>{Barbiche 1993}</p>
                            </note>. Comme on l'a dit, cette approche privilégie la
                            source primaire mais il faut également avoir conscience
                            qu'elle présente plusieurs inconvénients. D'abord, elle
                            favorise l'intégration des fautes du copiste, telles que les
-                           interpolations ou l'intégration d'éventuelles gloses.
-                           Ensuite, elle ne permet pas de rendre compte directement,
-                           dans le corps du texte, de passages éventuellement manquants
-                           dans la version du manuscrit de base.</p>
+                           interpolations ou l'intégration d'éventuelles gloses qui
+                           figurent dans le texte maître. Ensuite, elle ne permet pas
+                           de rendre compte directement, dans le corps du texte, de
+                           passages éventuellement manquants dans la version du
+                           manuscrit de base puisqu'elle renvoie les variantes dans
+                           l'appareil de notes.</p>
                         <p>Il n'existe certainement pas, en matière d'édition critique,
                            d'approche idéale qui satisfasse tous les cas de figure.
                            D'une certaine façon, ces débats sont en partie devenus
@@ -1400,17 +1405,18 @@
                               <persName>Desgodets</persName> est connu par neuf
                            manuscrits, dont cinq accompagnés de planches. Huit de ces
                            versions présentent un plan identique, l'autre est un texte
-                           autographe plutôt bref, composé antérieurement, et
-                           probablement présenté au roi à l'occasion de sa visite à
-                              l'<orgName>Académie royale d'architecture</orgName> le
-                              <date when="1719-08-02">2 août 1719</date> comme
-                           l'indique une inscription apportée sur le manuscrit. Parmi
-                           les témoins, on relève une famille de manuscrits suédoise.
-                           Tous ces témoins présentent le même état du texte et ils
-                           commencent par un titre identique faisant référence au texte
-                           prononcé à partir du <date when="1724-11-13">13 novembre
-                              1724</date>. L'analyse laisse donc penser qu'ils sont
-                           issus d'un prototype commun<note place="foot">
+                           autographe plutôt bref, composé antérieurement sous la forme
+                           d'un traité, et probablement présenté au roi à l'occasion de
+                           sa visite à l'<orgName>Académie royale
+                              d'architecture</orgName> le <date when="1719-08-02">2
+                              août 1719</date> comme l'indique une inscription apportée
+                           sur le manuscrit. Parmi les témoins, on relève une famille
+                           de manuscrits suédoise. Tous ces témoins présentent le même
+                           état du texte et ils commencent par un titre identique
+                           faisant référence au texte prononcé à partir du <date
+                              when="1724-11-13">13 novembre 1724</date>. L'analyse
+                           laisse donc penser qu'ils sont issus d'un prototype
+                              commun<note place="foot">
                               <p>{Carvais 2013@34-36}</p>
                            </note>.</p>
                         <p>L'équipe chargée de l'édition de ce cours a montré que si
@@ -1427,7 +1433,7 @@
                            conséquence à la fois sur la présence de planches, la
                            complétude du texte, le fait qu'il soit copié par un
                            scripteur français, et sa bonne lisibilité.</p>
-                        <p>Pour le traité de la Commodités, seuls deux témoins avaient
+                        <p>Pour le traité de la Commodité, seuls deux témoins avaient
                            été identifiés. La collation des transcriptions à l'aide du
                            logiciel Juxta ne révélait aucune variante notable mis à
                            part quelques fautes de copie ou omissions. L'apparition,
@@ -1456,12 +1462,12 @@
                            témoins connus. Ces deux longs manuscrits ne sont pas
                            comparables mais complémentaires, ils devaient cependant
                            être rapportés au cours édité, après la mort de
-                              <persName>Desgodets</persName>, probablement par l'un de
-                           ses élèves, <persName>Martin Goupy</persName>, sous le titre
+                              <persName>Desgodets</persName> en 1748, par l'un de ses
+                           disciples, <persName>Martin Goupy</persName>, sous le titre
                            de <title>Loix des bâtiments</title>.</p>
                      </div>
                      <div>
-                        <head>Le prise en compte des variantes</head>
+                        <head>La prise en compte des variantes</head>
                         <p>Le texte du manuscrit maître de chaque manuscrit devait
                            disposer d'un apparat critique informant sur les variantes
                            des différents témoins. Conformément aux conseils de
@@ -1483,7 +1489,7 @@
                         dispositif étant celui qui sert le mieux le point de vue
                         éditorial adopté ou qui offre les meilleures conditions
                         d'accessibilité au texte. Avant de pouvoir établir un cahier
-                        des charges fonctionnels, il fallait donc arrêter clairement ce
+                        des charges fonctionnel, il fallait donc arrêter clairement ce
                         que devait véhiculer l'édition d'un point de vue scientifique.
                         Les pré-requis pour l'édition que nous voulions produire
                         étaient soit généralement liés au respect des conventions de
