@@ -1679,41 +1679,42 @@
                   <p>Après avoir participé comme transcripteur au projet de recherche
                      et avoir été inclus dans l'équipe scientifique, nous sommes
                      intervenus dans le cours du projet avec une mission d'assistance à
-                     la maîtrise d'ouvrage. Une telle mission consiste à assister le
-                     porteur d'un projet dans la réalisation d'un produit. Le stage qui
-                     donne lieu à ce mémoire a directement porté sur le suivi de la
-                     réalisation de l'application web et la production et le contrôle
-                     de qualité des documents XML-TEI. Mais, ayant été associé en amont
-                     à chacune des phases du travail, nous sommes en mesure de rendre
-                     compte ici de toutes les étapes du projet. Nous avons ainsi
-                     participé à la production du cahier des charges fonctionnel, suivi
-                     la consultation et le choix des prestataires, puis défini une
-                     modélisation XML-TEI adaptée au projet. Plus directement dans le
-                     cadre de ce stage, nous nous sommes chargés de l'importation des
-                     textes édités avec un logiciel de traitement de texte et du suivi
-                     de la conception et de la réalisation de l'application web.</p>
+                     la maîtrise d'ouvrage. Une telle mission consiste à accompagner et
+                     assister le porteur d'un projet dans la réalisation d'un produit.
+                     Le stage qui donne lieu à ce mémoire a directement porté sur le
+                     suivi de la réalisation de l'application web et la production et
+                     le contrôle de qualité des documents XML-TEI. Mais, ayant été
+                     associé en amont à chacune des phases du travail, nous sommes en
+                     mesure de rendre compte ici de toutes les étapes du projet. Nous
+                     avons ainsi participé à la production du cahier des charges
+                     fonctionnel, suivi la consultation et le choix des prestataires,
+                     puis avons défini une modélisation XML-TEI adaptée au projet. Plus
+                     directement dans le cadre de ce stage, nous nous sommes chargé de
+                     l'importation des textes édités dans un premier temps au moyen
+                     d'un logiciel de traitement de texte et du suivi de la conception
+                     et de la réalisation de l'application web.</p>
                   <p>Chacune de ces interventions a mobilisé une double compétence ; en
                      quelque sorte, une capacité à parler deux langues. La langue
                      habituelle du chercheur pour comprendre les besoins, mais aussi
                      celle du technicien pour être capable de les exprimer de manière
-                     compréhensible et opérationnelle. C'est cette double compétence
-                     qui est mobilisée lorsqu'il s'agit de définir les contours et et
-                     les fonctionnalités futures de l'application.  De même lorsqu'il
-                     s'agit d'exprimer sous une forme relativement technique des
-                     considérations scientifiques lors de la modélisation XML-TEI.
-                     Enfin, lors de la production de l'application web et des textes
-                     sources proprement dits, les connaissances techniques associées à
-                     une bonne maîtrise du modèle se sont souvent révélées très utiles
-                     pour trancher les difficultés rencontrées, ou bien les
+                     opérationnelle et intelligible pour l'informaticien. C'est cette
+                     double compétence qui est mobilisée lorsqu'il s'agit de définir
+                     les contours et et les fonctionnalités futures de l'application.
+                     De même lorsqu'il s'agit d'exprimer sous une forme relativement
+                     technique des considérations scientifiques lors de la modélisation
+                     XML-TEI. Enfin, lors de la production de l'application web et des
+                     textes sources proprement dits, les connaissances techniques
+                     associées à une bonne maîtrise du modèle se sont souvent révélées
+                     très utiles pour trancher les difficultés rencontrées, ou bien les
                      contourner.</p>
                </div>
                <div type="chapter" n="1">
                   <head>L'Établissement d'un cahier des charges, le choix d'un
                      prestataire et la planification</head>
-                  <p>La publication en ligne des Cours de Desgodets sur un site web
-                     exigeait la mobilisation de certaines compétences artistiques et
-                     techniques dont l'équipe était dépourvue. Il a donc été choisi de
-                     faire appel à un prestataire pour produire le site web devant
+                  <p>La publication en ligne des Cours d'Antoine Desgodets sur un site
+                     web exigeait la mobilisation de certaines compétences artistiques
+                     et techniques dont l'équipe était dépourvue. Il a donc été choisi
+                     de faire appel à un prestataire pour produire le site web devant
                      accueillir l'édition numérique. Une telle décision impliquait une
                      définition claire des besoins et des fonctionnalités attendues
                      sous la forme d'un cahier des charges qui puisse servir de base à
@@ -1722,7 +1723,7 @@
                      intervenus à cette occasion dans la définition du projet. Loin
                      d'être triviales, ces diverses opérations constituent des étapes
                      cruciales dans la conduite de projet. Elle déterminent non
-                     seulement le produit fini, mais  peuvent également avoir des
+                     seulement le produit fini, mais peuvent également avoir des
                      conséquences légales et financières importantes.</p>
                   <div>
                      <head>La définition des besoins et l'établissement du cahier des
@@ -1769,11 +1770,11 @@
                         repose sur une bonne culture des traditions éditoriales et des
                         standards de publication électronique. Elle mobilise donc des
                         savoirs divers aussi bien techniques que scientifiques.</p>
-                     <p>La rédaction d'un tel cahier des charges suppose d'avoir établi
-                        une bonne analyse fonctionnelle des besoins. Dans une phase
-                        préliminaire, nous avons pris le temps de formuler de manière
-                        informelle un état de l'art des éditions électroniques dont
-                        nous avions connaissance. Ce repérage nous a permis
+                     <p>Ainsi, la rédaction d'un tel cahier des charges suppose d'avoir
+                        établi une bonne analyse fonctionnelle des besoins. Dans une
+                        phase préliminaire, nous avons pris le temps de formuler de
+                        manière informelle un état de l'art des éditions électroniques
+                        dont nous avions connaissance. Ce repérage nous a permis
                         d'identifier certaines fonctionnalités toujours proposées, mais
                         également des dispositifs de consultation plus ou moins adaptés
                         à notre corpus. À cet égard, diverses listes de publications
@@ -1879,7 +1880,7 @@
                            s'est avéré relativement difficile d'identifier des
                            prestataires en mesure de répondre au marché. Le réseau de
                            la TEI français a largement été sollicité afin d'identifier
-                           des entreprises compétences. Le cahier des charges a
+                           des entreprises compétentes. Le cahier des charges a
                            relativement bien circulé dans la communauté des
                               <soCalled>digital humanities</soCalled> si l'on en juge
                            par les prises de contact réalisées. Il a souvent été
@@ -1892,7 +1893,7 @@
                            proposition. Après examen de ces candidatures, la première
                            était inadéquate étant donné les attentes du projet. La
                            seconde proposition, de loin la plus pertinente et la plus
-                           étayée dépassait considérablement les moyens disponibles
+                           étayée, dépassait considérablement les moyens disponibles
                            même en renonçant à une grande partie des fonctionnalités.
                            La troisième, même si moins pertinente que la précédente et
                            présentant moins de références, entrait dans le budget
@@ -1907,15 +1908,15 @@
                            optionnelles. Par ailleurs, dans son offre, le prestataire
                            choisi avait fait part de difficultés concernant la
                            réalisation de certaines fonctionnalités. Il a donc été
-                           nécessaire avant la contractualisation d'apporter un certain
-                           nombre d'adaptations au cahier des charges. Les réductions
-                           portaient notamment sur la production d'un moteur de
-                           recherche plein-texte, et des réserves avaient été soulevées
-                           quant à la production d'un entrepôt OAI-PMH.</p>
+                           nécessaire, avant la contractualisation, d'apporter un
+                           certain nombre d'adaptations au cahier des charges. Les
+                           réductions portaient notamment sur la production d'un moteur
+                           de recherche plein-texte, et des réserves avaient été
+                           soulevées quant à la création d'un entrepôt OAI-PMH.</p>
                      </div>
                   </div>
                   <div>
-                     <head>Planification</head>
+                     <head>La planification</head>
                      <div type="introduction">
                         <p>Alors que le projet nécessitait une demande de prolongation,
                            celle-ci n'avait pas été adressée dans les délais
@@ -1960,14 +1961,14 @@
                <div type="chapter" n="2">
                   <head>L’encodage des textes</head>
                   <div type="introduction">
-                     <p>Dès lors qu'il fut décidé que l'édition des cours de Desgodets
-                        serait en premier lieu une édition numérique en ligne, se
-                        posait d'une manière ou d'une autre la question de l'encodage
-                        du texte. En effet, le rendu d'une page web repose sur un
-                        balisage HTML (Hypertext Markup Language). Toute présentation
-                        web de nos textes nécessitait donc <foreign xml:lang="lat">a
-                           minima</foreign> une opération d'encodage, au moins
-                        présentationnel. Dans son <title>Référentiel général
+                     <p>Dès lors qu'il fut décidé que l'édition des cours d'Antoine
+                        Desgodets serait en premier lieu une édition numérique en
+                        ligne, se posait d'une manière ou d'une autre la question de
+                        l'encodage du texte. En effet, le rendu d'une page web repose
+                        sur un balisage HTML (Hypertext Markup Language). Toute
+                        présentation web de nos textes nécessitait donc <foreign
+                           xml:lang="lat">a minima</foreign> une opération d'encodage,
+                        au moins présentationnel. Dans son <title>Référentiel général
                            d'interopérabilité</title> publié en 2009, la Direction
                         générale de la modernisation de l'État recommande l'utilisation
                         des technologies XML (Extensible Markup Language) à des fins
