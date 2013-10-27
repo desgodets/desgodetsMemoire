@@ -1541,14 +1541,15 @@
                         <p>Il est d'usage de fournir les leçons variantes du texte au
                            moyen de notes critiques habituellement numérotées
                            alphabétiquement. Bien que l'édition numérique permette de
-                           les afficher d'une autre manière, il a été choisi de les
-                           présenter en note. N'ayant pas totalement renoncé à une
-                           édition imprimée, une telle présentation permettait
-                           notamment d'être identique dans les deux versions. D'autre
-                           part, cette solution correspondait assez bien au mode de
-                           production du texte qui, comme nous le verrons plus loin, a
-                           été traité par les auteurs de l'édition critique à partir
-                           d'un logiciel de traitement de texte.</p>
+                           les afficher d'une autre manière (par exemple en proposant
+                           plusieurs vues), il a été choisi de les présenter en note.
+                           N'ayant pas totalement renoncé à une édition imprimée, une
+                           telle présentation permettait notamment d'être identique
+                           dans les deux versions. D'autre part, cette solution
+                           correspondait assez bien au mode de production du texte qui,
+                           comme nous le verrons plus loin, a été traité par les
+                           auteurs de l'édition critique à partir d'un logiciel de
+                           traitement de texte.</p>
                         <p>La lecture du texte ne présentant le plus souvent pas de
                            difficultés très spécifiques, les autres aspects de
                            l'apparat critique, comme l'indication des lacunes, des
@@ -1569,7 +1570,9 @@
                            ailleurs, un arsenal de notes de commentaires historique
                            devait pouvoir venir compléter l'apparat critique. Comme il
                            est d'usage, ces appels de notes font l'objet d'une
-                           numérotation numérique.</p>
+                           numérotation numérique. La publication des cours devait
+                           également être accompagnée d'introductions biographiques,
+                           historiographiques et méthodologiques.</p>
                      </div>
                      <div>
                         <head>Glossaires et index</head>
@@ -1595,7 +1598,7 @@
                   <div>
                      <head>Les modalités de consultation</head>
                      <p>S'agissant de mettre à disposition des chercheurs un matériau
-                        entièrement neuf, de manière générale, les modalités de
+                        entièrement nouveau, de manière générale, les modalités de
                         consultation des manuscrits que nous envisagions pour l'édition
                         numérique devaient privilégier l'étude des textes et de leurs
                         figures.</p>
@@ -1608,36 +1611,34 @@
                            accès simultané aux transcriptions et aux <foreign
                               xml:lang="lat">fac simili</foreign> des différents
                            témoins. En revanche, conformément au vœu exprimé par le
-                           Conseil scientifique, il a paru nécessaire d'offrir au
-                           lecteur une consultation des transcriptions des différents
-                           témoins. Au lieu de se contenter de les mettre à disposition
-                           sous forme de documents au format pdf, il nous paraissait
-                           plus judicieux d'autoriser le lecteur de les afficher, comme
-                           il le souhaitait, afin d'opérer lui-même la comparaison
-                           entre les témoins manuscrits. L'idée étant de lui proposer
-                           un contexte favorable pour une lecture rapprochée du corpus
-                           et de ses différents témoins.</p>
+                           Conseil scientifique du projet, il a paru nécessaire
+                           d'offrir au lecteur une consultation des transcriptions des
+                           différents témoins. Au lieu de se contenter de les mettre à
+                           disposition sous forme de documents au format pdf, il nous
+                           paraissait plus judicieux d'autoriser le lecteur de les
+                           afficher, comme il le souhaitait, afin d'opérer lui-même la
+                           comparaison entre les témoins manuscrits. L'idée étant de
+                           lui proposer un contexte favorable pour une lecture
+                           rapprochée du corpus et de ses différents témoins.</p>
                      </div>
                      <div>
-                        <head>La consultation des planches</head>
+                        <head>La consultation et la comparaison des planches</head>
                         <p>S'agissant d'un cours d'architecture, nous avons vu à quel
                            point les planches et figures tiennent une place importante
                            dans l'intelligibilité du propos et sont à cet égard, pour
                            ainsi dire, parties prenantes du texte. De surcroît,
                            l'édition s'adressant principalement à des historiens de
                            l'art, une attention particulière devait être accordée à la
-                           consultation des images. D'une part, pour l'intelligibilité
-                           du discours, il était nécessaire de pouvoir lire le texte en
-                           regard des planches. D'autre part, à fins de comparaison,
-                           nous voulions que le lecteur puisse également comparer les
-                           différentes versions des planches de même que le texte.</p>
-                     </div>
-                     <div>
-                        <head>La comparaison des figures</head>
-                        <p>Le lecteur devait ainsi pouvoir disposer non seulement des
-                           figures en regard du texte, mais aussi, à l'instar même du
-                           texte, il devait pouvoir être en mesure de comparer les
-                           représentations des différents témoins.</p>
+                           consultation des contenus graphiques. D'une part, pour
+                           l'intelligibilité du discours, il était nécessaire de
+                           pouvoir lire le texte en regard des planches. D'autre part,
+                           à fins de comparaison et à l'instar de ce qui devait être
+                           mis en place pour le texte, nous voulions que le lecteur
+                           puisse également comparer les différentes versions des
+                           planches. Le dispositif devait donc permettre, non seulement
+                           de visualiser les figures en regard du texte lors de la
+                           lecture, mais aussi de comparer les représentations
+                           contenues dans les différents témoins.</p>
                      </div>
                      <div>
                         <head>La recherche plein texte</head>
