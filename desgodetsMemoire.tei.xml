@@ -131,19 +131,20 @@
             </divGen>
             <div xml:id="desgodetsMemoireFrontFr02">
                <head>Remerciements</head>
-               <p>En tout premier lieu, je tiens à remercier Monsieur Robert Carvais
-                  pour m'avoir fait confiance tout au long de ce projet d'ANR. Je lui
-                  suis gré de m'avoir tout d'abord recruté au sein de l'équipe de
-                  transcripteurs, mais aussi de nous avoir immédiatement associés à
-                  l'équipe scientifique du projet. Je le remercie également de m'avoir
-                  offert cette merveilleuse occasion de mener à bien avec lui ma
-                  première réalisation informatique dans le domaine scientifique.</p>
-               <p>Je voudrais également remercier Madame Florence Clavaud qui a bien
-                  voulu diriger ce travail. L'exigence et la rigueur de son
-                  enseignement, autant que son enthousiasme marqueront je pense
-                  durablement ma carrière scientifique. Elle a su à la fois conforter
-                  et canaliser chez moi la flamme que j'entretenais à l'égard des
-                  technologies numériques.</p>
+               <p>En tout premier lieu, je tiens à remercier Monsieur <persName>Robert
+                     Carvais</persName> pour m'avoir fait confiance tout au long de ce
+                  projet d'ANR. Je lui suis gré de m'avoir tout d'abord recruté au sein
+                  de l'équipe de transcripteurs, mais aussi de nous avoir immédiatement
+                  associés à l'équipe scientifique du projet. Je le remercie également
+                  de m'avoir offert cette merveilleuse occasion de mener à bien avec
+                  lui ma première réalisation informatique dans le domaine
+                  scientifique.</p>
+               <p>Je voudrais également remercier <persName>Madame Florence
+                     Clavaud</persName> qui a bien voulu diriger ce travail. L'exigence
+                  et la rigueur de son enseignement, autant que son enthousiasme
+                  marqueront je pense durablement ma carrière scientifique. Elle a su à
+                  la fois conforter et canaliser chez moi la flamme que j'entretenais à
+                  l'égard des technologies numériques.</p>
                <p>Mes parents ont bien voulu me faire confiance et supporter très
                   concrètement, parce que financièrement, ces études parallèlement à
                   l'achèvement de ma thèse qui ne saurait plus tarder.</p>
@@ -482,10 +483,10 @@
                         l'architecte participait d’une réduction en art de la
                         discipline académique et constituait une des premières
                         normalisation du savoir architectural. Enfin, l’Œuvre
-                        scholastique de Desgodets intervenait à un moment clef de la
-                        constitution de la légitimité professionnelle de l’architecte
-                        par la prise en compte de la figure de l’expert comme
-                        intermédiaire entre l’architecte et l’amateur.</p>
+                        scholastique de <persName>Desgodets</persName> intervenait à un
+                        moment clef de la constitution de la légitimité professionnelle
+                        de l’architecte par la prise en compte de la figure de l’expert
+                        comme intermédiaire entre l’architecte et l’amateur.</p>
                      <p>Pour toutes ces raisons, les cours d’<persName>Antoine
                            Desgodets</persName> méritaient d’être reconstitués et
                         livrés à la communauté scientifique comme des textes fondateurs
@@ -515,12 +516,13 @@
                      <head>L’équipe de recherche</head>
                      <p>S’agissant d’un projet collectif, et compte-tenu de l'ampleur
                         des sources à traiter, une équipe pluridisciplinaire de
-                        chercheurs a été réunie par Robert Carvais pour l’étude et
-                        l’édition des manuscrits. Cette équipe rassemblait des
-                        historiens du droit, des historiens de l’architecture et des
-                        historiens des sciences. Robert Carvais en assurait en tant
-                        qu'investigateur principal, et que responsable juridique du
-                        projet d'ANR, la direction scientifique.</p>
+                        chercheurs a été réunie par <persName>Robert Carvais</persName>
+                        pour l’étude et l’édition des manuscrits. Cette équipe
+                        rassemblait des historiens du droit, des historiens de
+                        l’architecture et des historiens des sciences. <persName>Robert
+                           Carvais</persName> en assurait en tant qu'investigateur
+                        principal, et que responsable juridique du projet d'ANR, la
+                        direction scientifique.</p>
                      <p>Le nombre de témoins manuscrits identifiés dès l'origine
                         impliquait le recrutement de plusieurs transcripteurs ; cinq au
                         total. C’est dans ce cadre que j'ai eu, dans un premier temps,
@@ -530,12 +532,12 @@
                         À bien des égards, c'est ma participation à ce projet de
                         recherche qui m’a conduit à assister à une première formation
                         sur l'édition numérique et la Text Encoding Initiative
-                        organisée par le réseau Mutec à Lyon{Mutec}, puis à
-                        m’intéresser de plus près à la formation offerte par l’École
-                        des chartes dans le cadre de son master 2
-                           <soCalled>Technologies numériques appliquées à
-                           l’histoire</soCalled>  qui occasionne aujourd'hui de la
-                        rédaction de ce mémoire.</p>
+                        organisée par le <orgName>réseau Mutec</orgName> à
+                        Lyon{Mutec}, puis à m’intéresser de plus près à la formation
+                        offerte par l’<orgName>École des chartes</orgName> dans le
+                        cadre de son master 2 <soCalled>Technologies numériques
+                           appliquées à l’histoire</soCalled> qui occasionne
+                        aujourd'hui de la rédaction de ce mémoire.</p>
                      <p>L'édition critique de chaque cours à partir des transcriptions
                         des témoins a par la suite été confiée à des équipes d'éditeurs
                         rassemblées pour l'occasion. Les transcripteurs qui le
@@ -1927,22 +1929,23 @@
                               when="2012-12">en décembre 2012</date> avec une échéance
                            pour la livraison du projet le <date when="2013-01-31">31
                               mai 2013</date>.</p>
-                        <p>Un échéancier a été produit conjointement avec le
-                           prestataire et les équipes éditoriales pour répondre à ces
-                           délais. En pratique le calendrier n'a pas été complètement
-                           respecté. D'une part la production des textes de l'édition
-                           ne s'est pas toujours faite dans les temps impartis, d'autre
-                           part contrairement à ce qui était prévu, peu de renforts
-                           sont intervenus sur l'encodage et il nous a fallu
-                           privilégier le suivi de la réalisation de l'application web.
-                           Cela explique qu'une partie seulement des cours soit publiée
-                           en ligne pour le moment. Une relecture complète du manuscrit
-                           de la commodité est par exemple nécessaire avant
-                           l'intégration des notes. L'édition du texte des servitudes
-                           est encore en cours. Conformément à la demande des auteurs
-                           de l'édition et des transcripteurs, nous attendons également
-                           la relecture des différentes versions des témoins manuscrits
-                           avant leur publication sur le site.</p>
+                        <p>Un échéancier sous forme de diagramme de Gantt a été produit
+                           conjointement avec le prestataire et les équipes éditoriales
+                           pour répondre à ces délais. En pratique le calendrier n'a
+                           pas été complètement respecté. D'une part la production des
+                           textes de l'édition ne s'est pas toujours faite dans les
+                           temps impartis, d'autre part contrairement à ce qui était
+                           prévu, peu de renforts sont intervenus sur l'encodage et il
+                           nous a fallu privilégier le suivi de la réalisation de
+                           l'application web. Cela explique qu'une partie seulement des
+                           cours soit publiée en ligne pour le moment. Une relecture
+                           complète du manuscrit de la commodité est par exemple
+                           nécessaire avant l'intégration des notes. L'édition du texte
+                           des servitudes est encore en cours. Conformément à la
+                           demande des auteurs de l'édition et des transcripteurs, nous
+                           attendons également la relecture des différentes versions
+                           des témoins manuscrits avant leur publication sur le
+                           site.</p>
                      </div>
                      <div>
                         <p>Les différents retards éprouvés par le projet sont
@@ -2112,10 +2115,11 @@
                            de clarifier à la fois les relations hiérarchiques et
                            séquentielles. Et la présence du balisage détermine la
                            possibilité de traiter les éléments pour une transformation. </p>
-                        <p>Le métalangage informatique XML (Extensible Markup Language)
-                           permet le développement de vocabulaires descriptifs de
-                           balisages interopérables spécifiques à certains
-                              domaines<note place="foot">
+                        <p>Le métalangage informatique XML (<foreign xml:lang="eng"
+                              >Extensible Markup Language</foreign>) permet le
+                           développement de vocabulaires descriptifs de balisages
+                           interopérables spécifiques à certains domaines<note
+                              place="foot">
                               <p>{Bray 2008}</p>
                            </note>. Son modèle de contenu arborescent est précisément
                            conforme au modèle OHCO. S'il offre une grammaire lisible
@@ -2125,25 +2129,26 @@
                            compréhensible par les machines, pour définir un langage de
                            balisage descriptif. La plupart des contenus des
                            bibliothèques numériques aujourd'hui mis à disposition sur
-                           le web sont encodés en utilisant un balisage XML. <quote>La large
-                           adoption de vocabulaires XML spécialisés comme la TEI
-                           rendent disponible une importante information sémantique,
-                           mais seulement sous la forme d'une documentation en prose et
-                           de pratiques partagées.<note place="foot">
-                              <p>{Renear 2003@304}</p>
-                           </note></quote></p>
+                           le web sont encodés en utilisant un balisage XML. <quote>La
+                              large adoption de vocabulaires XML spécialisés comme la
+                              TEI rendent disponible une importante information
+                              sémantique, mais seulement sous la forme d'une
+                              documentation en prose et de pratiques partagées.<note
+                                 place="foot">
+                                 <p>{Renear 2003@304}</p>
+                              </note></quote></p>
                      </div>
                      <div>
                         <head>Le projet de la Text Encoding Initiative</head>
-                        <p>La Text Encoding Initiative (TEI) est un effort
-                           international pour unifier les pratiques d'encodage de texte
-                           dans le domaine académique. Elle fournit un vocabulaire XML
-                           qui permet de produire des modèles de textes que l'on peut
-                           utiliser à différentes fins notamment pour l'édition de
-                           sources primaires. Plus qu'un schéma générique, elle offre
-                           en fait un cadre de travail qui permet de traiter différents
-                           cas de figure. Ce cadre de travail se compose d'un
-                           vocabulaire, d'une documentation qui en fournit la
+                        <p>La <orgName>Text Encoding Initiative (TEI)</orgName> est un
+                           effort international pour unifier les pratiques d'encodage
+                           de texte dans le domaine académique. Elle fournit un
+                           vocabulaire XML qui permet de produire des modèles de textes
+                           que l'on peut utiliser à différentes fins notamment pour
+                           l'édition de sources primaires. Plus qu'un schéma générique,
+                           elle offre en fait un cadre de travail qui permet de traiter
+                           différents cas de figure. Ce cadre de travail se compose
+                           d'un vocabulaire, d'une documentation qui en fournit la
                            sémantique en langage naturel, et d'un ensemble de
                            recommandations rassemblées sous l'intitulé de
                               <title>Guidelines</title>. En ce sens, comme le relève
@@ -2172,13 +2177,14 @@
                            de standardisation par l'<orgName>Association for Literary
                               and Linguistic Computing</orgName> et
                               l'<orgName>Association for Computational
-                              Linguistics</orgName> formèrent ensemble la Text Encoding
-                           Initiative (TEI) afin de conduire le projet sous une forme
-                           internationale et multilingue et développer des
-                           recommandations pour la préparation et l'échange de textes
-                           électroniques dans le domaine universitaire. Dès 1993, la
-                           TEI publiait une première version de ses <title>Guidelines
-                              for the Encoding and Interchange of Machine-Readable
+                              Linguistics</orgName> formèrent ensemble la <orgName>Text
+                              Encoding Initiative (TEI)</orgName> afin de conduire le
+                           projet sous une forme internationale et multilingue et
+                           développer des recommandations pour la préparation et
+                           l'échange de textes électroniques dans le domaine
+                           universitaire. Dès 1993, la TEI publiait une première
+                           version de ses <title xml:lang="eng">Guidelines for the
+                              Encoding and Interchange of Machine-Readable
                               Texts</title>. Ce rapport proposait un ensemble de
                            conventions pour l'encodage de différents types de textes
                            pour servir dans le domaine des sciences du langage ou des
@@ -2187,18 +2193,19 @@
                            n'avaient été capables de formuler un consensus sur les
                            pratiques d'encodage.</p>
                         <p>Alors qu'elle avait d'abord été fondée sur l'utilisation de
-                           la syntaxe SGML (Standard Generalized Markup Language), la
-                           TEI a adopté XML dès la première publication de sa
-                           spécification en 1996, certains membres de la TEI avaient en
-                           effet participé à son développement. Par la suite, les
-                              <title>Guidelines</title> ont été étayées par l'apport
-                           d'autres spécialités pour prendre en charge une plus grande
-                           diversité de textes. On en est aujourd'hui à la cinquième
-                           proposition numérotée P5, et elle est organisée autour d'un
-                           consortium et d'une importante communauté d'utilisateurs.
-                           Conçue comme un modèle générique de structuration et de
-                           sémantisation des textes, la TEI présente de nombreux
-                           avantages. On relève notamment : <list>
+                           la syntaxe SGML (<foreign xml:lang="eng">Standard
+                              Generalized Markup Language</foreign>), la TEI a adopté
+                           XML dès la première publication de sa spécification en 1996,
+                           certains membres de la TEI avaient en effet participé à son
+                           développement. Par la suite, les <title xml:lang="eng"
+                              >Guidelines</title> ont été étayées par l'apport d'autres
+                           spécialités pour prendre en charge une plus grande diversité
+                           de textes. On en est aujourd'hui à la cinquième proposition
+                           numérotée P5, et elle est organisée autour d'un consortium
+                           et d'une importante communauté d'utilisateurs. Conçue comme
+                           un modèle générique de structuration et de sémantisation des
+                           textes, la TEI présente de nombreux avantages. On relève
+                           notamment : <list>
                               <item>sa modularité et sa flexibilité</item>
                               <item>son expressivité (niveau de granularité)</item>
                               <item>le fait qu'il s'agit d'un standard reconnu
@@ -2256,13 +2263,14 @@
                            des sciences humaines. Plusieurs raisons expliquent en
                            grande partie cette situation. D'une part, la TEI repose sur
                            l'utilisation de syntaxes et de mécanismes XML standardisés
-                           par le W3C (World Wide Web Consortium) qui présentent de
-                           nombreuses garanties en termes d'interopérabilité et
-                           permettent d'utiliser les outils puissants disponibles pour
-                           manipuler des arbres XML. D'autre part, l'importante
-                           généricité de la TEI lui permet de couvrir une grande gamme
-                           de besoins. Cela explique en grande partie l'importante
-                           pénétration de la TEI dans la communauté scientifique. </p>
+                           par le <orgName>W3C (World Wide Web Consortium)</orgName>
+                           qui présentent de nombreuses garanties en termes
+                           d'interopérabilité et permettent d'utiliser les outils
+                           puissants disponibles pour manipuler des arbres XML. D'autre
+                           part, l'importante généricité de la TEI lui permet de
+                           couvrir une grande gamme de besoins. Cela explique en grande
+                           partie l'importante pénétration de la TEI dans la communauté
+                           scientifique. </p>
                         <p>La TEI fournit ainsi, à l'aide d'un vocabulaire et d'une
                            infrastructure technique, un cadre de travail pour la
                            modélisation des textes. Dans la limite de leur
@@ -2641,11 +2649,12 @@
                            </div>
                            <div>
                               <head>Les classes</head>
-                              <p>Outre ces modules, les 543 éléments de la TEI et leurs
-                                 attributs sont également organisés en classes de
-                                 modèle (<foreign xml:lang="eng">model class</foreign>)
-                                 et classes d'attribut (<foreign xml:lang="eng"
-                                    >attribute class</foreign>) afin de faciliter leur
+                              <p>Outre ces vingt-deux modules, les cinq cent
+                                 quarante-trois éléments de la TEI et leurs attributs
+                                 sont également organisés en classes de modèle
+                                    (<foreign xml:lang="eng">model class</foreign>) et
+                                 classes d'attribut (<foreign xml:lang="eng">attribute
+                                    class</foreign>) afin de faciliter leur
                                  modification. Les éléments d'une même classe peuvent
                                  apparaître au même endroit dans un modèle de contenu,
                                  il s'agit alors d'une classe de modèle, ou partager un
@@ -3172,12 +3181,12 @@
                                  métadonnées à partir de l'en-tête TEI, nous nous
                                  sommes aperçus qu'un travail était en cours au sein du
                                  consortium cahier pour produire un moissonnage des
-                                 en-têtes TEI en OAI-PMH (Open Archives Initiative
-                                 Protocol for Metadata Harvesting). Vérifications
-                                 faites, et après avoir échangé avec les personnes en
-                                 charge du projet, il se trouve que nos choix
-                                 d'encodage étaient relativement conformes aux
-                                 prescriptions proposées. </p>
+                                 en-têtes TEI en OAI-PMH (<foreign xml:lang="eng">Open
+                                    Archives Initiative Protocol for Metadata
+                                    Harvesting</foreign>). Vérifications faites, et
+                                 après avoir échangé avec les personnes en charge du
+                                 projet, il se trouve que nos choix d'encodage étaient
+                                 relativement conformes aux prescriptions proposées. </p>
                               <p>La production des métadonnées concernant les images
                                  s'est révélée plus ardue. La TEI a d'abord été conçue
                                  pour traiter des textes littéraires. Aussi ne
@@ -3200,9 +3209,15 @@
                      <div>
                         <head>Tests d’encodage et ajustements</head>
                         <p>Plusieurs tests d'encodage ont été nécessaires afin de
-                           valider ou d'infirmer les choix initiaux. C'est notamment la
-                           définition de l'encodage des figures qui nous a posé le plus
-                           de difficultés.</p>
+                           valider ou d'infirmer les choix initiaux. Outre la question
+                           des alignements, c'est notamment la définition de l'encodage
+                           des figures qui nous a posé le plus de difficultés. La TEI
+                           est d'abord conçue pour l'encodage des textes aussi, il peut
+                           s'avérer nécessaire de confier la prise en charge de
+                           certains éléments à d'autres modèles documentaires.
+                           Toutefois, il nous a paru intéressant de chercher à utiliser
+                           au maximum l'expressivité de la TEI pour fournir les
+                           métadonnées descriptives des planches.</p>
                      </div>
                      </div>
                   <div>
@@ -3239,14 +3254,16 @@
                            interviennent dans l'encodage d'un document ont un caractère
                            scientifique affirmé. Ainsi, se pose souvent la question
                            dans un projet d'édition électronique de savoir à qui doit
-                           revenir le soin d'encoder des documents<note place="foot"
-                              ><p>{Buquet 2010}</p></note>. Les chercheurs sont généralement
-                           peu enclins à s'occuper eux-même de l'encodage des documents
-                           qui est habituellement envisagé comme une opération
-                           technique. Cela tient en partie au caractère relativement
-                           rébarbatif de l'encodage et au défaut d'interface du
-                              type <soCalled>What You See Is What You Get</soCalled>
-                           pour éditer un texte en TEI.</p>
+                           revenir le soin d'encoder des documents<note place="foot">
+                              <p>{Buquet 2010}</p>
+                           </note>. Les chercheurs sont généralement peu enclins à
+                           s'occuper eux-même de l'encodage des documents qui est
+                           habituellement envisagé comme une opération technique. Cela
+                           tient en partie au caractère relativement rébarbatif de
+                           l'encodage et au défaut d'interface du type <soCalled>What
+                              You See Is What You Get</soCalled>
+                              (<soCalled>WYSIWIG</soCalled>) pour éditer un texte en
+                           TEI.</p>
                         <p>La complexité de la TEI, et les différentes manières de
                            l'employer, ne rendent guère possible la définition d'une
                            interface graphique générique, à moins de concevoir une
@@ -3274,10 +3291,10 @@
                            l'encodage n'est qu'un moyen, ce défaut d'expressivité ne va
                            pas sans poser problème.</p>
                         <p>Il aurait été possible de proposer aux auteurs de l'édition
-                           de travailler avec le mode auteur d'Oxygen. Une telle
-                           solution présentait l'avantage de concilier à la fois un
-                           environnement de type <soCalled>WYSIWIG</soCalled> et
-                           d'offrir toute l'expressivité de la TEI. Toutefois, elle
+                           de travailler avec le mode auteur de l'éditeur XML Oxygen.
+                           Une telle solution présentait l'avantage de concilier à la
+                           fois un environnement de type <soCalled>WYSIWIG</soCalled>
+                           et d'offrir toute l'expressivité de la TEI. Toutefois, elle
                            impliquait un changement d'habitude de travail,
                            l'apprentissage et l'installation d'un nouveau logiciel, et
                            malgré tout un minimum de connaissances de la TEI de la part
@@ -3384,7 +3401,7 @@
                            conduite au moyen de feuilles de transformation XSLT
                            (eXtensible Stylesheet Language Transformations) en
                            s'appuyant sur les feuilles de style TEI développées par
-                           Sebastian Rahtz<note place="foot">
+                              <persName>Sebastian Rahtz</persName><note place="foot">
                               <p>{TeicStylesheets}</p>
                            </note>. Une série d'outils complémentaires a été développée
                            en XSLT pour sérialiser les traitements et préparer les
@@ -3404,15 +3421,16 @@
                               employant le langage de programmation XSLT (eXtensible
                               Stylesheet Language Transformations)  dont c'est la
                               destination.</p>
-                           <p>Les feuilles de styles TEI développées par Sebastian
-                              Rahtz (<title>XSL stylesheets for TEI XML</title>) sont
-                              un ensemble de transformation XSLT 2.0 destinées à la
-                              TEI. On peut à l'aide de ces feuilles de style réaliser
-                              la transformation d'un document TEI vers différents
-                              formats, HTML (HyperText Markup Language), LaTex, etc.,
-                              ou encore transformer d'autres documents en des documents
-                              TEI. Les transformations sont personnalisables soit en
-                              leur passant des paramètres soit en faisant appel aux
+                           <p>Les feuilles de styles TEI développées par
+                                 <persName>Sebastian Rahtz</persName> (<title>XSL
+                                 stylesheets for TEI XML</title>) sont un ensemble de
+                              transformation XSLT 2.0 destinées à la TEI. On peut à
+                              l'aide de ces feuilles de style réaliser la
+                              transformation d'un document TEI vers différents formats,
+                              HTML (HyperText Markup Language), LaTex, etc., ou encore
+                              transformer d'autres documents en des documents TEI. Les
+                              transformations sont personnalisables soit en leur
+                              passant des paramètres soit en faisant appel aux
                               transformations en les incluant dans un autre fichier et
                               en surchargeant les règles (utilisation d'un <foreign
                                  xml:lang="eng">wrapper</foreign>, c'est-à-dire d'une
@@ -3436,10 +3454,11 @@
                               n'a malheureusement pas été possible de reprendre les
                               feuilles de styles que nous avions écrites pour les
                               réunir en une seule transformation qui puisse venir
-                              surcharger les transformations de Sebastian Rahtz. La
-                              quantité de fichiers à traiter cinq au total, et leurs
-                              différences, n'était pas suffisantes pour justifier cet
-                              effort même si cela aurait été intellectuellement plus satisfaisant.</p>
+                              surcharger les transformations de <persName>Sebastian
+                                 Rahtz</persName>. La quantité de fichiers à traiter
+                              cinq au total, et leurs différences, n'était pas
+                              suffisantes pour justifier cet effort même si cela aurait
+                              été intellectuellement plus satisfaisant.</p>
                         </div>
                         <div>
                            <head>La création des feuilles de style pour
@@ -3583,18 +3602,18 @@
                         <div>
                            <head>Le contrôle qualité et les difficultés
                               rencontrées</head>
-                           <p>Sauf parfois l'introduction de marques de paragraphes
-                              inutiles dans les titres, nous n'avons rencontré aucune
-                              difficulté particulière pour récupérer la structure du
-                              texte. L'utilisation d'un modèle de document de
-                              traitement de texte pour traiter la macrostructure d'un
-                              document ou un double appareil de note se révèle
-                              relativement bien adaptée. En revanche, les irrégularités
-                              dans le corpus n'ont pas permis de typer automatiquement
-                              ces divisions et cette opération a dû être réalisée
-                              manuellement. Elle aurait cependant pu être configurée
-                              spécifiquement pour chaque cours disposant de la même
-                              structure générale.</p>
+                           <p>Sauf dans certains cas l'introduction de marques de
+                              paragraphes inutiles dans les titres, nous n'avons
+                              rencontré aucune difficulté particulière pour récupérer
+                              la structure du texte. L'utilisation d'un modèle de
+                              document de traitement de texte pour traiter la
+                              macrostructure d'un document ou un double appareil de
+                              note se révèle relativement bien adaptée. En revanche,
+                              les irrégularités dans le corpus n'ont pas permis de
+                              typer automatiquement ces divisions et cette opération a
+                              dû être réalisée manuellement. Elle aurait cependant pu
+                              être configurée spécifiquement pour chaque cours
+                              disposant de la même structure générale.</p>
                            <p>Les manuscrits du toisé présentaient des paragraphes
                               numérotés. Nous n'avons pas eu le temps de produire une
                               transformation basée sur des expressions régulières pour
@@ -3708,7 +3727,7 @@
                         aplanir une difficulté ou résoudre un problème.</p>
                   </div>
                   <div>
-                     <head>La mission d'AMO</head>
+                     <head>La mission d'assisante à la maîtrise d'ouvrage (AMO)</head>
                      <div>
                         <head>De la connaissance du modèle XML-TEI</head>
                         <p>Dans le cadre de la mission de suivi de réalisation, la
@@ -3849,16 +3868,21 @@
                   <p>Le suivi de la réalisation d'une édition critique numérique offre
                      un point d'observation privilégié sur l'impact du numérique sur
                      les pratiques académiques. Cela constitue également une expérience
-                     particulière au sens où se trouver à l'interface entre les
-                     informaticiens et l'équipe de chercheurs nous met au première loge
-                     pour observer l'espace de négociation qui intervient
-                     nécessairement dans cours de tout projet. La réalisation en partie
-                     achevée, il convient d'essayer de faire un bilan et d'adopter un
-                     regard critique sur le résultat produit en envisageant les
-                     évolutions futures éventuellement nécessaires.</p>
+                     particulière au sens où le fait de se trouver à l'interface entre
+                     les informaticiens et l'équipe de chercheurs nous met aux
+                     premières loges pour observer l'espace de négociation qui
+                     intervient nécessairement dans le cours de tout projet. En effet,
+                     l'intervention des prestataires et les propositions qu'ils ont
+                     formulées ont considérablement fait évoluer le projet. La
+                     réalisation en partie achevée, il convient d'essayer d'en faire le
+                     bilan et d'adopter un regard critique sur le résultat produit en
+                     envisageant les évolutions futures éventuellement nécessaires. Il
+                     s'agit ici d'envisager dans quelle mesure la production d'un
+                     environnement de consultation numérique pour les manuscrits
+                     modifie les modalités d'accès aux textes.</p>
                </div>
                <div type="chapter" n="1">
-                  <head>Ajustements nécessaires en cours de projets</head>
+                  <head>Les ajustements en cours de projets</head>
                   <p>La production d'un dispositif technique comme une application web
                      implique presque nécessairement un certain nombre d'ajustements en
                      cours de projet. Ces adaptations sont soit à proprement parler le
@@ -3866,11 +3890,11 @@
                      objectifs initiaux, soit le résultat des réponses positives
                      apportées aux problèmes rencontrés au cours de la réalisation.</p>
                   <div>
-                     <head>Solutions trouvées lors du travail</head>
+                     <head>Les solutions trouvées lors du travail</head>
                      <p>Afin de laisser une certaine latitude au prestataire en charge
                         de formuler les propositions de rendus graphiques et
-                        typographiques, on s'est d'abord contentés de fournir des
-                        indications fonctionnelles suffisamment vagues dans la
+                        typographiques, nous nous étions d'abord contenté de fournir
+                        des indications fonctionnelles suffisamment vagues dans la
                         documentation concernant la transformation des éléments TEI.
                         Cette documentation a servi à la fois pour la préparation des
                         transformations XSLT et pour la détermination de l'ergonomie et
@@ -3882,7 +3906,8 @@
                      <p>C'est principalement sur la base de maquettes de projets
                         graphiques que se sont opérés les choix d'ergonomie et de
                         graphisme. Plusieurs aller-retours ont été nécessaires pour
-                        atteindre un rendu satisfaisant. On a d'abord validé des
+                        atteindre un rendu satisfaisant. La définition des partis s'est
+                        élaborée de manière incrémentielle : on a d'abord validé des
                         orientations générales puis affiné les différents aspects du
                         rendu graphique et les fonctionnalités.</p>
                      <p>Les fonctionnalités identifiées dans le cahier des charges pour
@@ -3892,23 +3917,26 @@
                         navettes nombreuses avec nous. Ces discussions, auxquelles
                         était associée la développeuse, ont permis de très fortement
                         simplifier et rationaliser l'interface utilisateur qui avait
-                        d'abord été envisagée. De ce point de vue, l'apport du
-                        prestataire externe a été notable dans la mise au point d'une
-                        solution de consultation que nous jugeons efficace.</p>
+                        d'abord été envisagée. Centrale dans le projet, la création du
+                        module de consultation des cours, avec les fonctionnalités de
+                        comparaison des textes et des images, a tout particulièrement
+                        retenu l'attention. De ce point de vue, l'apport du prestataire
+                        externe a été notable dans la mise au point d'une modalité de
+                        consultation des manuscrits que nous jugeons efficace.</p>
                   </div>
                   <div>
-                     <head>Renoncements en cours de projet</head>
+                     <head>Les renoncements</head>
                      <p>Si la phase de réalisation a permis de trouver des solutions
                         favorables à certains problèmes, elle a aussi nécessité
-                        plusieurs renoncements afin d'être certain de pouvoir mener à
+                        plusieurs renoncements afin d'être certains de pouvoir mener à
                         terme la production de l'application. Ces décisions ont
                         généralement été occasionnées par des difficultés techniques
-                        imprévues, et ont entraîné des changement dans la réalisation.
-                        Ils ont toujours été déterminés en fonction des priorités dans
-                        l'économie globale du projet, et résultent pour l'essentiel
-                        d'une négociation engagée avec le prestataire. Au cours de
-                        cette négociation, ces renoncements ont été abordés en termes
-                        de compensations sur la base de la réalisation convenue
+                        imprévues, et ont entraîné des changements dans la réalisation.
+                        Ils ont toujours été déterminés d'après l'établissement de
+                        priorités dans l'économie globale du projet, et résultent pour
+                        l'essentiel d'une négociation engagée avec le prestataire. Au
+                        cours de cette négociation, ces renoncements ont été abordés en
+                        termes de compensations sur la base de la réalisation convenue
                         contractuellement au moment de la signature du marché.</p>
                      <p>Cette manière d'aborder la conduite du projet était
                         essentiellement déterminée par la recherche d'un équilibre
@@ -3919,7 +3947,7 @@
                         production était plus productive que le fait de s'accrocher
                         coûte que coûte au cahier des charges, au risque d'aller à la
                         rupture avec le prestataire. Il était en effet dans l'intérêt
-                        de la réalisation et de sa finalisation de garder de bons
+                        de la réalisation et de sa finalisation de conserver de bons
                         rapports, et une dynamique de travail productive et
                         soignée.</p>
                      <p>Bien évidemment ces choix déterminants ont tous été effectués
@@ -3933,23 +3961,24 @@
                      <head>L'interopérabilité</head>
                      <p>Plusieurs de ces renoncement ont affectés des aspects
                         concernant l'interopérabilité du projet. Ils concernent
-                        notamment la production d'un entrepôt OAI-PMH et d'un
+                        notamment la production d'un entrepôt OAI-PMH (Open Access
+                        Initiative Protocol for Metadata Harvesting) et d'un
                         siteMap.</p>
                      <div>
                         <head>L'entrepôt OAI-PMH</head>
                         <p>Même si la production d'un entrepôt OAI-PMH était importante
-                           pour l'interopérabilité du site, nous avons dû y renoncer au
-                           profit d'un travail plus avancé sur le module de
-                           visualisation des cours. Ce choix a été opéré afin d'alléger
-                           le travail du prestataire qui avait en réalité mal évalué
-                           l'ampleur des développements XSLT nécessaires. Bien que
-                           l'interopérabilité constitue une dimension cruciale d'un
-                           projet en <soCalled>digital humanities</soCalled>, et que ce
-                           protocole permette d'assurer une bonne visibilité des
-                           contenus proposés par l'édition dans l'écosystème
-                           scientifique (par exemple pour être moissonné par le moteur
-                           isidore-recherche), il nous a semblé possible d'y renoncer
-                           pour deux raisons :</p>
+                           pour l'interopérabilité du site, et l'exposition de ses
+                           données, nous avons dû y renoncer au profit d'un travail
+                           plus avancé sur le module de visualisation des cours. Un tel
+                           choix permettait d'alléger la tâche du prestataire qui avait
+                           peut être sous-évalué l'ampleur des développements XSLT
+                           nécessaires. Bien que l'interopérabilité constitue une
+                           dimension cruciale d'un projet en <soCalled>digital
+                              humanities</soCalled>, et que ce protocole permette
+                           d'assurer une bonne visibilité des contenus proposés par
+                           l'édition dans l'écosystème scientifique (par exemple pour
+                           être moissonné par le moteur isidore-recherche), il nous a
+                           semblé possible d'y renoncer pour deux raisons :</p>
                         <p>D'une part, nous avons identifié au cours de la réalisation
                            qu'un travail était mené dans le cadre du consortium Cahier
                            sur l'interopérabilité des en-têtes XML-TEI et leur
@@ -3959,15 +3988,14 @@
                            </note>. Comme nous nous étions assurés de la compatibilité
                            de nos métadonnées avec les propositions en cours de
                            formulation dans le cadre de ce travail, et que le projet
-                           d'ANR envisageait une candidature au consortium, la
+                           d'ANR envisageait une candidature au consortium Cahier, la
                            réalisation d'un tel entrepôt devenait moins impérieuse et
                            il nous semblait intéressant de pouvoir bénéficier à court
-                           terme de cette mutualisation.</p>
-                        <p>D'autre part, envisageant comme évolution future la
-                           publication des sources à partir d'une base de données XML
-                           native, dans une telle configuration la création d'un
-                           entrepôt OAI-PMH deviendrait à ce moment là pour ainsi dire
-                           triviale.</p>
+                           terme de cette mutualisation. D'autre part, envisageant
+                           comme évolution future la publication des sources à partir
+                           d'une base de données XML native, dans une telle
+                           configuration la création d'un entrepôt OAI-PMH deviendrait
+                           à ce moment là pour ainsi dire triviale<note place="foot"><p>Dans un tel dispositif, il suffit de préparer à l'avance les requêtes Xquery qui génèrent dynamiquement chacune des pages qui constituent l'entrepôt d'après le protocole.</p></note>.</p>
                      </div>
                      <div>
                         <head>L'absence de SiteMap</head>
@@ -3986,19 +4014,20 @@
                         <p>Ce sitemap n'a finalement pas été produit lors de la
                            réalisation du site. Compte-tenu de l'arborescence du site
                            et de la configuration de ses pages HTML, le référencement
-                           ne devrait pas poser trop de problèmes. Une première
+                           ne devrait pas poser trop de difficultés. Une première
                            indexation accidentelle du site par le moteur de recherche
                            Google a confirmé cette première impression. Toutefois, la
                            production d'un plan de site reste nécessaire notamment en
                            vue d'un moissonnage du site web par le moteur de recherche
                               Isidore<note place="foot">
                               <p>{IsidoreAccèsAux}</p>
-                           </note>. Comme un sitemaps se contente de répertorier les
+                           </note>. Comme un sitemap se contente de répertorier les
                            URLs d'un site ainsi que les métadonnées concernant chacune
                            de ces pages (date de dernière modification, fréquence de
                            révision et importance relative par rapport aux autres URLs
                            du site), sa production devrait être relativement aisée au
-                           vu de la structure régulière du site.</p>
+                           vu de la structure régulière des contenus publiés et de
+                           l'arborescence du site.</p>
                      </div>
                   </div>
                   <div>
@@ -4023,20 +4052,20 @@
                            fonctionnalité. Malgré notre insistance, nous avons été
                            contraints d'y renoncer pour des raisons techniques.</p>
                         <p>L'interface de l'application propose une barre de navigation
-                           avec des boutons et des onglets. Celle-ci doit être en
-                           position fixe pour toujours être disponible pour
+                           avec des boutons et des onglets. Celle-ci nécessite d'être
+                           en position fixe pour toujours être à la disposition de
                            l'utilisateur lors de la consultation. Le modèle de contenu
                            de CSS, et la propriété utilisée, ne permet pas de
                            déterminer une position fixe qui soit seulement verticale.
                            Or, le redimensionnement des colonnes nécessiterait de
-                           pouvoir recalculer le positionnement de des barres de
-                           navigation des colonnes adjacente.</p>
+                           pouvoir recalculer le positionnement des barres de
+                           navigation des colonnes adjacentes.</p>
                         <p>Il n'est pas impossible de réaliser une telle interface
-                           utilisateur, notamment en utilisant Javascript. Le marché ne
-                           portait pas sur la conception d'une interface graphique
-                           présentant un tel niveau de complexité, et il convenait de
-                           faire des choix en fonction de priorités parmi les
-                           fonctionnalités.</p>
+                           utilisateur, notamment en utilisant Javascript. Toutefois,
+                           le marché ne portait pas sur la conception d'une interface
+                           graphique présentant un tel niveau de complexité, et il
+                           convenait de faire des choix en fonction de priorités parmi
+                           les fonctionnalités.</p>
                      </div>
                      <div>
                         <head>Une page distincte pour la consultation en une
@@ -4046,9 +4075,9 @@
                            générale de l'application. Les colonnes étant de largeur
                            fixe, l'écran devenait presque vide lorsque l'on n'affichait
                            qu'une seule version d'un manuscrit dépourvu de planches
-                           (comme les commodités par exemple). Une telle configuration
-                           d'écran se révélait relativement frustrante pour
-                           l'utilisateur et difficilement compréhensible.</p>
+                           (comme les Servitudes par exemple). Une telle configuration
+                           d'écran difficilement compréhensible pour l'utilisateur et
+                           se révélait relativement frustrante.</p>
                         <p>Afin de corriger ce problème et d'augmenter le confort de
                            lecture, d'un commun accord avec la graphiste et la
                            développeuse, il a été décidé de proposer au lecteur un
@@ -4057,7 +4086,7 @@
                            suppression des colonnes de droite dans le module de
                            comparaison des manuscrits ou directement et en premier,
                            lors de la consultation d'un cours.</p>
-                        <p>Ce changement nous a conduit à préciser la séquence de
+                        <p>Un tel changement nous a conduit à préciser la séquence de
                            visualisation en distinguant la consultation d'un manuscrit
                            de la comparaison des manuscrits. Une distinction qui
                            clarifiait finalement un dispositif que nous avions du mal à
@@ -4072,12 +4101,13 @@
                            utilisateur.</p>
                      </div>
                      <div>
-                        <head>Le site n'est pas en responsive design</head>
-                        <p>Le dispositif de comparaison des manuscrits qui ménage
-                           plusieurs colonnes n'est pas complètement dépourvu
-                           d'inconvénients. Les barres de défilement de chaque colonnes
+                        <head>Le site n'est pas en <foreign xml:lang="eng">responsive
+                              design</foreign></head>
+                        <p>Le choix d'un dispositif de comparaison des manuscrits qui
+                           ménage plusieurs colonnes n'est pas complètement dépourvu
+                           d'inconvénients. Les barres de défilement de chaque colonne
                            sont produites en javascript. Leur positionnement est
-                           calculée d'après la hauteur de la page. De ce fait, même si
+                           calculé d'après la hauteur de la page. De ce fait, même si
                            le site a été conçu en testant son affichage sur une
                            tablette, il ne s'adapte pas vraiment à des modifications du
                            contexte d'affichage comme le zoom ou le renversement de
@@ -4092,20 +4122,24 @@
                      <p>Les premiers choix d'encodages effectués pour les figures
                         avaient le mérite d'une certaine simplicité. Dans la Solution
                         initiale on se contentait de pointer vers une version du
-                        fichier avec un élément <gi>graphic</gi> directement compris
-                        dans l'élément <gi>figure</gi>. Pour faciliter la production de
-                        l'application web, il était nécessaire de mieux renseigner la
-                        localisation des avatars numériques des planches et leur
-                        différents formats. Il a donc été décidé, d'un commun accord avec le
-                        développeur, de faire évoluer le schéma TEI pour renseigner
-                        directement dans le fichier, de manière distincte et explicite, 
-                        la localisation des images à afficher dans l'application dans
-                        leurs trois formats (fac simili, miniatures, vues
-                        intermédiaires). Dès lors, comme il devenait intéressant de
-                        pouvoir apparier ces trois éléments <gi>graphic</gi>, on a saisi
-                        l'occasion pour créer un élément <gi>facsimile</gi> dans chaque fichier
-                        et adopter un schéma plus conforme aux recommandations de la
-                        TEI.</p>
+                        fichier avec un élément <gi>graphic</gi> directement compris au
+                        sein des éléments <gi>figure</gi>. Pour faciliter la production
+                        de l'application web, il était nécessaire de mieux renseigner
+                        la localisation des avatars numériques des planches et leur
+                        différents formats. Il a donc été décidé, d'un commun accord
+                        avec le développeur, de faire évoluer le schéma TEI pour
+                        renseigner directement dans le fichier, de manière distincte et
+                        explicite, la localisation des images à afficher dans
+                        l'application dans leurs trois formats (<foreign xml:lang="lat"
+                           >fac simili</foreign>, miniatures, vues intermédiaires). Dès
+                        lors, comme il devenait intéressant de pouvoir apparier ces
+                        trois éléments <gi>graphic</gi>, on a saisi l'occasion pour
+                        créer un élément <gi>facsimile</gi> dans chaque fichier et
+                        adopter un schéma plus conforme aux recommandations de la TEI.
+                        Cette solution finalement retenue présentait également
+                        l'avantage de préparer le renseignement des <foreign
+                           xml:lang="lat">facsimili</foreign> des pages de texte dans
+                        le fichier TEI en vue d'une édition hyper-diplomatique.</p>
                   </div>
                </div>
                <div type="chapter" n="2">
@@ -4115,27 +4149,28 @@
                      l'édition en ligne des cours de Desgodets permet de mettre à
                      disposition du chercheur l'ensemble des transcriptions
                      diplomatiques des cours de l'architecte identifiés à travers le
-                     monde. Chacun de ces témoins manuscrit est accompagné de
+                     monde. Chacun de ces témoins manuscrits est accompagné de
                      métadonnées descriptives et des reproductions des planches. Pour
                      chacun des cours, l'édition en ligne propose une édition critique
                      comprenant un important arsenal critique ainsi que des index.</p>
                   <div>
                      <head>Le recettage du produit livré</head>
-                     <p>L'application web a été réalisée à l'aide de PHP et de XSLT.
-                        Plus précisément, il s'agit d'un site statique produit
-                        dynamiquement à partir des sources XML-TEI à l'aide de
-                        programmes XSLT lancés par des scripts PHP. Sauf les éléments
-                        mentionnés plus haut auxquels on avait dû renoncer au cours du
-                        projet ou pour lesquels d'autres solutions avaient été
-                        trouvées, les principales fonctionnalités qui figuraient au
-                        cahier des charge ont été remplies.</p>
+                     <p>L'application web a été réalisée à l'aide du langage PHP
+                        (Hypertext Preprocessor) et de XSLT (eXtensible Stylesheet
+                        Language Transformations). Plus précisément, il s'agit d'un
+                        site statique produit dynamiquement à partir des sources
+                        XML-TEI à l'aide de programmes XSLT lancés par des scripts PHP.
+                        Sauf les éléments mentionnés plus haut auxquels on avait dû
+                        renoncer au cours du projet ou pour lesquels d'autres solutions
+                        avaient été trouvées, les principales fonctionnalités qui
+                        figuraient au cahier des charges ont été remplies.</p>
                      <p>Le recettage de l'application web est encore en cours. Cette
                         opération consiste à vérifier en détail l'ensemble des
                         fonctionnalités du site en listant les problèmes en vue de leur
                         correction. Un premier recettage global de l'application est
                         déjà intervenu portant principalement sur l'interface graphique
                         et les fonctionnalités d'affichage. Il reste encore à contrôler
-                        le détail de l'affichage des transformations XSLT.</p>
+                        le détail du résultat des transformations XSLT.</p>
                      <p>Conformément au marché, nous disposons d'une garantie d'un an
                         sur l'application, ce qui laisse un certain temps pour
                         éventuellement identifier des vices cachés. Une maintenance est
@@ -4158,14 +4193,14 @@
                         et sa qualité.</p>
                   </div>
                   <div>
-                     <head>Les parties du site livrées par nos soin</head>
+                     <head>Les parties du site livrées par nos soins</head>
                      <p>Afin d'alléger le travail du prestataire et permettre de mieux
-                        faire aboutir certains développement, il lui a été proposé de
-                        prendre en charge certains développement. Ainsi, c'est nous qui
-                        avons installé et configuré le moteur de recherche Solr pour le
-                        traitement du corpus. Le programme d'importation des sources
+                        faire aboutir certains développements, il lui a été proposé de
+                        prendre en charge certains aspects. Ainsi, c'est nous qui avons
+                        installé et configuré le moteur de recherche Apache Solr pour
+                        le traitement du corpus. Le programme d'importation des sources
                         dans le moteur de recherche a également été rédigé par nos
-                        soins (tei2Solr.xsl).</p>
+                        soins (voir le fichier tei2Solr.xsl).</p>
                      <p>Nous avons également prêté main forte dans la production des
                         transformations XSLT. C'est nous qui avons par exemple préparé
                         la présentation des métadonnées des pages (tei2DC.xsl) et qui
@@ -4174,7 +4209,7 @@
                   <div>
                      <head>La conformité aux standards </head>
                      <p>Le résultat final est conforme à un certain nombre de
-                        standards. D'après les <title>Guidelines</title> de la TEI Un
+                        standards. D'après les <title>Guidelines</title> de la TEI, un
                         document est jugé conforme s'il :<list>
                            <item>est un document XML bien formé</item>
                            <item>peut être validé contre un <hi rend="italic">schéma
@@ -4204,13 +4239,16 @@
                         </list>Pour évaluer la qualité du travail réalisé, on peut
                         également se référer à plusieurs recommandations publiées dans
                         le monde anglo-saxon pour l'évaluation de projets numériques.
-                        Nous pensons notamment à celles publiées par la Modern Language
-                           Association<note place="foot">{GuidelinesForEvaluatingWork},
-                           {GuidelinesForEditorsOf}</note> ou The American Association
-                        for History and Computing (AAHC)<note place="foot"
-                           >{TheAmericanAssociationFor}</note>, ou encore par Todd
-                        Pressner pour l'Initiative for Digital Humanities, Media, adn
-                        Culture Sites en 2011<note place="foot">{Presner}</note>.</p>
+                        Nous pensons notamment à celles publiées par la <orgName>Modern
+                           Language Association</orgName><note place="foot"
+                           >{GuidelinesForEvaluatingWork},
+                           {GuidelinesForEditorsOf}</note> ou <orgName>The American
+                           Association for History and Computing (AAHC)</orgName><note
+                           place="foot">{TheAmericanAssociationFor}</note>, ou encore
+                        par <persName>Todd Pressner</persName> pour
+                           l'<orgName>Initiative for Digital Humanities, Media, and
+                           Culture Sites</orgName> en <date when="2011"
+                           >2011</date><note place="foot">{Presner}</note>.</p>
                      <p>L'édition est complète et normalement aucun témoin n'a été
                         oublié. La transcription des témoins manuscrits a été comparée
                         par les auteurs de l'édition, et le texte des transcriptions
@@ -4247,7 +4285,7 @@
                   
                </div>
                <div type="chapter" n="3">
-                  <head>Bilan et évolution futures de l'application</head>
+                  <head>Le bilan et les évolutions futures de l'application</head>
                   <div>
                      <head>L’apport de l’application à l’étude du corpus</head>
                      <div type="introduction">
@@ -4282,17 +4320,17 @@
                      <div>
                         <head>Les différences entre l'édition électronique et l'édition
                            imprimée</head>
-                        <p>L’édition électronique possède de nombreux avantages
-                           pratiques sur l’édition imprimée. D’abord, elle est de loin
-                           moins coûteuse à produire et peut être directement mise à
-                           disposition d’un très grand nombre de lecteurs. Surtout elle
-                           rend possible des recherches textuelle et permet d’accéder
-                           rapidement aux informations qu'elles contiennent en
-                           utilisant l'hypertextualité.</p>
+                        <p>L’édition électronique proposée possède de nombreux
+                           avantages pratiques sur l’édition imprimée. D’abord, elle
+                           est de loin moins coûteuse à produire et peut être
+                           directement mise à disposition d’un très grand nombre de
+                           lecteurs. Surtout elle rend possible des recherches
+                           textuelles et permet d’accéder rapidement aux informations
+                           qu'elles contiennent en utilisant l'hypertextualité.</p>
                         <p>À cet égard, l'utilisation de l'hypertexte rend
                            particulièrement maniable toute l'information para-textuelle
                            qui peut accompagner l'édition. Les index électroniques, et
-                           les listes d’occurrences s'ils existent aussi dans le format
+                           les listes d’occurrences lorsqu'ils existent dans le format
                            papier sont bien moins maniables qu'avec le numérique. De
                            surcroît, l'édition électronique permet d'envisager des
                            traitements automatisés qui présentent un réel gain de temps
@@ -4313,16 +4351,19 @@
                            iconographique d'accompagnement dans le cadre de l'édition
                            des cours de Desgodets avant d'y renoncer faute de solution
                            satisfaisante pour intégrer ce contenu. Néanmoins, le
-                           numérique permet un enrichissement pratiquement sans limites
-                           par des contenus iconographiques.</p>
-                        <p>La séparation de la source du commentaire que permet le
-                           balisage de contenu, sans garantir plus d'honnêteté et de
+                           numérique permet en principe un enrichissement pratiquement
+                           sans limites par des contenus iconographiques.</p>
+                        <p>La séparation de la source du commentaire que qu'offre le
+                           balisage du contenu, sans garantir plus d'honnêteté et de
                            transparence, autorise la signature des interventions. On
-                           peut même envisager la production d'un texte social. Il est
-                           en effet possible de proposer plusieurs points de vue sur le
-                           texte. Le lecteur conserve ainsi la possibilité de consulter
-                           les différents états du texte sans privilège du choix opéré
-                           par l'éditeur.</p>
+                           peut même envisager la production d'un texte social et
+                           contributif, une piste qui n'a pas été explorée dans le
+                           projet. Ici nous nous contentons de livrer à l'étude des
+                           chercheurs le texte chaque témoin manuscrits collationnés.
+                           Mais il est également possible de proposer plusieurs points
+                           de vue sur le texte. Le lecteur conserve ainsi la
+                           possibilité de consulter les différents états du texte sans
+                           privilège du choix opéré par l'éditeur.</p>
                         <p>Dans un tel contexte, il n'y a plus de texte définitif. Le
                            numérique est un support labile qui permet les
                            enrichissements successifs et les améliorations.
@@ -4331,9 +4372,12 @@
                            comme un objet terminé, il n'est plus nécessaire d'attendre
                            l'achèvement complet du travail pour mettre à disposition le
                            matériel ou exposer le travail en cours. De telles
-                           dispositions peuvent toutefois heurter les cadres de pensée.
-                           La publication du texte des témoins a ainsi fait l'objet de
-                           discussions assez vives au sein de notre équipe.</p>
+                           dispositions peuvent toutefois heurter les cadres de pensée
+                           habituels. La publication du texte des témoins comme
+                           matériel justificatif a ainsi fait l'objet de discussions
+                           assez vives au sein de notre équipe, la majorité des membres
+                           ne souhaitant pas publier de contenus avait qu'ils n'aient
+                           été entièrement révisés.</p>
                         <p>La finesse de l'enregistrement que le balisage rend possible
                            est paradoxalement parfois difficile à exprimer de manière
                            typographique. Car le support numérique ne fait pas
@@ -4347,15 +4391,16 @@
                      </div>
                      <div>
                         <head>L'accessibilité</head>
-                        <p>Au début Edward Vanhoutte soulevait avec sa présentation
-                              <title>A Bag of Words</title>, la question de ce que
-                           pourrait être une édition numérique et ce qu'elle est en
-                           définitive aux prises avec diverses contraintes qui pèsent
-                           sur sa production. Il déconstruisait à cette occasion
-                           plusieurs mythes sur la nature des éditions numériques.
-                           Notamment le fait que celles-ci seraient plus accessibles,
-                           ou permettrait d'offrir un accès plus rapide ou plus direct
-                           à des sources que des éditions imprimées.</p>
+                        <p>Dans sa présentation de 2013, <title>A Bag of Words</title>,
+                              <persName>Edward Vanhotte</persName> soulèvait la
+                           question de ce que pourrait être une édition numérique par
+                           rapport à ce qu'elle est en définitive aux prises avec
+                           diverses contraintes qui pèsent sur sa production. Ce
+                           faisant, il déconstruisait à cette occasion plusieurs mythes
+                           sur la nature des éditions numériques. Notamment le fait que
+                           celles-ci seraient plus accessibles, ou permettrait d'offrir
+                           un accès plus rapide ou plus direct à des sources que des
+                           éditions imprimées.</p>
                         <p>Une édition imprimée est par nature accessible, généralement
                            fournie pour une audience clairement ciblée et lorsqu'il
                            s'agit d'une édition scientifique elle adopte le plus
@@ -4365,26 +4410,26 @@
                               différente</quote>. Le media numérique permet notamment
                            la recherche plein texte que n'offre pas le support imprimé.
                            Notre édition numérique met également en place toute une
-                           série d'index dont l'utilisation repose sur
+                           série d'index dont l'utilisation repose entièrement sur
                            l'hypertextualité.</p>
                      </div>
                      <div>
-                        <head>Donner plus de choix au lecteur</head>
+                        <head>Offrir plus de choix au lecteur</head>
                         <p>Qu’importe l’honnêteté ou la transparence de l’éditeur, le
                            support imprimé impose une structure particulière, une
                            séquence, une mise en page, etc. Ce qui change avec
                            l'électronique ce sont les hiérarchies qui libèrent les
                            choix du lecteur. Mais le numérique n'est pas sans
                            conséquence sur le texte lui-même et sa lecture.</p>
-                        <p>Avec une édition électronique, il est possible de proposer
-                           au lecteur la possibilité de produire sa propre édition en
-                           fonction de ses lectures ou des utilisations qu'il souhaite
-                           faire de la source. Bien sûr pour ce faire il demeure
-                           nécessaire que l'éditeur ait considéré à l'avance ces
-                           questions de sorte qu'il puisse ménager les utilisations
-                           possibles en laissant libre le plus de choix possible. Il
-                           s'agit donc de produire un dispositif, d'offrir selon
-                           l'expression de Corinne Welger-Barboza un <q>corpus
+                        <p>Avec une édition électronique, on peut également de proposer
+                           au lecteur de produire sa propre édition en fonction de ses
+                           lectures ou des utilisations qu'il souhaite faire de la
+                           source. Bien sûr pour ce faire il demeure nécessaire que
+                           l'éditeur ait considéré à l'avance ces questions de sorte
+                           qu'il puisse ménager les utilisations potentielles en
+                           laissant libre le plus de choix possibles. Il s'agit donc de
+                           produire un dispositif, d'offrir selon l'expression de
+                              <persName>Corinne Welger-Barboza</persName> un <q>corpus
                               outillé</q>.</p>
                         <p>L'édition que nous avons mise en place pour les cours de
                            Desgodets propose plusieurs fonctionnalités au lecteur : <list>
@@ -4436,7 +4481,7 @@
                            immédiatement accessible avec le support informatique. Un
                            tel constat explique les manifestations de craintes
                            habituellement exprimées quant à la durabilité d'une édition
-                           numérique. De fait le media est plus fragile que le papier
+                           numérique. De fait, le média est plus fragile que le papier
                            mais le contenu peut également être copié à l'identique sans
                            perte.</p>
                         <p>En matière d'édition électronique, même s'il ne règle pas
@@ -4453,8 +4498,8 @@
                            stricte. Il s'agissait de fournir une transcription
                            détaillée de tous les manuscrits des cours conservés à
                            travers le monde. Une stricte fidélité à l'écrit a été mise
-                           en œuvre quand bien même il ne s'agissait pas de manuscrit
-                           autographes.  Dans la mesure du possible, et bien que la
+                           en œuvre quand bien même il ne s'agissait pas de manuscrits
+                           autographes. Dans la mesure du possible, et bien que la
                            neutralité d'une édition soit un leurre, une telle politique
                            éditoriale permettait de laisser le lecteur libre de définir
                            ses propres conclusions interprétatives plutôt que d'imposer
@@ -4510,9 +4555,9 @@
                            proposé une forme modernisée notamment pour faciliter les
                            recherches. Reste que la recherche plein texte n'est pas
                            sans écueil car l'ensemble du texte ne l'a pas été. Enfin
-                           les possibilités offertes par le media numérique d'offrir
-                           plusieurs vues différentes sur le même texte à partir d'un
-                           même balisage n'ont pas vraiment été exploitées. </p>
+                           les possibilités offertes par le support numérique de
+                           proposer plusieurs vues différentes sur le même texte à
+                           partir d'un même balisage n'ont pas vraiment été exploitées. </p>
                      </div>
                      <div>
                         <head>Un processus de production consistant et contrôlé</head>
@@ -4590,9 +4635,9 @@
                            XPath par exemple, il pourrait s'avérer utile de traiter les
                            sources dans une base de données XML native. Une telle base
                            de données pourrait permettre d'offrir une interrogation
-                           plus riche et plus systématique. Travail d'enrichissement
+                           plus riche et plus systématique. <!--Travail d'enrichissement
                            manuel que peut assister par la machine pour produire une
-                           analyse plus riche du texte.</p>
+                           analyse plus riche du texte.--></p>
                      </div>
                      <div>
                         <head>La recherche plein-texte</head>
@@ -4609,7 +4654,7 @@
                            manière sémantique. Il devrait être possible de capitaliser
                            sur l'effort conduit pour relier les entrées d'index et les
                            références bibliographiques avec des catalogues d'autorité
-                           pour publier des données en RDFa.</p>
+                           pour publier des données en RDFa<note place="foot"><p>RDFa est une syntaxe qui permet de décrire des contenus structurés dans une page web.</p></note>.</p>
                      </div>
                      <div>
                         <head>La réutilisation du modèle</head>
@@ -4618,7 +4663,7 @@
                            sources manuscrites de l'époque moderne, nous pensons que la
                            personnalisation de la TEI réalisée dans le cadre de
                            l'édition des cours de Desgodets pourrait être
-                           avantageusement être employée dans d'autres projets de
+                           avantageusement employée dans d'autres projets de
                            publication de sources primaires en histoire de
                            l'architecture. Afin de favoriser l'édition des sources
                            primaires en XML-TEI dans ce domaine, il nous a donc semblé,
@@ -4628,8 +4673,8 @@
                            transformations XSLT développées dans le cadre du
                            projet.</p>
                         <p>Cette mise à disposition interviendra sur la plate-forme
-                           Github dans le cadre d'un projet intitulé
-                           publicarchitectura. Les différents outils mis en place
+                           <title>Github</title> dans le cadre d'un projet intitulé
+                           <title>publicarchitectura</title>. Les différents outils mis en place
                            devront être révisés et leur documentation améliorée dans ce
                            cadre pour faciliter leur réutilisation. Plusieurs projets
                            en cours pourraient déjà être intéressés par leur mise à
@@ -4645,7 +4690,7 @@
                   </div>
                </div>
                <div> <p>Il est habituel qu'un projet éprouve en cours de réalisation des modifications et
-                     des adaptations plus pour moins importantes. Ces changements, plus
+                     des adaptations plus ou moins importantes. Ces changements, plus
                      ou moins heureux selon qu'ils sont provoqués par des
                      impossibilités techniques ou des solutions inattendues découvertes
                      dans le cours du développement appartiennent à la vie propre d'un
@@ -4665,22 +4710,22 @@
                <head>Conclusion</head>
                <p>L'édition critique du corpus cours de Desgodets était un projet
                   collectif de grande ampleur qui mobilisant des savoirs divers :
-                  historiens d'art, historiens du droit, spécialistes des textes.
+                  historiens d'art, historiens du droit, historiens des sciences et des techniques, spécialistes des textes.
                   L'adoption de la TEI pour la réalisation de l'édition critique a
-                  fortement structuré   l'ensemble du projet en fournissant à la fois
-                  un cadre de travail technique et une méthode pour penser l'édition
-                  des textes. Sa mise en œuvre, tout comme son utilisation pour la
+                  fortement structuré l'ensemble du projet en fournissant à la fois un
+                  cadre de travail technique et une méthode pour penser l'édition des
+                  textes. Sa mise en œuvre, tout comme son utilisation pour la
                   production de l'application web de consultation, impliquait de
                   disposer d'une double compétence de chercheur et de technicien. Ce
                   double regard s'est révélé à la fois nécessaire pour jouer un rôle de
                   passeur entre les différents intervenants qui ont concouru à mener à
                   bien l'édition des cours d'une part, et ceux qui ont conçu et élaboré
-                  leur publication dans une application web. C'est cette perspective
+                  leur publication dans une application web d'autre part. C'est cette perspective
                   qui a également permis en grande partie de formuler des choix
                   relativement ambitieux en matière de production d'une application de
                   consultation à même de servir au mieux l'étude des textes en tirant
                   le plus possible parti des possibilités offertes aujourd'hui par le
-                  media numérique.</p>
+                  média numérique.</p>
                <p />
             </div>
             <!-- générer une bibliographie -->
@@ -4720,8 +4765,10 @@
                   au moins pour la beauté du geste et à fins d'expérimentation. La
                   gestion des références bibliographiques a été assurée par le logiciel
                   Sente. La transformation du fichier source, prise en charge par les
-                  feuilles de transformation TEI de Sebastian Rahtz, a permis de
-                  produire le document qui a été mis en forme.</p>
+                  feuilles de transformation TEI de <persName>Sebastian
+                     Rahtz</persName>, a permis de produire le document qui a été
+                  composé en TheSerif et TheMix avec un logiciel dont, après tout ça,
+                  on taira le nom.</p>
             </div>
             <div xml:id="desgodetsMemoireBackFr06" type="appendix">
                <head>Annexes (papier)</head>
