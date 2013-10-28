@@ -3626,7 +3626,7 @@
                               foliotage s'est révélée très efficace. Cependant elle
                               posait des problèmes assez importants lorsque des marques
                               de pagination avaient été oubliées ou lors d'erreurs dans
-                              la numérotation portée sur le manuscrits. Cette
+                              la numérotation portée sur le manuscrit. Cette
                               information étant cruciale pour la citabilité, il a fallu
                               vérifier manuellement l'ensemble de la pagination et
                               parfois revenir au manuscrit pour traiter les
@@ -3637,31 +3637,31 @@
                         <head>Évaluation de l’approche</head>
                         <p>Bien que l'importation automatique des documents de
                            traitement de texte ne se soit pas avérée dépourvue
-                           d'écueils ou de difficultés, l'utilisation de transformation
-                           XSLT s'est révélée être une solution particulièrement
-                           efficace compte-tenu de l'importance du balisage à
-                           effectuer. Sans cette automatisation, il n'aurait pas été
-                           possible de traiter manuellement l'ensemble des fichiers.
-                           Une telle automatisation nécessite cependant un contrôle
-                           qualité relativement serré, c'est pour cette raison que nous
-                           avons notamment renoncé à produire une chaîne de transformation
-                           continue. Il nous a en effet paru plus sûr de procéder par
-                           étapes en contrôlant à chaque fois le résultat de la
-                           transformation. Une telle approche permettait également de
-                           corriger, au cas par cas, les différents problèmes de respect
-                           des consignes. Toutefois, rapportées au nombre d'éléments
-                           marqués, et malgré plusieurs inconsistances entre les
-                           fichiers, on a été relativement surpris par la qualité du
-                           travail effectué. Par ailleurs, l'expressivité du
-                           pseudo-balisage ne permettant pas de traiter complètement
-                           tous les besoins, il a été nécessaire de revenir à la main
-                           sur certains éléments. Si l'utilisation d'un modèle de
-                           document de traitement de texte pour préparer une édition
-                           critique XML-TEI ne constitue pas une approche idéale, c'est
-                           une méthode acceptable et efficace pour préparer l'édition
-                           moyennant un travail relativement important de
-                           post-traitement conduit par une personne qui dispose d'une
-                           bonne connaissance de la TEI.</p>
+                           d'écueils ou de difficultés, l'utilisation de
+                           transformations XSLT s'est révélée être une solution
+                           particulièrement efficace compte-tenu de l'importance du
+                           balisage à effectuer. Sans cette automatisation, il n'aurait
+                           pas été possible de traiter manuellement l'ensemble des
+                           fichiers. Une telle automatisation nécessite cependant un
+                           contrôle qualité relativement serré, c'est pour cette raison
+                           que nous avons notamment renoncé à produire une chaîne de
+                           transformation continue. Il nous a en effet paru plus sûr de
+                           procéder par étapes en contrôlant à chaque fois le résultat
+                           de la transformation. Une telle approche permettait
+                           également de corriger, au cas par cas, les différents
+                           problèmes de respect des consignes. Toutefois, rapportées au
+                           nombre d'éléments marqués, et malgré plusieurs
+                           inconsistances entre les fichiers, on a été relativement
+                           surpris par la qualité du travail effectué. Cependant,
+                           l'expressivité du pseudo-balisage ne permettant pas de
+                           traiter complètement tous les besoins, il a été nécessaire
+                           de revenir à la main sur certains éléments. Si l'utilisation
+                           d'un modèle de document de traitement de texte pour préparer
+                           une édition critique XML-TEI ne constitue pas une approche
+                           idéale, c'est une méthode acceptable et efficace pour
+                           préparer l'édition moyennant un travail relativement
+                           important de post-traitement conduit par une personne qui
+                           dispose d'une bonne connaissance de la TEI.</p>
                      </div>
                   </div>
                </div>
@@ -3700,7 +3700,7 @@
                         relativement étendu du service de communication synchrone de
                         Microsoft Skype avec la développeuse web. Ce service c'est
                         notamment révélé très utile compte-tenu de la diversité des
-                        modalités de communications qu'ils offrait : chat, discussions
+                        modalités de communications qu'il offrait : tchat, discussions
                         de vive voix, conservation de la trace des échanges équivalente
                         à des relevés de décisions. Il permettait par exemple de
                         constater la présence de son interlocuteur derrière son écran
@@ -3718,12 +3718,13 @@
                            d'encodage. Elle a également permis, lorsque cela était
                            nécessaire, d'apporter des modifications marginales au
                            modèle par exemple pour faciliter la production des
-                           transformation, en ajoutant par exemple des attributs pour
+                           transformations, en ajoutant par exemple des attributs pour
                            distinguer le fichier édité des autres éléments du corpus,
-                           pour déterminer l'emplacement préférable pour présenter le
-                           tableau de tradition, etc.</p>
+                           pour déterminer l'emplacement préférable pour recevoir les
+                           données destinées à produire le tableau de tradition,
+                           etc.</p>
                            <p>Outre les difficultés propres au langage XSLT, une des
-                           difficultés du projet pour le prestataires résidait dans la
+                           difficultés du projet pour le prestataire résidait dans la
                            nécessité de se familiariser avec le vocabulaire et la
                            logique de la TEI. Une part importante du travail de suivi
                            de la réalisation de l'application web a consisté à
@@ -3737,11 +3738,15 @@
                            l'application. Plusieurs versions de ce document ont été
                            élaborées en cours de projet afin de tenir compte des
                            décisions arrêtées en cours de réalisation. La version
-                           finale de ce document est fournie en annexe.</p>
+                           finale de ce document est fournie en annexe, elle regroupe
+                           le guide de pré-encodage, la documentation de l'encodage et
+                           le rendu. Le fichier source étant traité en XML-TEI, il est
+                           aisé de produire des documents distincts selon les
+                           besoins.</p>
                      </div>
                      <div>
                         <head>De l'utilité d'une double compétence</head>
-                        <p>Nous pensons que le fait de disposer d'une double
+                        <p>Nous pensons que le fait d'avoir disposé d'une double
                            compétence, à la fois technique et scientifique, a permis
                            d'opérer en amont certains choix de modélisation qui ont
                            largement facilité la transformation des fichiers. Si les
@@ -3750,7 +3755,7 @@
                            de discriminer entre plusieurs manières possibles d'encoder
                            un même phénomène en ayant en tête le traitement ultérieur
                            du fichier.</p>
-                        <p>Lorsque le prestataire rencontrait des difficultés, cette
+                        <p>Lorsque le prestataire rencontrait des problèmes, cette
                            double compétence a également permis de discuter en toute
                            connaissance de cause des différentes solutions possibles
                            avec le prestataire. Dans bien des cas, cette double
@@ -3826,10 +3831,10 @@
                      XML-TEI a tenu un rôle central. Parce que ce modèle conditionnait
                      l'ensemble des traitements qui pouvaient ensuite être réalisés sur
                      les fichiers, c'est en réalité au cours de cette étape du projet
-                     qu'un grand nombre des fonctionnalités de l'application web ont
+                     qu'une grande partie des fonctionnalités de l'application web ont
                      été arrêtées. Bien entendu, cette modélisation découlait
                      directement d'une analyse fonctionnelle précise des besoins
-                     formulée au moment de la définition du cahier des charges. Mais
+                     formulés au moment de la définition du cahier des charges. Mais
                      cette analyse ne pouvait se concevoir sans une bonne connaissance
                      des textes que l'application web devait servir. À cet égard, on
                      peut dire que la TEI peut être considérée comme un ensemble de
