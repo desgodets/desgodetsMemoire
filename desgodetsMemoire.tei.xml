@@ -728,7 +728,7 @@
                         restaient jusqu'à présent relativement peu connus des
                         historiens, faute de n'avoir jamais été publiés. En effet, mis
                         à part les <title>Lois des bâtiments</title> qui dispose d'une
-                        riche tradition éditoriale<note><persName>L'ouvrage qui paraît
+                        riche tradition éditoriale<note place="foot"><persName>L'ouvrage qui paraît
                               de manière posthume mis en ordre par
                                  <persName>Goupy</persName>
                               <date when="1748">en 1748</date> fera l'objet de
@@ -1213,7 +1213,7 @@
                            généralement aucun intérêt du point de vue de la
                            compréhension et de la signification. Une telle attitude
                            semblait admise pour l'édition des textes littéraires
-                           postérieurs à 1600 et surtout à 1700<note><persName>{Varloot
+                           postérieurs à 1600 et surtout à 1700<note place="foot"><persName>{Varloot
                                  1981}</persName></note>. La normalisation des
                            transcriptions paraissait surtout fournir une solution pour
                            réduire le bruit lors de l'étude des variantes à l'aide du
@@ -1985,7 +1985,7 @@
                         en tirant parti de l'infrastructure technique offerte par
                         XML.</p>
                      <p>S'il apparaît rapidement qu'une démarche basée sur un encodage
-                        descriptif du texte comme avec la TEI est plus pertinente, la
+                        descriptif du texte comme avec la TEI est plus pertinente,
                         celle-ci n'offre cependant pas une solution prête à l'emploi.
                         L'encodage est une étape dans un processus plus global qui
                         implique tout d'abord la définition d'un schéma dans lequel on
@@ -1994,7 +1994,7 @@
                         d'encodage qui l'accompagne, il est nécessaire de bien
                         comprendre sa source. Aussi faut-il envisager l'encodage non
                         pas comme une fin en soi, mais plutôt comme un moyen de
-                        travailler et étudier le matériau textuel. </p>
+                        travailler et d'étudier le matériau textuel. </p>
                   </div>
                   <div>
                      <head>Le balisage du texte et le recours à la TEI</head>
@@ -2038,7 +2038,9 @@
                                  d'élément reconnu</item>
                               <item><hi rend="bold">la réalisation du balisage</hi>,
                                  marquage de l'élément.</item>
-                           </list></p>
+                           </list><note place="foot">
+                              <p>{Coombs 1987@942}</p>
+                           </note></p>
                         <p>L'idée d'un balisage descriptif qui repose sur le fait de
                            marquer le contenu d'un texte par des éléments suggère une
                            représentation du texte qui correspond à ce qu'on a appelé
@@ -2054,7 +2056,7 @@
                         <p>Contrairement aux apparences, les logiciels de traitement de
                            texte qui mettent en forme les documents ne simplifient pas
                            la production de documents en éliminant le besoin du
-                           balisage. D'une certainne manière cela est devenu plus clair
+                           balisage. D'une certaine manière cela est devenu plus clair
                            aujourd'hui avec l'adoption des formats XML par Microsoft
                            Word et Open Office. Mais, le balisage requis pour ces
                            formats, tout en étant plus consommateur de ressources,
@@ -2074,8 +2076,8 @@
                                  L'actualisation des styles et la mise à jour s'en
                                  trouvent facilitées sans risque de corruption des
                                  documents.</item>
-                              <item><label n="3">3°</label> Enfin, il fournissent de
-                                 meilleurs standard dans le domaine patrimonial et
+                              <item><label n="3">3°</label> Enfin, ils fournissent de
+                                 meilleurs standards dans le domaine patrimonial et
                                  culturel, ou pour l'industrie, du point de vue de la
                                  portabilité. Ils permettent en effet le partage aisé
                                  des fichiers et réduisent, à terme, les coûts de
@@ -2091,7 +2093,7 @@
                            (présentations) d'un même fichier. De surcroît, ce balisage
                            permet le plus souvent la génération automatique de
                            l'information bibliographique directement à partir du
-                           fichier source (qui réduit les erreurs et permet une
+                           fichier source (ce qui réduit les erreurs et permet une
                            citation aisée dans les bases bibliographiques) ou d'inclure
                            directement des documents dans des bases de données en ligne
                            pour la publication et la recherche plein-texte.</p>
@@ -2123,11 +2125,13 @@
                            compréhensible par les machines, pour définir un langage de
                            balisage descriptif. La plupart des contenus des
                            bibliothèques numériques aujourd'hui mis à disposition sur
-                           le web sont encodés en utilisant un balisage XML. La large
+                           le web sont encodés en utilisant un balisage XML. <quote>La large
                            adoption de vocabulaires XML spécialisés comme la TEI
                            rendent disponible une importante information sémantique,
                            mais seulement sous la forme d'une documentation en prose et
-                           de pratiques partagées.</p>
+                           de pratiques partagées.<note place="foot">
+                              <p>{Renear 2003@304}</p>
+                           </note></quote></p>
                      </div>
                      <div>
                         <head>Le projet de la Text Encoding Initiative</head>
@@ -2179,42 +2183,44 @@
                            conventions pour l'encodage de différents types de textes
                            pour servir dans le domaine des sciences du langage ou des
                            sciences humaines. Cette première publication constitue un
-                           jalon important car jamais précédemment les chercheurs
+                           jalon important car jamais auparavant les chercheurs
                            n'avaient été capables de formuler un consensus sur les
                            pratiques d'encodage.</p>
                         <p>Alors qu'elle avait d'abord été fondée sur l'utilisation de
-                           la syntaxe SGML, la TEI a adopté XML dès la première
-                           publication de sa spécification en 1996, certains membres de
-                           la TEI avaient en effet participé à son développement. Par
-                           la suite, les <title>Guidelines</title> ont été étayées par
-                           l'apport d'autres spécialités pour prendre en charge une
-                           plus grande diversité de textes. On en est aujourd'hui à la
-                           cinquième proposition numérotée P5, et elle est organisée
-                           autour d'un consortium et d'une importante communauté
-                           d'utilisateurs. Conçue un modèle générique de structuration
-                           et de sémantisation des textes, la TEI présente de nombreux
+                           la syntaxe SGML (Standard Generalized Markup Language), la
+                           TEI a adopté XML dès la première publication de sa
+                           spécification en 1996, certains membres de la TEI avaient en
+                           effet participé à son développement. Par la suite, les
+                              <title>Guidelines</title> ont été étayées par l'apport
+                           d'autres spécialités pour prendre en charge une plus grande
+                           diversité de textes. On en est aujourd'hui à la cinquième
+                           proposition numérotée P5, et elle est organisée autour d'un
+                           consortium et d'une importante communauté d'utilisateurs.
+                           Conçue comme un modèle générique de structuration et de
+                           sémantisation des textes, la TEI présente de nombreux
                            avantages. On relève notamment : <list>
                               <item>sa modularité et sa flexibilité</item>
                               <item>son expressivité (niveau de granularité)</item>
-                              <item>qu'il s'agit d'un standard reconnu
+                              <item>le fait qu'il s'agit d'un standard reconnu
                                  internationalement (interopérabilité,
                                  pérennité)</item>
-                              <item>qu'elle dispose des propriétés intrinsèques au
-                                 modèle XML, séparation entre la présentation et le
-                                 contenu, possibilité de générer plusieurs formats de
-                                 sortie à partir de la même source</item>
+                              <item>le fait qu'elle dispose des propriétés intrinsèques
+                                 au modèle XML : séparation entre le contenu et a
+                                 présentation, possibilité de générer plusieurs formats
+                                 de sortie à partir d'une même source</item>
                               <item>son adaptation à l'édition électronique (croisement
                                  de sources, <foreign xml:lang="lat">fac
                                     simili</foreign>, hyperliens, etc.)</item>
                               <item>les possibilités de modulation de l’affichage et
                                  d'accessibilité, ses aspects économiques</item>
                            </list></p>
-                        <p>En dehors du fait qu'elle soit rapidement apparue comme un
+                        <p>Mis à part le fait qu'elle soit rapidement apparue comme un
                            standard de fait pour la publication de textes numériques en
-                           sciences humaines, ce sont ces qualités qui expliquent la
-                           large implantation de la TEI dans la communauté
-                           scientifique. Elle sert de format à de nombreux projets
-                           d'envergure internationale (Blake archive<note place="foot">
+                           sciences humaines, ce sont d'abord ces qualités qui
+                           expliquent la large implantation de la TEI dans la
+                           communauté scientifique. Elle sert de format à de nombreux
+                           projets d'envergure internationale (Blake archive<note
+                              place="foot">
                               <p>{TheWilliamBlakeArchive}</p>
                            </note>, Perseus<note place="foot">
                               <p>{PerseusDigitalLibrary}</p>
@@ -2269,11 +2275,12 @@
                            nouveaux, reste un problème qui n'est toujours pas
                            complètement réglé. Cependant, la TEI a largement été
                            adoptée aujourd'hui dans le secteur académique pour la
-                           publication de sources primaires ou l'édition numérique. On
-                           peut affirmer qu'elle constitue de ce point de vue un
-                           standard de fait qui justifie en grande partie son
-                           utilisation dans un projet scientifique comme l'édition des
-                           cours de <persName>Desgodets</persName>.</p>
+                           publication de sources primaires ou l'édition numérique.
+                           C'est la raison pour laquelle on peut affirmer qu'elle
+                           constitue de ce point de vue un standard de fait qui
+                           justifie en grande partie son utilisation dans un projet
+                           scientifique comme l'édition des cours de
+                              <persName>Desgodets</persName>.</p>
                         <p>À de nombreux égards, le large emploi de la TEI est censé
                            répondre à un désir d'interopérabilité et de pérennisation.
                            La promesse des standards est de nous rendre la vie plus
@@ -2288,28 +2295,29 @@
                            suffit pas que les textes soient tous encodés en TEI pour
                            qu'ils soient véritablement interopérables. Chaque document
                            est représentatif du modèle que se fait l'éditeur du texte.
-                           La compatibilité ne peut être atteinte que si plusieurs
-                           documents suivent le même ensemble de conventions.</p>
+                           Ainsi, la compatibilité ne peut être atteinte que si
+                           plusieurs documents suivent le même ensemble de
+                           conventions.</p>
                      </div>
                      <div>
                         <head>Un certain point de vue sur le texte</head>
                         <p>Il convient donc de garder à l'esprit que n'importe quelle
-                           représentation numérique d'un texte constitue <foreign
-                              xml:lang="lat">ipso facto</foreign> une modélisation, au
-                           sens où un modèle est une réduction de la réalité. Même
-                           lorsqu'on se contente de transcrire une page manuscrite à
-                           l'aide d'un simple traitement de texte, on formule sans en
-                           avoir nécessairement conscience des décisions éditoriales
-                           telles que le choix de l'encodage des caractères, la manière
-                           de représenter tel ou tel aspect typographique, comment
-                           traiter les espaces blancs, ou encore ce qu'il faut faire
-                           des choses que l'on n'est pas en mesure d'entrer au clavier
-                           comme les figures dans le texte ou les symboles dépourvus de
-                           représentation Unicode. Dès lors, le choix des concepteurs
-                           de la TEI d'avoir calé sa sémantique sur la structure de XML
-                           est particulièrement significatif. Le modèle de contenu de
-                           XML est fondé sur l'arborescence, il détermine ainsi une
-                           grande partie de la sémantique de la TEI.</p>
+                           représentation numérique d'un texte constitue une
+                           modélisation de fait, au sens où un modèle est une réduction
+                           de la réalité. <quote>Même lorsqu'on se contente de transcrire une
+                           page imprimée à l'aide d'un simple éditeur de texte, on
+                           formule, sans en avoir nécessairement conscience, nombre de
+                           décisions éditoriales telles que le choix de l'encodage des
+                           caractères, la manière de représenter tel ou tel aspect
+                           typographique avec cet encodage, comment traiter les espaces
+                           blancs, ou encore ce qu'il faut faire des choses que l'on
+                           n'est pas en mesure d'entrer au clavier comme les figures
+                           dans le texte ou les symboles dépourvus de représentation
+                           Unicode.<note place="foot"><p>{Cayless 2011}</p></note></quote> Dès lors, le choix des concepteurs de la TEI qui
+                           consistait à caler sa sémantique sur la structure de XML est
+                           particulièrement significatif. En effet, le modèle de
+                           contenu de XML est fondé sur l'arborescence, il détermine
+                           ainsi une grande partie de la sémantique de la TEI.</p>
                         <p>On considère généralement que SGML puis XML sont des
                            syntaxes adéquates pour exprimer les besoins les plus
                            généraux. Elles ont aussi plusieurs avantages en termes de
@@ -2319,15 +2327,16 @@
                            Plusieurs paragraphes peuvent être réunis dans une division
                               <gi>div</gi>. À l'intérieur d'un paragraphe, on peut
                            marquer un nom de personne ou de lieu à l'aide d'éléments
-                              <gi>persName</gi> ou <gi>placeName</gi>. Une telle
-                           configuration est très commode pour le traitement (<foreign
-                              xml:lang="eng">processing</foreign>), puisqu'il est
-                           relativement trivial de transformer un élément TEI
-                              <gi>div</gi> ou <gi>p</gi> en l'élément HTML
-                           correspondant, ou encore <gi>persName</gi> en un hyperlien qui pointe
-                           vers les informations concernant la personne désignée.
-                           Cependant, cela signifie également que les capacités de
-                           modélisation de la TEI sont celles déterminées par XML.</p>
+                              <gi>persName</gi> ou <gi>placeName</gi>. <quote>Une telle
+                              configuration est très commode pour le traitement
+                                 (<foreign xml:lang="eng">processing</foreign>),
+                              puisqu'il est relativement trivial de transformer un
+                              élément TEI <gi>div</gi> ou <gi>p</gi> en l'élément HTML
+                              correspondant, ou encore <gi>persName</gi> en un
+                              hyperlien qui pointe vers les informations concernant la
+                              personne désignée. Cependant, cela signifie également que
+                              les capacités de modélisation de la TEI sont celles
+                              déterminées par XML.<note place="foot"><p>{Cayless 2011}</p></note></quote></p>
                         <p>Dès 2002, <persName>Buzetti</persName> a avancé que la
                            structure arborescente n'était pas suffisamment expressive
                            pour rendre compte de toute la complexité d'un texte<note
@@ -2357,7 +2366,7 @@
                            texte proprement dit mais seulement une multiplicité de
                            lectures. Or, la lecture constitue de fait un exercice
                            interprétatif, la TEI présente ici au moins l'avantage de
-                           son honnêté dans le fait qu'elle met en avant, et au centre,
+                           son honnête dans le fait qu'elle met en avant, et au centre,
                            les interventions éditoriales là où elles sont le plus
                            manifestes. Il s'agit donc d'être conscient qu'en adoptant
                            ce qui constitue aujourd'hui un standard de fait dans le
@@ -2455,11 +2464,10 @@
                               modélisation à partir d'un échantillon jugé représentatif
                               du corpus. Enfin, lors du passage à l'échelle, il est
                               parfois nécessaire de corriger quelques choix s'avérant
-                              inappropriés ou bien encore pour encore de renforcer le
-                              contrôle par l'intermédiaire du schéma. Le processus
-                              d'élaboration du modèle est donc un processus
-                              incrémentiel, et le schéma n'est pas d'emblée figé dans
-                              le marbre. </p>
+                              inappropriés ou bien encore de renforcer le contrôle par
+                              l'intermédiaire du schéma. Le processus d'élaboration du
+                              modèle est donc un processus incrémentiel, et le schéma
+                              n'est pas d'emblée figé dans le marbre. </p>
                         </div>
                         <div>
                            <head>L'architecture de la TEI</head>
@@ -2484,7 +2492,7 @@
                               <p>Dans l'infrastructure de la TEI, les éléments de la
                                  TEI sont organisés au sein de différents modules qui
                                  les regroupent par type d'utilisation. Il y a au total
-                                 vingt-deux modules d'actuellement définis, dont on
+                                 vingt-deux modules actuellement définis, dont on
                                  trouvera la liste dans le tableau ci-contre. Les trois
                                  modules <ident type="module">core</ident>, <ident
                                     type="module">header</ident> et <ident
@@ -2614,7 +2622,7 @@
                                     <cell><hi rend="bold"><ident type="module"
                                            >textstructure</ident></hi></cell>
                                     <cell>Default text structure</cell>
-                                    <cell>Structure textuelles par défaut</cell>
+                                    <cell>Structures textuelles par défaut</cell>
                                  </row>
                                  <row>
                                     <cell><ident type="module">transcr</ident></cell>
@@ -2691,7 +2699,7 @@
                                     générer un schéma <foreign xml:lang="lat">ad
                                        hoc</foreign> ;</item>
                                  <item><label n="2">2°</label> Utiliser les modules de
-                                    la TEI et spécifier dans ces sous-ensembles quels
+                                    la TEI et spécifier dans ces sous-ensembles quelles
                                     fonctionnalités l'on souhaite activer ;</item>
                                  <item><label>3°</label> Utiliser les modules Relax NG,
                                     et rédiger un schéma d'enveloppe.</item>
@@ -2718,8 +2726,8 @@
                               schéma, la documentation en prose et la documentation de
                               référence des <title>Guidelines</title> dans un seul
                               document. Une spécification ODD est un document XML-TEI
-                              qui utilie le module <ident type="module"
-                              >tagdocs</ident>. Lequel module fournit une série
+                              qui utilise le module <ident type="module"
+                                 >tagdocs</ident>. Lequel module fournit une série
                               d'éléments employés pour spécifier un nouveau schéma, ou
                               des modifications apportées à la structure des éléments
                               TEI afin de générer automatiquement un schéma dans le
@@ -2747,8 +2755,8 @@
                               choisir facilement parmi les composants de la TEI. Roma
                               est également un programme qui utilise un ensemble de
                               transformations XSLT produites par la TEI qui permettent
-                              de traiter des document ODD pour produire en sortie
-                              différents types de documents : des schémas au formats
+                              de traiter des documents ODD pour produire en sortie
+                              différents types de documents : des schémas aux formats
                               requis pour l'édition des documents dans un éditeur XML
                               ou pour la validation de documents XML (Relax NG dans les
                               syntaxes compactes ou étendues, W3C schema, Schematron,
@@ -3011,15 +3019,16 @@
                                  nomenclature. Chaque témoin reçoit un identifiant
                                  unique composé de l'initiale du cours et d'un numéro
                                  d'ordre dans le corpus. Cet identifiant sert à
-                                 produire les noms de fichiers en notation camelBack et
-                                 l'ensemble des identifiants dans l'édition. Les
-                                 identifiants des parties du texte sont fondés sur la
-                                 structure TEI du texte en utilisant leur position à
-                                 l'intérieur des éléments <gi>front</gi>, <gi>body</gi>
-                                 et <gi>back</gi>. </p>
+                                 produire les noms de fichiers en notation
+                                    <soCalled>camelBack</soCalled> et l'ensemble des
+                                 identifiants dans l'édition. Les identifiants des
+                                 parties du texte sont fondés sur la structure TEI du
+                                 texte en utilisant leur position à l'intérieur des
+                                 éléments <gi>front</gi>, <gi>body</gi> et
+                                    <gi>back</gi>. </p>
                            </div>
                            <div>
-                              <head>L'alignement du textes et les images pour ménager
+                              <head>L'alignement des textes et des images pour ménager
                                  leur comparaison</head>
                               <p>Les <title>Guidelines</title> proposent trois
                                  approches pour aligner des passages textuels lorsque
@@ -3085,7 +3094,7 @@
                               <p> L'utilisation d'identifiants uniques rassemble
                                  plusieurs avantages, ceux-ci permettent d'identifier
                                  précisément, à l'exclusion de tout autre, une unité
-                                 textuelle ou un passage dans l'un des manuscrit. Ils
+                                 textuelle ou un passage dans l'un des manuscrits. Ils
                                  constituent donc une bonne pratique notamment pour la
                                  citabilité. Comme on utilise ici l'attribut global de
                                  XML <att>xml:id</att> qui doit nécessairement être
@@ -3120,8 +3129,8 @@
                                  la TEI dans le cadre du projet.</p>
                               <p>Pour le traitement des entrées du glossaire,
                                  l'utilisation de la structure des entrées de
-                                 dictionnaire, bien qu'un peu trop complexe, a paru
-                                 relativement bien adapté au projet.</p>
+                                 dictionnaire, bien qu'un peu trop complexe, a parue
+                                 relativement bien adaptée au projet.</p>
                               <p>Les références bibliographiques utilisent l'élément
                                  tei <gi>biblStruct</gi> qui a le mérite d'offrir une
                                  structure régulière. La structure proposée par les <hi
@@ -3135,7 +3144,8 @@
                            </div>
                            <div>
                               <head>Fichiers de notes critiques et historiques,
-                                 fichiers de figure</head>
+                                 fichiers des <foreign xml:lang="lat"
+                                    >fac-simili</foreign></head>
                               <p>Afin de faciliter l'édition des fichiers de notes
                                  critiques et historiques et l'édition de la liste des
                                  figures, ces éléments qui se trouvaient dans l'élément
@@ -3204,12 +3214,12 @@
                         ces éditeurs au travail. Dans l'absolu, et parce que l'encodage
                         relève à proprement parler du caractère scientifique de
                         l'intervention éditoriale, il aurait sans doute été préférable
-                        que tous les auteurs de l'édition soient formées à la TEI. Pour
+                        que tous les auteurs de l'édition soient formés à la TEI. Pour
                         diverses raisons, notamment liées au fait que les éditeurs
                         travaillaient de façon volontaire sur le projet en sus d'autres
                         activités, il n'a pas été possible comme nous l'avions un
                         moment envisagé de former un certain nombre d'éditeurs à
-                        l'encodage. Seul l'un d'entre eux a en partie été formée, mais
+                        l'encodage. Seul l'un d'entre eux a en partie été formé, mais
                         son intervention sur l'encodage est restée relativement
                         limitée.</p>
                      <p>Rapidement, nous nous sommes orientés vers une approche
@@ -3248,7 +3258,7 @@
                            déterminer à l'avance le rendu final de ces éléments. On
                            comprend donc que la définition de cet éditeur serait
                            fortement orientée par le point de vue sur le texte exprimé
-                           par la modélisation.</p>
+                           par la modélisation<note place="foot"><p>{Cayless 2011a}</p></note>.</p>
                         <p>De par leur utilisation généralisée, on oublie souvent que
                            les logiciels de traitement de texte dits
                               <soCalled>WYSIWIG</soCalled>  présentent également un
@@ -3263,24 +3273,24 @@
                            facilement enregistrables avec un traitement de texte. Si
                            l'encodage n'est qu'un moyen, ce défaut d'expressivité ne va
                            pas sans poser problème.</p>
-                        <p>Il aurait été possible de proposer aux auteurs de l'édition de
-                           travailler avec le mode auteur d'Oxygen. Une telle solution
-                           présentait l'avantage de concilier à la fois un
+                        <p>Il aurait été possible de proposer aux auteurs de l'édition
+                           de travailler avec le mode auteur d'Oxygen. Une telle
+                           solution présentait l'avantage de concilier à la fois un
                            environnement de type <soCalled>WYSIWIG</soCalled> et
                            d'offrir toute l'expressivité de la TEI. Toutefois, elle
                            impliquait un changement d'habitude de travail,
                            l'apprentissage et l'installation d'un nouveau logiciel, et
-                           malgré tout un minimum de connaissances de la TEI de la part des
-                           éditeurs. Hormis avec deux des membres de l'équipe, il n'a
-                           pas été possible de mettre en place une telle solution. Nous
-                           sommes donc partis du cadre de travail même des auteurs de
-                           l'édition en utilisant un modèle de document de traitement
-                           de texte (en l'espèce, Microsoft Word parce qu'il était le
-                           logiciel le plus généralement utilisé au sein des équipes
-                           éditoriales) en vue d'une importation automatisée. La
-                           distance entre ce que permet ce modèle de document et les
+                           malgré tout un minimum de connaissances de la TEI de la part
+                           des éditeurs. Hormis avec deux des membres de l'équipe, il
+                           n'a pas été possible de mettre en place une telle solution.
+                           Nous sommes donc partis du cadre de travail même des auteurs
+                           de l'édition en utilisant un modèle de document de
+                           traitement de texte (en l'espèce, Microsoft Word parce qu'il
+                           était le logiciel le plus généralement utilisé au sein des
+                           équipes éditoriales) en vue d'une importation automatisée.
+                           La distance entre ce que permet ce modèle de document et les
                            règles formulées, et l'expressivité réelle du modèle XML-TEI
-                           utilisé, a nécessité certains ajustement dont nous allons
+                           utilisé, a nécessité certains ajustements dont nous allons
                            également ici rendre compte.</p>
                      </div>
                      <div>
@@ -3303,20 +3313,22 @@
                               attendu en sortie. La rédaction du Guide de pré-encodage
                               s'est donc déroulée parallèlement à celle du Guide
                               d'encodage afin de faciliter le travail de mise en
-                              correspondance. On s'est appuyé, lorsque s'était possible,
-                              sur l'utilisation des styles de document de traitement de
-                              texte, ceux-ci sont en effet assez facilement
-                              récupérables au moyen d'une transformation XSLT. Deux
-                              types de styles sont disponibles dans les logiciels de
-                              traitement de texte, les styles de paragraphes et les
-                              styles de caractères. Leur combinaison pouvait permettre
-                              de traiter en même temps plusieurs phénomènes comme par
-                              exemple la présence d'un titre et le marquage d'un terme
-                              technique.</p>
+                              correspondance. On s'est appuyé, lorsque c'était
+                              possible, sur l'utilisation des styles de document de
+                              traitement de texte, ceux-ci sont en effet assez
+                              facilement récupérables au moyen d'une transformation
+                              XSLT. Deux types de styles sont disponibles dans les
+                              logiciels de traitement de texte, les styles de
+                              paragraphes et les styles de caractères. Leur combinaison
+                              pouvait permettre de traiter en même temps plusieurs
+                              phénomènes comme par exemple la présence d'un titre et le
+                              marquage d'un terme technique.</p>
                            <p>L'expressivité des styles de traitement de texte s'avère
                               cependant limitée lorsqu'il s'agit de fournir une version
                               alternative du texte, une correspondance, ou une
-                              correction. Par ailleurs, nous n'avons pas réussi à
+                              correction. Il n'est pas non plus possible de marquer
+                              plusieurs fois le même passage avec différents styles de
+                              caractères. Par ailleurs, nous n'avons pas réussi à
                               récupérer proprement les entrées d'indexation marquées
                               avec Microsoft Word. Pour traiter ces différents cas de
                               figures, nous avons donc défini une syntaxe permettant
@@ -3369,11 +3381,14 @@
                            quelques difficultés, les choix de pré-encodage se sont
                            révélés suffisamment efficaces pour être traités
                            automatiquement. L'importation des textes pré-encodés a été
-                           conduite au moyen de feuilles de transformation XSLT en
+                           conduite au moyen de feuilles de transformation XSLT
+                           (eXtensible Stylesheet Language Transformations) en
                            s'appuyant sur les feuilles de style TEI développées par
-                           Sebastian Rahtz<note place="foot"><p>{TeicStylesheets}</p></note>. Une série d'outils
-                           complémentaires a été développée en XSLT pour sérialiser les
-                           traitements et préparer les textes de l'édition.</p>
+                           Sebastian Rahtz<note place="foot">
+                              <p>{TeicStylesheets}</p>
+                           </note>. Une série d'outils complémentaires a été développée
+                           en XSLT pour sérialiser les traitements et préparer les
+                           textes de l'édition.</p>
                         <div>
                            <head>Les choix d’automatisation</head>
                            <p>La transformation d'un document de traitement de texte en
@@ -3386,22 +3401,24 @@
                               indications de mise en forme. Dès lors, il est
                               relativement aisé de transformer ce fichier XML en un
                               autre fichier XML dans une syntaxe différente en
-                              employant le langage de programmation XSLT dont c'est la
+                              employant le langage de programmation XSLT (eXtensible
+                              Stylesheet Language Transformations)  dont c'est la
                               destination.</p>
                            <p>Les feuilles de styles TEI développées par Sebastian
                               Rahtz (<title>XSL stylesheets for TEI XML</title>) sont
                               un ensemble de transformation XSLT 2.0 destinées à la
                               TEI. On peut à l'aide de ces feuilles de style réaliser
                               la transformation d'un document TEI vers différents
-                              formats, HTML, LaTex, etc., ou encore transformer
-                              d'autres documents en des documents TEI. Les
-                              transformations sont personnalisables soit en leur
-                              passant des paramètres soit en faisant appel aux
+                              formats, HTML (HyperText Markup Language), LaTex, etc.,
+                              ou encore transformer d'autres documents en des documents
+                              TEI. Les transformations sont personnalisables soit en
+                              leur passant des paramètres soit en faisant appel aux
                               transformations en les incluant dans un autre fichier et
                               en surchargeant les règles (utilisation d'un <foreign
-                                 xml:lang="eng">wrapper</foreign>, c'est-à-dire d'une enveloppe). Nous avions d'abord
-                              envisagé d'utiliser ce mécanisme pour réaliser une
-                              transformation personnalisée des fichiers Word.</p>
+                                 xml:lang="eng">wrapper</foreign>, c'est-à-dire d'une
+                              enveloppe). Nous avions d'abord envisagé d'utiliser ce
+                              mécanisme pour réaliser une transformation personnalisée
+                              des fichiers Microsoft Word.</p>
                            <p>Après plusieurs essais, nous avons renoncé à cette
                               approche. En partie à cause de l'inconsistance du
                               pré-encodage, il nous a rapidement semblé plus commode de
@@ -3467,24 +3484,27 @@
                            </div>
                            <div>
                               <head>L'utilisation d'expressions régulières</head>
-                              <p>Afin de faciliter le travail d'importation, nous avions
-                              demandé aux auteurs de l'édition, outre le stylage de
-                              des portions de texte à indexer, de fournir une entrée normalisée et, pour
-                              les index patronymique et toponymique, un identifiant
-                              pérenne dans le catalogue de la bibliothèque nationale de
-                              France. La récupération de ces informations nécessitait
-                              l'utilisation d'une expression régulière. Une expression
-                              régulière, ou regex (<foreign xml:lang="eng">regular
-                                 expression</foreign>), ou encore expression
-                              rationnelle, désigne une chaîne de caractères que l'on
-                              appelle parfois un motif (<foreign xml:lang="eng"
-                                 >pattern</foreign>) et qui décrit un ensemble de
-                              chaînes de caractères selon une syntaxe
-                              donnée<note place="foot"><p>{Wikipédiaa}</p></note>. Celles-ci sont souvent utilisées en
-                              informatique dans la manipulation et le contrôle de textes 
-                              compte-tenu de leur puissance. Elles sont par ailleurs
-                              particulièrement utiles pour traiter des données
-                              textuelles non structurées.</p>
+                              <p>Afin de faciliter le travail d'importation, nous
+                                 avions demandé aux auteurs de l'édition, outre le
+                                 stylage des portions de texte à indexer, de fournir
+                                 une entrée normalisée et, pour les index patronymique
+                                 et toponymique, un identifiant pérenne dans le
+                                 catalogue de la bibliothèque nationale de France. La
+                                 récupération de ces informations nécessitait
+                                 l'utilisation d'une expression régulière. Une
+                                 expression régulière, ou regex (<foreign
+                                    xml:lang="eng">regular expression</foreign>), ou
+                                 encore expression rationnelle, désigne une chaîne de
+                                 caractères que l'on appelle parfois un motif (<foreign
+                                    xml:lang="eng">pattern</foreign>) et qui décrit un
+                                 ensemble de chaînes de caractères selon une syntaxe
+                                    donnée<note place="foot">
+                                    <p>{Wikipédiaa}</p>
+                                 </note>. Celles-ci sont souvent utilisées en
+                                 informatique dans la manipulation et le contrôle de
+                                 textes compte-tenu de leur puissance. Elles sont par
+                                 ailleurs particulièrement utiles pour traiter des
+                                 données textuelles non structurées.</p>
                               <p>Comme XSLT est fait pour manipuler des documents XML
                                  et que les documents XML sont du texte, l'utilisation
                                  d'expressions régulières avec XSLT peut s'avérer
@@ -3575,26 +3595,27 @@
                               manuellement. Elle aurait cependant pu être configurée
                               spécifiquement pour chaque cours disposant de la même
                               structure générale.</p>
-                           <p>Les manuscrits du toisé présentaient
-                              des paragraphes numérotés. Nous n'avons pas eu le temps
-                              de produire une transformation basée sur des expressions
-                              régulières pour modifier la structure du texte en
-                              répondant à tous les cas de figure. La mise au point
-                              d'une telle transformation, même si elle est assez
-                              complexe, pourra s'avérer utile compte-tenu du nombre de
-                              divisions à créer et du nombre de témoins.</p>
+                           <p>Les manuscrits du toisé présentaient des paragraphes
+                              numérotés. Nous n'avons pas eu le temps de produire une
+                              transformation basée sur des expressions régulières pour
+                              modifier la structure du texte en répondant à tous les
+                              cas de figure. La mise au point d'une telle
+                              transformation, même si elle est assez complexe, pourra
+                              s'avérer utile compte-tenu du nombre de divisions à créer
+                              et du nombre de témoins à traiter.</p>
                            <p>Lors de l'importation, plusieurs types de problèmes ont
                               été rencontrés concernant l'application des consignes.
                               Ceux-ci concernaient des oublis, un mauvais
                               positionnement du style de caractère provoquant un
                               problème dans la transformation. Afin de s'assurer de la
                               qualité de la transformation réalisée, il a souvent été
-                              nécessaire de mettre en place un dispositif de contrôle
-                              qualité s'appuyant sur l'emploi d'expressions XPath afin
-                              de compter le nombre d'éléments à traiter et de vérifier
-                              le résultat de la transformation. L'utilisation de ces
-                              expressions régulières et de ces expressions XPath donne une idée de l'ampleur du
-                              travail : pour le seul manuscrit des ordres ce n'est pas
+                              nécessaire de mettre en place un dispositif de
+                              contrôle-qualité s'appuyant sur l'emploi d'expressions
+                              XPath afin de compter le nombre d'éléments à traiter et
+                              de vérifier le résultat de la transformation.
+                              L'utilisation de ces expressions régulières et de ces
+                              expressions XPath donne une idée de l'ampleur du travail
+                              effectué : pour le seul manuscrit des ordres ce n'est pas
                               moins de 9 098 éléments balisés qui ont été passés en
                               revue pour les seuls éléments renvoyant au glossaire
                               technique. Sur ces entrées, une centaine d'erreurs a du
