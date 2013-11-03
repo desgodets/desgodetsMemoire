@@ -13,8 +13,11 @@
       <fileDesc>
          <!-- mentions de titre et de responsabilité -->
          <titleStmt>
-            <title xml:lang="fre" type="main">L'édition critique des cours d’Antoine Desgodets à l’Académie royale d’architectureUn exemple d'édition de sources primaires en histoire de l’architecture</title>
-            <title xml:lang="fre" type="main">Un exemple d'édition électronique de sources primaires en histoire de l’architecture</title>
+            <title xml:lang="fre" type="main">L'édition critique des cours d’Antoine
+               Desgodets à l’Académie royale d’architectureUn exemple d'édition de
+               sources primaires en histoire de l’architecture</title>
+            <title xml:lang="fre" type="main">Un exemple d'édition électronique de
+               sources primaires en histoire de l’architecture</title>
             <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
             <principal>
                <persName xml:id="EC">
@@ -55,11 +58,11 @@
             <!-- responsable de la publication -->
             <availability status="restricted" xml:id="desgodetsMemoireLicenceTxt">
                <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
-                  <p>Cette œuvre est mise à disposition selon les termes
-                     de la Licence Creative Commons Attribution - Pas
-                     d’Utilisation Commerciale - Partage dans les Mêmes
-                     Conditions 3.0 France.</p>
-                  <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
+                  <p>Cette œuvre est mise à disposition selon les termes de la Licence
+                     Creative Commons Attribution - Pas d’Utilisation Commerciale -
+                     Partage dans les Mêmes Conditions 3.0 France.</p>
+                  <graphic
+                     url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
                </licence>
             </availability>
          </publicationStmt>
@@ -70,13 +73,15 @@
          </seriesStmt>
          <!-- ajout d'un élément pour DC.description -->
          <notesStmt>
-            <note xml:lang="fre" type="abstract">Texte de description pour DC.description</note>
-            <note xml:lang="eng" type="abstract">Texte de description en anglais pour DC.description</note>
+            <note xml:lang="fre" type="abstract">Texte de description pour
+               DC.description</note>
+            <note xml:lang="eng" type="abstract">Texte de description en anglais pour
+               DC.description</note>
          </notesStmt>
          <!-- description de la source -->
          <sourceDesc>
-            <p xml:id="desgodetsMemoire">Texte original : le texte a été créé sous forme
-               électronique</p>
+            <p xml:id="desgodetsMemoire">Texte original : le texte a été créé sous
+               forme électronique</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -86,7 +91,8 @@
                « Technologies numériques appliquées à l'histoire ». Il rend compte d'un
                stage professionnel réalisé dans le cadre de l'édition des cours de
                Desgodets. L’édition des cours de Desgodets fait partie d’un programme
-               de recherche sur la formalisation du savoir architectural au XVII<hi rend="superscript">e</hi> siècle.</p>
+               de recherche sur la formalisation du savoir architectural au XVII<hi
+                  rend="superscript">e</hi> siècle.</p>
          </projectDesc>
          <!-- déclaration des principes éditoriaux -->
          <editorialDecl>
@@ -94,8 +100,8 @@
                <p>On utilise...</p>
             </stdVals>
             <quotation>
-               <p>Les citations dans le texte sont encodées soit au moyen d’un élément quote,
-                  soit au moyen d’un élément...</p>
+               <p>Les citations dans le texte sont encodées soit au moyen d’un élément
+                  quote, soit au moyen d’un élément...</p>
             </quotation>
          </editorialDecl>
       </encodingDesc>
@@ -108,7 +114,9 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change when="2013-06-01" who="#EC">première version du fichier</change>
+         <change when="2013-10" who="#EC">version 2, entrée des corrections</change>
+         <change when="2013-09" who="#EC">version 1, pour la soutenance</change>
+         <change when="2013-06-01" who="#EC">version 0, première version du fichier</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -118,18 +126,44 @@
                <titlePart type="main">L'édition critique des cours d’<persName>Antoine
                      Desgodets</persName> à l’Académie royale
                   d’architecture</titlePart>
-               <titlePart type="sub">Un exemple d'édition électronique de sources primaires en histoire de l’architecture</titlePart>
+               <titlePart type="sub">Un exemple d'édition électronique de sources
+                  primaires en histoire de l’architecture</titlePart>
             </docTitle>
             <docAuthor>Emmanuel Château</docAuthor>
             <docDate>année universitaire 2012-2013</docDate>
-            <docEdition>version 0</docEdition>
+            <docEdition>version 2</docEdition>
          </titlePage>
          <div xml:id="desgodetsMemoireFrontFr" xml:lang="fr">
             <!-- générer un sommaire -->
             <divGen n="desgodetsMemoireFrontFr01" type="toc">
                <head>Sommaire</head>
             </divGen>
-            <div xml:id="desgodetsMemoireFrontFr02">
+            <div xml:id="desgodetsMemoireFrontFr02" type="abstract">
+               <head>Résumé</head>
+               <p>Le projet d'ANR Desgodets abordait la construction et la
+                  normalisation du savoir architectural à la fin du XVII<hi
+                     rend="superscript">e</hi> et au début du XVIII<hi
+                        rend="superscript">e</hi> siècle à partir d'une première édition
+                  critique du corpus des cours d'Antoine Desgodets à l'Académie royale
+                  d'architecture. </p>
+               <p>Prononcés de 1719 à 1728, les cours de Desgodets constituent un jalon
+                  important dans l'élaboration et la normalisation du savoir
+                  architectural à l'époque classique. Établie à partir de l'ensemble
+                  des témoins manuscrits identifiés à ce jour à traver les monde, c'est
+                  tout un pan inédit du savoir architectural qui est offert à l'étude
+                  des chercheurs à travers cette édition critique.</p>
+               <p>Le rédacteur du mémoire a eu la chance d'être associé à chacune des
+                  étapes de ce projet d'envergure, depuis l'élaboration du cahier des
+                  charges, jusqu'au suivi de la réalisation, en passant pas la
+                  modélisation XML-TEI. Plus particulièrement, ce mémoire rend compte
+                  d'une mission d'assistance à la maîtrise d'ouvrage dans le cadre de
+                  cette édition numérique en histoire de l'architecture qui doit être
+                  replacée dans le contexte des digital humanities.</p>
+               <p>Mots-clefs :</p>
+               <p>édition critique – édition numérique – XML-TEI – site web – histoire
+                  de l'architecture – histoire du droit</p>
+            </div>
+            <div xml:id="desgodetsMemoireFrontFr03">
                <head>Remerciements</head>
                <p>En tout premier lieu, je tiens à remercier Monsieur <persName>Robert
                      Carvais</persName> pour m'avoir fait confiance tout au long de ce
@@ -172,7 +206,8 @@
                   <p>Prenant comme objet même l'observation et l'accompagnement de ces
                      transformations, le courant des <soCalled>Digital
                         humanities</soCalled> est parfois présenté comme une
-                        <soCalled>trans-discipline</soCalled><note place="foot"><p>{ThatcampParis2010}</p>
+                        <soCalled>trans-discipline</soCalled><note place="foot"
+                           ><p>{ThatcampParis2010}</p>
                      </note>, d'aucuns l'abordent comme une science auxiliaire de
                      l'histoire. Si cette dynamique transdisciplinaire est riche
                      d'échanges et très favorable au développement d'une réflexivité,
@@ -405,27 +440,29 @@
                      <p>Plusieurs recherches consacrées ces dernières années aux écrits
                         d'architecture et à la littérature technique témoignent d'un
                         intérêt renouvelé à l'égard du savoir architectural<note
-                           place="foot"><p>Entre autres, voir Jean Guillaume (dir.), Les
-                           traités d’architecture de la Renaissance, Paris, Picard,
-                           1988 ; Jean-Michel Leniaud et Béatrice Bouvier (dir.), Les
-                           périodiques d’architecture, XVIII<hi rend="superscript">e</hi> - XX<hi rend="superscript">e</hi> siècles. Recherche
-                           d’une méthode critique d’analyse, Études et rencontres de
-                           l’École des chartes, 2001 ; des mêmes, Le livre
-                           d’architecture : édition, représentation, bibliothèque,
-                           Études et rencontres de l’École des chartes, 2002 ; Olga
-                           Medvedkova (dir.), Bibliothèques d’architectes.
-                           Architectural Libraries, Paris/INHA, 2009 ; Jean-Philippe
-                           Garric, Estelle Thibault, Emilie d’Orgeix (dir.), Le livre
-                           et l’architecte, Bruxelles, Mardaga, 2011.</p></note>. Faute de
-                        pouvoir accéder directement au savoir transmis oralement sur le
-                        chantier, outre les traités d'architecture qui constituent un
-                        genre à part entière, les témoignages écrits sur l'enseignement
-                        de l'architecture présentent une importance cruciale pour
-                        l'historien afin de mesurer le savoir de l'architecte. Par
-                        ailleurs, la place de l'écrit a été considérable dans la mise
-                        en ordre des savoirs qui préside au processus de
-                        professionnalisation dont le moment académique constitue un
-                        jalon important.</p>
+                           place="foot"><p>Entre autres, voir Jean Guillaume (dir.),
+                              Les traités d’architecture de la Renaissance, Paris,
+                              Picard, 1988 ; Jean-Michel Leniaud et Béatrice Bouvier
+                              (dir.), Les périodiques d’architecture, XVIII<hi
+                                 rend="superscript">e</hi> - XX<hi rend="superscript"
+                                 >e</hi> siècles. Recherche d’une méthode critique
+                              d’analyse, Études et rencontres de l’École des chartes,
+                              2001 ; des mêmes, Le livre d’architecture : édition,
+                              représentation, bibliothèque, Études et rencontres de
+                              l’École des chartes, 2002 ; Olga Medvedkova (dir.),
+                              Bibliothèques d’architectes. Architectural Libraries,
+                              Paris/INHA, 2009 ; Jean-Philippe Garric, Estelle
+                              Thibault, Emilie d’Orgeix (dir.), Le livre et
+                              l’architecte, Bruxelles, Mardaga, 2011.</p></note>. Faute
+                        de pouvoir accéder directement au savoir transmis oralement sur
+                        le chantier, outre les traités d'architecture qui constituent
+                        un genre à part entière, les témoignages écrits sur
+                        l'enseignement de l'architecture présentent une importance
+                        cruciale pour l'historien afin de mesurer le savoir de
+                        l'architecte. Par ailleurs, la place de l'écrit a été
+                        considérable dans la mise en ordre des savoirs qui préside au
+                        processus de professionnalisation dont le moment académique
+                        constitue un jalon important.</p>
                      <p>L'objectif principal du projet d'ANR Desgodets consistait à
                         restituer, dans le cadre du savoir architectural, le cours
                            d'<persName>Antoine Desgodets</persName>, architecte du roi,
@@ -442,38 +479,37 @@
                   <div>
                      <head>Présentation du projet</head>
                      <p>L’édition des cours d’<persName>Antoine Desgodets</persName>
-                        est à compter au nombre des
-                           rares projets de recherche en histoire de l’art qui ont pu
-                           bénéficier ces dernières années d’un financement de l’Agence
-                           Nationale de la Recherche (ANR)<note place="foot">
-                              <p> À notre connaissance peu de projets en histoire de
-                              l’art moderne ou contemporaine ont bénéficié d’un
-                              financement de l’ANR. Citons notamment ici l’édition de
-                              la correspondance de Delacroix en 2006,
+                        est à compter au nombre des rares projets de recherche en
+                        histoire de l’art qui ont pu bénéficier ces dernières années
+                        d’un financement de l’Agence Nationale de la Recherche
+                           (ANR)<note place="foot">
+                           <p> À notre connaissance peu de projets en histoire de l’art
+                              moderne ou contemporaine ont bénéficié d’un financement
+                              de l’ANR. Citons notamment ici l’édition de la
+                              correspondance de Delacroix en 2006,
                               {CorrespondancesDeugèneDelacroix} ; M-Art sur le marché
                               de l’art en 2007, {AnrAgenceNationaleb} ; ou encore plus
-                              récemment le projet Artlas (ENS),  qui ont bénéficié d’un
+                              récemment le projet Artlas (ENS), qui ont bénéficié d’un
                               financement par l’ANR.</p>
-                           </note>. D’abord proposé dans
-                        le cadre d’une recherche plus vaste sur la littérature
-                        architecturale intitulé « Vitruviana », l’édition des cours de
-                        l’architecte avait retenu l’attention des évaluateurs qui
-                        avaient suggéré de le présenter séparément à un autre appel
-                        d’offre. Le projet, re-rédigé
-                           par <persName>Robert Carvais</persName> en ce sens, a
-                           finalement obtenu le financement de l’ANR à l’appel d’offre
-                           du programme <title>Corpus et outils de la recherche en
-                              sciences humaines et sociales</title> suivant, sous le n°
-                           ANR-07-CORP-017-01 en 2007<note place="foot">
-                              <p>{AnrAgenceNationale}</p>
-                           </note>.</p>
+                        </note>. D’abord proposé dans le cadre d’une recherche plus
+                        vaste sur la littérature architecturale intitulé « Vitruviana
+                        », l’édition des cours de l’architecte avait retenu l’attention
+                        des évaluateurs qui avaient suggéré de le présenter séparément
+                        à un autre appel d’offre. Le projet, re-rédigé par
+                           <persName>Robert Carvais</persName> en ce sens, a finalement
+                        obtenu le financement de l’ANR à l’appel d’offre du programme
+                           <title>Corpus et outils de la recherche en sciences humaines
+                           et sociales</title> suivant, sous le n° ANR-07-CORP-017-01
+                        en 2007<note place="foot">
+                           <p>{AnrAgenceNationale}</p>
+                        </note>.</p>
                      <p>Le projet de recherche proposait d’aborder la construction et
                         la normalisation du savoir architectural à la fin du XVII<hi
                            rend="superscript">e</hi> siècle à partir de l’édition du
                         corpus des cours manuscrits dictés à l’<orgName>Académie royale
                            d’architecture</orgName> par <persName>Antoine
                            Desgodets</persName>
-                        <date from="1721" to="1728">entre 1719 et 1728</date>.
+                        <date from="1719" to="1728">entre 1719 et 1728</date>.
                         Plusieurs raisons justifiaient le choix de cette œuvre : D’une
                         part l’architecte était devenu professeur à l’<orgName>Académie
                            d’architecture</orgName>
@@ -532,12 +568,12 @@
                         À bien des égards, c'est ma participation à ce projet de
                         recherche qui m’a conduit à assister à une première formation
                         sur l'édition numérique et la Text Encoding Initiative
-                        organisée par le <orgName>réseau Mutec</orgName> à
-                        Lyon{Mutec}, puis à m’intéresser de plus près à la formation
-                        offerte par l’<orgName>École des chartes</orgName> dans le
-                        cadre de son master 2 <soCalled>Technologies numériques
-                           appliquées à l’histoire</soCalled> qui occasionne
-                        aujourd'hui de la rédaction de ce mémoire.</p>
+                        organisée par le <orgName>réseau Mutec</orgName> à Lyon{Mutec},
+                        puis à m’intéresser de plus près à la formation offerte par
+                           l’<orgName>École des chartes</orgName> dans le cadre de son
+                        master 2 <soCalled>Technologies numériques appliquées à
+                           l’histoire</soCalled> qui occasionne aujourd'hui de la
+                        rédaction de ce mémoire.</p>
                      <p>L'édition critique de chaque cours à partir des transcriptions
                         des témoins a par la suite été confiée à des équipes d'éditeurs
                         rassemblées pour l'occasion. Les transcripteurs qui le
@@ -649,6 +685,10 @@
                         j'ai par ailleurs été en contact direct et régulier avec
                            <persName>Robert Carvais</persName> pour toutes les
                         décisions à prendre.</p>
+                     <figure place="inline">
+                        <graphic url="files/desgodetsEquipe.jpg" />
+                        <head>Relations entre les différents acteurs du projet</head>
+                     </figure>
                      <p>Comme tout projet faisant l’objet d’un financement par
                            l’<orgName>Agence Nationale de Recherche (ANR)</orgName>,
                         des bilans intermédiaires étaient prévus chaque année pour
@@ -730,9 +770,9 @@
                         restaient jusqu'à présent relativement peu connus des
                         historiens, faute de n'avoir jamais été publiés. En effet, mis
                         à part les <title>Lois des bâtiments</title> qui dispose d'une
-                        riche tradition éditoriale<note place="foot"><persName>L'ouvrage qui paraît
-                              de manière posthume mis en ordre par
-                                 <persName>Goupy</persName>
+                        riche tradition éditoriale<note place="foot"
+                              ><persName>L'ouvrage qui paraît de manière posthume mis
+                              en ordre par <persName>Goupy</persName>
                               <date when="1748">en 1748</date> fera l'objet de
                               nombreuses rééditions successives, <date from="1748"
                                  to="1899">jusqu'au XIX<hi rend="superscript">e</hi>
@@ -864,7 +904,8 @@
                               dure son enseignement et qu'il donnera jusqu'à sa mort,
                               Desgodets aborde successivement les thématiques
                               suivantes : <table>
-                                 <row>
+                                 <head>Tableau récapitulatif de l'enseignement d'Antoine Desgodets</head>
+                                 <row role="label">
                                     <cell>années</cell>
                                     <cell>ordres</cell>
                                     <cell>commodité</cell>
@@ -873,37 +914,37 @@
                                  </row>
                                  <row>
                                     <cell>1719-1720</cell>
-                                    <cell></cell>
-                                    <cell></cell>
-                                    <cell></cell>
-                                    <cell></cell>
+                                    <cell />
+                                    <cell />
+                                    <cell />
+                                    <cell />
                                  </row>
                                  <row>
                                     <cell>1720-1721</cell>
-                                    <cell></cell>
-                                    <cell></cell>
-                                    <cell></cell>
-                                    <cell></cell>
+                                    <cell />
+                                    <cell />
+                                    <cell />
+                                    <cell />
                                  </row>
                                  <row>
                                     <cell>1721-1722</cell>
                                     <cell>o</cell>
-                                    <cell></cell>
-                                    <cell></cell>
-                                    <cell></cell>
+                                    <cell />
+                                    <cell />
+                                    <cell />
                                  </row>
                                  <row>
                                     <cell>1722-1723</cell>
-                                    <cell></cell>
-                                    <cell></cell>
+                                    <cell />
                                     <cell>o</cell>
-                                    <cell></cell>
+                                    <cell />
+                                    <cell />
                                  </row>
                                  <row>
                                     <cell>1723-1724</cell>
-                                    <cell></cell>
-                                    <cell></cell>
+                                    <cell />
                                     <cell>o</cell>
+                                    <cell></cell>
                                     <cell>o</cell>
                                  </row>
                                  <row>
@@ -916,23 +957,23 @@
                                  <row>
                                     <cell>1725-1726</cell>
                                     <cell>o</cell>
-                                    <cell></cell>
                                     <cell>o</cell>
                                     <cell></cell>
+                                    <cell />
                                  </row>
                                  <row>
                                     <cell>1726-1727</cell>
                                     <cell>o</cell>
                                     <cell>o</cell>
                                     <cell>o</cell>
-                                    <cell></cell>
+                                    <cell />
                                  </row>
                                  <row>
                                     <cell>1727-1728</cell>
                                     <cell>o</cell>
                                     <cell>o</cell>
                                     <cell>o</cell>
-                                    <cell></cell>
+                                    <cell />
                                  </row>
                               </table></p>
                            <p>Avec Desgodets, et après l'épisode <persName>de La
@@ -1006,8 +1047,8 @@
                      <div type="introduction">
                         <p>Pour <persName>Henri Lemonnier</persName>, il ne fait aucun
                            doute que les leçons prenaient la forme d'une dictée. À
-                           l'appui de cette affirmation, il cite le manuscrit de
-                              <sic>Pinart</sic> conservé au département des estampes de
+                           l'appui de cette affirmation, il cite le manuscrit de 
+                           Jean Pinard conservé au département des estampes de
                            la Bibliothèque nationale de France. Pourtant ce témoin
                            paraît être une copie mise au propre. D'après les lettres
                            patentes de 1717, les élèves de l'Académie devaient suivre
@@ -1174,7 +1215,8 @@
                            entre, d'une part, le respect du texte à publier (dont on ne
                            doit en aucun cas moderniser la graphie) et, d'autre part,
                            le souci de le rendre aussi intelligible que possible pour
-                           un lecteur d'aujourd'hui.</quote><note place="foot"><p>{Barbiche 1993}</p></note></p>
+                           un lecteur d'aujourd'hui.</quote><note place="foot"
+                              ><p>{Barbiche 1993}</p></note></p>
                      <p>La production d'une édition critique de qualité exige donc
                         d'avoir bien défini sa destination. Cette question est
                         déterminante même si l'on ne renonce généralement pas à toucher
@@ -1199,25 +1241,26 @@
                      <head>L’établissement du texte</head>
                      <p>Comme le relevait déjà Jean Varloot en 1980, <q>l'édition de
                            textes français moderne est un domaine qui est loin d'être
-                           l'objet de lois ou d'usages admis par tous</q><note place="foot"><p>{Varloot
-                        1981}</p></note>. Malgré les efforts des érudits du <date from="1800"
-                           to="1899">XIX<hi rend="superscript">e</hi> siècle</date> et la création d'importantes
-                        collections scientifiques, ou plusieurs grandes entreprises
-                        d'œuvres complètes, il subsiste une grande variabilité dans les
-                        conceptions et surtout dans les pratiques. En outre, par
-                        rapport à leurs collègues littéraires, <q>les éditeurs de
-                           sources documentaires, ont généralement tardé, en France
-                           particulièrement, à intégrer une interrogation de méthode
-                           sur les implications de leur
-                        travail</q><note place="foot"><p>{ConseilsPourLéditionDes 2001}</p></note>. En l'absence de
-                        règles clairement établies et partagées dans la communauté
-                        scientifique, la définition d'un protocole de transcription du
-                        texte s'est avérée plutôt difficile.</p>
+                           l'objet de lois ou d'usages admis par tous</q><note
+                           place="foot"><p>{Varloot 1981}</p></note>. Malgré les
+                        efforts des érudits du <date from="1800" to="1899">XIX<hi
+                              rend="superscript">e</hi> siècle</date> et la création
+                        d'importantes collections scientifiques, ou plusieurs grandes
+                        entreprises d'œuvres complètes, il subsiste une grande
+                        variabilité dans les conceptions et surtout dans les pratiques.
+                        En outre, par rapport à leurs collègues littéraires, <q>les
+                           éditeurs de sources documentaires, ont généralement tardé,
+                           en France particulièrement, à intégrer une interrogation de
+                           méthode sur les implications de leur travail</q><note
+                           place="foot"><p>{ConseilsPourLéditionDes 2001}</p></note>.
+                        En l'absence de règles clairement établies et partagées dans la
+                        communauté scientifique, la définition d'un protocole de
+                        transcription du texte s'est avérée plutôt difficile.</p>
                      <p>Il était néanmoins possible de se référer au guide de
                         transcription des textes anciens publié sous la direction de
                            <persName>Bernard Barbiche</persName> et <persName>Monique
-                           Châtenet</persName> par
-                        l'<orgName>Inventaire</orgName><note place="foot"><p>{Barbiche 1993}</p></note>. Dans la mesure
+                           Châtenet</persName> par l'<orgName>Inventaire</orgName><note
+                           place="foot"><p>{Barbiche 1993}</p></note>. Dans la mesure
                         où ces indications sont relativement sommaires et datent des
                         années 1990, celles-ci méritent une mise à jour et une révision
                         de fonds en comble, notamment pour prendre acte de l'irruption
@@ -1345,6 +1388,11 @@
                            fois possible de l'utiliser avec des fichiers texte ou des
                            fichiers XML-TEI ce qui était bien adapté à notre contexte
                            de production.</p>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsCollation.png" />
+                           <head>Vue d'écran de la collation des variantes avec le
+                              logiciel Juxta</head>
+                        </figure>
                         <p>Dans la plupart des cas il a été relativement difficile
                            d'établir des familles de tradition parmi les manuscrits ou
                            de déterminer des prototypes. Toutefois, un groupe de
@@ -1520,7 +1568,8 @@
                            Barbiche, seules ont été retenues <q>les <hi rend="bold"
                                  >variantes</hi> qui [avaient] une incidence sur le
                               sens du texte, à l'exclusion des particularités purement
-                              graphiques ou grammaticales.</q><note place="foot"><p>{Barbiche 1993}</p></note></p>
+                              graphiques ou grammaticales.</q><note place="foot"
+                                 ><p>{Barbiche 1993}</p></note></p>
                      </div>
                   </div>
                   <div>
@@ -1793,11 +1842,12 @@
                         le prestataire. Le <soCalled>cahier des charges fonctionnel
                            (CDCF)</soCalled> est un document formulant le besoin, au
                         moyen de fonctions détaillant les services rendus par le
-                        produit et les contraintes auxquelles il est soumis<note place="foot"><p>{Wikipédia}</p></note>.
-                        Il permet de présenter le problème dans son ensemble, et
-                        d'expliciter les besoins du client en favorisant le dialogue
-                        pour obtenir du prestataire la conception et la réalisation la
-                        plus efficace qui soit.</p>
+                        produit et les contraintes auxquelles il est soumis<note
+                           place="foot"><p>{Wikipédia}</p></note>. Il permet de
+                        présenter le problème dans son ensemble, et d'expliciter les
+                        besoins du client en favorisant le dialogue pour obtenir du
+                        prestataire la conception et la réalisation la plus efficace
+                        qui soit.</p>
                      <p>Dans la mesure du possible, nous nous sommes donc efforcés
                         d'exprimer les besoins sous forme de fonction plutôt que sous
                         forme de solutions. Il s'agissait d'une part de ne pas imposer
@@ -1881,12 +1931,13 @@
                            notamment à l'adjudicateur de négocier avec les candidats
                            ayant présenté une offre, <q>cette négociation pouvant
                               porter sur tous les éléments de l'offre, notamment sur le
-                              prix</q><note place="foot"><p>{Legifrance\Article 28\}</p></note>. N'ayant pas la
-                           certitude d'obtenir des offres complètement satisfaisantes,
-                           une telle procédure avait la souplesse requise pour notre
-                           projet. Comme nous allons le voir, celle-ci a autorisé une
-                           redéfinition des objectifs sur la base du cahier des charges
-                           en fonction de l'offre du prestataire.</p>
+                              prix</q><note place="foot"><p>{Legifrance\Article
+                                 28\}</p></note>. N'ayant pas la certitude d'obtenir
+                           des offres complètement satisfaisantes, une telle procédure
+                           avait la souplesse requise pour notre projet. Comme nous
+                           allons le voir, celle-ci a autorisé une redéfinition des
+                           objectifs sur la base du cahier des charges en fonction de
+                           l'offre du prestataire.</p>
                         <p>Les II et III de l'article 28 du Code des marchés publics
                            fixent également les conditions de publicité et de mise en
                            concurrence : <quote>II. - Le pouvoir adjudicateur peut
@@ -1990,6 +2041,10 @@
                            attendons également la relecture des différentes versions
                            des témoins manuscrits avant leur publication sur le
                            site.</p>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsPlanning.png"/>
+                           <head>Diagramme de Gantt des échéances du projet en décembre 2012</head>
+                        </figure>
                      </div>
                      <div>
                         <p>Les différents retards éprouvés par le projet sont
@@ -2356,20 +2411,23 @@
                         <p>Il convient donc de garder à l'esprit que n'importe quelle
                            représentation numérique d'un texte constitue une
                            modélisation de fait, au sens où un modèle est une réduction
-                           de la réalité. <quote>Même lorsqu'on se contente de transcrire une
-                           page imprimée à l'aide d'un simple éditeur de texte, on
-                           formule, sans en avoir nécessairement conscience, nombre de
-                           décisions éditoriales telles que le choix de l'encodage des
-                           caractères, la manière de représenter tel ou tel aspect
-                           typographique avec cet encodage, comment traiter les espaces
-                           blancs, ou encore ce qu'il faut faire des choses que l'on
-                           n'est pas en mesure d'entrer au clavier comme les figures
-                           dans le texte ou les symboles dépourvus de représentation
-                           Unicode.<note place="foot"><p>{Cayless 2011}</p></note></quote> Dès lors, le choix des concepteurs de la TEI qui
-                           consistait à caler sa sémantique sur la structure de XML est
-                           particulièrement significatif. En effet, le modèle de
-                           contenu de XML est fondé sur l'arborescence, il détermine
-                           ainsi une grande partie de la sémantique de la TEI.</p>
+                           de la réalité. <quote>Même lorsqu'on se contente de
+                              transcrire une page imprimée à l'aide d'un simple éditeur
+                              de texte, on formule, sans en avoir nécessairement
+                              conscience, nombre de décisions éditoriales telles que le
+                              choix de l'encodage des caractères, la manière de
+                              représenter tel ou tel aspect typographique avec cet
+                              encodage, comment traiter les espaces blancs, ou encore
+                              ce qu'il faut faire des choses que l'on n'est pas en
+                              mesure d'entrer au clavier comme les figures dans le
+                              texte ou les symboles dépourvus de représentation
+                                 Unicode.<note place="foot"><p>{Cayless
+                                 2011}</p></note></quote> Dès lors, le choix des
+                           concepteurs de la TEI qui consistait à caler sa sémantique
+                           sur la structure de XML est particulièrement significatif.
+                           En effet, le modèle de contenu de XML est fondé sur
+                           l'arborescence, il détermine ainsi une grande partie de la
+                           sémantique de la TEI.</p>
                         <p>On considère généralement que SGML puis XML sont des
                            syntaxes adéquates pour exprimer les besoins les plus
                            généraux. Elles ont aussi plusieurs avantages en termes de
@@ -2388,7 +2446,8 @@
                               hyperlien qui pointe vers les informations concernant la
                               personne désignée. Cependant, cela signifie également que
                               les capacités de modélisation de la TEI sont celles
-                              déterminées par XML.<note place="foot"><p>{Cayless 2011}</p></note></quote></p>
+                              déterminées par XML.<note place="foot"><p>{Cayless
+                                    2011}</p></note></quote></p>
                         <p>Dès 2002, <persName>Buzetti</persName> a avancé que la
                            structure arborescente n'était pas suffisamment expressive
                            pour rendre compte de toute la complexité d'un texte<note
@@ -2760,7 +2819,8 @@
                         </div>
                      </div>
                      <div>
-                        <head>La rédaction d'une spécification formelle et la production du schéma RelaxNG</head>
+                        <head>La rédaction d'une spécification formelle et la
+                           production du schéma RelaxNG</head>
                         <div>
                            <p>Il est recommandé de personnaliser la TEI au moyen d'une
                               spécification formelle. L'utilisation de cette approche
@@ -2796,7 +2856,8 @@
                               À partir d'un tel document, un processeur ODD sera en
                               mesure de combiner les déclarations des modules désignés
                               et de produire un schéma du type requis et éventuellement
-                              une documentation de tous les éléments choisis.</p></div>
+                              une documentation de tous les éléments choisis.</p>
+                        </div>
                         <div>
                            <head>L’utilisation de Roma</head>
                            <p>L'outil Roma est un service web mis à disposition par la
@@ -2855,10 +2916,10 @@
                            <p>Dans le fichier ODD, à l'intérieur de l'élément
                                  <gi>schemaSpec</gi>, une série d'éléments
                                  <gi>moduleRef</gi> servent à désigner les modules
-                              utilisés au moyen d'un  attribut <att>key</att> : </p>
+                              utilisés au moyen d'un attribut <att>key</att> : </p>
                            <egXML xmlns="http://www.tei-c.org/ns/Examples">
-                              <schemaSpec ident="desgodetsSchemaTEI"
-                                 docLang="fr" prefix="tei_" xml:lang="en">
+                              <schemaSpec ident="desgodetsSchemaTEI" docLang="fr"
+                                 prefix="tei_" xml:lang="en">
                                  <moduleRef key="tei" />
                                  <moduleRef key="header" />
                                  <moduleRef key="core" />
@@ -2897,10 +2958,9 @@
                               classes individuellement avec les éléments
                                  <gi>elementSpec</gi>, <gi>classSpec</gi>, ou
                                  <gi>macroSpec</gi>. Le type de modification apporté
-                              est déterminé par la valeur d'un attribut <att>mode</att> (add, replace, delete, et change) :
-                           </p>
-                           <egXML
-                              xmlns="http://www.tei-c.org/ns/Examples">
+                              est déterminé par la valeur d'un attribut <att>mode</att>
+                              (add, replace, delete, et change) : </p>
+                           <egXML xmlns="http://www.tei-c.org/ns/Examples">
                               <attDef ident="org" mode="delete" />
                            </egXML>
                            <p>On peut également modifier la liste des attributs
@@ -2913,7 +2973,7 @@
                               cas, il suffit de rendre l'élément concerné membre de
                               cette classe. Sinon ont doit définir un attribut au moyen
                               de <gi>attDef</gi> pour l'ajouter à la liste
-                                 <gi>attList</gi> de l'élément concerné.</p> 
+                                 <gi>attList</gi> de l'élément concerné.</p>
                            <p>Il est souvent utile de contraindre les valeurs possibles
                               d'un attribut au moyen d'un typage des données. Cela peut
                               être réalisé facilement au moyen de l'élément
@@ -2945,9 +3005,9 @@
                               qu'elles pourraient se révéler utiles avant la
                               publication du schéma.</p>
                            <p>Le mode modification peut également s'appliquer à des
-                              classes. Dans cet exemple, nous avons remplacé à l'aide de
-                              Roma un ensemble de valeurs d'attributs pour tout attribut membre de
-                              la classe att.internetMedia.</p>
+                              classes. Dans cet exemple, nous avons remplacé à l'aide
+                              de Roma un ensemble de valeurs d'attributs pour tout
+                              attribut membre de la classe att.internetMedia.</p>
                            <egXML xmlns="http://www.tei-c.org/ns/Examples">
                               <classSpec ident="att.internetMedia" type="atts"
                                  mode="change" module="tei">
@@ -2963,7 +3023,7 @@
                                  </attList>
                               </classSpec>
                            </egXML>
-                           
+
                         </div>
                      </div>
                      <div>
@@ -3008,14 +3068,19 @@
                                     <att>type</att>. La liste fermée des types de
                                  division doit encore être restreinte par le
                                  schéma.</p>
+                              <figure place="inline">
+                                 <graphic url="files/desgodetsMacrostructure.jpg" />
+                                 <head>Macrostructure XML-TEI de l'édition</head>
+                              </figure>
                               <p>Les manuscrits des servitudes présentaient quant à eux
                                  un cas de figure moins courant. S'agissant pour l'un
                                  d'un recueil de coutumes, pour l'autre d'un
                                  commentaire sur la coutume de Paris, les deux textes
                                  citaient abondamment d'autres textes. L'emploi d'un
-                                 élément <gi>floatingText</gi> nous est apparu pertinent pour
-                                 traiter ces citations car il a l'avantage de permettre
-                                 de conserver la structure originale de ces textes.</p>
+                                 élément <gi>floatingText</gi> nous est apparu
+                                 pertinent pour traiter ces citations car il a
+                                 l'avantage de permettre de conserver la structure
+                                 originale de ces textes.</p>
                            </div>
                            <div>
                               <head>L'inscription du texte sur le support</head>
@@ -3058,6 +3123,10 @@
                                  séparément certaines section du fichier dans un
                                  répertoire séparé intitulé
                                  <soCalled>divs</soCalled>.</p>
+                              <figure place="inline">
+                                 <graphic url="files/desgodetsSystemeDeFichiers.jpg" />
+                                 <head>Système de fichier mis en œuvre</head>
+                              </figure>
                               <p>Dès lors que l'on employait cette structure pour
                                  chacun des cours, il a paru logique d'adopter la même
                                  pour l'ensemble du corpus des cours de Desgodets.
@@ -3122,7 +3191,7 @@
                                  segmentation parallèle aurait représenté un travail
                                  plus considérable si nous avions voulu fournir toutes
                                  les variantes des témoins, surtout pour des textes où
-                                 nous avions jusqu'à quinze  témoins. Une telle méthode
+                                 nous avions jusqu'à quinze témoins. Une telle méthode
                                  s'intégrait assez mal dans notre flux de production.
                                  D'une part, seules les variantes jugées significatives
                                  étaient rapportées au manuscrit maître édité, ce qui
@@ -3227,7 +3296,10 @@
                                  consortium cahier pour produire un moissonnage des
                                  en-têtes TEI en OAI-PMH (<foreign xml:lang="eng">Open
                                     Archives Initiative Protocol for Metadata
-                                    Harvesting</foreign>). Vérifications faites, et
+                                    Harvesting</foreign>)<note
+                                       place="foot">
+                                       <p>{Sourceforge}</p>
+                                    </note>. Vérifications faites, et
                                  après avoir échangé avec les personnes en charge du
                                  projet, il se trouve que nos choix d'encodage étaient
                                  relativement conformes aux prescriptions proposées. </p>
@@ -3263,7 +3335,7 @@
                            au maximum l'expressivité de la TEI pour fournir les
                            métadonnées descriptives des planches.</p>
                      </div>
-                     </div>
+                  </div>
                   <div>
                      <head>La production des textes encodés</head>
                      <p>Alors qu'aucun des membres des équipes éditoriales ne disposait
@@ -3319,10 +3391,11 @@
                            déterminer à l'avance le rendu final de ces éléments. On
                            comprend donc que la définition de cet éditeur serait
                            fortement orientée par le point de vue sur le texte exprimé
-                           par la modélisation<note place="foot"><p>{Cayless 2011a}</p></note>.</p>
+                           par la modélisation<note place="foot"><p>{Cayless
+                              2011a}</p></note>.</p>
                         <p>De par leur utilisation généralisée, on oublie souvent que
                            les logiciels de traitement de texte dits
-                              <soCalled>WYSIWIG</soCalled>  présentent également un
+                              <soCalled>WYSIWIG</soCalled> présentent également un
                            certain regard sur le texte. S'ils donnent l'impression
                            d'éditer le document imprimé final, loin d'être des
                            instruments neutres, ils présentent en réalité un modèle de
@@ -3334,6 +3407,14 @@
                            facilement enregistrables avec un traitement de texte. Si
                            l'encodage n'est qu'un moyen, ce défaut d'expressivité ne va
                            pas sans poser problème.</p>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsEditeurXML.png"/>
+                           <head>Vue d'écran de l'édition d'un fichier XML-TEI avec l'éditeur Oxygen</head>
+                        </figure>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsEditeurAuteur.png"/>
+                           <head>Vue d'écran de l'édition d'un fichier XML-TEI avec le mode auteur l'éditeur Oxygen</head>
+                        </figure>
                         <p>Il aurait été possible de proposer aux auteurs de l'édition
                            de travailler avec le mode auteur de l'éditeur XML Oxygen.
                            Une telle solution présentait l'avantage de concilier à la
@@ -3408,13 +3489,13 @@
                               utilisation, celles-ci ont donc au préalable été soumises
                               aux équipes éditoriales en juin 2012. Un premier retour
                               des auteurs de l'édition a permis d'expliciter certaines
-                              règles lorsque cela s'avérait nécessaire ou de les enrichir à
-                              l'aide d'exemples. Si les éditeurs ont accepté, de bonne
-                              grâce, ces consignes d'édition, nous ne sommes pas
-                              totalement persuadé que leur signification ait été bien
-                              comprise. Ainsi, certains auteurs n'ont réellement pris
-                              la mesure de l'utilité de leur travail qu'en visionnant
-                              la version web de l'édition.</p>
+                              règles lorsque cela s'avérait nécessaire ou de les
+                              enrichir à l'aide d'exemples. Si les éditeurs ont
+                              accepté, de bonne grâce, ces consignes d'édition, nous ne
+                              sommes pas totalement persuadé que leur signification ait
+                              été bien comprise. Ainsi, certains auteurs n'ont
+                              réellement pris la mesure de l'utilité de leur travail
+                              qu'en visionnant la version web de l'édition.</p>
                         </div>
                         <div>
                            <head>Les problèmes d’interprétation des règles</head>
@@ -3463,7 +3544,7 @@
                               relativement aisé de transformer ce fichier XML en un
                               autre fichier XML dans une syntaxe différente en
                               employant le langage de programmation XSLT (eXtensible
-                              Stylesheet Language Transformations)  dont c'est la
+                              Stylesheet Language Transformations) dont c'est la
                               destination.</p>
                            <p>Les feuilles de styles TEI développées par
                                  <persName>Sebastian Rahtz</persName> (<title>XSL
@@ -3487,12 +3568,18 @@
                               travailler de manière incrémentielle sur les fichiers
                               afin de pouvoir contrôler plus finement la transformation
                               et apporter les corrections éventuellement nécessaires.
-                              Aussi, nous avons en pratique plutôt utilisé le service de
-                              conversion de fichier mis en place par le consortium TEI,
-                              OxGarage<note place="foot"><p>{Oxgarage}</p></note>, afin de récupérer un premier fichier
-                              XML-TEI que l'on a ensuite raffiné en lui appliquant
-                              plusieurs transformations successives en fonction des cas
-                              de figure.</p>
+                              Aussi, nous avons en pratique plutôt utilisé le service
+                              de conversion de fichier mis en place par le consortium
+                              TEI, OxGarage<note place="foot"><p>{Oxgarage}</p></note>,
+                              afin de récupérer un premier fichier XML-TEI que l'on a
+                              ensuite raffiné en lui appliquant plusieurs
+                              transformations successives en fonction des cas de
+                              figure.</p>
+                           <figure place="inline">
+                              <graphic url="files/desgodetsProduction.jpg" />
+                              <head>Chaîne de production des fichiers encodés de
+                                 l'édition</head>
+                           </figure>
                            <p>Ce n'est donc pas une chaîne de traitement complètement
                               automatisée qui a été mise en place. Faute de temps, il
                               n'a malheureusement pas été possible de reprendre les
@@ -3508,7 +3595,8 @@
                            <head>La création des feuilles de style pour
                               l'importation</head>
                            <div>
-                              <head>La récupération de la macro-structure du document</head>
+                              <head>La récupération de la macro-structure du
+                                 document</head>
                               <p>La récupération des segments textuels marqués avec
                                  l'utilisation de styles dans le logiciel de traitement
                                  de texte ne posait guère de problème puisqu'il
@@ -3526,10 +3614,14 @@
                                  successifs. Un premier traitement génère à la place
                                  d'éléments <gi>divGen</gi> plusieurs éléments
                                     <gi>div</gi> qui regroupent les différents types de
-                                 notes en les numérotant. Puis une seconde passe, remplace les
-                                 notes dans le texte par un élément <gi>ref</gi> pointant vers l'élément <gi>note</gi> nouvellement créé..</p></div>
+                                 notes en les numérotant. Puis une seconde passe,
+                                 remplace les notes dans le texte par un élément
+                                    <gi>ref</gi> pointant vers l'élément <gi>note</gi>
+                                 nouvellement créé..</p>
+                           </div>
                            <div>
-                              <head>La récupération de la liste des figures (figures.xsl)</head>
+                              <head>La récupération de la liste des figures
+                                 (figures.xsl)</head>
                               <p>Les auteurs de l'édition légendaient ou décrivaient
                                  les figures à part dans un tableau dont le modèle leur
                                  avait été communiqué par avance. La récupération du
@@ -3540,10 +3632,11 @@
                                  selon la structure voulue.</p>
                               <p>Il aurait peut-être été possible d'utiliser le même
                                  processus pour récupérer les informations descriptives
-                                 sur les manuscrits et composer l'en-tête du fichier TEI. Mais
-                                 compte-tenu du caractère crucial des métadonnées
-                                 présentées dans l'en-tête, on a préféré remplir
-                                 manuellement les informations afin d'en unifier la présentation.</p>
+                                 sur les manuscrits et composer l'en-tête du fichier
+                                 TEI. Mais compte-tenu du caractère crucial des
+                                 métadonnées présentées dans l'en-tête, on a préféré
+                                 remplir manuellement les informations afin d'en
+                                 unifier la présentation.</p>
                            </div>
                            <div>
                               <head>L'utilisation d'expressions régulières</head>
@@ -3575,11 +3668,11 @@
                                  et XPath 2.0, les regex sont supportées par trois
                                  nouvelles fonctions : matches(), replace() et
                                  tokenize(). On peut également en tirer parti avec
-                                 l'élément <gi>xsl:analyze-string</gi> et ses deux éléments
-                                 optionnels <gi>xsl:matching-string</gi> et
-                                 <gi>xsl:non-matching-string</gi>. En pratique les expressions
-                                 régulières sont souvent employées dans les situations
-                                 suivantes : <list>
+                                 l'élément <gi>xsl:analyze-string</gi> et ses deux
+                                 éléments optionnels <gi>xsl:matching-string</gi> et
+                                    <gi>xsl:non-matching-string</gi>. En pratique les
+                                 expressions régulières sont souvent employées dans les
+                                 situations suivantes : <list>
                                     <item>pour le balisage lorsque l'on a besoin de
                                        convertir du texte en XML, elles permettent
                                        d'identifier des motifs dans le document source
@@ -3590,7 +3683,7 @@
                                        contenus sont balisés de la même manière mais
                                        contiennent des contenus différents.</item>
                                  </list></p>
-                              <p>La transformation ttmtChaines.xsl que nous avons mise 
+                              <p>La transformation ttmtChaines.xsl que nous avons mise
                                  en place utilise l'élément <gi>xsl:analyse-string</gi>
                                  pour parcourir le texte à l'intérieur des éléments
                                  issus du stylage de caractère réalisé avec le
@@ -3605,23 +3698,26 @@
                               <p>On extrait ensuite les entités nommées du fichier avec
                                  getEntities.xsl pour préparer l'index. C'est
                                  manuellement que l'on décide si la cible créée doit
-                                 être conservée ou remplacée. En effet, l'automatisation fondée
-                                 sur l'extraction de la forme régularisée du terme ou
-                                 de l'entité, ne permet pas de tenir compte des pluriels ou des cas complexes.</p>
-                              </div>
-                           <div><head>La numérotation automatique des segments textuels
-                              (autonum.xsl)</head>
-                           <p>Comme nous l'avons expliqué plus haut, la numérotation
-                              des segments textuels était basée sur un système déterminé
-                              par leur position dans l'arborescence TEI. Cette
-                              numérotation a été produite automatiquement à l'aide
-                              d'une transformation XSLT basée sur la récursion. La
-                              transformation prend ainsi l'identifiant du témoin
-                              manuscrit comme paramètre puis compose un identifiant en
-                              navigant dans l'arbre du document XML. La transformation
-                              s'appuie sur des variables pour composer cet identifiant,
-                              elle utilise par ailleurs les fonctions de numérotation
-                              offertes par XSLT.</p></div>
+                                 être conservée ou remplacée. En effet,
+                                 l'automatisation fondée sur l'extraction de la forme
+                                 régularisée du terme ou de l'entité, ne permet pas de
+                                 tenir compte des pluriels ou des cas complexes.</p>
+                           </div>
+                           <div>
+                              <head>La numérotation automatique des segments textuels
+                                 (autonum.xsl)</head>
+                              <p>Comme nous l'avons expliqué plus haut, la numérotation
+                                 des segments textuels était basée sur un système
+                                 déterminé par leur position dans l'arborescence TEI.
+                                 Cette numérotation a été produite automatiquement à
+                                 l'aide d'une transformation XSLT basée sur la
+                                 récursion. La transformation prend ainsi l'identifiant
+                                 du témoin manuscrit comme paramètre puis compose un
+                                 identifiant en navigant dans l'arbre du document XML.
+                                 La transformation s'appuie sur des variables pour
+                                 composer cet identifiant, elle utilise par ailleurs
+                                 les fonctions de numérotation offertes par XSLT.</p>
+                           </div>
                            <div>
                               <head>La numérotation automatique des pages et des folios
                                  (pagination.xsl)</head>
@@ -3759,7 +3855,7 @@
                         l'application web qui ont ensuite servi de base à la poursuite
                         des discussions, après validation des grandes orientations
                         ergonomiques.</p>
-                        <p>Tout au long du développement web, nous avons fait un usage
+                     <p>Tout au long du développement web, nous avons fait un usage
                         relativement étendu du service de communication synchrone de
                         Microsoft Skype avec la développeuse web. Ce service c'est
                         notamment révélé très utile compte-tenu de la diversité des
@@ -3786,7 +3882,7 @@
                            pour déterminer l'emplacement préférable pour recevoir les
                            données destinées à produire le tableau de tradition,
                            etc.</p>
-                           <p>Outre les difficultés propres au langage XSLT, une des
+                        <p>Outre les difficultés propres au langage XSLT, une des
                            difficultés du projet pour le prestataire résidait dans la
                            nécessité de se familiariser avec le vocabulaire et la
                            logique de la TEI. Une part importante du travail de suivi
@@ -3830,63 +3926,6 @@
                            standards par exemple.</p>
                      </div>
                   </div>
-                  <!--<div>
-                     <head>Infrastructure technique et hébergement de
-                        l’application</head>
-                     <p>L'hébergement de l'application et l'infrastructure technique
-                        ont été mis à disposition par le très grand équipement Adonis
-                        (TGIR Adonis) aujourd'hui HumaNum. À cet effet, ce dernier nous
-                        a fourni un serveur Apache hébergeant le site web </p>
-                     <div>
-                        <head>Options de développement</head>
-                        <div>
-                           <head>PHP et XSLT</head>
-                        </div>
-                        <div>
-                           <head>Question du moteur de recherche</head>
-                        </div>
-                     </div>
-                     <div>
-                        <head>La grille de service Adonis</head>
-                        <div>
-                           <head>Le serveur http</head>
-                        </div>
-                        <div>
-                           <head>Le conteneur de servlets Tomcat</head>
-                        </div>
-                        <div>
-                           <head>La mise en place d’outils annexes</head>
-                           <div>
-                              <head>Le serveur de partage de documents</head>
-                              <div>
-                                 <head>Le protocole Webdav</head>
-                              </div>
-                              <div>
-                                 <head>Sharedocs</head>
-                              </div>
-                           </div>
-                           <div>
-                              <head>Archivage pérenne</head>
-                              <div>
-                                 <head>La norme OAIS et la politique d’archivage
-                                    pérenne</head>
-                              </div>
-                              <div>
-                                 <head>Mise en place de l’archivage</head>
-                              </div>
-                           </div>
-                           <div>
-                              <head>Entrepôt SVN</head>
-                              <div>
-                                 <head>SVN et le client SVN</head>
-                              </div>
-                              <div>
-                                 <head>Travail collaboratif sur l’édition</head>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>-->
                </div>
                <div>
                   <p>Des diverses tâches assurées dans le cadre de la mission
@@ -4039,7 +4078,11 @@
                            comme évolution future la publication des sources à partir
                            d'une base de données XML native, dans une telle
                            configuration la création d'un entrepôt OAI-PMH deviendrait
-                           à ce moment là pour ainsi dire triviale<note place="foot"><p>Dans un tel dispositif, il suffit de préparer à l'avance les requêtes Xquery qui génèrent dynamiquement chacune des pages qui constituent l'entrepôt d'après le protocole.</p></note>.</p>
+                           à ce moment là pour ainsi dire triviale<note place="foot"
+                                 ><p>Dans un tel dispositif, il suffit de préparer à
+                                 l'avance les requêtes Xquery qui génèrent
+                                 dynamiquement chacune des pages qui constituent
+                                 l'entrepôt d'après le protocole.</p></note>.</p>
                      </div>
                      <div>
                         <head>L'absence de SiteMap</head>
@@ -4204,11 +4247,27 @@
                         Language Transformations). Plus précisément, il s'agit d'un
                         site statique produit dynamiquement à partir des sources
                         XML-TEI à l'aide de programmes XSLT lancés par des scripts PHP.
-                        Sauf les éléments mentionnés plus haut auxquels on avait dû
-                        renoncer au cours du projet ou pour lesquels d'autres solutions
-                        avaient été trouvées, les principales fonctionnalités qui
-                        figuraient au cahier des charges ont été remplies.</p>
-                     <p>Le recettage de l'application web est encore en cours. Cette
+                        Elle est hébergée sur les serveurs mis à disposition par le
+                           <orgName>Très grand équipement Adonis</orgName> (depuis
+                           <orgName>HumaNum</orgName>) dans le cadre de sa grille de
+                        service. À cet effet, l'infrastructure mise à disposition est
+                        un <soCalled>cluster</soCalled> de machines : Un serveur HTTP
+                        (HyperText Transfer Protocol) Apache accueille le site web
+                        proprement dit et traite les scripts PHP. Le moteur de
+                        recherche Solr est quant à lui pris en charge par un conteneur
+                        de servlets Apache Tomcat. Indépendamment de ces serveurs,
+                        plusieurs autres outils ont été mis en place tels un serveur
+                        WebDav pour le partage de fichiers volumineux, et un serveur
+                        SVN pour l'édition collaborative des fichiers XML-TEI.</p>
+                     <figure place="inline">
+                        <graphic url="files/desgodetsApplication.jpg" />
+                        <head>Relations entre les différents acteurs du projet</head>
+                     </figure>
+                     <p>Sauf les éléments mentionnés plus
+                        haut auxquels on avait dû renoncer au cours du projet ou pour
+                        lesquels d'autres solutions avaient été trouvées, les
+                        principales fonctionnalités qui figuraient au cahier des
+                        charges ont été remplies. Le recettage de l'application web est encore en cours. Cette
                         opération consiste à vérifier en détail l'ensemble des
                         fonctionnalités du site en listant les problèmes en vue de leur
                         correction. Un premier recettage global de l'application est
@@ -4248,7 +4307,8 @@
                      <p>Nous avons également prêté main forte dans la production des
                         transformations XSLT. C'est nous qui avons par exemple préparé
                         la présentation des métadonnées des pages (tei2DC.xsl) et qui
-                        avons rédigé la transformation des éléments <gi>biblStruct</gi> (biblio.xsl).</p>
+                        avons rédigé la transformation des éléments <gi>biblStruct</gi>
+                        (biblio.xsl).</p>
                   </div>
                   <div>
                      <head>La conformité aux standards </head>
@@ -4326,7 +4386,7 @@
                         claviers pour améliorer leur accessibilité pour des personnes
                         handicapées.</p>
                   </div>
-                  
+
                </div>
                <div type="chapter" n="3">
                   <head>Le bilan et les évolutions futures de l'application</head>
@@ -4371,6 +4431,10 @@
                            lecteurs. Surtout elle rend possible des recherches
                            textuelles et permet d’accéder rapidement aux informations
                            qu'elles contiennent en utilisant l'hypertextualité.</p>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsHome.png"/>
+                           <head>Vue d'écran de la page d'accueil</head>
+                        </figure>
                         <p>À cet égard, l'utilisation de l'hypertexte rend
                            particulièrement maniable toute l'information para-textuelle
                            qui peut accompagner l'édition. Les index électroniques, et
@@ -4381,6 +4445,10 @@
                            dans l'établissement de telles modalités d'accès au contenu.
                            Elle permet également de produire une visualisation plus
                            contextuelle des entités.</p>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsIndex.png"/>
+                           <head>Vue d'écran de la consultation des index</head>
+                        </figure>
                         <p>L'édition numérique se caractérise également par la
                            possibilité de permettre des enrichissements interactifs de
                            l'édition. Dans le cas de la publication des cours de
@@ -4487,6 +4555,10 @@
                               <item>Navigation dans les images et zoom qui bien que
                                  rudimentaire permet l'examen des détails</item>
                            </list></p>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsComparaison.png"/>
+                           <head>Vue d'écran de la comparaison des manuscrits</head>
+                        </figure>
                         <p>Notre édition aurait pu aller plus loin encore et notamment,
                            au lieu d’établir l’édition à partir d’un manuscrit maître,
                            choisir d’inventer un nouveau texte tout en laissant la
@@ -4557,7 +4629,7 @@
                            une représentation plutôt qu'une interprétation de la source
                            matérielle en première instance. La production d'une édition
                            critique est réalisée à partir d'un manuscrit maître auquel
-                           on rapportait  toutes les variantes significatives. Malgré
+                           on rapportait toutes les variantes significatives. Malgré
                            l'enrichissement du texte au moyen de la production d'un
                            apparat critique et historique étendu, avec des gloses, des
                            index, etc. Dans la mesure du possible, on a laissé au
@@ -4601,7 +4673,8 @@
                            sans écueil car l'ensemble du texte ne l'a pas été. Enfin
                            les possibilités offertes par le support numérique de
                            proposer plusieurs vues différentes sur le même texte à
-                           partir d'un même balisage n'ont pas vraiment été exploitées. </p>
+                           partir d'un même balisage n'ont pas vraiment été exploitées.
+                        </p>
                      </div>
                      <div>
                         <head>Un processus de production consistant et contrôlé</head>
@@ -4679,7 +4752,8 @@
                            XPath par exemple, il pourrait s'avérer utile de traiter les
                            sources dans une base de données XML native. Une telle base
                            de données pourrait permettre d'offrir une interrogation
-                           plus riche et plus systématique. <!--Travail d'enrichissement
+                           plus riche et plus systématique.
+                           <!--Travail d'enrichissement
                            manuel que peut assister par la machine pour produire une
                            analyse plus riche du texte.--></p>
                      </div>
@@ -4698,7 +4772,9 @@
                            manière sémantique. Il devrait être possible de capitaliser
                            sur l'effort conduit pour relier les entrées d'index et les
                            références bibliographiques avec des catalogues d'autorité
-                           pour publier des données en RDFa<note place="foot"><p>RDFa est une syntaxe qui permet de décrire des contenus structurés dans une page web.</p></note>.</p>
+                           pour publier des données en RDFa<note place="foot"><p>RDFa
+                                 est une syntaxe qui permet de décrire des contenus
+                                 structurés dans une page web.</p></note>.</p>
                      </div>
                      <div>
                         <head>La réutilisation du modèle</head>
@@ -4717,28 +4793,29 @@
                            transformations XSLT développées dans le cadre du
                            projet.</p>
                         <p>Cette mise à disposition interviendra sur la plate-forme
-                           <title>Github</title> dans le cadre d'un projet intitulé
-                           <title>publicarchitectura</title>. Les différents outils mis en place
-                           devront être révisés et leur documentation améliorée dans ce
-                           cadre pour faciliter leur réutilisation. Plusieurs projets
-                           en cours pourraient déjà être intéressés par leur mise à
-                           disposition. Autour du lancement de l'édition du corpus des
-                           cours de Desgodets, et bientôt avec la publication du
-                              <title>Journal des travaux</title> d'Henri Labrouste, il
-                           est aussi permis d'imaginer l'émergence d'une dynamique
-                           nouvelle dans le domaine de l'édition de sources primaires
-                           en histoire de l'art. Dans ce contexte, il pourrait être
-                           utile d'animer une communauté de pratiques autour de ce
-                           projet sur Github.</p>
+                              <title>Github</title> dans le cadre d'un projet intitulé
+                              <title>publicarchitectura</title>. Les différents outils
+                           mis en place devront être révisés et leur documentation
+                           améliorée dans ce cadre pour faciliter leur réutilisation.
+                           Plusieurs projets en cours pourraient déjà être intéressés
+                           par leur mise à disposition. Autour du lancement de
+                           l'édition du corpus des cours de Desgodets, et bientôt avec
+                           la publication du <title>Journal des travaux</title> d'Henri
+                           Labrouste, il est aussi permis d'imaginer l'émergence d'une
+                           dynamique nouvelle dans le domaine de l'édition de sources
+                           primaires en histoire de l'art. Dans ce contexte, il
+                           pourrait être utile d'animer une communauté de pratiques
+                           autour de ce projet sur Github.</p>
                      </div>
                   </div>
                </div>
-               <div> <p>Il est habituel qu'un projet éprouve en cours de réalisation des modifications et
-                     des adaptations plus ou moins importantes. Ces changements, plus
-                     ou moins heureux selon qu'ils sont provoqués par des
-                     impossibilités techniques ou des solutions inattendues découvertes
-                     dans le cours du développement appartiennent à la vie propre d'un
-                     projet. S'il a fallu dans le cadre de la production de
+               <div>
+                  <p>Il est habituel qu'un projet éprouve en cours de réalisation des
+                     modifications et des adaptations plus ou moins importantes. Ces
+                     changements, plus ou moins heureux selon qu'ils sont provoqués par
+                     des impossibilités techniques ou des solutions inattendues
+                     découvertes dans le cours du développement appartiennent à la vie
+                     propre d'un projet. S'il a fallu dans le cadre de la production de
                      l'application web de l'édition critique des cours de Desgodets
                      renoncer à quelques fonctionnalités, il nous semble que le
                      résultat final est plutôt satisfaisant. Il offre de riches
@@ -4754,22 +4831,23 @@
                <head>Conclusion</head>
                <p>L'édition critique du corpus cours de Desgodets était un projet
                   collectif de grande ampleur qui mobilisant des savoirs divers :
-                  historiens d'art, historiens du droit, historiens des sciences et des techniques, spécialistes des textes.
-                  L'adoption de la TEI pour la réalisation de l'édition critique a
-                  fortement structuré l'ensemble du projet en fournissant à la fois un
-                  cadre de travail technique et une méthode pour penser l'édition des
-                  textes. Sa mise en œuvre, tout comme son utilisation pour la
-                  production de l'application web de consultation, impliquait de
-                  disposer d'une double compétence de chercheur et de technicien. Ce
-                  double regard s'est révélé à la fois nécessaire pour jouer un rôle de
-                  passeur entre les différents intervenants qui ont concouru à mener à
-                  bien l'édition des cours d'une part, et ceux qui ont conçu et élaboré
-                  leur publication dans une application web d'autre part. C'est cette perspective
-                  qui a également permis en grande partie de formuler des choix
-                  relativement ambitieux en matière de production d'une application de
-                  consultation à même de servir au mieux l'étude des textes en tirant
-                  le plus possible parti des possibilités offertes aujourd'hui par le
-                  média numérique.</p>
+                  historiens d'art, historiens du droit, historiens des sciences et des
+                  techniques, spécialistes des textes. L'adoption de la TEI pour la
+                  réalisation de l'édition critique a fortement structuré l'ensemble du
+                  projet en fournissant à la fois un cadre de travail technique et une
+                  méthode pour penser l'édition des textes. Sa mise en œuvre, tout
+                  comme son utilisation pour la production de l'application web de
+                  consultation, impliquait de disposer d'une double compétence de
+                  chercheur et de technicien. Ce double regard s'est révélé à la fois
+                  nécessaire pour jouer un rôle de passeur entre les différents
+                  intervenants qui ont concouru à mener à bien l'édition des cours
+                  d'une part, et ceux qui ont conçu et élaboré leur publication dans
+                  une application web d'autre part. C'est cette perspective qui a
+                  également permis en grande partie de formuler des choix relativement
+                  ambitieux en matière de production d'une application de consultation
+                  à même de servir au mieux l'étude des textes en tirant le plus
+                  possible parti des possibilités offertes aujourd'hui par le média
+                  numérique.</p>
                <p />
             </div>
             <!-- générer une bibliographie -->
@@ -4830,8 +4908,11 @@
                   <item>Association for computers and the humanities</item>
                   <label>HTML</label>
                   <item>Hypertext markup language</item>
+                  <label>HTTP</label>
+                  <item>Hypertext transfer protocol</item>
                   <label>OAI-PMH</label>
-                  <item>Open archives initiative protocol for metadata harvesting</item>
+                  <item>Open archives initiative protocol for metadata
+                     harvesting</item>
                   <label>ODD</label>
                   <item>One document does it all</item>
                   <label>OHCO</label>
