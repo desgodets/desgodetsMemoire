@@ -116,7 +116,8 @@
       <revisionDesc>
          <change when="2013-10" who="#EC">version 2, entrée des corrections</change>
          <change when="2013-09" who="#EC">version 1, pour la soutenance</change>
-         <change when="2013-06-01" who="#EC">version 0, première version du fichier</change>
+         <change when="2013-06-01" who="#EC">version 0, première version du
+            fichier</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -143,7 +144,7 @@
                <p>Le projet d'ANR Desgodets abordait la construction et la
                   normalisation du savoir architectural à la fin du XVII<hi
                      rend="superscript">e</hi> et au début du XVIII<hi
-                        rend="superscript">e</hi> siècle à partir d'une première édition
+                     rend="superscript">e</hi> siècle à partir d'une première édition
                   critique du corpus des cours d'Antoine Desgodets à l'Académie royale
                   d'architecture. </p>
                <p>Prononcés de 1719 à 1728, les cours de Desgodets constituent un jalon
@@ -440,29 +441,18 @@
                      <p>Plusieurs recherches consacrées ces dernières années aux écrits
                         d'architecture et à la littérature technique témoignent d'un
                         intérêt renouvelé à l'égard du savoir architectural<note
-                           place="foot"><p>Entre autres, voir Jean Guillaume (dir.),
-                              Les traités d’architecture de la Renaissance, Paris,
-                              Picard, 1988 ; Jean-Michel Leniaud et Béatrice Bouvier
-                              (dir.), Les périodiques d’architecture, XVIII<hi
-                                 rend="superscript">e</hi> - XX<hi rend="superscript"
-                                 >e</hi> siècles. Recherche d’une méthode critique
-                              d’analyse, Études et rencontres de l’École des chartes,
-                              2001 ; des mêmes, Le livre d’architecture : édition,
-                              représentation, bibliothèque, Études et rencontres de
-                              l’École des chartes, 2002 ; Olga Medvedkova (dir.),
-                              Bibliothèques d’architectes. Architectural Libraries,
-                              Paris/INHA, 2009 ; Jean-Philippe Garric, Estelle
-                              Thibault, Emilie d’Orgeix (dir.), Le livre et
-                              l’architecte, Bruxelles, Mardaga, 2011.</p></note>. Faute
-                        de pouvoir accéder directement au savoir transmis oralement sur
-                        le chantier, outre les traités d'architecture qui constituent
-                        un genre à part entière, les témoignages écrits sur
-                        l'enseignement de l'architecture présentent une importance
-                        cruciale pour l'historien afin de mesurer le savoir de
-                        l'architecte. Par ailleurs, la place de l'écrit a été
-                        considérable dans la mise en ordre des savoirs qui préside au
-                        processus de professionnalisation dont le moment académique
-                        constitue un jalon important.</p>
+                           place="foot"><p>Entre autres, voir {Guillaume 1988} ;
+                              {Leniaud 2001} ; {Leniaud 2002} ; {Medvedkov 2009} ;
+                              {Garric 2008} ; {Garric 2011}.</p></note>. Faute de
+                        pouvoir accéder directement au savoir transmis oralement sur le
+                        chantier, outre les traités d'architecture qui constituent un
+                        genre à part entière, les témoignages écrits sur l'enseignement
+                        de l'architecture présentent une importance cruciale pour
+                        l'historien afin de mesurer le savoir de l'architecte. Par
+                        ailleurs, la place de l'écrit a été considérable dans la mise
+                        en ordre des savoirs qui préside au processus de
+                        professionnalisation dont le moment académique constitue un
+                        jalon important.</p>
                      <p>L'objectif principal du projet d'ANR Desgodets consistait à
                         restituer, dans le cadre du savoir architectural, le cours
                            d'<persName>Antoine Desgodets</persName>, architecte du roi,
@@ -856,19 +846,21 @@
                               place="foot">
                               <p>{Gerbino 2010}, {Sakarovitch 2011}</p>
                            </note>.</p>
-                        <p>Le cours de <persName>Blondel</persName> constitue prototype
-                           d'un enseignement constitué. Il devait exercer une influence
-                           durable sur l'enseignement de l'<orgName>Académie</orgName>
-                           et les publications architecturales postérieures.
-                              <persName>Philippe de La Hire</persName> allait par
-                           exemple l'utiliser comme support de ses conférences à
-                           l'Académie pendant plus de deux ans <date from="1696-07"
-                              to="1698-10">de juillet 1696 à octobre 1698</date>, tout
-                           comme ses successeurs pendant <date from="1700" to="1799"
-                              >tout le XVIII<hi rend="superscript">e</hi>
-                           siècle</date>. Dans son mémoire d'habilitation à diriger des
-                           recherches, <persName>Hélène Rousteau-Chambon</persName>
-                           relève combien l'enseignement de l'architecture à
+                        <p>Le cours de <persName>Blondel</persName> constitue le
+                           prototype d'un enseignement constitué. Il devait exercer une
+                           influence durable sur l'enseignement de
+                              l'<orgName>Académie</orgName> et les publications
+                           architecturales postérieures. <persName>Philippe de La
+                              Hire</persName> allait par exemple l'utiliser comme
+                           support de ses conférences à l'Académie pendant plus de deux
+                           ans <date from="1696-07" to="1698-10">de juillet 1696 à
+                              octobre 1698</date><note place="foot"><p>{Becchi
+                                 2013}</p></note>, tout comme ses successeurs pendant
+                              <date from="1700" to="1799">tout le XVIII<hi
+                                 rend="superscript">e</hi> siècle</date>. Dans son
+                           mémoire d'habilitation à diriger des recherches,
+                              <persName>Hélène Rousteau-Chambon</persName> relève
+                           combien l'enseignement de l'architecture à
                               l'<orgName>Académie</orgName> à cette époque, malgré des
                            sources nombreuses, avait jusqu'à présent peu suscité
                            l'intérêt de l'historiographie<note place="foot">
@@ -878,21 +870,25 @@
                            produit dans le cadre de l'ANR Desgodets n'aurait pas grand
                            intérêt. Nous nous contenterons donc de rappeler quelques
                            faits historiques à même d'éclairer le contenu des
-                           manuscrits qui nous occupent.</p>
+                           manuscrits qui nous occupent, en revoyant par ailleurs aux
+                           présentations de chaque cours sur le site.</p>
                         <div>
                            <head>Généralités sur l'enseignement de Desgodets</head>
                            <p>Autorisé à suivre les cours de l'<orgName>Académie royale
                                  d'architecture</orgName>
                               <date>en 1662</date>, <persName>Antoine Desgodets
                                  (1653-1728)</persName> est très tôt distingué par le
-                              roi pour avoir été employé dans les bâtiments du roi. En
+                              roi pour avoir été employé dans les Bâtiments du roi. En
                               1674, l'architecte est nommé par
                                  <persName>Colbert</persName> pour se rendre à
                                  <placeName>Rome</placeName> pour relever les édifices
                               antiques. La publication, <date when="1682">en
                                  1682</date>, du travail de ce séjour de seize mois à
                                  <placeName>Rome</placeName> à mesurer les édifices
-                              antiques fera date.</p>
+                              antiques fera date<note place="foot"><p>Cet ouvrage a
+                                    fait l'objet de deux rééditions dans le cours du
+                                    projet : {Desgodets 2008} ; {Desgodets
+                                 2008a}</p></note>.</p>
                            <p><persName>Antoine Desgodets</persName> occupe le siège
                               d'académicien de seconde classe occupé précédemment par
                                  <persName>François d'Orbay</persName>. Il est nommé
@@ -904,7 +900,8 @@
                               dure son enseignement et qu'il donnera jusqu'à sa mort,
                               Desgodets aborde successivement les thématiques
                               suivantes : <table>
-                                 <head>Tableau récapitulatif de l'enseignement d'Antoine Desgodets</head>
+                                 <head>Tableau récapitulatif de l'enseignement
+                                    d'Antoine Desgodets</head>
                                  <row role="label">
                                     <cell>années</cell>
                                     <cell>ordres</cell>
@@ -944,7 +941,7 @@
                                     <cell>1723-1724</cell>
                                     <cell />
                                     <cell>o</cell>
-                                    <cell></cell>
+                                    <cell />
                                     <cell>o</cell>
                                  </row>
                                  <row>
@@ -958,7 +955,7 @@
                                     <cell>1725-1726</cell>
                                     <cell>o</cell>
                                     <cell>o</cell>
-                                    <cell></cell>
+                                    <cell />
                                     <cell />
                                  </row>
                                  <row>
@@ -987,12 +984,18 @@
                               d'architecture proprement dit, cela avant la division de
                               la chaire qui intervient <date when="1730">en
                               1730</date>.</p>
+                           <figure place="inline">
+                              <graphic url="files/desgodetsO1Cartouche.jpg" />
+                              <head>Desgodets, <title>Traité des ordres</title>, détail
+                                 du manuscrit O1, Bibliothèque de l'Institut de France,
+                                 Ms 1031. Cartouche représentant un architecte dans son
+                                 cabinet.</head>
+                           </figure>
                            <p>On peut remarquer que l'enseignement d'<persName>Antoine
                                  Desgodets</persName> est principalement centré sur
                               l'architecture. S'il aborde la géométrie, le cours
-                              l'aborde dans sa dimension pratique pour
-                              l'architecte.</p>
-                           <p>En pratique, l'étude des affiches des cours montre que
+                              l'aborde dans sa dimension pratique pour l'architecte. En
+                              pratique, l'étude des affiches des cours montre que
                               l'architecte pouvait aborder plusieurs sujets la même
                               année, de même un même cours pouvait se succéder sur
                               plusieurs années.</p>
@@ -1021,6 +1024,13 @@
                               conservés ne présentent qu'une version inachevée de ce
                               cours qu'<persName>Antoine Desgodets</persName>
                               enseignait encore au moment de son décès.</p>
+                           <figure place="inline">
+                              <graphic url="files/desgodetsC20000109.jpg" />
+                              <head>Élévation latérale d'une cathédrale, <title>Traité
+                                    de la commodité</title>, manuscrit C2, p. 91,
+                                 Bibliothèque nationale de France, Ha-23b
+                                 Pet.Fol.</head>
+                           </figure>
                         </div>
                         <div>
                            <head>Le cours du Toisé</head>
@@ -1030,6 +1040,13 @@
                               sur celui des maçons. Il témoigne également de la forte
                               orientation pratique que l'architecte donne au contenu de
                               son enseignement à l'académie.</p>
+                           <figure place="inline">
+                              <graphic url="files/desgodetsT9Pp86-87Pl6.jpg" />
+                              <head>Arrière voussure en niche, Arrière voussure en
+                                 Saint-Antoine, Arrière voussure de Marseille,
+                                    <title>Traité du toisé</title>, Manuscrit T9, pl.
+                                 n° 6, Bibliothèque de l'Arsenal, Ms-2531-D9.</head>
+                           </figure>
                         </div>
                         <div>
                            <head>Le cours des servitudes</head>
@@ -1047,12 +1064,12 @@
                      <div type="introduction">
                         <p>Pour <persName>Henri Lemonnier</persName>, il ne fait aucun
                            doute que les leçons prenaient la forme d'une dictée. À
-                           l'appui de cette affirmation, il cite le manuscrit de 
-                           Jean Pinard conservé au département des estampes de
-                           la Bibliothèque nationale de France. Pourtant ce témoin
-                           paraît être une copie mise au propre. D'après les lettres
-                           patentes de 1717, les élèves de l'Académie devaient suivre
-                           une formation pendant trois ans. Lorsque des nouveaux élèves
+                           l'appui de cette affirmation, il cite le manuscrit de Jean
+                           Pinard conservé au département des estampes de la
+                           Bibliothèque nationale de France. Pourtant ce témoin paraît
+                           être une copie mise au propre. D'après les lettres patentes
+                           de 1717, les élèves de l'Académie devaient suivre une
+                           formation pendant trois ans. Lorsque des nouveaux élèves
                            n'avaient pu assister au début des leçons, ils avaient la
                            possibilité de les recopier, ce qui permet de supposer que
                            les cours étaient laissés à disposition par les
@@ -1106,6 +1123,12 @@
                            essentiellement au traitement des variantes et à la
                            nécessité de formuler une solution d'ensemble qui réponde
                            bien à chacun des cas de figure.</p>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsC1Facs0027.jpg" />
+                           <head>Page d'écriture du <title>Traité de la
+                                 commodité</title>, manuscrit C1, Traité de la
+                              commodité, p. 22, Rijksmuseum, 310J.</head>
+                        </figure>
                      </div>
                      <div>
                         <head>Spécificités liées à la nature du corpus</head>
@@ -1124,6 +1147,12 @@
                            l'effort de proposer à ses élèves des modèles inédits. Quant
                            au cours sur le toisé, il est relatif à un savoir technique,
                            mathématique et géométrique.</p>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsO1.jpg" />
+                           <head>Double page du <title>Traité des ordres</title>,
+                              manuscrit O1, Bibliothèque de l'Institut de France, Ms
+                              1031.</head>
+                        </figure>
                         <p>Les planches sont ainsi parties prenantes du discours
                            architectural. L'édition nécessite d'y accorder une
                            attention toute particulière car le texte peut parfois se
@@ -1136,6 +1165,12 @@
                            les planches ont été insérées en regard du texte au moment
                            de la reliure. Les solutions adoptées pour l'édition devront
                            donc tenir compte de cette diversité.</p>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsO530-31.jpg" />
+                           <head>Double page du <title>Traité des ordres</title>,
+                              manuscrit O5, pp. 27-28, Bibliothèque nationale de
+                              France, Ha-23a Pet-Fol.</head>
+                        </figure>
                      </div>
                   </div>
                </div>
@@ -2042,8 +2077,9 @@
                            des témoins manuscrits avant leur publication sur le
                            site.</p>
                         <figure place="inline">
-                           <graphic url="files/desgodetsPlanning.png"/>
-                           <head>Diagramme de Gantt des échéances du projet en décembre 2012</head>
+                           <graphic url="files/desgodetsPlanning.png" />
+                           <head>Diagramme de Gantt des échéances du projet en décembre
+                              2012</head>
                         </figure>
                      </div>
                      <div>
@@ -3147,7 +3183,44 @@
                                  parties du texte sont fondés sur la structure TEI du
                                  texte en utilisant leur position à l'intérieur des
                                  éléments <gi>front</gi>, <gi>body</gi> et
-                                    <gi>back</gi>. </p>
+                                    <gi>back</gi>.</p>
+                              <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                                 <body xml:id="o5Body">
+                                    <div xml:id="o5BodyFr" xml:lang="fre"
+                                       type="transcription">
+                                       <div xml:id="o5BodyFr01" type="book" n="1">
+                                          <head rend="alignCenter">Traité des ordres
+                                           d’architecture [Livre 1<hi
+                                           rend="superscript">er</hi>]</head>
+                                          <div xml:id="o5BodyFr01.01" type="chapter"
+                                           n="1">
+                                           <head rend="alignCenter">Du nom et caractère
+                                           des [...]</head>
+                                           <div xml:id="o5BodyFr01.01.001"
+                                           type="section">
+                                           <head>[Du nom et caractère des moulures]
+                                           <lb />[Premier dessin]</head>
+                                           <p xml:id="o5BodyFr01.01.001.p001">Avant que
+                                           de décrire les ordres d’architecture, il est
+                                           à propos de connoître les parties qui les
+                                           composent et qui leur sont communes à
+                                           tous.</p>
+                                           <p xml:id="o5BodyFr01.01.001.p002">Je
+                                           commencerai par les <term type="gT"
+                                           ref="#moulure">moulures</term>, lesquelles
+                                           sont de <sic>cette espèce</sic> [...] <ref
+                                           type="noteCritical" target="o5Nc0008" />
+                                           représentées au premier [...]</p>
+                                           <!-- ... -->
+                                           </div>
+                                           <!-- ... -->
+                                          </div>
+                                          <!-- ... -->
+                                       </div>
+                                       <!-- ... -->
+                                    </div>
+                                 </body>
+                              </egXML>
                            </div>
                            <div>
                               <head>L'alignement des textes et des images pour ménager
@@ -3213,6 +3286,19 @@
                                     <gi>linkGrp</gi> et une série d'élément
                                     <gi>link</gi>. Le même mécanisme est employé pour
                                  aligner les figures entre les différents témoins.</p>
+                              <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                                 <div type="alignmentText" xml:id="cAlignmentText">
+                                    <linkGrp>
+                                       <!-- Front -->
+                                       <link target="#c1Front #c2Front" />
+                                       <link target="#c1FrontFr #c2FrontFr02" />
+                                       <link target="#c1FrontFr01  #c2FrontFr01" />
+                                       <link
+                                          target="#c1FrontFr01.p001  #c2FrontFr01.p001" />
+                                       <!-- ... -->
+                                    </linkGrp>
+                                 </div>
+                              </egXML>
                               <p> L'utilisation d'identifiants uniques rassemble
                                  plusieurs avantages, ceux-ci permettent d'identifier
                                  précisément, à l'exclusion de tout autre, une unité
@@ -3296,13 +3382,12 @@
                                  consortium cahier pour produire un moissonnage des
                                  en-têtes TEI en OAI-PMH (<foreign xml:lang="eng">Open
                                     Archives Initiative Protocol for Metadata
-                                    Harvesting</foreign>)<note
-                                       place="foot">
-                                       <p>{Sourceforge}</p>
-                                    </note>. Vérifications faites, et
-                                 après avoir échangé avec les personnes en charge du
-                                 projet, il se trouve que nos choix d'encodage étaient
-                                 relativement conformes aux prescriptions proposées. </p>
+                                    Harvesting</foreign>)<note place="foot">
+                                    <p>{Sourceforge}</p>
+                                 </note>. Vérifications faites, et après avoir échangé
+                                 avec les personnes en charge du projet, il se trouve
+                                 que nos choix d'encodage étaient relativement
+                                 conformes aux prescriptions proposées. </p>
                               <p>La production des métadonnées concernant les images
                                  s'est révélée plus ardue. La TEI a d'abord été conçue
                                  pour traiter des textes littéraires. Aussi ne
@@ -3408,12 +3493,14 @@
                            l'encodage n'est qu'un moyen, ce défaut d'expressivité ne va
                            pas sans poser problème.</p>
                         <figure place="inline">
-                           <graphic url="files/desgodetsEditeurXML.png"/>
-                           <head>Vue d'écran de l'édition d'un fichier XML-TEI avec l'éditeur Oxygen</head>
+                           <graphic url="files/desgodetsEditeurXML.png" />
+                           <head>Vue d'écran de l'édition d'un fichier XML-TEI avec
+                              l'éditeur Oxygen</head>
                         </figure>
                         <figure place="inline">
-                           <graphic url="files/desgodetsEditeurAuteur.png"/>
-                           <head>Vue d'écran de l'édition d'un fichier XML-TEI avec le mode auteur l'éditeur Oxygen</head>
+                           <graphic url="files/desgodetsEditeurAuteur.png" />
+                           <head>Vue d'écran de l'édition d'un fichier XML-TEI avec le
+                              mode auteur l'éditeur Oxygen</head>
                         </figure>
                         <p>Il aurait été possible de proposer aux auteurs de l'édition
                            de travailler avec le mode auteur de l'éditeur XML Oxygen.
@@ -4263,17 +4350,17 @@
                         <graphic url="files/desgodetsApplication.jpg" />
                         <head>Relations entre les différents acteurs du projet</head>
                      </figure>
-                     <p>Sauf les éléments mentionnés plus
-                        haut auxquels on avait dû renoncer au cours du projet ou pour
-                        lesquels d'autres solutions avaient été trouvées, les
-                        principales fonctionnalités qui figuraient au cahier des
-                        charges ont été remplies. Le recettage de l'application web est encore en cours. Cette
-                        opération consiste à vérifier en détail l'ensemble des
-                        fonctionnalités du site en listant les problèmes en vue de leur
-                        correction. Un premier recettage global de l'application est
-                        déjà intervenu portant principalement sur l'interface graphique
-                        et les fonctionnalités d'affichage. Il reste encore à contrôler
-                        le détail du résultat des transformations XSLT.</p>
+                     <p>Sauf les éléments mentionnés plus haut auxquels on avait dû
+                        renoncer au cours du projet ou pour lesquels d'autres solutions
+                        avaient été trouvées, les principales fonctionnalités qui
+                        figuraient au cahier des charges ont été remplies. Le recettage
+                        de l'application web est encore en cours. Cette opération
+                        consiste à vérifier en détail l'ensemble des fonctionnalités du
+                        site en listant les problèmes en vue de leur correction. Un
+                        premier recettage global de l'application est déjà intervenu
+                        portant principalement sur l'interface graphique et les
+                        fonctionnalités d'affichage. Il reste encore à contrôler le
+                        détail du résultat des transformations XSLT.</p>
                      <p>Conformément au marché, nous disposons d'une garantie d'un an
                         sur l'application, ce qui laisse un certain temps pour
                         éventuellement identifier des vices cachés. Une maintenance est
@@ -4432,7 +4519,7 @@
                            textuelles et permet d’accéder rapidement aux informations
                            qu'elles contiennent en utilisant l'hypertextualité.</p>
                         <figure place="inline">
-                           <graphic url="files/desgodetsHome.png"/>
+                           <graphic url="files/desgodetsHome.png" />
                            <head>Vue d'écran de la page d'accueil</head>
                         </figure>
                         <p>À cet égard, l'utilisation de l'hypertexte rend
@@ -4446,7 +4533,7 @@
                            Elle permet également de produire une visualisation plus
                            contextuelle des entités.</p>
                         <figure place="inline">
-                           <graphic url="files/desgodetsIndex.png"/>
+                           <graphic url="files/desgodetsIndex.png" />
                            <head>Vue d'écran de la consultation des index</head>
                         </figure>
                         <p>L'édition numérique se caractérise également par la
@@ -4556,8 +4643,16 @@
                                  rudimentaire permet l'examen des détails</item>
                            </list></p>
                         <figure place="inline">
-                           <graphic url="files/desgodetsComparaison.png"/>
+                           <graphic url="files/desgodetsComparaison.png" />
+                           <head>Vue d'écran de la lecture du texte en regard des planches</head>
+                        </figure>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsComparaison2.png" />
                            <head>Vue d'écran de la comparaison des manuscrits</head>
+                        </figure>
+                        <figure place="inline">
+                           <graphic url="files/desgodetsFenetres.png" />
+                           <head>Vue d'écran des différentes fenêtres de l'application</head>
                         </figure>
                         <p>Notre édition aurait pu aller plus loin encore et notamment,
                            au lieu d’établir l’édition à partir d’un manuscrit maître,
